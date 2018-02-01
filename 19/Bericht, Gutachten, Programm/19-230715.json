@@ -1,5 +1,5 @@
 {
-  "process": "19-230715",
+  "vorgangId": "230715",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -35,5 +35,31 @@
       "Personalbedarf"
     ],
     "ABSTRAKT": "Sammlungsregistrierung, Sorgfaltserklärungen, Nutzerkontrollen, Anerkennung bewährter Verfahren, Beratung, Zusammenarbeit auf nationaler, europäischer und internationaler Ebene, ergänzende Maßnahmen; Forschungsunterstützung; Personalbedarfsmessung im BfN"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "15.12.2017 - BT-Drucksache 19/298",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900298.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "20.12.2017 - BR-Drucksache 780/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0780-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.01.2018 - BT-Drucksache 19/491",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900491.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

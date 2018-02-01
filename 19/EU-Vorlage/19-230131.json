@@ -1,5 +1,5 @@
 {
-  "process": "19-230131",
+  "vorgangId": "230131",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
@@ -28,5 +28,60 @@
       "Programm der EU"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "15.11.2017 - BR-Drucksache 713/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0713-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ],
+        "VP_ABSTRAKT": "Zuweisung an die Europakammer"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "04.12.2017 - BR-Drucksache 713/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0713-1-17.pdf",
+        "VP_ABSTRAKT": "EU, K: Stellungnahme - FJ, Wi: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "EU-Kammer-Umfrage",
+        "FUNDSTELLE": "13.12.2017 - EK-Plenarprotokoll 27, TOP 1"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.12.2017 - BR-Drucksache 713/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0713-17B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "15.12.2017 - BR-Plenarprotokoll 963, TOP 19, S. 457A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.457",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "457A",
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "713/17"
+        }
+      }
+    ]
   }
 }

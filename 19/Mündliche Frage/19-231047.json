@@ -1,5 +1,5 @@
 {
-  "process": "19-231047",
+  "vorgangId": "231047",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
@@ -20,5 +20,48 @@
       "Minderjähriger"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nMit welcher Begründung ist Minderjährigen, ein Personenkreis dem das nationale Wahlrecht nicht zuerkannt wird, die Verantwortung des Dienstes an der Waffe zuzumuten?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.01.2018 - BT-Drucksache 19/414, Nr. 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900414.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "17.01.2018 - BT-Plenarprotokoll 19/6, S. 485D - 487A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19006.pdf#P.485",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Margit",
+            "NACHNAME": "Stumpp",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "485D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ralf",
+            "NACHNAME": "Brauksiepe",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "485D"
+          },
+          {
+            "VORNAME": "Zaklin",
+            "NACHNAME": "Nastic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "486D"
+          }
+        ]
+      }
+    ]
   }
 }

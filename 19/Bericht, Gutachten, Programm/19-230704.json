@@ -1,5 +1,5 @@
 {
-  "process": "19-230704",
+  "vorgangId": "230704",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -39,5 +39,32 @@
       "Bundesausbildungsförderungsgesetz"
     ],
     "ABSTRAKT": "Entwicklung der Ausbildungsförderung in den Jahren 2012 bis 2016, Änderung von Rechts- und Verwaltungsvorschriften, Zahl der Geförderten in den einzelnen Bereichen, Veränderung der Grunddaten, zeitliche Struktur und Umfang einer Anpassung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "14.12.2017 - BT-Drucksache 19/275",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900275.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "15.12.2017 - BR-Drucksache 767/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0767-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "29.01.2018 - BT-Drucksache 19/576",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900576.pdf",
+        "VP_ABSTRAKT": "Stellungnahme des Beirats für Ausbildungsförderung"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "19-230424",
+  "vorgangId": "230424",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
@@ -21,5 +21,30 @@
       "Polizeiausbildung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+      "FUNDSTELLE": "17.11.2017 - BT-Drucksache 19/72, Nr. 5",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900072.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Lars",
+          "NACHNAME": "Herrmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Frage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Emily",
+          "NACHNAME": "Haber",
+          "FUNKTION": "Staatssekr.",
+          "RESSORT": "Bundesministerium des Innern",
+          "AKTIVITAETSART": "Antwort"
+        }
+      ]
+    }
   }
 }

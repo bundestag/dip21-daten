@@ -1,5 +1,5 @@
 {
-  "process": "19-230828",
+  "vorgangId": "230828",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -21,5 +21,22 @@
       "Gewerbesteuer"
     ],
     "ABSTRAKT": "Erhöhung des Vervielfältigers zur Berechnung der Gewerbesteuerumlage"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BR",
+      "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+      "FUNDSTELLE": "21.12.2017 - BR-Drucksache 774/17",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0774-17.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+        }
+      ]
+    }
   }
 }

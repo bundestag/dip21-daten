@@ -1,5 +1,5 @@
 {
-  "process": "19-231033",
+  "vorgangId": "231033",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,39 @@
       "Verkauf"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nAufgrund welcher neuen Erkenntnisse hat die Bundesregierung ihre Position zum Verkauf der Bundesanteile an der Flughafen Köln/Bonn GmbH geändert, so dass sie die bisher geäußerte grundsätzliche Verkaufsabsicht nicht mehr weiter verfolgt (vgl. Kölner Stadt-Anzeiger vom 8. Januar 2018, Seite 1, &bdquo;Airport bleibt in öffentlicher Hand&ldquo; und Kölnische Rundschau vom 9. Januar 2018, Seite 6, &bdquo;Privatisierung von Köln/Bonn wohl vom Tisch&ldquo;)?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.01.2018 - BT-Drucksache 19/414, Nr. 16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900414.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "17.01.2018 - BT-Plenarprotokoll 19/6, S. 476C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19006.pdf#P.476",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "476C"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Spahn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "476C"
+          }
+        ]
+      }
+    ]
   }
 }

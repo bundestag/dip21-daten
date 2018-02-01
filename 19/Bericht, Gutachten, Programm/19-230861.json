@@ -1,5 +1,5 @@
 {
-  "process": "19-230861",
+  "vorgangId": "230861",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -34,5 +34,25 @@
       "Vereinbarkeit von Familie und Beruf"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "10.01.2018 - BR-Drucksache 6/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0006-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "10.01.2018 - BT-Drucksache 19/400",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900400.pdf"
+      }
+    ]
   }
 }

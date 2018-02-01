@@ -1,5 +1,5 @@
 {
-  "process": "19-230609",
+  "vorgangId": "230609",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
@@ -39,5 +39,68 @@
       "Werbung"
     ],
     "ABSTRAKT": "Zur Stärkung von Informationsfreiheit, Selbstbestimmung und freier Arztwahl sowie Straffreiheit der Erfüllung ärztlicher Aufklärungspflicht Abschaffung des Werbeverbots für Schwangerschaftsabbrüche; \nAufhebung § 219a und Folgeänderung § 218b Strafgesetzbuch"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Berlin, Brandenburg, Hamburg, Thüringen und Bremen ",
+        "FUNDSTELLE": "12.12.2017 - BR-Drucksache 761/17(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0761-17(neu).pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "15.12.2017 - BR-Plenarprotokoll 963, TOP 31, S. 457C - 459D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.457",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dirk",
+            "NACHNAME": "Behrendt",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Senator für Justiz, Verbraucherschutz und Antidiskriminierung",
+            "BUNDESLAND": "Berlin",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "457D"
+          },
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Siegesmund",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Umwelt, Energie und Naturschutz",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "458C"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Ludwig",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister der Justiz und für Europa und Verbraucherschutz",
+            "BUNDESLAND": "Brandenburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "459A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "459D",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "761/17(neu)"
+        }
+      }
+    ]
   }
 }

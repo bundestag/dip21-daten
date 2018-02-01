@@ -1,5 +1,5 @@
 {
-  "process": "19-230525",
+  "vorgangId": "230525",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Entschließungsantrag BT",
@@ -33,5 +33,103 @@
       "UNAMID"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "11.12.2017 - BT-Drucksache 19/237",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900237.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.12.2017 - BT-Plenarprotokoll 19/5, S. 345C - 351B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19005.pdf#P.345",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Vöpel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "345D"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Beyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "346D"
+          },
+          {
+            "VORNAME": "Gerold",
+            "NACHNAME": "Otten",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "347C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "348B"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "348D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frithjof",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "349C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Brandl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "350B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "351A",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/237"
+        }
+      }
+    ]
   }
 }

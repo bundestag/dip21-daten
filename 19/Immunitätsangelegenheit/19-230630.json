@@ -1,5 +1,5 @@
 {
-  "process": "19-230630",
+  "vorgangId": "230630",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Immunitätsangelegenheit",
@@ -24,5 +24,34 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Parlamentarische Immunität",
     "ABSTRAKT": "Genehmigung zur Durchführung eines Strafverfahrens gegen den Abg Martin E. Renner"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "13.12.2017 - BT-Drucksache 19/251",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900251.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Johann",
+          "NACHNAME": "Wadephul",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.12.2017 - BT-Plenarprotokoll 19/5, S. 360C - 360D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19005.pdf#P.360",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "360D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/251"
+        }
+      }
+    ]
   }
 }

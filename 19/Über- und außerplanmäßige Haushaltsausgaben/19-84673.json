@@ -1,5 +1,5 @@
 {
-  "process": "19-84673",
+  "vorgangId": "84673",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Über- und außerplanmäßige Haushaltsausgaben",
@@ -48,5 +48,47 @@
       "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2017"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "07.11.2017 - BR-Drucksache 704/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0704-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "08.11.2017 - BT-Drucksache 19/47",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900047.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "12.12.2017 - BT-Plenarprotokoll 19/4, S. 206D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19004.pdf#P.206",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "206D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/47"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Hauptausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "13.12.2017 - BT-Plenarprotokoll 19/5, S. 458B - 459C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19005.pdf#P.458",
+        "VP_ABSTRAKT": "S. 458C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

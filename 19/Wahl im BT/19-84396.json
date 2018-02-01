@@ -1,5 +1,5 @@
 {
-  "process": "19-84396",
+  "vorgangId": "84396",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Wahl im BT",
@@ -37,5 +37,39 @@
       "Wahl"
     ],
     "ABSTRAKT": "CDU/CSU: Dr. Hans-Peter Friedrich; SPD: Thomas Oppermann; AfD: Albrecht Glaser; FDP: Wolfgang Kubicki; DIE LINKE: Petra Pau; B90/GR: Claudia Roth"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "24.10.2017 - BT-Plenarprotokoll 19/1, S. 16C - 19D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19001.pdf#P.16",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "17A",
+          "BESCHLUSSTENOR": "Annahme der Wahlvorschläge der Fraktionen CDU/CSU, SPD, FDP, Die Linke, B90/GR"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "24.10.2017 - BT-Plenarprotokoll 19/1, S. 18A - 18B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19001.pdf#P.18",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18B",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags der Fraktion der AfD"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "24.10.2017 - BT-Plenarprotokoll 19/1, S. 18B - 18D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19001.pdf#P.18",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18D",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags der Fraktion der AfD"
+        }
+      }
+    ]
   }
 }

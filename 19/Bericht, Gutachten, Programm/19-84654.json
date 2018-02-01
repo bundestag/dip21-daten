@@ -1,5 +1,5 @@
 {
-  "process": "19-84654",
+  "vorgangId": "84654",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -25,5 +25,36 @@
       "Wiedergutmachung nationalsozialistischen Unrechts"
     ],
     "ABSTRAKT": "Einmalige und laufende Beihilfen, einmalige Überbrückungsleistungen, institutionelle Förderung für häusliche Pflege sowie Alters- und Pflegeheime; Verteilungen der Bewilligungen und bereitgestellte Mittel"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "01.11.2017 - BT-Drucksache 19/33",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900033.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.01.2018 - BT-Drucksache 19/491",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900491.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

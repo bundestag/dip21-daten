@@ -1,5 +1,5 @@
 {
-  "process": "19-230465",
+  "vorgangId": "230465",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -45,5 +45,46 @@
       "Wettbewerbsaufsicht"
     ],
     "ABSTRAKT": "Tätigkeitsbericht der Bundesnetzagentur: Markt- und Wettbewerbsentwicklung, Universaldienst; Tätigkeiten (Grundsatzfragen und Entscheidungen zur Marktregulierung, Streitbeilegungsentscheidungen und Infrastrukturatlas zu Breitbandnetzen, Digitalisierung und Vernetzung, gerichtliche Verfahren, Nummerierung, Frequenzregulierung, technische Regulierung, Kunden- und Verbraucherschutz, Fernmeldegeheimnis, Datenschutz und Sicherheit in der Telekommunikation, elektronische Vertrauensdienste); politische und wissenschaftliche Begleitung; \nSondergutachten der Monopolkommission: Markt- und Wettbewerbsentwicklung, Amtspraxis der Bundesnetzagentur, Regulierung privaten Breitbandausbaus, europäischer Rechtsrahmen, Handlungsempfehlungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "01.12.2017 - BR-Drucksache 745/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0745-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Bundesregierung, Monopolkommission ",
+        "FUNDSTELLE": "01.12.2017 - BT-Drucksache 19/168\nAnl. Nationales und internationales Telekommunikationsrecht, Mitglieder des Wissenschaftlichen Arbeitskreises, Nummernraum, Adressen der Bundesnetzagentur, Abkürzungsverzeichnis",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/001/1900168.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.01.2018 - BT-Drucksache 19/491",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900491.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
+      }
+    ]
   }
 }

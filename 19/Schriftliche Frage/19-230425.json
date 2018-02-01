@@ -1,5 +1,5 @@
 {
-  "process": "19-230425",
+  "vorgangId": "230425",
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
@@ -22,5 +22,30 @@
       "Zollverwaltung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+      "FUNDSTELLE": "17.11.2017 - BT-Drucksache 19/72, Nr. 6",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900072.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Martin",
+          "NACHNAME": "Hohmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Frage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Günter",
+          "NACHNAME": "Krings",
+          "FUNKTION": "Parl. Staatssekr.",
+          "RESSORT": "Bundesministerium des Innern",
+          "AKTIVITAETSART": "Antwort"
+        }
+      ]
+    }
   }
 }
