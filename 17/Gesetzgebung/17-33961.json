@@ -1,5 +1,5 @@
 {
-  "process": "17-33961",
+  "vorgangId": "33961",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Gesetzgebung",
@@ -35,5 +35,58 @@
       "Nachtflug"
     ],
     "ABSTRAKT": "Besondere Berücksichtigung des Lärmschutzes bei der Erarbeitung von An- und Abflugverfahren durch die Flugsicherung, Schutz der Bevölkerung vor nächtlichem Fluglärm; \nÄnderung § 27c Luftverkehrsgesetz"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Rheinland-Pfalz und Nordrhein-Westfalen ",
+        "FUNDSTELLE": "10.03.2011 - BR-Drucksache 146/11",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2011/0146-11.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.03.2011 - BR-Plenarprotokoll 881, TOP 70, S. 123A - 124C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/881.pdf#P.123",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hendrik",
+            "NACHNAME": "Hering",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Verkehr, Landwirtschaft und Weinbau",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "123A"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Boddenberg",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Bundesangelegenheiten und Bevollmächtigter des Landes Hessen beim Bund",
+            "BUNDESLAND": "Hessen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "123C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "124C",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "146/11"
+        }
+      }
+    ]
   }
 }
