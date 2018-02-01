@@ -1,5 +1,5 @@
 {
-  "process": "18-79642",
+  "vorgangId": "79642",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Gesetzgebung",
@@ -42,5 +42,56 @@
       "Strompreis"
     ],
     "ABSTRAKT": "Faire und transparente Verteilung der Kosten der Energiewende durch Ermöglichung bundesweit einheitlicher Übertragungsnetzentgelte; \nÄnderung § 24 Energiewirtschaftsgesetz; Verordnungsermächtigung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Thüringen, Schleswig-Holstein und Bayern ",
+        "FUNDSTELLE": "02.02.2017 - BR-Drucksache 112/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0112-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 97, S. 22B - 23B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.22",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Siegesmund",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Umwelt, Energie und Naturschutz",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Robert",
+            "NACHNAME": "Habeck",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Energiewende, Landwirtschaft, Umwelt und ländliche Räume",
+            "BUNDESLAND": "Schleswig-Holstein",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "23A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23B",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "112/17"
+        }
+      }
+    ]
   }
 }

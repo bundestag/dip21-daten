@@ -1,5 +1,5 @@
 {
-  "process": "18-75278",
+  "vorgangId": "75278",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Gesetzgebung",
@@ -51,5 +51,89 @@
       "Steuerbefreiung"
     ],
     "ABSTRAKT": "Kraftfahrzeugsteuerbefreiung für Sonderfahrzeuge in der Land- und Forstwirtschaft auch bei Verwendungsfähigkeit für andere Zwecke; \nÄnderung § 3 Kraftfahrzeugsteuergesetz"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "05.07.2016 - BT-Drucksache 18/9034",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/090/1809034.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Kunert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.07.2016 - BT-Plenarprotokoll 18/183, S. 18038B - 18039C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18183.pdf#P.18038",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18039A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9034"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "09.11.2016 - BT-Drucksache 18/10273",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/102/1810273.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Richard",
+            "NACHNAME": "Pitterle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Schwarz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "19.01.2017 - BT-Plenarprotokoll 18/212, S. 21227D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18212.pdf#P.21227",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21227D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/9034"
+        }
+      }
+    ]
   }
 }

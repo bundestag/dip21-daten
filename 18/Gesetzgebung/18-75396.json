@@ -1,5 +1,5 @@
 {
-  "process": "18-75396",
+  "vorgangId": "75396",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Gesetzgebung",
@@ -49,5 +49,121 @@
       "Außenprüfung"
     ],
     "ABSTRAKT": "Einführung eines Mindestprüfungsintervalls für Außenprüfungen; \nEinfügung § 194a Abgabenordnung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "07.07.2016 - BT-Drucksache 18/9125",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/091/1809125.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "15.12.2016 - BT-Plenarprotokoll 18/209, S. 20865A - 20866B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18209.pdf#P.20865",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20865D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9125",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion DIE LINKE (Federführung beim HaushA)"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "21.06.2017 - BT-Drucksache 18/12839",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/128/1812839.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Margaret",
+          "NACHNAME": "Horb",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "29.06.2017 - BT-Plenarprotokoll 18/243, S. 25049A - 25049B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18243.pdf#P.25049",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Feiler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "25081C"
+          },
+          {
+            "VORNAME": "Margaret",
+            "NACHNAME": "Horb",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "25082C"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Arndt-Brauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "25083C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "25084B"
+          },
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "25085A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "25049B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/9125"
+        }
+      }
+    ]
   }
 }
