@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Treffen des Bundesministers Sigmar Gabriel mit dem Vorstandsvorsitzenden der Rheinmetall AG und einem Lobbyvertreter zum Thema Panzermodernisierung",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "725A - 725C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.725"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Lobbyismus",
@@ -19,18 +26,45 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nAn welchem Tag fand das &ndash; am 17. Januar dieses Jahres vom Magazin \"stern\" gemeldete &ndash; Treffen des Außenministers Sigmar Gabriel, dem Vorstandsvorsitzenden der Rheinmetall AG, Armin Pappberger und dem Lobbyisten Hans-Hermann Tiedje zum Thema Panzermodernisierung statt, und wurde der Umstand des Treffens damals öffentlich gemacht?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 26",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Matthias",
-        "NACHNAME": "Höhn",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 725A - 725C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.725",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Höhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "725A"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "725A"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "725B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

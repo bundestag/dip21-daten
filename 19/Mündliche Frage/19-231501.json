@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Einrichtung eines Europäischen Währungsfonds",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "764B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.764"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "EU-Recht",
@@ -16,18 +23,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie steht die Bundesregierung dazu, dass die EU-Kommission gemäß dem Vorschlag für eine Verordnung des Rates (COM(2017) 827 final) die Einrichtung eines Europäischen Währungsfonds nach Unionsrecht fordert?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 51",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Peter",
-        "NACHNAME": "Boehringer",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 51",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 764B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.764",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Boehringer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "764B"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Spahn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "764B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

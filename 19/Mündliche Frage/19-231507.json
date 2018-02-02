@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Anträge auf Leistungen nach dem Unterhaltsvorschussgesetz in den Jahren 2016 und 2017",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "769C - 769D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.769"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Unterhaltsvorschuss",
@@ -15,19 +22,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie viele Anträge auf Leistungen nach dem Unterhaltsvorschussgesetz wurden nach Kenntnis der Bundesregierung in den Jahren 2016 und 2017 bundesweit gestellt (jeweils pro Jahr insgesamt sowie nach Quartalen aufschlüsseln), und wie viele dieser Anträge wurden jeweils von Jobcentern gestellt?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 69",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Sabine",
-        "NACHNAME": "Zimmermann",
-        "WAHLKREISZUSATZ": "Zwickau",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 69",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 769C - 769D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.769",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "769C"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Marks",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "769D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

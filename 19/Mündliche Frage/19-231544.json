@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Mahnungen der EU-Kommission zur Einhaltung der Luftqualität",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "774A - 774C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.774"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Europäische Kommission",
@@ -15,18 +22,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie hat die Bundesregierung auf die Mahnungen hinsichtlich der Einhaltung der Luftqualität der EU-Kommission geantwortet?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 89",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Daniela",
-        "NACHNAME": "Wagner",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 89",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 774A - 774C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.774",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "774A"
+          },
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Schwarzelühr-Sutter",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "774A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

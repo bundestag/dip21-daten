@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Position der türkischen Partei AKP zum Vorgehen der türkischen Armee in Kurdistan",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "761B - 761C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.761"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Kurden",
@@ -16,18 +23,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nSchließt sich die Bundesregierung der Auffassung der AKP an, dass das Vorgehen der türkischen Armee in Kurdistan der Türkei nicht verboten werden kann, wenn, Zitat: \"auch Deutschland seine Interessen am Hindukusch verteidigt\" (www.deutschlandfunk.de/tuerkische-offensive-akp-politiker-sieht-einsatz.1939.de.html?drn:news_id=843083)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 25",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Heike",
-        "NACHNAME": "Hänsel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 25",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 761B - 761C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.761",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "761B"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "761B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Beteiligung der Bundespolizei an der Zuverlässigkeitsüberprüfung gemäß § 7 Luftsicherheitsgesetz",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/10",
+      "PLPR_SEITEN": "731D - 732C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.731"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundespolizei",
@@ -16,18 +23,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWarum wird die Bundespolizei &ndash; im Gegensatz zu den jeweiligen Polizeivollzugsbehörden der Länder (vgl. § 7 Absatz 3 des Luftsicherheitsgesetzes) &ndash; nicht regulär an der Zuverlässigkeitsüberprüfung gemäß § 7 des Luftsicherheitsgesetzes beteiligt?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 38",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Lars",
-        "NACHNAME": "Herrmann",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.01.2018 - BT-Drucksache 19/535, Nr. 38",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "31.01.2018 - BT-Plenarprotokoll 19/10, S. 731D - 732C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19010.pdf#P.731",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lars",
+            "NACHNAME": "Herrmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "731D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ole",
+            "NACHNAME": "Schröder",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "732A"
+          }
+        ]
       }
-    }
+    ]
   }
 }
