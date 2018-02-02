@@ -1,5 +1,5 @@
 {
-  "process": "10-191131",
+  "vorgangId": "191131",
   "VORGANG": {
     "WAHLPERIODE": "10",
     "VORGANGSTYP": "Gesetzgebung",
@@ -47,5 +47,65 @@
       "Türkei"
     ],
     "ABSTRAKT": " Nebenschlagwörter:  Doppelbesteuerungsabkommen Die Mehr- oder Mindereinnahmen fallen haushaltswirtschaftlich nicht ins Gewicht."
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "25.04.1986 - BR-Drucksache 204/86\nAnl. Wortlaut des Abkommens sowie Denkschrift ",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1986/D204+86.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "27.05.1986 - BR-Drucksache 204/1/86",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "06.06.1986 - BR-Plenarprotokoll 565, S. 348D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/565.pdf#P.348",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "348D",
+          "BESCHLUSSTENOR": "Stellungnahme"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "06.06.1986 - BR-Drucksache 204/86(B)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "04.09.1986 - BT-Drucksache 10/5974\nAnl. Wortlaut des Abkommens sowie Denkschrift; Stellungnahme BR u.GegÄuß BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/059/1005974.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "25.09.1986 - BT-Plenarprotokoll 10/232, S. 18010B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10232.pdf#P.18010",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18010C",
+          "BESCHLUSSTENOR": "Überweisung"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit"
+          }
+        ]
+      }
+    ]
   }
 }

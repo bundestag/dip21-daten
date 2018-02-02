@@ -1,5 +1,5 @@
 {
-  "process": "16-14999",
+  "vorgangId": "14999",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Gesetzgebung",
@@ -35,5 +35,41 @@
       "Sozialleistung"
     ],
     "ABSTRAKT": "Anrechnungsverzicht von auf Grund öffentlich-rechtlicher Vorschriften gewährter Leistungen zur Verbesserung der gesellschaftlichen Rahmenbedingungen von Familien auf staatliche Transferleistungen; \nÄnderung §§ 11 und 12 Zweites Buch Sozialgesetzbuch sowie §§ 83 und 90 Zwölftes Buch Sozialgesetzbuch \n \nEs kommt zu keiner Entlastung des Bundeshaushaltes."
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Thüringen ",
+        "FUNDSTELLE": "04.07.2008 - BR-Drucksache 480/08",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2008/0480-08.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, S. 105A - 105C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "105C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "480/08"
+        }
+      }
+    ]
   }
 }

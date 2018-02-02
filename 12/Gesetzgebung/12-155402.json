@@ -1,5 +1,5 @@
 {
-  "process": "12-155402",
+  "vorgangId": "155402",
   "VORGANG": {
     "WAHLPERIODE": "12",
     "VORGANGSTYP": "Gesetzgebung",
@@ -47,5 +47,75 @@
       "Wahlrecht"
     ],
     "ABSTRAKT": " Inhalt:  Änderung § 15 Abs. 1 Nr. 1 Bundeswahlgesetz: Aufhebung der Einschränkung \"ein Jahr Deutscher im Sinne des Art. 116 Grundgesetz\" beim passiven Wahlrecht. Es entstehen keine Kosten.  \n \n Nebenschlagwörter:  Wahlrecht/Aufhebung der Einschränkung \"ein Jahr Deutscher\" beim passiven Wahlrecht"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Gruppe der PDS/LL ",
+        "FUNDSTELLE": "19.05.1994 - BT-Drucksache 12/7614",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/12/076/1207614.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Gregor",
+          "NACHNAME": "Gysi",
+          "FUNKTION": "MdB",
+          "FRAKTION": "PDS/LL",
+          "AKTIVITAETSART": "Gesetzentwurf"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "26.05.1994 - BT-Plenarprotokoll 12/230, S. 20021D - 20022A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/12/12230.pdf#P.20021",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20022C",
+          "BESCHLUSSTENOR": "Überweisung"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Innenausschuss ",
+        "FUNDSTELLE": "23.06.1994 - BT-Drucksache 12/8093",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/12/080/1208093.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Franz Heinrich",
+            "NACHNAME": "Krey",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gerd",
+            "NACHNAME": "Wartenberg",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "24.06.1994 - BT-Plenarprotokoll 12/236, S. 20703B - 20703C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/12/12236.pdf#P.20703",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20703D",
+          "BESCHLUSSTENOR": "Ablehnung Drs 12/7614"
+        }
+      }
+    ]
   }
 }

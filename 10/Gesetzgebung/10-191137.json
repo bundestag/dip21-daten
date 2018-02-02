@@ -1,5 +1,5 @@
 {
-  "process": "10-191137",
+  "vorgangId": "191137",
   "VORGANG": {
     "WAHLPERIODE": "10",
     "VORGANGSTYP": "Gesetzgebung",
@@ -41,5 +41,65 @@
     "VERKUENDUNG": "Gesetz vom 22.12.1983 - Bundesgesetzblatt Teil I 1983 Nr.5324.12.1983 S. 1515 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl183s1515.pdf']",
     "SCHLAGWORT": "Gerichtsverfahren",
     "ABSTRAKT": " Bezug:  Abtrennung von C67 (BT-Drs 10/171) \n \n Inhalt:  Annahme des Gesetzentwurfs aus BT-Drs 10/171. Es entstehen keine zusätzlichen Kosten für die öffentlichen Haushalte."
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Rechtsausschuss ",
+        "FUNDSTELLE": "24.11.1983 - BT-Drucksache 10/668",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/006/1000668.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "01.12.1983 - BT-Plenarprotokoll 10/40, S. 2811D - 2812A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10040.pdf#P.2811",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2812A",
+          "BESCHLUSSTENOR": "Annahme Drs 10/668"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "01.12.1983 - BT-Plenarprotokoll 10/40, S. 2812A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10040.pdf#P.2812",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2812A",
+          "BESCHLUSSTENOR": "Annahme Drs 10/668"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.12.1983 - BR-Drucksache 520/83",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Baden-Württemberg, Bayern, Niedersachsen, Schleswig-Holstein ",
+        "FUNDSTELLE": "14.12.1983 - BR-Drucksache 520/1/83",
+        "VP_ABSTRAKT": "Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "16.12.1983 - BR-Plenarprotokoll 530, S. 487C - 487D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/530.pdf#P.487",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "487D",
+          "BESCHLUSSTENOR": "Kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "16.12.1983 - BR-Drucksache 520/83(B)"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "8-213618",
+  "vorgangId": "213618",
   "VORGANG": {
     "WAHLPERIODE": "8",
     "VORGANGSTYP": "Gesetzgebung",
@@ -36,5 +36,65 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Baustatistikgesetz",
     "ABSTRAKT": " Inhalt:  Beschränkung des Fragenkatalogs nach dem BauStatG. "
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Bayern, Rheinland-Pfalz ",
+        "FUNDSTELLE": "23.01.1980 - BR-Drucksache 40/80",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau und Wohnungswesen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Ausschuss für Innere Angelegenheiten, Ausschuss für Städtebau und Wohnungswesen, Finanzausschuss, Wirtschaftsausschuss ",
+        "FUNDSTELLE": "11.03.1980 - BR-Drucksache 40/1/80",
+        "VP_ABSTRAKT": "Einbringung in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "21.03.1980 - BR-Plenarprotokoll 484, S. 111C - 111D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/484.pdf#P.111",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Peter M.",
+          "NACHNAME": "Schmidhuber",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "StMin Bundesangel",
+          "BUNDESLAND": "Bayern",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "129A-B/Anl"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "111D",
+          "BESCHLUSSTENOR": "Einbringung in geänderter Fassung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "21.03.1980 - BR-Drucksache 40/80(B)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "20.06.1980 - BT-Drucksache 08/4274\nAnl. Stellungnahme BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/08/042/0804274.pdf"
+      }
+    ]
   }
 }

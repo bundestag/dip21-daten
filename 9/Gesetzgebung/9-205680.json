@@ -1,5 +1,5 @@
 {
-  "process": "9-205680",
+  "vorgangId": "205680",
   "VORGANG": {
     "WAHLPERIODE": "9",
     "VORGANGSTYP": "Gesetzgebung",
@@ -48,5 +48,67 @@
       "Statistik"
     ],
     "ABSTRAKT": " Bezug:  Gesetzentwurf gleicher Materie wurde bereits in der 8. WP eingebracht (BR Drs. 40/80, BT Drs. 8/4274, s.a. GESTA/8.WP/S.780)  \n \n Inhalt:  Beschränkung des Fragenkatalogs nach dem BauStatG, Aufnahme der Geschoßzahl und der Art der Beheizung in die Statistik. Das Gesetz verursacht keine Kosten."
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Bayern, Rheinland-Pfalz ",
+        "FUNDSTELLE": "27.01.1981 - BR-Drucksache 47/81"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "19.02.1981 - BR-Drucksache 47/1/81",
+        "VP_ABSTRAKT": "Einbringung in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.02.1981 - BR-Plenarprotokoll 496, S. 29C - 29D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/496.pdf#P.29",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29D",
+          "BESCHLUSSTENOR": "Einbringung in der vom BR am 21.3.80 beschlossenen Fassung (Drs 40/80(Beschluß)"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "20.02.1981 - BR-Drucksache 47/81(B)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "14.05.1981 - BT-Drucksache 09/436\nAnl. Stellungnahme BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/09/004/0900436.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "04.06.1981 - BT-Plenarprotokoll 09/42, S. 2451B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09042.pdf#P.2451",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2451C",
+          "BESCHLUSSTENOR": "Überweisung"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Raumordnung, Bauwesen und Städtebau",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft"
+          }
+        ]
+      }
+    ]
   }
 }

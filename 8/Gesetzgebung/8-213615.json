@@ -1,5 +1,5 @@
 {
-  "process": "8-213615",
+  "vorgangId": "213615",
   "VORGANG": {
     "WAHLPERIODE": "8",
     "VORGANGSTYP": "Gesetzgebung",
@@ -42,5 +42,87 @@
     "VERKUENDUNG": "Gesetz vom 07.05.1980 - Bundesgesetzblatt Teil I 1980 Nr.2213.05.1980 S. 532 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl180s0532.pdf']",
     "SCHLAGWORT": "Bergmannsprämie",
     "ABSTRAKT": " Bezug:  Abtrennung von D72    Inhalt:  Verdoppelung der Bergmannsprämie mit Wirkung vom 1. April 1980. "
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "19.03.1980 - BT-Drucksache 08/3824",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/08/038/0803824.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "20.03.1980 - BT-Drucksache 08/3830",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/08/038/0803830.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "20.03.1980 - BT-Plenarprotokoll 08/208, S. 16706C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/08/08208.pdf#P.16706",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "16706C",
+          "BESCHLUSSTENOR": "Annahme Drs 08/3824; Aufteilung des GesEntw und Annahme"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "20.03.1980 - BT-Plenarprotokoll 08/208, S. 16706D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/08/08208.pdf#P.16706",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "16706D",
+          "BESCHLUSSTENOR": "Annahme Drs 08/3824"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "28.03.1980 - BR-Drucksache 171/80",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "18.04.1980 - BR-Plenarprotokoll 485, S. 149D - 151C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/485.pdf#P.149",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Posser",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Finanz",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "149D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Wicklmayr",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Rechtspflege u. Bundesangel",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "150D-151C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "151C",
+          "BESCHLUSSTENOR": "Zustimmung gem.Art.105 Abs.3 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.1980 - BR-Drucksache 171/80(B)"
+      }
+    ]
   }
 }
