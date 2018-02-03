@@ -4,7 +4,10 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates - Rechtssicherheit für KWK-Anlagen bei der Höhe der EEG-Umlage für Eigenstromnutzung gewährleisten",
-    "INITIATIVE": "Thüringen",
+    "INITIATIVE": [
+      "Rheinland-Pfalz",
+      "Thüringen"
+    ],
     "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -13,6 +16,11 @@
       "DRS_NUMMER": "23/18",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "964"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -29,11 +37,22 @@
     "ABSTRAKT": "Gewährleistung von Rechtssicherheit für KWK-Anlagen in der Eigenstromversorgung, Unterstützung der Bundesregierung, anteilige Befreiung von Anlagen von der EEG-Umlage"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Thüringen ",
-      "FUNDSTELLE": "24.01.2018 - BR-Drucksache 23/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Thüringen und Rheinland-Pfalz ",
+        "FUNDSTELLE": "24.01.2018 - BR-Drucksache 23/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "02.02.2018 - BR-Plenarprotokoll 964, TOP 28",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "23/18"
+        }
+      }
+    ]
   }
 }

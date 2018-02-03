@@ -21,13 +21,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0743-17.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "462C - 463B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.462"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "462C - 463B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.462"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -113,6 +120,21 @@
         "FUNDSTELLE": "02.02.2018 - BR-Drucksache 743/2/17",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0743-2-17.pdf",
         "VP_ABSTRAKT": "Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "02.02.2018 - BR-Plenarprotokoll 964, TOP 3",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "743/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "02.02.2018 - BR-Drucksache 743/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0743-17B.pdf"
       }
     ]
   }

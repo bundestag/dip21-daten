@@ -6,7 +6,9 @@
     "TITEL": "Entschließung des Bundesrates zur Anhebung des Ausbauziels Windenergie auf See",
     "INITIATIVE": [
       "Bremen",
+      "Hamburg",
       "Mecklenburg-Vorpommern",
+      "Niedersachsen",
       "Schleswig-Holstein"
     ],
     "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
@@ -17,6 +19,11 @@
       "DRS_NUMMER": "27/18",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-18.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "964"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -34,11 +41,22 @@
     "ABSTRAKT": "Bedeutung der Windenergie, Forderung nach langfristiger Perspektive, Anhebung der Deckelung der Offshore-Windenergieleistung, Erhöhung des Ausbauziels auf mindestens 20 Gigawatt in Nord- und Ostsee und mindestens 30 Gigawatt bis 2035, Ausbau und Modernisierung der landseitigen Stromnetze"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Schleswig-Holstein, Bremen, Mecklenburg-Vorpommern ",
-      "FUNDSTELLE": "26.01.2018 - BR-Drucksache 27/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-18.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Schleswig-Holstein, Bremen, Mecklenburg-Vorpommern und Hamburg, Niedersachsen ",
+        "FUNDSTELLE": "26.01.2018 - BR-Drucksache 27/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-18.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "02.02.2018 - BR-Plenarprotokoll 964, TOP 29",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "27/18"
+        }
+      }
+    ]
   }
 }

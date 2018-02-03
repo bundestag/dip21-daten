@@ -17,13 +17,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0740-17.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "460A - 462C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.460"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "460A - 462C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.460"
+      },
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -107,6 +114,15 @@
         "FUNDSTELLE": "26.01.2018 - BR-Drucksache 740/1/17",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0740-1-17.pdf",
         "VP_ABSTRAKT": "AV: Beratungen nicht abgeschlossen - G: Annahme - U: Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "02.02.2018 - BR-Plenarprotokoll 964, TOP 27",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Fortsetzung der Ausschussberatungen",
+          "BEZUGSDOKUMENT": "740/17"
+        }
       }
     ]
   }
