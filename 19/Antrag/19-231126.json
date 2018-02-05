@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Bildung für alle - Globale Bildungspartnerschaft substantiell unterstützen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/456",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900456.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/12",
+      "PLPR_SEITEN": "980C - 990A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.980"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -38,11 +45,29 @@
     "ABSTRAKT": "Erhöhung des deutschen Anteils für die Globale Bildungspartnerschaft auf den jährl. Beitrag von 50 Mio sowie perspektivisch auf 100 Mio Euro, hochrangige Teilnahme an der Finanzierungskonferenz der GPE im Februar in Dakar, Förderung inklusiver, gerechter und hochwertiger Bildungseinrichtungen in Entwicklungsländern, insb. der frühkindlichen Bildung und Grundbildung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "17.01.2018 - BT-Drucksache 19/456",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900456.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "17.01.2018 - BT-Drucksache 19/456",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900456.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.02.2018 - BT-Plenarprotokoll 19/12, S. 980C - 990A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "989D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/456",
+          "ABSTIMMUNG_BEMERKUNG": "Überweisung gegen den Wunsch der Fraktion B90/GR (Sofortabstimmung)"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }
