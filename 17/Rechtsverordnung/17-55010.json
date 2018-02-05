@@ -1,5 +1,5 @@
 {
-  "process": "17-55010",
+  "vorgangId": "55010",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,37 @@
       "Wette"
     ],
     "ABSTRAKT": "Regelung von Zuständigkeiten für die Besteuerung von Sportwetten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "02.08.2013 - BR-Drucksache 614/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0614-13.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 64, S. 467C - 467D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.467",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "467D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "614/13",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 614/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0614-13B.pdf"
+      }
+    ]
   }
 }

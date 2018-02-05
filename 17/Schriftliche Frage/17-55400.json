@@ -1,5 +1,5 @@
 {
-  "process": "17-55400",
+  "vorgangId": "55400",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Schriftliche Frage",
@@ -22,5 +22,29 @@
       "Student"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie viele studentische Hilfskräfte sind derzeit in den Bundesministerien mit einer wöchentlichen Arbeitszeit von 19,5 Stunden beschäftigt und in welchen Ressorts?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+      "FUNDSTELLE": "09.08.2013 - BT-Drucksache 17/14530, Nr. 27",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/145/1714530.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "René",
+          "NACHNAME": "Röspel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Frage"
+        },
+        {
+          "VORNAME": "Cornelia",
+          "NACHNAME": "Rogall-Grothe",
+          "FUNKTION": "Staatssekr.",
+          "RESSORT": "Bundesministerium des Innern",
+          "AKTIVITAETSART": "Antwort"
+        }
+      ]
+    }
   }
 }

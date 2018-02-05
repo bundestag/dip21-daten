@@ -1,5 +1,5 @@
 {
-  "process": "17-55655",
+  "vorgangId": "55655",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -38,5 +38,56 @@
       "Steuervergünstigung"
     ],
     "ABSTRAKT": "Forderung nach Vorlage eines Gesetzentwurfs zur Rückgabe von Steuermehreinnahmen infolge der kalten Progression durch gezielte Tarifsenkungen an die Bürger, steuerliche Förderung von energetischen Sanierungsmaßnahmen an Wohngebäuden, Schließung von \"legalen Steuerschlupflöchern\""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Hessen und Bayern, Sachsen ",
+        "FUNDSTELLE": "10.09.2013 - BR-Drucksache 680/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0680-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 22, S. 479B - 479C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.479",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Michael",
+          "NACHNAME": "Boddenberg",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Bundesangelegenheiten und Bevollmächtigter des Landes Hessen beim Bund",
+          "BUNDESLAND": "Hessen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "479C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "479C",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "680/13"
+        }
+      }
+    ]
   }
 }

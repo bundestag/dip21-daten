@@ -1,5 +1,5 @@
 {
-  "process": "17-54397",
+  "vorgangId": "54397",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,26 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "26.06.2013 - BT-Drucksache 17/14168",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/141/1714168.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "27.06.2013 - BT-Plenarprotokoll 17/250, S. 31944D - 31945D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/17/17250.pdf#P.31944",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "31945B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "17/14168"
+        }
+      }
+    ]
   }
 }

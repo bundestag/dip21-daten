@@ -1,5 +1,5 @@
 {
-  "process": "17-54321",
+  "vorgangId": "54321",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Schriftliche Frage",
@@ -22,5 +22,29 @@
       "US-Streitkräfte"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nKann die Bundesregierung Angaben darüber machen, an welchen Einsätzen Einheiten von AFRICOM und des US-Luftwaffenstützpunktes in Ramstein mitgewirkt haben?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+      "FUNDSTELLE": "14.06.2013 - BT-Drucksache 17/13991, Nr. 6",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/139/1713991.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Agnes",
+          "NACHNAME": "Brugger",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Frage"
+        },
+        {
+          "VORNAME": "Michael Georg",
+          "NACHNAME": "Link",
+          "FUNKTION": "Staatsmin.",
+          "RESSORT": "Auswärtiges Amt",
+          "AKTIVITAETSART": "Antwort"
+        }
+      ]
+    }
   }
 }

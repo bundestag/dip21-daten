@@ -1,5 +1,5 @@
 {
-  "process": "17-56089",
+  "vorgangId": "56089",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -31,5 +31,54 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Filmförderungsanstalt",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "16.10.2013 - BR-Drucksache 726/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0726-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "04.11.2013 - BR-Drucksache zu726/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0726-13(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "18.11.2013 - BR-Drucksache 726/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0726-1-13.pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "29.11.2013 - BR-Plenarprotokoll 917, TOP 24, S. 547C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/917.pdf#P.547",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "547C",
+          "BESCHLUSSTENOR": "vorschlagsgemäß",
+          "BEZUGSDOKUMENT": "726/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "29.11.2013 - BR-Drucksache 726/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0726-13B.pdf"
+      }
+    ]
   }
 }

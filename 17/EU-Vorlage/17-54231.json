@@ -1,5 +1,5 @@
 {
-  "process": "17-54231",
+  "vorgangId": "54231",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "EU-Vorlage",
@@ -23,5 +23,31 @@
     },
     "EU_DOK_NR": "Ratsdok. 9167/13, Kom. (2013) 259 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "10.06.2013 - BT-Drucksache 17/13830, Nr. A.6",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/138/1713830.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "17.01.2014 - BT-Plenarprotokoll 18/9, S. 559D - 560D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18009.pdf#P.559",
+        "VP_ABSTRAKT": "S. 559D - Kenntnisnahme"
+      }
+    ]
   }
 }

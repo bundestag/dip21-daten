@@ -1,5 +1,5 @@
 {
-  "process": "17-54427",
+  "vorgangId": "54427",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -32,5 +32,42 @@
       "Ausbildungsförderung"
     ],
     "ABSTRAKT": "Auslegung und Durchführung des Bundesausbildungsförderungsgesetzes, Anpassung an erfolgte Rechtsänderungen, Aktualisierung und Neuformulierung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "27.06.2013 - BR-Drucksache 551/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0551-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 69, S. 467C - 467D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.467",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "467D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "551/13",
+          "GRUNDLAGE": "Art. 85 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 551/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0551-13B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "17-54817",
+  "vorgangId": "54817",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -47,5 +47,44 @@
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition; nichtionisierende Strahlung: elektromagnetische Felder (u.a. Mobilfunk), optische Strahlung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "12.07.2013 - BR-Drucksache 583/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0583-13.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "12.07.2013 - BT-Drucksache 17/14395",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/143/1714395.pdf",
+        "VP_ABSTRAKT": "Berichtigung der gedruckten Vorlage durch \"zu Drs 17/14395\" (Korrektur in der elektronischen Fassung bereits umgesetzt)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 30, S. 467C - 467D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.467",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "467D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "583/13",
+          "GRUNDLAGE": "§ 5 Abs. 2 Strahlenschutzvorsorgegesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 583/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0583-13B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "17-53825",
+  "vorgangId": "53825",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,26 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "05.06.2013 - BT-Drucksache 17/13742",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/137/1713742.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.06.2013 - BT-Plenarprotokoll 17/246, S. 31315B - 31316B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/17/17246.pdf#P.31315",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "31315D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "17/13742"
+        }
+      }
+    ]
   }
 }

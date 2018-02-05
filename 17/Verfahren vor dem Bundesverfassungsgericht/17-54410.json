@@ -1,5 +1,5 @@
 {
-  "process": "17-54410",
+  "vorgangId": "54410",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -27,5 +27,27 @@
       "Gerichtsverfahren"
     ],
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Rechtsausschuss ",
+        "FUNDSTELLE": "26.06.2013 - BT-Drucksache 17/14152",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/141/1714152.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "27.06.2013 - BT-Plenarprotokoll 17/250, S. 31941D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/17/17250.pdf#P.31941",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "31941D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "17/14152",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

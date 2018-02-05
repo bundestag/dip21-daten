@@ -1,5 +1,5 @@
 {
-  "process": "17-55857",
+  "vorgangId": "55857",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "Zulassungskostenverordnung"
     ],
     "ABSTRAKT": "Anhebung der Stundensätze für die Bauartzulassung von Messgeräten und für die Prüfung von Normalgeräten und Prüfungshilfsmitteln durch die Physikalisch-Technische Bundesanstalt (PTB)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Wirtschaft und Technologie ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 706/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0706-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.11.2013 - BR-Plenarprotokoll 916, TOP 19, S. 530A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/916.pdf#P.530",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "530A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "706/13",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.11.2013 - BR-Drucksache 706/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0706-13B.pdf"
+      }
+    ]
   }
 }

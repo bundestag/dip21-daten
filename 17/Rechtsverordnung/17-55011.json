@@ -1,5 +1,5 @@
 {
-  "process": "17-55011",
+  "vorgangId": "55011",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,44 @@
       "Verschreibungspflicht"
     ],
     "ABSTRAKT": "Änderung der Arzneimittelverschreibungsverordnung, Änderung der Verordnung über die Verschreibungspflicht von Medizinprodukten, Umsetzung von Gemeinschaftsrecht, Anerkennung von in anderen EU-Mitgliedstaaten ausgestellten Verschreibungen, Regelung der verpflichtenden Angaben in den Verschreibungen (\"Cross-border-Verschreibung\")"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "02.08.2013 - BR-Drucksache 615/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0615-13.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "24.10.2013 - BR-Drucksache 615/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0615-1-13.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen (u.a. Titeländerung); Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.11.2013 - BR-Plenarprotokoll 916, TOP 16, S. 532C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/916.pdf#P.532",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "532C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen; Entschließung",
+          "BEZUGSDOKUMENT": "615/13",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.11.2013 - BR-Drucksache 615/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0615-13B.pdf"
+      }
+    ]
   }
 }

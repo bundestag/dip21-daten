@@ -1,5 +1,5 @@
 {
-  "process": "17-55731",
+  "vorgangId": "55731",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -28,5 +28,42 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Präzisierung der durch die gesetzlichen Krankenkassen zu veröffentlichenden Angaben der Ergebnisse ihrer Rechnungslegung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "18.09.2013 - BR-Drucksache 695/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0695-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.11.2013 - BR-Plenarprotokoll 916, TOP 20, S. 530A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/916.pdf#P.530",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "530A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "695/13",
+          "GRUNDLAGE": "Art. 84 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.11.2013 - BR-Drucksache 695/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0695-13B.pdf"
+      }
+    ]
   }
 }

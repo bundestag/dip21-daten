@@ -1,5 +1,5 @@
 {
-  "process": "17-55856",
+  "vorgangId": "55856",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -34,5 +34,49 @@
       "Verschreibungspflicht"
     ],
     "ABSTRAKT": "Änderung der Arzneimittelverschreibungsverordnung und Änderung der Verordnung über apothekenpflichtige und freiverkäufliche Arzneimittel; \nAufnahme von Kontaktdaten der verschreibenden Person auf Rezepten, Aufhebung der Verschreibungspflicht für bestimmte Stoffe, Einfügung von fünfzehn neuen Stoffen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 705/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0705-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "24.10.2013 - BR-Drucksache 705/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0705-1-13.pdf",
+        "VP_ABSTRAKT": "G: Zustimmung/Änderungen - AV: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.11.2013 - BR-Plenarprotokoll 916, TOP 17, S. 532C - 532D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/916.pdf#P.532",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "532D",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "705/13",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.11.2013 - BR-Drucksache 705/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0705-13B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "17-54756",
+  "vorgangId": "54756",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "EU-Vorlage",
@@ -16,5 +16,31 @@
     },
     "EU_DOK_NR": "Ratsdok. 10272/13, Kom. (2013) 293 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+      "FUNDSTELLE": "01.07.2013 - BT-Drucksache 17/14284, Nr. A.6",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/142/1714284.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Technologie"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+        }
+      ]
+    }
   }
 }

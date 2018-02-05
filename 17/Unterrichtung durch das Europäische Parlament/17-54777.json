@@ -1,5 +1,5 @@
 {
-  "process": "17-54777",
+  "vorgangId": "54777",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -36,5 +36,37 @@
       "Hungerstreik"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäisches Parlament ",
+        "FUNDSTELLE": "17.06.2013 - BR-Drucksache 588/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0588-13.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "01.07.2013 - BT-Drucksache 17/14284, Nr. A.13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/142/1714284.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "14.03.2014 - BT-Plenarprotokoll 18/21, S. 1684C - 1685C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18021.pdf#P.1684",
+        "VP_ABSTRAKT": "S. 1684C - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

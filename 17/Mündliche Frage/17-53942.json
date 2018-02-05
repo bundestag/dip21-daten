@@ -1,5 +1,5 @@
 {
-  "process": "17-53942",
+  "vorgangId": "53942",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Mündliche Frage",
@@ -24,5 +24,40 @@
       "Wahlkreis"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelchen informationellen Mehrwert über die Arbeit des BMBF erwartet das Bundesministerium durch das Veröffentlichen von Terminen der Parlamentarischen Staatssekretäre etwa zur &bdquo;symbolischen Übergabe von Förderbescheiden&ldquo; im Rahmen der &bdquo;BMBF-App&ldquo;, und werden die im Deutschen Bundestag für den jeweils betroffenen Wahlkreis zuständigen Abgeordneten unabhängig von einer möglichen Nutzung der &bdquo;BMBF-App&ldquo; über diese Termine vorab informiert?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.06.2013 - BT-Drucksache 17/13810, Nr. 26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/138/1713810.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "12.06.2013 - BT-Plenarprotokoll 17/245, S. 31239D - 31240A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/17/17245.pdf#P.31239",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Kaczmarek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "31239D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helge",
+            "NACHNAME": "Braun",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Bildung und Forschung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "31239D"
+          }
+        ]
+      }
+    ]
   }
 }

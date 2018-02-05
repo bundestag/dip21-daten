@@ -1,5 +1,5 @@
 {
-  "process": "17-54277",
+  "vorgangId": "54277",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,40 @@
       "Luftpiraterie"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Kenntnis hat die Bundesregierung bezüglich Absprachen oder Aktivitäten mit deutschen oder durch deutsche Behörden im Vorfeld der Entführung des Lufthansafluges LH 615 im Oktober 1972 (Geheimoperation München, Wie die Olympia-Attentäter unbestraft davonkamen, in: report MÜNCHEN, 18. Juni 2013)?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "21.06.2013 - BT-Drucksache 17/14063, Nr. 54",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/140/1714063.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "26.06.2013 - BT-Plenarprotokoll 17/249, S. 31873C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/17/17249.pdf#P.31873",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Erika",
+            "NACHNAME": "Steinbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "31873C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ole",
+            "NACHNAME": "Schröder",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "31873C"
+          }
+        ]
+      }
+    ]
   }
 }

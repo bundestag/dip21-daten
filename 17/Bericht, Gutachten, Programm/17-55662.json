@@ -1,5 +1,5 @@
 {
-  "process": "17-55662",
+  "vorgangId": "55662",
   "VORGANG": {
     "WAHLPERIODE": "17",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -49,5 +49,51 @@
       "Wettbewerb"
     ],
     "ABSTRAKT": "Notwendigkeit ökonomischer neben ökologischer Logik, Marktanalyse Energieerzeugung und Großhandel, Marktdesign und Energiewende, Wettbewerb und Regulierung bei Strom- und Gasnetzen sowie auf Endkundenmärkten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Monopolkommission ",
+        "FUNDSTELLE": "05.09.2013 - BR-Drucksache 684/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0684-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Monopolkommission ",
+        "FUNDSTELLE": "05.09.2013 - BT-Drucksache 17/14742\nAnl. Glossar",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/147/1714742.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "28.11.2014 - BR-Plenarprotokoll 928, TOP 21a, S. 380A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/928.pdf#P.380",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "380A",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "684/13",
+          "GRUNDLAGE": "§ 62 Abs. 1 Energiewirtschaftsgesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "28.11.2014 - BR-Drucksache 486/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0486-14B.pdf"
+      }
+    ]
   }
 }
