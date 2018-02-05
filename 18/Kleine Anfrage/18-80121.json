@@ -1,5 +1,5 @@
 {
-  "process": "18-80121",
+  "vorgangId": "80121",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -23,7 +23,10 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Umwelt",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Artenschutz",
       "EU-Staaten",
@@ -32,10 +35,43 @@
       "Hund",
       "Schadensersatz",
       "Tierschutz",
-      "Viehwirtschaft",
+      "Vieh",
       "Weidewirtschaft",
       "Wolf"
     ],
     "ABSTRAKT": "Fehlende Präventionskonzepte zum wolfssicheren Herdenschutz, Forschungen in EU-Staaten, Treffen der Länder-AG-Herdenschutz, Definition zum \"günstigen Erhaltungszustand\" der Art Wolf, Schutzstatus, Umgang mit \"Problemwölfen\", Selbstregulationsmechanismus beim Wolfsbestand, gesetzliche Änderung der Haftungsfragen infolge des gestiegenen Risikos von Wolfsübergriffen, Finanzierung von Präventionsmaßnahmen, Entschädigungspraxis für die Nutztierhaltung, Rissgutachten, Standards bzgl. Herdenschutzhunde, Maßnahmen zur Bestandsregulierung, Bestandsobergrenzen, Überprüfung von Rechtsvorschriften zum Schutz des Wolfes, Kompetenzzentrum für Herdenschutz \n(insgesamt 27 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "28.02.2017 - BT-Drucksache 18/11393",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/113/1811393.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "28.03.2017 - BT-Drucksache 18/11707",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/117/1811707.pdf"
+      }
+    ]
   }
 }

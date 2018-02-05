@@ -1,5 +1,5 @@
 {
-  "process": "18-67359",
+  "vorgangId": "67359",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,26 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "10.06.2015 - BT-Drucksache 18/5118",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/051/1805118.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2015 - BT-Plenarprotokoll 18/112, S. 10747A - 10747C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18112.pdf#P.10747",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "10747C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/5118"
+        }
+      }
+    ]
   }
 }

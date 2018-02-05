@@ -1,5 +1,5 @@
 {
-  "process": "18-54784",
+  "vorgangId": "54784",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -46,5 +46,83 @@
       "Wasserstoffenergietechnik"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "12.07.2013 - BR-Drucksache 590/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0590-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "30.09.2013 - BR-Drucksache 590/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0590-1-13.pdf",
+        "VP_ABSTRAKT": "EU, U: Stellungnahme - Fz, K, Wi: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.10.2013 - BR-Plenarprotokoll 915, TOP 11, S. 509C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/915.pdf#P.509",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "509C",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "590/13",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.10.2013 - BR-Drucksache 590/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0590-13B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.169",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "21.03.2014 - BT-Plenarprotokoll 18/24, S. 1946A - 1946C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18024.pdf#P.1946",
+        "VP_ABSTRAKT": "S. 1946A - Kenntnisnahme"
+      }
+    ]
   }
 }

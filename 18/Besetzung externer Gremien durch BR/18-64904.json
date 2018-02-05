@@ -1,5 +1,5 @@
 {
-  "process": "18-64904",
+  "vorgangId": "64904",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Ständiger Beirat BR ",
+        "FUNDSTELLE": "29.01.2015 - BR-Drucksache 20/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0020-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.02.2015 - BR-Plenarprotokoll 930, TOP 52, S. 23B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/930.pdf#P.23",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "20/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.02.2015 - BR-Drucksache 20/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0020-15B.pdf"
+      }
+    ]
   }
 }

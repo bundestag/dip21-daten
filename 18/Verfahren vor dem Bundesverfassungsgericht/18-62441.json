@@ -1,5 +1,5 @@
 {
-  "process": "18-62441",
+  "vorgangId": "62441",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesverfassungsgericht",
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "25.09.2014 - BR-Drucksache 416/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0416-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.10.2014 - BR-Plenarprotokoll 926, TOP 34, S. 320C - 320D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/926.pdf#P.320",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "320D",
+          "BESCHLUSSTENOR": "Abstandnahme von Äußerung und Beitritt",
+          "BEZUGSDOKUMENT": "416/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.10.2014 - BR-Drucksache 416/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0416-14B.pdf"
+      }
+    ]
   }
 }

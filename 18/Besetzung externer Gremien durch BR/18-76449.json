@@ -1,5 +1,5 @@
 {
-  "process": "18-76449",
+  "vorgangId": "76449",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Stiftung Haus der Geschichte der Bundesrepublik Deutschland",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "01.09.2016 - BR-Drucksache 483/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0483-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.09.2016 - BR-Plenarprotokoll 948, TOP 82b, S. 338B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/948.pdf#P.338",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "338B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "483/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.09.2016 - BR-Drucksache 483/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0483-16B.pdf"
+      }
+    ]
   }
 }

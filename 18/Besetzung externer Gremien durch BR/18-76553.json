@@ -1,5 +1,5 @@
 {
-  "process": "18-76553",
+  "vorgangId": "76553",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "KfW-Bankengruppe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "07.09.2016 - BR-Drucksache 504/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0504-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "21.10.2016 - BR-Drucksache 504/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0504-1-16.pdf",
+        "VP_ABSTRAKT": "Bestellungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "04.11.2016 - BR-Plenarprotokoll 950, TOP 36, S. 437A - 437B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/950.pdf#P.437",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "437B",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drs 504/1/16",
+          "BEZUGSDOKUMENT": "504/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "04.11.2016 - BR-Drucksache 504/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0504-16B.pdf"
+      }
+    ]
   }
 }

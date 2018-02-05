@@ -1,5 +1,5 @@
 {
-  "process": "18-79525",
+  "vorgangId": "79525",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -29,5 +29,36 @@
       "Zusatzversorgung im öffentlichen Dienst"
     ],
     "ABSTRAKT": "Beamten- und Soldatenversorgung im unmittelbaren Bundesbereich und in sonstigen Bereichen des Bundes (insb. Sozialversicherungsträger, Bundesagentur für Arbeit, BEV, Post), Finanzierung, Vorausberechnungen bis 2050, Zusatzversorgung des öffentlichen Dienstes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "25.01.2017 - BT-Drucksache 18/11040",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/110/1811040.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "17.02.2017 - BT-Drucksache 18/11225",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/112/1811225.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

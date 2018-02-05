@@ -1,5 +1,5 @@
 {
-  "process": "18-69120",
+  "vorgangId": "69120",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -44,5 +44,73 @@
       "Langzeitarbeitslosigkeit"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "17.09.2015 - BR-Drucksache 416/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0416-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "16.10.2015 - BT-Drucksache 18/6417, Nr. A.22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/064/1806417.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2015 - BR-Plenarprotokoll 938, TOP 999a, S. 433B - 433D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/938.pdf#P.433",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "433D",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "416/15",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2015 - BR-Drucksache 416/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0416-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "21.10.2016 - BT-Plenarprotokoll 18/197, S. 19695A - 19695D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18197.pdf#P.19695",
+        "VP_ABSTRAKT": "S. 19695A - Kenntnisnahme"
+      }
+    ]
   }
 }

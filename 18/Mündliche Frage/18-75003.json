@@ -1,5 +1,5 @@
 {
-  "process": "18-75003",
+  "vorgangId": "75003",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -20,5 +20,40 @@
       "Gasgewinnung"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nPlant die Regierung im Unterschied zum Gesetzespaket aus dem letzten Jahr (Bundestagsdrucksachen 18/4713, 18/4714) &ndash; u. a. vor dem Hintergrund des Klimaschutzabkommens von Paris und angesichts des wachsenden gesellschaftlichen Widerstands &ndash; in absehbarer Zeit ein generelles Verbot der Erdgas-Fördermethode Fracking?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "17.06.2016 - BT-Drucksache 18/8816, Nr. 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/088/1808816.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "22.06.2016 - BT-Plenarprotokoll 18/178, S. 17561A - 17561B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18178.pdf#P.17561",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Julia",
+            "NACHNAME": "Verlinden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "17561A"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Pronold",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "17561B"
+          }
+        ]
+      }
+    ]
   }
 }

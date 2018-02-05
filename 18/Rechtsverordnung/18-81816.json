@@ -1,5 +1,5 @@
 {
-  "process": "18-81816",
+  "vorgangId": "81816",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,52 @@
       "Krankenhausstatistik-Verordnung"
     ],
     "ABSTRAKT": "Anpassung von in der Krankenhausstatistik zu erfassenden Merkmalen, Erfassung des Standorts eines Krankenhauses, von ambulanten Leistungen und des beschäftigten Personals"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "24.05.2017 - BR-Drucksache 414/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0414-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.06.2017 - BR-Drucksache 414/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0414-1-17.pdf",
+        "VP_ABSTRAKT": "Zustimmung - In: zus. Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 78, S. 345C - 345D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345D",
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "414/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 414/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0414-17B.pdf"
+      }
+    ]
   }
 }

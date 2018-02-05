@@ -1,5 +1,5 @@
 {
-  "process": "18-79315",
+  "vorgangId": "79315",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -43,5 +43,51 @@
       "Urkundenfälschung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "16.01.2017 - BR-Drucksache 14/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0014-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "17.02.2017 - BT-Drucksache 18/11229, Nr. B.10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/112/1811229.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.03.2017 - BR-Plenarprotokoll 954, TOP 999b, S. 122B - 122D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/954.pdf#P.122",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "122B",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "14/17",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.03.2017 - BR-Drucksache 14/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0014-17B.pdf"
+      }
+    ]
   }
 }

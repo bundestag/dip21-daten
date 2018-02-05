@@ -1,5 +1,5 @@
 {
-  "process": "18-77300",
+  "vorgangId": "77300",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,39 @@
       "Whistleblowing"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWas hat die Bundesregierung im Einzelnen unternommen, um herauszufinden, welche Strafvorwürfe in den Vereinigten Staaten von wem gegen Edward Snowden erhoben werden? \n \nWelche konkreten Nachfragen hat die Bundesregierung dazu im Einzelnen gestellt, und welche Antworten oder Informationen hat die Bundesregierung so erlangt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "14.10.2016 - BT-Drucksache 18/9971, Nr. 26, 27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/099/1809971.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "19.10.2016 - BT-Plenarprotokoll 18/195, S. 19387D - 19389A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18195.pdf#P.19387",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19387D"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19387D"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-75362",
+  "vorgangId": "75362",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,27 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "06.07.2016 - BT-Drucksache 18/9061",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/090/1809061.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.07.2016 - BT-Plenarprotokoll 18/183, S. 18042D - 18044A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18183.pdf#P.18042",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18043A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/9061",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

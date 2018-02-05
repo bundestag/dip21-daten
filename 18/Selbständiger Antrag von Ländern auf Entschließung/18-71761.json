@@ -1,5 +1,5 @@
 {
-  "process": "18-71761",
+  "vorgangId": "71761",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -41,5 +41,76 @@
       "Krankenversicherungsbeitrag"
     ],
     "ABSTRAKT": "Forderung nach Vorlage eines Gesetzentwurfs zur Wiederherstellung der vollständigen paritätischen Finanzierung von Krankenversicherungsbeiträgen durch Arbeitnehmer und Arbeitgeber"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Rheinland-Pfalz, Brandenburg, Bremen, Hamburg, Niedersachsen, Nordrhein-Westfalen, Thüringen und Schleswig-Holstein ",
+        "FUNDSTELLE": "22.01.2016 - BR-Drucksache 40/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0040-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "29.01.2016 - BR-Plenarprotokoll 941, TOP 42, S. 7D - 11C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.7",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Malu",
+            "NACHNAME": "Dreyer",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsidentin",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "7D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmuth",
+            "NACHNAME": "Markov",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister der Justiz und für Europa und Verbraucherschutz",
+            "BUNDESLAND": "Brandenburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8D"
+          },
+          {
+            "VORNAME": "Cornelia",
+            "NACHNAME": "Prüfer-Storcks",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Senatorin, Präses der Behörde für Gesundheit und Verbraucherschutz",
+            "BUNDESLAND": "Hamburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9C"
+          },
+          {
+            "VORNAME": "Annette",
+            "NACHNAME": "Widmann-Mauz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11C",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "40/16"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-80911",
+  "vorgangId": "80911",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -41,5 +41,38 @@
       "Therapie"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "27.03.2017 - BT-Drucksache 18/11848",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/118/1811848.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Birgit",
+            "NACHNAME": "Wöllert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "05.05.2017 - BT-Drucksache 18/12247",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/122/1812247.pdf"
+      }
+    ]
   }
 }

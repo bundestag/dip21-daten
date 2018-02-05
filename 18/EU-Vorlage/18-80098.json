@@ -1,5 +1,5 @@
 {
-  "process": "18-80098",
+  "vorgangId": "80098",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -38,5 +38,52 @@
       "Verordnung der EU"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "24.02.2017 - BR-Drucksache 185/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0185-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "28.04.2017 - BT-Drucksache 18/12184, Nr. A.18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/121/1812184.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.05.2017 - BR-Plenarprotokoll 957, TOP 999b, S. 248A - 248D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/957.pdf#P.248",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "248A",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "185/17",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.05.2017 - BR-Drucksache 185/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0185-17B.pdf"
+      }
+    ]
   }
 }

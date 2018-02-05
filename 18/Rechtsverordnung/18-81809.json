@@ -1,5 +1,5 @@
 {
-  "process": "18-81809",
+  "vorgangId": "81809",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,42 @@
       "Berufskrankheiten-Verordnung"
     ],
     "ABSTRAKT": "Neuaufnahme von fünf Krankheiten in die Anlage 1 der Verordnung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "24.05.2017 - BR-Drucksache 410/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0410-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 65, S. 345C - 345D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "410/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 410/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0410-17B.pdf"
+      }
+    ]
   }
 }

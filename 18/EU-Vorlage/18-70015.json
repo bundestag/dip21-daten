@@ -1,5 +1,5 @@
 {
-  "process": "18-70015",
+  "vorgangId": "70015",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -46,5 +46,83 @@
       "Wirtschaftspolitik"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "22.10.2015 - BR-Drucksache 503/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0503-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "18.12.2015 - BT-Drucksache 18/7127, Nr. A.8",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/071/1807127.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "18.01.2016 - BR-Drucksache 503/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0503-1-15.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "29.01.2016 - BR-Plenarprotokoll 941, TOP 19, S. 24C - 24D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.24",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24D",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "503/15",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "29.01.2016 - BR-Drucksache 503/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0503-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "30.06.2017 - BT-Plenarprotokoll 18/244, S. 25253C - 25254C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18244.pdf#P.25253",
+        "VP_ABSTRAKT": "S. 25253C - Kenntnisnahme"
+      }
+    ]
   }
 }

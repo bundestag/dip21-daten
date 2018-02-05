@@ -1,5 +1,5 @@
 {
-  "process": "18-72689",
+  "vorgangId": "72689",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -45,5 +45,49 @@
       "Unterhaltsvorschussgesetz"
     ],
     "ABSTRAKT": "Unterhaltsleistungen und Rückgriff auf die Unterhalt schuldende Person, Durchführung des Kontoabrufverfahrens, Auswirkungen und Rückgriffserfolge, keine Notwendigkeit zur Weiterentwicklung "
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "25.02.2016 - BT-Drucksache 18/7700",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/077/1807700.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "26.02.2016 - BR-Drucksache 102/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0102-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "11.04.2016 - BR-Drucksache 102/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0102-1-16.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "22.04.2016 - BR-Plenarprotokoll 944, TOP 24, S. 169D - 170A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/944.pdf#P.169",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "170A",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "102/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "22.04.2016 - BR-Drucksache 102/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0102-16B.pdf"
+      }
+    ]
   }
 }

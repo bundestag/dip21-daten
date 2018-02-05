@@ -1,5 +1,5 @@
 {
-  "process": "18-62250",
+  "vorgangId": "62250",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,26 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "10.09.2014 - BT-Drucksache 18/2513",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/025/1802513.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.09.2014 - BT-Plenarprotokoll 18/54, S. 4953D - 4954B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18054.pdf#P.4953",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4954B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/2513"
+        }
+      }
+    ]
   }
 }

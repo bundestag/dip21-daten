@@ -1,5 +1,5 @@
 {
-  "process": "18-66531",
+  "vorgangId": "66531",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,42 @@
       "Straßengüterverkehr"
     ],
     "ABSTRAKT": "Anpassung des Katalogs der Verbotsstrecken für Lastkraftwagen an die aktuellen Erfordernisse und den erreichten Ausbauzustand der Autobahnen und Bundesstraßen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "24.04.2015 - BR-Drucksache 184/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0184-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.06.2015 - BR-Plenarprotokoll 934, TOP 42, S. 222C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/934.pdf#P.222",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "222C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "184/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.06.2015 - BR-Drucksache 184/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0184-15B.pdf"
+      }
+    ]
   }
 }

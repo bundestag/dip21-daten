@@ -1,5 +1,5 @@
 {
-  "process": "18-67977",
+  "vorgangId": "67977",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -49,5 +49,59 @@
       "Subsidiaritätsprinzip"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "02.07.2015 - BR-Drucksache 319/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0319-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "11.09.2015 - BT-Drucksache 18/5982, Nr. A.52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805982.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.09.2015 - BR-Plenarprotokoll 936, TOP 999a, S. 338A - 338C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/936.pdf#P.338",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "338A",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "319/15",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.09.2015 - BR-Drucksache 319/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0319-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.01.2016 - BT-Plenarprotokoll 18/150, S. 14831B - 14831D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18150.pdf#P.14831",
+        "VP_ABSTRAKT": "S. 14831B - Kenntnisnahme"
+      }
+    ]
   }
 }

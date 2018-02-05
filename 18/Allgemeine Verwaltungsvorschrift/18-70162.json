@@ -1,5 +1,5 @@
 {
-  "process": "18-70162",
+  "vorgangId": "70162",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -31,5 +31,48 @@
       "Freizügigkeit"
     ],
     "ABSTRAKT": "Neufassung, Vereinheitlichung des Verwaltungsvollzugs, Erleichterung der Anpassung von Arbeitsabläufen in den zuständigen Behörden"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "04.11.2015 - BR-Drucksache 535/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0535-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.12.2015 - BR-Plenarprotokoll 940, TOP 42, S. 513B - 513C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/940.pdf#P.513",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "513C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "535/15",
+          "GRUNDLAGE": "Art. 84 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.12.2015 - BR-Drucksache 535/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0535-15B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-56102",
+  "vorgangId": "56102",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl im BT",
@@ -33,5 +33,29 @@
       "Wahl"
     ],
     "ABSTRAKT": "CDU/CSU: Peter Hintze, Johannes Singhammer; SPD: Edelgard Bulmahn, Ulla Schmidt (Aachen); DIE LINKE: Petra Pau; B90/GR: Claudia Roth (Augsburg)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "22.10.2013 - BT-Drucksache 18/3",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800003.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.10.2013 - BT-Plenarprotokoll 18/1, S. 13C - 15C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18001.pdf#P.13",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/3",
+          "ABSTIMMUNGSART": "Geheime Wahl",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "Peter Hintze 449:122:51:4; Johannes Singhammer 442:115:63:6; Edelgard Bulmahn 534:50:36:6; Ulla Schmidt (Aachen) 520:66:35:5; Petra Pau 451:113:45:17; Claudia Roth (Augsburg) 415:128:69:14"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-70218",
+  "vorgangId": "70218",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
@@ -27,5 +27,28 @@
       "Wahl"
     ],
     "ABSTRAKT": "Roland Claus"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "10.11.2015 - BT-Drucksache 18/6629",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806629.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "12.11.2015 - BT-Plenarprotokoll 18/136, S. 13284A - 13284C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18136.pdf#P.13284",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13285C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/6629",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "464:72:43"
+        }
+      }
+    ]
   }
 }

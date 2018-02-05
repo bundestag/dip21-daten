@@ -1,5 +1,5 @@
 {
-  "process": "18-66112",
+  "vorgangId": "66112",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -44,5 +44,83 @@
       "EU-Staaten"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "25.03.2015 - BR-Drucksache 117/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0117-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "27.03.2015 - BT-Drucksache 18/4504, Nr. A.11",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/045/1804504.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.04.2015 - BR-Drucksache 117/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0117-1-15.pdf",
+        "VP_ABSTRAKT": "EU, AS: Stellungnahme - FJ, K, Wi: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 49, S. 181A - 181B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.181",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "181B",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "117/15",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 117/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0117-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "03.07.2015 - BT-Plenarprotokoll 18/116, S. 11350A - 11350D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18116.pdf#P.11350",
+        "VP_ABSTRAKT": "S. 11350A - Kenntnisnahme"
+      }
+    ]
   }
 }

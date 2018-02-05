@@ -1,5 +1,5 @@
 {
-  "process": "18-70203",
+  "vorgangId": "70203",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,48 @@
       "Kraftfahrzeug"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWoraus bestanden die Nachprüfungen des Kraftfahrt-Bundesamts an \"über tausend\" Fahrzeugen bzw. Fahrzeugtypen (siehe Plenarprotokoll vom 4. November 2015 und die Antwort vom Parlamentarischen Staatssekretär Norbert Barthle auf meine Frage), und welche konkreten Messungen von Abgaswerten (CO2, NOx und andere) fanden dabei statt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "06.11.2015 - BT-Drucksache 18/6602, Nr. 7",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806602.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "11.11.2015 - BT-Plenarprotokoll 18/135, S. 13190C - 13192A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18135.pdf#P.13190",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "13190C"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Barthle",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "13190D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Dresden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "13191D"
+          }
+        ]
+      }
+    ]
   }
 }

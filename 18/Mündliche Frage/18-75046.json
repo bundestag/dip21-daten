@@ -1,5 +1,5 @@
 {
-  "process": "18-75046",
+  "vorgangId": "75046",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,40 @@
       "Schusswaffe"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWas haben die Ermittlungen ergeben, die die Bundeswehr laut Meldung von SPIEGEL-ONLINE vom 13. Juni gegen einzelne Soldaten durchführt, die am Tag der Bundeswehr 2016 Kindern Waffen zum Anfassen und Anlegen in die Hand gaben?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "17.06.2016 - BT-Drucksache 18/8816, Nr. 67",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/088/1808816.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "22.06.2016 - BT-Plenarprotokoll 18/178, S. 17574C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18178.pdf#P.17574",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "17574C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ralf",
+            "NACHNAME": "Brauksiepe",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "17574C"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-71543",
+  "vorgangId": "71543",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Organisation für Sicherheit und Zusammenarbeit in Europa"
     ],
     "ABSTRAKT": "Neufassung, Aufnahme des Beauftragten für Medienfreiheit in den Anwendungsbereich der Verordnung, Ausweitung auf weitere Vertreter verschiedener Gremien der OSZE"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "16.12.2015 - BR-Drucksache 626/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0626-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Auswärtige Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "29.01.2016 - BR-Plenarprotokoll 941, TOP 27, S. 11C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.11",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "626/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "29.01.2016 - BR-Drucksache 626/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0626-15B.pdf"
+      }
+    ]
   }
 }

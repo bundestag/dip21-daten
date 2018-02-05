@@ -1,5 +1,5 @@
 {
-  "process": "18-71571",
+  "vorgangId": "71571",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,52 @@
       "InVeKoS-Verordnung"
     ],
     "ABSTRAKT": "Übernahme von EU-Regelungen in die Antrags- und Kontrollverfahren, Ergänzung der Anlage des InVeKoS-Daten-Gesetzes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "08.01.2016 - BR-Drucksache 10/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0010-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.02.2016 - BR-Drucksache 10/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0010-1-16.pdf",
+        "VP_ABSTRAKT": "AV: Zustimmung/Änderungen - Fz, U: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "26.02.2016 - BR-Plenarprotokoll 942, TOP 25, S. 89C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/942.pdf#P.89",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "89C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "10/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "26.02.2016 - BR-Drucksache 10/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0010-16B.pdf"
+      }
+    ]
   }
 }

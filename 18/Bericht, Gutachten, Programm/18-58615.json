@@ -1,5 +1,5 @@
 {
-  "process": "18-58615",
+  "vorgangId": "58615",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -37,5 +37,62 @@
       "Technikfolgenabschätzung"
     ],
     "ABSTRAKT": "Bericht zu der durch das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag durchgeführten Untersuchung: Elektrizitätsversorgung in Deutschland, Stromnetze, Speicher und weitere Flexibilisierungsoptionen, Szenarienanalyse, internationale Erfahrungen, Vergleich mit Dänemark und der Iberischen Halbinsel, Handlungsfelder und Handlungsoptionen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Ausschuss für Bildung, Forschung und Technikfolgenabschätzung ",
+        "FUNDSTELLE": "30.08.2012 - BT-Drucksache 17/10579",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/105/1710579.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf erneute Behandlung,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "11.03.2014 - BT-Drucksache 18/770, Nr. 14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/007/1800770.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag auf erneute Überweisung an die Ausschüsse"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung über Antrag auf erneute Behandlung",
+        "FUNDSTELLE": "13.03.2014 - BT-Plenarprotokoll 18/20, S. 1577C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18020.pdf#P.1577",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1577C",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "18/770",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "27.02.2015 - BT-Plenarprotokoll 18/89, S. 8531C - 8533A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18089.pdf#P.8531",
+        "VP_ABSTRAKT": "S. 8531C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

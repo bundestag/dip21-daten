@@ -1,5 +1,5 @@
 {
-  "process": "18-69673",
+  "vorgangId": "69673",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -36,5 +36,49 @@
       "Trinkwasserverordnung"
     ],
     "ABSTRAKT": "Umsetzung von Gemeinschaftsrecht, Festlegung von Anforderungen an die Messung und Überwachung der Trinkwasserqualität im Hinblick auf künstliche und natürliche radioaktive Stoffe, Vorgabe der Parameterwerte für Radon, für Tritium und für die Richtdosis, Formulierung der Anforderungen an die Probennahme, Untersuchungsstrategie, Untersuchungsstellen und Untersuchungsverfahren"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "02.10.2015 - BR-Drucksache 456/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0456-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.10.2015 - BR-Drucksache 456/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0456-1-15.pdf",
+        "VP_ABSTRAKT": "G: Zustimmung/Änderungen - U: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2015 - BR-Plenarprotokoll 938, TOP 42, S. 433A - 433C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/938.pdf#P.433",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "433C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "456/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2015 - BR-Drucksache 456/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0456-15B.pdf"
+      }
+    ]
   }
 }

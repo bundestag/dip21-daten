@@ -1,5 +1,5 @@
 {
-  "process": "18-69967",
+  "vorgangId": "69967",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -44,5 +44,55 @@
       "Waffenhandel"
     ],
     "ABSTRAKT": "Rüstungsexportpolitik der Regierung, Verschärfung der Regelungen für Kleinwaffenexporte, Endverbleibssicherung, aktuelle Genehmigungszahlen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "23.10.2015 - BR-Drucksache 505/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0505-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "23.10.2015 - BT-Drucksache 18/6460\nAnl. Geschäftsordnung des Bundessicherheitsrates, Grundsätze der Bundesregierung betr. Kleinwaffen, Übersichten zu Ausfuhrgenehmigungen und Bestimmungsländern",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/064/1806460.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "06.11.2015 - BT-Drucksache 18/6605",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806605.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "29.01.2016 - BT-Plenarprotokoll 18/153, S. 15125C - 15126D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18153.pdf#P.15125",
+        "VP_ABSTRAKT": "S. 15125C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

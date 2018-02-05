@@ -1,5 +1,5 @@
 {
-  "process": "18-57595",
+  "vorgangId": "57595",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -16,5 +16,43 @@
     },
     "EU_DOK_NR": "Ratsdok. 12190/11, Kom. (2011) 379 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. C.16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ],
+        "VP_ABSTRAKT": "Erneute Überweisung an die Ausschüsse"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung",
+        "FUNDSTELLE": "14.02.2014 - BT-Plenarprotokoll 18/15, S. 1107A - 1107B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18015.pdf#P.1107",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1107B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/419"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-66198",
+  "vorgangId": "66198",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "Produktsicherheit"
     ],
     "ABSTRAKT": "Erlass einer Vierzehnten Verordnung zum Produktsicherheitsgesetz (Druckgeräteverordnung - 14. ProdSV), Umsetzung von Gemeinschaftsrecht"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "26.03.2015 - BR-Drucksache 134/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0134-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 52, S. 166B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.166",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "134/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 134/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0134-15B.pdf"
+      }
+    ]
   }
 }

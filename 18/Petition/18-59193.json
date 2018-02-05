@@ -1,5 +1,5 @@
 {
-  "process": "18-59193",
+  "vorgangId": "59193",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,26 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "02.04.2014 - BT-Drucksache 18/987",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/009/1800987.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "10.04.2014 - BT-Plenarprotokoll 18/30, S. 2481C - 2482A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18030.pdf#P.2481",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2481C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/987"
+        }
+      }
+    ]
   }
 }

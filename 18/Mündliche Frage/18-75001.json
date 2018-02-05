@@ -1,5 +1,5 @@
 {
-  "process": "18-75001",
+  "vorgangId": "75001",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,40 @@
       "Wohnungsbauförderung"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nSind die von Bundesministerin Dr. Barbara Hendricks angekündigten zusätzlichen 500 Mio. Euro für den Wohnungsbau an eine Zweckbindung, beispielsweise Mietobergrenzen oder Sozialbindung, gebunden oder können die Länder frei darüber verfügen?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "17.06.2016 - BT-Drucksache 18/8816, Nr. 22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/088/1808816.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "22.06.2016 - BT-Plenarprotokoll 18/178, S. 17560D - 17561A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18178.pdf#P.17560",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Tübingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "17560D"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Pronold",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "17561A"
+          }
+        ]
+      }
+    ]
   }
 }

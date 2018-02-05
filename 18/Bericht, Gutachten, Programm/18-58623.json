@@ -1,5 +1,5 @@
 {
-  "process": "18-58623",
+  "vorgangId": "58623",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -30,5 +30,61 @@
       "Strafverfolgung"
     ],
     "ABSTRAKT": "Bestandsaufnahme, Maßnahmen und Handlungsfelder: Prävention, Hilfe und Beratungsangebote, Strafverfolgung, Schutz in digitalen Kommunikationsnetzen, Kinderhandel, sexuelle Ausbeutung im Tourismus, wissenschaftliche Forschung zu sexueller Gewalt gegen Kinder"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "28.09.2011 - BT-Drucksache 17/7233",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/072/1707233.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf erneute Behandlung,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "11.03.2014 - BT-Drucksache 18/770, Nr. 20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/007/1800770.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Sportausschuss"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag auf erneute Überweisung an die Ausschüsse"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung über Antrag auf erneute Behandlung",
+        "FUNDSTELLE": "13.03.2014 - BT-Plenarprotokoll 18/20, S. 1577C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18020.pdf#P.1577",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1577C",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "18/770",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

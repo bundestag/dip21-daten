@@ -1,5 +1,5 @@
 {
-  "process": "18-70370",
+  "vorgangId": "70370",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -23,5 +23,31 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "06.11.2015 - BT-Drucksache 18/6607, Nr. A.25",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806607.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.01.2016 - BT-Plenarprotokoll 18/150, S. 14831B - 14831D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18150.pdf#P.14831",
+        "VP_ABSTRAKT": "S. 14831B - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

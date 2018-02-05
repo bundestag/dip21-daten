@@ -1,5 +1,5 @@
 {
-  "process": "18-80182",
+  "vorgangId": "80182",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,27 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "08.03.2017 - BT-Drucksache 18/11424",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/114/1811424.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.03.2017 - BT-Plenarprotokoll 18/225, S. 22537D - 22538B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18225.pdf#P.22537",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22538A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/11424",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

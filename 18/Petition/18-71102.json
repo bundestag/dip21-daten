@@ -1,5 +1,5 @@
 {
-  "process": "18-71102",
+  "vorgangId": "71102",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Petition",
@@ -24,5 +24,27 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "16.12.2015 - BT-Drucksache 18/7063",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/070/1807063.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.12.2015 - BT-Plenarprotokoll 18/146, S. 14394C - 14395C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18146.pdf#P.14394",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14395B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/7063",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

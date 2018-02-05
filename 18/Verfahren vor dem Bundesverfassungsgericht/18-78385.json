@@ -1,5 +1,5 @@
 {
-  "process": "18-78385",
+  "vorgangId": "78385",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesverfassungsgericht",
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "01.12.2016 - BR-Drucksache 697/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0697-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "16.12.2016 - BR-Plenarprotokoll 952, TOP 68, S. 515A - 515B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/952.pdf#P.515",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "515A",
+          "BESCHLUSSTENOR": "Abstandnahme von Äußerung und Beitritt",
+          "BEZUGSDOKUMENT": "697/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "16.12.2016 - BR-Drucksache 697/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0697-16B.pdf"
+      }
+    ]
   }
 }

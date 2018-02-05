@@ -1,5 +1,5 @@
 {
-  "process": "18-67808",
+  "vorgangId": "67808",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,40 @@
       "V-Person"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie viele Quellenmeldungen des neonazistischen V-Mannes J. H. des Verfassungsschutzes Nordrhein-Westfalen liegen dem Bundesamt für Verfassungsschutz vor?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2015 - BT-Drucksache 18/5341, Nr. 1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805341.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "01.07.2015 - BT-Plenarprotokoll 18/114, S. 11021B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18114.pdf#P.11021",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "11021B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "11021B"
+          }
+        ]
+      }
+    ]
   }
 }

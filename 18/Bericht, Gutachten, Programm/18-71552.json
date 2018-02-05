@@ -1,5 +1,5 @@
 {
-  "process": "18-71552",
+  "vorgangId": "71552",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -36,5 +36,43 @@
       "Strompreis"
     ],
     "ABSTRAKT": "Ausgangslage, Grenzen einer Mittelfristprognose (Einspeisung aus Windenergie- und PV-Anlagen, Börsenstrompreis), Stellungnahme der Übertragungsnetzbetreiber, Empfehlung (Ablehnung und Neuvorschlag)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "16.12.2015 - BT-Drucksache 18/7208\nAnl. Positionspapier der Übertragungsnetzbetreiber zur EEG-Umlagenvorschau",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/072/1807208.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "15.01.2016 - BT-Drucksache 18/7276",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/072/1807276.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "13.05.2016 - BT-Plenarprotokoll 18/171, S. 16939B - 16939C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18171.pdf#P.16939",
+        "VP_ABSTRAKT": "S. 16939B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

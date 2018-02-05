@@ -1,5 +1,5 @@
 {
-  "process": "18-56310",
+  "vorgangId": "56310",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -25,5 +25,41 @@
     "SACHGEBIET": "Bundestag",
     "SCHLAGWORT": "Parlamentsausschuss",
     "ABSTRAKT": "Einsetzung von 9 ständigen Ausschüssen gem. § 54 in Verbindung mit § 57 Abs. 1 GeschOBT; Beschränkung des Zutrittsrechts gem. § 69 Abs. 2 GeschOBT für folgende Ausschüsse: Auswärtiger Ausschuss, Verteidigungsausschuss und für den Innenausschuss in Angelegenheiten der Inneren Sicherheit"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "14.11.2013 - BT-Drucksache 18/54",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800054.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.11.2013 - BT-Plenarprotokoll 18/2, S. 69D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18002.pdf#P.69",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "69D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/54"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Nachtrag: Beratung",
+        "FUNDSTELLE": "18.11.2013 - BT-Plenarprotokoll 18/2, S. 70A - 71C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18002.pdf#P.70",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Petra",
+          "NACHNAME": "Sitte",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "SEITE": "70A"
+        }
+      }
+    ]
   }
 }

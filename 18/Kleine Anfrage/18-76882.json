@@ -1,5 +1,5 @@
 {
-  "process": "18-76882",
+  "vorgangId": "76882",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -23,7 +23,10 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Umwelt",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Artenschutz",
       "Beratungsstelle",
@@ -35,13 +38,45 @@
       "Forschungsprojekt",
       "Hund",
       "Monitoring",
-      "Nutztier",
       "Personalausstattung",
       "Tierschutz",
-      "Viehwirtschaft",
+      "Vieh",
       "Weidewirtschaft",
       "Wolf"
     ],
     "ABSTRAKT": "Einrichtung eines Kompetenzzentrums für Herden- und Wolfsschutz: Aufgabenbereiche, Projekte sowie personelle und finanzielle Ausstattung kooperierender Forschungseinrichtungen, Art und Umfang der Datenerhebung; Zahlenangaben, u.a. zum Bestand, zu Todesfällen und Übergriffe auf Weidetiere, bundesweiter Wolfsmanagementplan, Monitoringstandards, Einbindung der Agrarressortforschung des BMEL, Aufnahme des Themas in die Bildungsarbeit, Forschungsvorhaben, bundeseinheitlicher Herdenschutz und Maßnahmen, \"Problemwölfe\", Unterstützungsleistungen für Weidetierhalter \n(insgesamt 28 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "21.09.2016 - BT-Drucksache 18/9716",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/097/1809716.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Birgit",
+            "NACHNAME": "Menz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "24.10.2016 - BT-Drucksache 18/10110",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/101/1810110.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-73921",
+  "vorgangId": "73921",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Kriegsopferversorgung"
     ],
     "ABSTRAKT": "Anhebung der in § 56 des Bundesversorgungsgesetzes näher bestimmten Leistungen um 4,25 Prozent und des Bemessungsbetrages um 3,78 Prozent"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "27.04.2016 - BR-Drucksache 209/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0209-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "17.06.2016 - BR-Plenarprotokoll 946, TOP 44, S. 243A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/946.pdf#P.243",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "243A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "209/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "17.06.2016 - BR-Drucksache 209/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0209-16B.pdf"
+      }
+    ]
   }
 }

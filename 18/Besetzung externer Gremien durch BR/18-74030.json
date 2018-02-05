@@ -1,5 +1,5 @@
 {
-  "process": "18-74030",
+  "vorgangId": "74030",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,33 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Kommission Lagerung hoch radioaktiver Abfallstoffe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Bremen ",
+        "FUNDSTELLE": "04.05.2016 - BR-Drucksache 246/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0246-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "13.05.2016 - BR-Plenarprotokoll 945, TOP 33, S. 187B - 187C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/945.pdf#P.187",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "187C",
+          "BESCHLUSSTENOR": "Zustimmung zu dem Antrag; dieser Beschluss wird abweichend von § 32 Satz 1 GO BR sofort wirksam",
+          "BEZUGSDOKUMENT": "246/16",
+          "GRUNDLAGE": "§ 3 Abs. 1 Satz 2 Nr. 3, Satz 4 u. 6 Standortauswahlgesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "13.05.2016 - BR-Drucksache 246/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0246-16B.pdf"
+      }
+    ]
   }
 }

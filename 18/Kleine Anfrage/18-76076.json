@@ -1,5 +1,5 @@
 {
-  "process": "18-76076",
+  "vorgangId": "76076",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -34,5 +34,37 @@
       "Medizinische Untersuchung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "09.08.2016 - BT-Drucksache 18/9380",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/093/1809380.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "09.09.2016 - BT-Drucksache 18/9603",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/096/1809603.pdf"
+      }
+    ]
   }
 }

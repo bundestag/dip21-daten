@@ -1,5 +1,5 @@
 {
-  "process": "18-64008",
+  "vorgangId": "64008",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Über- und außerplanmäßige Haushaltsausgaben",
@@ -38,5 +38,35 @@
       "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2014"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "05.12.2014 - BR-Drucksache 606/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0606-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "08.12.2014 - BT-Drucksache 18/3486",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/034/1803486.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.12.2014 - BT-Drucksache 18/3617",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/036/1803617.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

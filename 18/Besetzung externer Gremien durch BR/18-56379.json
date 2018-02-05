@@ -1,5 +1,5 @@
 {
-  "process": "18-56379",
+  "vorgangId": "56379",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "21.11.2013 - BR-Drucksache 774/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0774-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "09.12.2013 - BR-Drucksache 774/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0774-1-13.pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2013 - BR-Plenarprotokoll 918, TOP 19c, S. 568B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/918.pdf#P.568",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "568B",
+          "BESCHLUSSTENOR": "vorschlagsgemäß",
+          "BEZUGSDOKUMENT": "774/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2013 - BR-Drucksache 774/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0774-13B.pdf"
+      }
+    ]
   }
 }

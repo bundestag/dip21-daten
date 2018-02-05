@@ -1,5 +1,5 @@
 {
-  "process": "18-57025",
+  "vorgangId": "57025",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -35,5 +35,40 @@
       "Wanderarbeitnehmer"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäisches Parlament ",
+        "FUNDSTELLE": "13.12.2013 - BR-Drucksache 824/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0824-13.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "17.02.2014 - BT-Drucksache 18/544, Nr. A.45",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/005/1800544.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Sportausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "17.10.2014 - BT-Plenarprotokoll 18/61, S. 5729A - 5729D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18061.pdf#P.5729",
+        "VP_ABSTRAKT": "S. 5729A - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

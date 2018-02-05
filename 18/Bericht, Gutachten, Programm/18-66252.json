@@ -1,5 +1,5 @@
 {
-  "process": "18-66252",
+  "vorgangId": "66252",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -40,5 +40,70 @@
       "Unternehmensgründung"
     ],
     "ABSTRAKT": "Auftrag, Rechtsentwicklung und Neuregelung, Grundlagen, Ergebnisse: Wirkung auf das Gründungsgeschehen aus der Arbeitslosigkeit, Umsetzung als Ermessensleistung, Veränderung der Teilnehmerstrukturen, potenzielle Mitnahmeeffekte, soziale Absicherung der Selbständigen, Auswirkungen und Schlussfolgerungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "16.04.2015 - BR-Drucksache 168/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0168-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "16.04.2015 - BT-Drucksache 18/4662",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/046/1804662.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "08.05.2015 - BT-Drucksache 18/4865",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/048/1804865.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "01.06.2015 - BR-Drucksache 168/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0168-1-15.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.06.2015 - BR-Plenarprotokoll 934, TOP 27, S. 222C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/934.pdf#P.222",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "222C",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "168/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.06.2015 - BR-Drucksache 168/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0168-15B.pdf"
+      }
+    ]
   }
 }

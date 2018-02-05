@@ -1,5 +1,5 @@
 {
-  "process": "18-60370",
+  "vorgangId": "60370",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -23,5 +23,40 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.05.2014 - BT-Drucksache 18/1393, Nr. A.8",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/013/1801393.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "04.07.2014 - BT-Plenarprotokoll 18/47, S. 4414D - 4415C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18047.pdf#P.4414",
+        "VP_ABSTRAKT": "S. 4414D - Kenntnisnahme"
+      }
+    ]
   }
 }

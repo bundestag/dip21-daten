@@ -1,5 +1,5 @@
 {
-  "process": "18-59736",
+  "vorgangId": "59736",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -22,5 +22,34 @@
     },
     "EU_DOK_NR": "Ratsdok. 7220/14, Kom. (2014) 99 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT ",
+        "FUNDSTELLE": "04.04.2014 - BT-Drucksache 18/1048, Nr. A.15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/010/1801048.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "24.04.2015 - BT-Plenarprotokoll 18/101, S. 9734D - 9735C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18101.pdf#P.9734",
+        "VP_ABSTRAKT": "S. 9734D - Kenntnisnahme"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-77267",
+  "vorgangId": "77267",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -20,5 +20,40 @@
       "Kleine Anfrage"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie viele Fristverlängerungsbitten zu Kleinen Anfragen aus dem Deutschen Bundestag gab es von den Bundesministerien in dieser Legislaturperiode bisher (bitte gesondert nach jedem Bundesministerium aufschlüsseln)?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "14.10.2016 - BT-Drucksache 18/9971, Nr. 6",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/099/1809971.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "19.10.2016 - BT-Plenarprotokoll 18/195, S. 19406A - 19406C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18195.pdf#P.19406",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19406A"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Helge",
+            "NACHNAME": "Braun",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19406A"
+          }
+        ]
+      }
+    ]
   }
 }

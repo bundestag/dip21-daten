@@ -1,5 +1,5 @@
 {
-  "process": "18-65082",
+  "vorgangId": "65082",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,45 @@
       "Prüfungsordnung"
     ],
     "ABSTRAKT": "Novellierung aufgrund der durch die Zentralisierung der Aufsicht über die Bundeswehrfachschulen sowie durch die Berufsförderungsverordnung geänderten Rahmenbedingungen für die Abschlussprüfungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "05.02.2015 - BR-Drucksache 41/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0041-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verteidigung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2015 - BR-Plenarprotokoll 932, TOP 29, S. 120A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/932.pdf#P.120",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "120A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "41/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2015 - BR-Drucksache 41/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0041-15B.pdf"
+      }
+    ]
   }
 }

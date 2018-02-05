@@ -1,5 +1,5 @@
 {
-  "process": "18-60050",
+  "vorgangId": "60050",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verordnungsantrag der Länder",
@@ -33,5 +33,71 @@
       "Sportstätte"
     ],
     "ABSTRAKT": "Einfügung einer Länderöffnungsklausel zur Ermöglichung abweichender Regelungen, um landesspezifischen Belangen und Besonderheiten Rechnung tragen zu können"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnungsantrag,  Urheber : Hamburg ",
+        "FUNDSTELLE": "12.05.2014 - BR-Drucksache 198/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0198-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "02.07.2014 - BR-Drucksache 198/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0198-1-14.pdf",
+        "VP_ABSTRAKT": "U: Beratungen noch nicht abgeschlossen - G, Wo: Ablehnung der Zuleitung - In: Zuleitung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.07.2014 - BR-Plenarprotokoll 924, TOP 53, S. 225D - 227A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.225",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Olaf",
+          "NACHNAME": "Scholz",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Präsident des Senats, Erster Bürgermeister",
+          "BUNDESLAND": "Hamburg",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "226A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "226D",
+          "BESCHLUSSTENOR": "Zuleitung",
+          "BEZUGSDOKUMENT": "198/14",
+          "GRUNDLAGE": "Art. 80 Abs. 3 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache / Verordnungsentwurf ",
+        "FUNDSTELLE": "11.07.2014 - BR-Drucksache 198/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0198-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "29.03.2016 - BR-Drucksache 154/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0154-16.pdf",
+        "VP_ABSTRAKT": "Unterrichtung der Bundesregierung über den Stand der Umsetzung des Verordnungsentwurfs"
+      }
+    ]
   }
 }

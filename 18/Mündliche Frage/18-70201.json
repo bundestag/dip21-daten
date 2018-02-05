@@ -1,5 +1,5 @@
 {
-  "process": "18-70201",
+  "vorgangId": "70201",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -25,5 +25,55 @@
       "Volkswagen"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nInwieweit und bei wie vielen Fahrzeugen erwartet die Bundesregierung, dass Softwareänderungen bzw. Anpassungen des Motors in der vom Kraftfahrt-Bundesamt angeordneten Rückrufaktion aufgrund zu niedrig ausgewiesener Stickoxidwerte in Fahrzeugen des Volkswagen-Konzerns eine Neuberechnung der CO2-Emissionen erforderlich macht?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "06.11.2015 - BT-Drucksache 18/6602, Nr. 5",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806602.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "11.11.2015 - BT-Plenarprotokoll 18/135, S. 13188A - 13189D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18135.pdf#P.13188",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "13188A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Barthle",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "13188B"
+          },
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "13189A"
+          },
+          {
+            "VORNAME": "Bärbel",
+            "NACHNAME": "Höhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "13189C"
+          }
+        ]
+      }
+    ]
   }
 }

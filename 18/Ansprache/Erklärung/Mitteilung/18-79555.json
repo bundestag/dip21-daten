@@ -1,5 +1,5 @@
 {
-  "process": "18-79555",
+  "vorgangId": "79555",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Ansprache/Erklärung/Mitteilung",
@@ -16,5 +16,31 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Ansprache",
+      "FUNDSTELLE": "26.01.2017 - BT-Plenarprotokoll 18/215, S. 21522C - 21522D",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18215.pdf#P.21522",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "PERSON_TITEL": "Dr. h.c.",
+          "VORNAME": "Edelgard",
+          "NACHNAME": "Bulmahn",
+          "FUNKTION": "Bundestagsvizepräs.",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "21522C"
+        },
+        {
+          "VORNAME": "Sigmar",
+          "NACHNAME": "Gabriel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "21522D"
+        }
+      ]
+    }
   }
 }

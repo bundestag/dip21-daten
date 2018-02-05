@@ -1,5 +1,5 @@
 {
-  "process": "18-58520",
+  "vorgangId": "58520",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung / Titelübersicht mit Ausschussüberweisung",
@@ -29,5 +29,27 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Ausschussüberweisung",
     "ABSTRAKT": "Erneute Überweisung von 30 Vorlagen aus früheren Wahlperioden an die zuständigen Ausschüsse"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf erneute Überweisung,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "11.03.2014 - BT-Drucksache 18/770",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/007/1800770.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.03.2014 - BT-Plenarprotokoll 18/20, S. 1577C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18020.pdf#P.1577",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1577C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/770",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

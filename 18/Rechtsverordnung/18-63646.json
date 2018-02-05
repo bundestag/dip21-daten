@@ -1,5 +1,5 @@
 {
-  "process": "18-63646",
+  "vorgangId": "63646",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -25,11 +25,62 @@
     "VERKUENDUNG": "Verordnung vom 22.12.2014 - Bundesgesetzblatt Teil I 2014 Nr.6229.12.2014 S. 2396 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl114s2396.pdf']",
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
-      "Beitragssatzverordnung",
+      "Beitragssatzverordnung 2015",
       "Gesetzliche Rentenversicherung",
       "Knappschaftsversicherung",
       "Rentenversicherungsbeitrag"
     ],
     "ABSTRAKT": "Festsetzung des Beitragssatzes in der allgemeinen Rentenversicherung für das Jahr 2015 auf 18,7 Prozent und Festsetzung des Beitragssatzes in der knappschaftlichen Rentenversicherung für das Jahr 2015 auf 24,8 Prozent"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "19.11.2014 - BR-Drucksache 562/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0562-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "08.12.2014 - BR-Drucksache 562/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0562-1-14.pdf",
+        "VP_ABSTRAKT": "Zustimmung - AS: zus. Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2014 - BR-Plenarprotokoll 929, TOP 35, S. 419A - 419B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/929.pdf#P.419",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "419B",
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "562/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 562/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0562-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "21.08.2015 - BR-Drucksache 378/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0378-15.pdf",
+        "VP_ABSTRAKT": "Antwort der Bundesregierung auf die Entschließung des Bundesrates in Drs 562/14 (Beschluss)"
+      }
+    ]
   }
 }

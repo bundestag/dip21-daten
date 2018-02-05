@@ -1,5 +1,5 @@
 {
-  "process": "18-83398",
+  "vorgangId": "83398",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -25,5 +25,45 @@
       "Zahnarzt"
     ],
     "ABSTRAKT": "Neufassung der Approbationsordnung für Zahnärzte und Zahnärztinnen (ZApprO), Änderung der Approbationsordnung für Ärzte; \nNeustrukturierung der zahnärztlichen Ausbildung, Angleichung der Studiengänge Medizin und Zahnmedizin in der Vorklinik, Neugewichtung der Ausbildungsinhalte, Abbildung von Allgemeinerkrankungen im Studium, Betreuungsrelation zwischen Lehrenden und Studierenden, Modellklausel, Erwerb der Fachkunde im Strahlenschutz, Stärkung wissenschaftlicher Kompetenz"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "03.08.2017 - BR-Drucksache 592/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0592-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "20.10.2017 - BR-Drucksache 592/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0592-1-17.pdf",
+        "VP_ABSTRAKT": "G: Zustimmung/Änderungen - Fz, K: Versagung der Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "03.11.2017 - BR-Plenarprotokoll 961, TOP 16, S. 429B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.429",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "429B",
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "592/17"
+        }
+      }
+    ]
   }
 }

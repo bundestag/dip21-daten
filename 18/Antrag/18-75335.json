@@ -1,5 +1,5 @@
 {
-  "process": "18-75335",
+  "vorgangId": "75335",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -42,5 +42,65 @@
       "Rechtsausschuss  "
     ],
     "ABSTRAKT": "Erörterung der Beteiligungsfrage durch den Ausschuss für Recht und Verbraucherschutz im Wege einer Anhörung unter Beteiligung des Ausschusses für die Angelegenheiten der EU sowie des federführenden Ausschusses für Wirtschaft und Energie"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "06.07.2016 - BT-Drucksache 18/9038",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/090/1809038.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Künast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "07.07.2016 - BT-Plenarprotokoll 18/183, S. 18038B - 18039C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18183.pdf#P.18038",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18039B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9038",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion B90/GR (Federführung beim AfRechtVer)"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Amtliche Mitteilung: Rücknahme",
+        "FUNDSTELLE": "23.09.2016 - BT-Plenarprotokoll 18/191, S. 19081D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18191.pdf#P.19081",
+        "VP_ABSTRAKT": "S. 19081D - Rücknahme 18/9038"
+      }
+    ]
   }
 }

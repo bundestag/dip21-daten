@@ -1,5 +1,5 @@
 {
-  "process": "18-80664",
+  "vorgangId": "80664",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -45,5 +45,62 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Klärung des Sozialversicherungsstatus bei den im Bereich des Blutspendewesens tätigen Honorarärzten und den Notärzten im Rettungswesen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Rheinland-Pfalz ",
+        "FUNDSTELLE": "24.03.2017 - BR-Drucksache 250/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0250-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "31.03.2017 - BR-Plenarprotokoll 956, TOP 85, S. 199D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/956.pdf#P.199",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Sabine",
+          "NACHNAME": "Bätzing-Lichtenthäler",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Ministerin für Soziales, Arbeit, Gesundheit und Demografie",
+          "BUNDESLAND": "Rheinland-Pfalz",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "199D"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "199D",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "250/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "28.04.2017 - BR-Drucksache 250/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0250-1-17.pdf",
+        "VP_ABSTRAKT": "Ablehnung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "12.05.2017 - BR-Plenarprotokoll 957, TOP 45, S. 219A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/957.pdf#P.219",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "219A",
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "250/17"
+        }
+      }
+    ]
   }
 }

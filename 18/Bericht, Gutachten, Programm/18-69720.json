@@ -1,5 +1,5 @@
 {
-  "process": "18-69720",
+  "vorgangId": "69720",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -43,5 +43,43 @@
       "Stromnetz"
     ],
     "ABSTRAKT": "Umsetzungsstand der EnLAG-Vorhaben, Fortschreibung des Bedarfsplans, Erfahrungen mit Erdkabeln (Gesetzeslage, Pilotvorhaben, Forschungsvorhaben)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "08.10.2015 - BR-Drucksache 463/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0463-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "08.10.2015 - BT-Drucksache 18/6270\nAnl. Übersichten zur baulichen Fertigstellung der EnLAG-Vorhaben",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/062/1806270.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "16.10.2015 - BT-Drucksache 18/6410",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/064/1806410.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "04.12.2015 - BT-Plenarprotokoll 18/144, S. 14272A - 14272C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18144.pdf#P.14272",
+        "VP_ABSTRAKT": "S. 14272A - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

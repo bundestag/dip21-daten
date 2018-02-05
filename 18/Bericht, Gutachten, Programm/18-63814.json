@@ -1,5 +1,5 @@
 {
-  "process": "18-63814",
+  "vorgangId": "63814",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -43,5 +43,91 @@
       "Zivilprozess"
     ],
     "ABSTRAKT": "Verordnungsvorschlag der EU-Kommission betr. Anhebung der Streitwertgrenze in grenzüberschreitenden Rechtsstreitigkeiten in Bagatellsachen auf 10.000 Euro (sog. Small-Claims-Verordnung): Einlegung eines Parlamentsvorbehaltes wegen Undurchsetzbarkeit der vom Deutschen Bundestag geforderten Beibehaltung der deutschen Streitwertgrenze von 2.000 Euro bei Absenkung des Kommissionsvorschlages auf 4.000 Euro \n \nBezug: Stellungnahme gem. Art. 23 III GG s. BT-Drs 18/2647 \n \n Beschlussempfehlung des Ausschusses:  Kenntnisnahme der Vorlage sowie des Verordnungsvorschlages und der Stellungnahme gem. Art. 23 III GG; Herstellung des Einvernehmens gem. § 8 IV EUZBBG betr. Erhöhung der Streitwertgrenze auf höchstens 4.000 Euro, begleitende Voraussetzungen und Grundannahmen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "01.12.2014 - BT-Drucksache 18/3385",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/033/1803385.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT",
+        "FUNDSTELLE": "03.12.2014 - BT-Plenarprotokoll 18/72, S. 6803B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18072.pdf#P.6803",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6803B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/3385"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "03.12.2014 - BT-Drucksache 18/3427\nAnl. Text der Vorlage",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/034/1803427.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Johannes",
+            "NACHNAME": "Fechner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Steineke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Halina",
+            "NACHNAME": "Wawzyniak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "hier: Einvernehmensherstellung gemäß § 8 Absatz 4 des Gesetzes über die Zusammenarbeit von Bundesregierung und Deutschem Bundestag in Angelegenheiten der Europäischen Union\n\nEmpfehlung: Kenntnisnahme und Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.12.2014 - BT-Plenarprotokoll 18/72, S. 6845C - 6845D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18072.pdf#P.6845",
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "6845D",
+            "BESCHLUSSTENOR": "Kenntnisnahme",
+            "BEZUGSDOKUMENT": "18/3385"
+          },
+          {
+            "BESCHLUSSSEITE": "6845D",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "18/3427"
+          }
+        ]
+      }
+    ]
   }
 }

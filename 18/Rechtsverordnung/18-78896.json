@@ -1,5 +1,5 @@
 {
-  "process": "18-78896",
+  "vorgangId": "78896",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Gewerbesteuer"
     ],
     "ABSTRAKT": "Erhöhung des Vervielfältigers zur Berechnung der Gewerbesteuerumlage"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "22.12.2016 - BR-Drucksache 808/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0808-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 83, S. 13C - 13D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.13",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "808/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.02.2017 - BR-Drucksache 808/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0808-16B.pdf"
+      }
+    ]
   }
 }

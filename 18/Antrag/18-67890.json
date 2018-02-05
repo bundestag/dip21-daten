@@ -1,5 +1,5 @@
 {
-  "process": "18-67890",
+  "vorgangId": "67890",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -42,5 +42,77 @@
       "Steuervergünstigung"
     ],
     "ABSTRAKT": "Vorlage eines Berichts zu Ergebnissen des Forschungsvorhabens zu Energiesteuereinnahmen im Kraftstoffsektor und zu Fördermaßnahmen zur Erhöhung des Marktanteils von Erd- und Flüssiggaskraftstoff sowie eines Gesetzentwurfs zur Verlängerung der Steuerermäßigung einschließlich Gegenfinanzierung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "01.07.2015 - BT-Drucksache 18/5378",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805378.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.07.2015 - BT-Plenarprotokoll 18/115, S. 11200C - 11200D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18115.pdf#P.11200",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11260A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Schindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11260D"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Petry",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11261D"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Rimkus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11262C"
+          },
+          {
+            "VORNAME": "Eva",
+            "NACHNAME": "Bulling-Schröter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11263B"
+          },
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11263D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11200C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/5378",
+          "ABSTIMMUNG_BEMERKUNG": "Sofortabstimmung gegen den Wunsch der Fraktionen DIE LINKE und B90/GR (Überweisung)"
+        }
+      }
+    ]
   }
 }

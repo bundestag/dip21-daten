@@ -1,5 +1,5 @@
 {
-  "process": "18-69157",
+  "vorgangId": "69157",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,39 @@
       "Programm der Bundesregierung"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWann werden der Bundesverkehrswegeplan und die Baugesetze dem Plenum des Deutschen Bundestages zugeleitet?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "18.09.2015 - BT-Drucksache 18/6019, Nr. 2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/060/1806019.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "23.09.2015 - BT-Plenarprotokoll 18/123, S. 11931B - 11931C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18123.pdf#P.11931",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Herbert",
+            "NACHNAME": "Behrens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "11931B"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "11931C"
+          }
+        ]
+      }
+    ]
   }
 }

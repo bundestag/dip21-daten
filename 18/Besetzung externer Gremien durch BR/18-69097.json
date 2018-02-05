@@ -1,5 +1,5 @@
 {
-  "process": "18-69097",
+  "vorgangId": "69097",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "16.09.2015 - BR-Drucksache 411/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0411-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "05.10.2015 - BR-Drucksache 411/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0411-1-15.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "16.10.2015 - BR-Plenarprotokoll 937, TOP 29a, S. 391A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/937.pdf#P.391",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "391A",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drucksache 411/1/15",
+          "BEZUGSDOKUMENT": "411/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "16.10.2015 - BR-Drucksache 411/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0411-15B.pdf"
+      }
+    ]
   }
 }

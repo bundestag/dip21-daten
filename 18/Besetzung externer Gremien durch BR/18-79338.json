@@ -1,5 +1,5 @@
 {
-  "process": "18-79338",
+  "vorgangId": "79338",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "16.01.2017 - BR-Drucksache 13/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0013-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "30.01.2017 - BR-Drucksache 13/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0013-1-17.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 90c, S. 13C - 13D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.13",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13D",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drs 13/1/17",
+          "BEZUGSDOKUMENT": "13/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.02.2017 - BR-Drucksache 13/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0013-17B.pdf"
+      }
+    ]
   }
 }

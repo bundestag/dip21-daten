@@ -1,5 +1,5 @@
 {
-  "process": "18-81935",
+  "vorgangId": "81935",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Entschließungsantrag BT",
@@ -45,5 +45,88 @@
       "Rassismus"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "30.05.2017 - BT-Drucksache 18/12553",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/125/1812553.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Annette",
+            "NACHNAME": "Groth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Inge",
+            "NACHNAME": "Höger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "31.05.2017 - BT-Plenarprotokoll 18/236, S. 23921A - 23933D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18236.pdf#P.23921",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Brand",
+            "WAHLKREISZUSATZ": "Fulda",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23925A"
+          },
+          {
+            "VORNAME": "Tom",
+            "NACHNAME": "Koenigs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23927A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karamba",
+            "NACHNAME": "Diaby",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23929A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Fabritius",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23930A"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Heinrich",
+            "WAHLKREISZUSATZ": "Chemnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23931D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23933C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/12553"
+        }
+      }
+    ]
   }
 }

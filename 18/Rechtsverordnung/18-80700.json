@@ -1,5 +1,5 @@
 {
-  "process": "18-80700",
+  "vorgangId": "80700",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -37,5 +37,55 @@
       "Verbrechensbekämpfung"
     ],
     "ABSTRAKT": "Festlegung von Regelungen für von den zur Datenspeicherung verpflichteten Telekommunikationsunternehmen zu treffende technische und organisatorische Vorkehrungen, Festlegung von technischen Standards zur Gewährleistung der Datensicherheit bei Aufbewahrung und Übermittlung an die berechtigten Stellen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "23.03.2017 - BR-Drucksache 243/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0243-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "02.05.2017 - BR-Drucksache 243/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0243-1-17.pdf",
+        "VP_ABSTRAKT": "Wi, Fz: Zustimmung - In, R: Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.05.2017 - BR-Plenarprotokoll 957, TOP 76, S. 219B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/957.pdf#P.219",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "219B",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "243/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.05.2017 - BR-Drucksache 243/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0243-17B.pdf"
+      }
+    ]
   }
 }

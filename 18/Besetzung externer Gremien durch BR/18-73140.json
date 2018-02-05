@@ -1,5 +1,5 @@
 {
-  "process": "18-73140",
+  "vorgangId": "73140",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesagentur für Arbeit",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "11.03.2016 - BR-Drucksache 135/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0135-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "11.04.2016 - BR-Drucksache 135/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0135-1-16.pdf",
+        "VP_ABSTRAKT": "Vorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "22.04.2016 - BR-Plenarprotokoll 944, TOP 37, S. 159C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/944.pdf#P.159",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "159C",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drucksache 135/1/16",
+          "BEZUGSDOKUMENT": "135/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "22.04.2016 - BR-Drucksache 135/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0135-16B.pdf"
+      }
+    ]
   }
 }

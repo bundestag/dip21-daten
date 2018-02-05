@@ -1,5 +1,5 @@
 {
-  "process": "18-80141",
+  "vorgangId": "80141",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,40 @@
       "Tunesien"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Sicherheitskooperationen (militärisch oder polizeilich) bestehen zwischen der Bundesrepublik Deutschland und Tunesien?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "03.03.2017 - BT-Drucksache 18/11364, Nr. 13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/113/1811364.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "08.03.2017 - BT-Plenarprotokoll 18/220, S. 22020D - 22021C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18220.pdf#P.22020",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Inge",
+            "NACHNAME": "Höger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22020D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Maria",
+            "NACHNAME": "Böhmer",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22020D"
+          }
+        ]
+      }
+    ]
   }
 }

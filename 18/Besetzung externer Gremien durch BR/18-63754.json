@@ -1,5 +1,5 @@
 {
-  "process": "18-63754",
+  "vorgangId": "63754",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "27.11.2014 - BR-Drucksache 582/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0582-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.02.2015 - BR-Drucksache 582/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0582-1-14.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.03.2015 - BR-Plenarprotokoll 931, TOP 23a, S. 65C - 65D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/931.pdf#P.65",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "65D",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drucksache 582/1/14",
+          "BEZUGSDOKUMENT": "582/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.03.2015 - BR-Drucksache 582/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0582-14B.pdf"
+      }
+    ]
   }
 }

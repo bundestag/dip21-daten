@@ -1,5 +1,5 @@
 {
-  "process": "18-74964",
+  "vorgangId": "74964",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,42 @@
       "Schulzeugnis"
     ],
     "ABSTRAKT": "Verlängerung der bislang bis zum 30. September 2016 befristeten Gleichstellung bis zum 30. September 2026"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Wirtschaft und Energie ",
+        "FUNDSTELLE": "15.06.2016 - BR-Drucksache 331/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0331-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.07.2016 - BR-Plenarprotokoll 947, TOP 47, S. 287B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/947.pdf#P.287",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "287B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "331/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.07.2016 - BR-Drucksache 331/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0331-16B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-63390",
+  "vorgangId": "63390",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,48 @@
       "Berufskrankheiten-Verordnung"
     ],
     "ABSTRAKT": "Aufnahme von vier Krankheiten in die Anlage der Verordnung, Anpassung an neue medizinisch-wissenschaftliche Erkenntnisse auf der Basis der Empfehlungen des Sachverständigenbeirats \"Berufskrankheiten\""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "05.11.2014 - BR-Drucksache 534/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0534-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2014 - BR-Plenarprotokoll 929, TOP 34, S. 410C - 410D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/929.pdf#P.410",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "410C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "534/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 534/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0534-14B.pdf"
+      }
+    ]
   }
 }

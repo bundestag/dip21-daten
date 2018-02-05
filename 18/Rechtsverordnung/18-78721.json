@@ -1,5 +1,5 @@
 {
-  "process": "18-78721",
+  "vorgangId": "78721",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "STCW-Übereinkommen"
     ],
     "ABSTRAKT": "Inkraftsetzung von Änderungen der Anlagen des Abkommens"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "16.12.2016 - BR-Drucksache 773/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0773-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 89, S. 13C - 13D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.13",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "773/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.02.2017 - BR-Drucksache 773/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0773-16B.pdf"
+      }
+    ]
   }
 }

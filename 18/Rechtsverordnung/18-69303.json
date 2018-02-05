@@ -1,5 +1,5 @@
 {
-  "process": "18-69303",
+  "vorgangId": "69303",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,45 @@
       "Vergütung"
     ],
     "ABSTRAKT": "Festlegung von aktualisierten Beziehungswerten auf der Grundlage neuester statistischer Materialien"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "22.09.2015 - BR-Drucksache 426/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0426-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2015 - BR-Plenarprotokoll 938, TOP 38, S. 414B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/938.pdf#P.414",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "414B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "426/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2015 - BR-Drucksache 426/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0426-15B.pdf"
+      }
+    ]
   }
 }

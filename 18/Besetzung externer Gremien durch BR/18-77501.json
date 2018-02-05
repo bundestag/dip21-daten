@@ -1,5 +1,5 @@
 {
-  "process": "18-77501",
+  "vorgangId": "77501",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Filmförderungsanstalt",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "27.10.2016 - BR-Drucksache 639/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0639-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "02.12.2016 - BR-Drucksache 639/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0639-1-16.pdf",
+        "VP_ABSTRAKT": "Verzicht auf das Vorschlagsrecht"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "16.12.2016 - BR-Plenarprotokoll 952, TOP 64, S. 515A - 515B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/952.pdf#P.515",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "515A",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drs 639/1/16",
+          "BEZUGSDOKUMENT": "639/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "16.12.2016 - BR-Drucksache 639/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0639-16B.pdf"
+      }
+    ]
   }
 }

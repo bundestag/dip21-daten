@@ -1,5 +1,5 @@
 {
-  "process": "18-73393",
+  "vorgangId": "73393",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,74 @@
       "Sportstätte"
     ],
     "ABSTRAKT": "Ermöglichung von \"Public-Viewing\"-Veranstaltungen auch nach 22 Uhr"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "24.03.2016 - BR-Drucksache 148/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0148-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "13.05.2016 - BR-Plenarprotokoll 945, TOP 27, S. 203A - 204C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/945.pdf#P.203",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Boris",
+            "NACHNAME": "Pistorius",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "203A"
+          },
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Schwarzelühr-Sutter",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "204A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Fritz",
+            "NACHNAME": "Jaeckel",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Staatsminister für Bundes- und Europaangelegenheiten und Chef der Staatskanzlei",
+            "BUNDESLAND": "Sachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "204C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "204C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "148/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "13.05.2016 - BR-Drucksache 148/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0148-16B.pdf"
+      }
+    ]
   }
 }

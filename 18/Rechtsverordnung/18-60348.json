@@ -1,5 +1,5 @@
 {
-  "process": "18-60348",
+  "vorgangId": "60348",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -34,5 +34,52 @@
       "Medizinprodukte-Sicherheitsplanverordnung"
     ],
     "ABSTRAKT": "Erlass einer Verordnung zur Regelung der Abgabe von Medizinprodukten (Medizinprodukte-Abgabeverordnung - MPAV), Änderung der Medizinprodukte-Betreiberverordnung, Änderung der Verordnung über klinische Prüfungen von Medizinprodukten, Änderung der Medizinprodukte-Sicherheitsplanverordnung, Änderung der DIMDI-Verordnung; \n \nDeregulierung, Einrichtung einer neuen Datenbank beim Deutschen Institut für Medizinische Dokumentation und Information (DIMDI), Korrekturbedarf aufgrund praktischer Erfahrungen im Bereich der klinischen Prüfung von Medizinprodukten und der Bearbeitung von Vorkommnissen mit Medizinprodukten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "28.05.2014 - BR-Drucksache 235/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0235-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "30.06.2014 - BR-Drucksache 235/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0235-1-14.pdf",
+        "VP_ABSTRAKT": "G: Zustimmung/Änderungen - AS, Wi: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.07.2014 - BR-Plenarprotokoll 924, TOP 32, S. 228D - 229A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.228",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "228D",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "235/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.07.2014 - BR-Drucksache 235/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0235-14B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-67000",
+  "vorgangId": "67000",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -37,5 +37,51 @@
       "Todesfall"
     ],
     "ABSTRAKT": "Festlegung der Adressaten der Sterbefallmitteilung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Justiz und für Verbraucherschutz ",
+        "FUNDSTELLE": "13.05.2015 - BR-Drucksache 220/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0220-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.07.2015 - BR-Plenarprotokoll 935, TOP 44, S. 246B - 246C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/935.pdf#P.246",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Andreas",
+          "NACHNAME": "Geisel",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Senator für Stadtentwicklung und Umwelt",
+          "BUNDESLAND": "Berlin",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "246C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "246B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "220/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.07.2015 - BR-Drucksache 220/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0220-15B.pdf"
+      }
+    ]
   }
 }

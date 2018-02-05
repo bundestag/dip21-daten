@@ -1,5 +1,5 @@
 {
-  "process": "18-63378",
+  "vorgangId": "63378",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "06.11.2014 - BR-Drucksache 548/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0548-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.11.2014 - BR-Plenarprotokoll 927, TOP 49, S. 362C - 362D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/927.pdf#P.362",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "362D",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "548/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.11.2014 - BR-Drucksache 548/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0548-14B.pdf"
+      }
+    ]
   }
 }

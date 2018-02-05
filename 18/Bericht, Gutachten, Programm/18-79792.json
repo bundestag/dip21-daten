@@ -1,5 +1,5 @@
 {
-  "process": "18-79792",
+  "vorgangId": "79792",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -35,5 +35,36 @@
       "Ruhegehalt"
     ],
     "ABSTRAKT": "Ausgangslage und Entwicklungen im öffentlichen Dienst des Bundes, Anhebung der Altersgrenzen, Auswirkungen, weitere Maßnahmen zur Bewältigung der demografischen Auswirkungen in der Bundesverwaltung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "06.02.2017 - BT-Drucksache 18/11117",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/111/1811117.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "17.02.2017 - BT-Drucksache 18/11225",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/112/1811225.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

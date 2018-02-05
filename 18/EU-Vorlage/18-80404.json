@@ -1,5 +1,5 @@
 {
-  "process": "18-80404",
+  "vorgangId": "80404",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -16,5 +16,28 @@
     },
     "EU_DOK_NR": "Ratsdok. 5799/17, Kom. (2017) 33 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+      "FUNDSTELLE": "10.03.2017 - BT-Drucksache 18/11484, Nr. A.19",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/114/1811484.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+        }
+      ]
+    }
   }
 }

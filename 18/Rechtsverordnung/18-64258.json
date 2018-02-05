@@ -1,5 +1,5 @@
 {
-  "process": "18-64258",
+  "vorgangId": "64258",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -40,5 +40,49 @@
       "Windenergieanlage"
     ],
     "ABSTRAKT": "Nachrüstung der Kraft-Wärme-Kopplungs-, Windenergie-, Wasserkraft- und Biomasseanlagen, Einstellung der Frequenzschutzeinrichtung auf bestimmte Hertz-Bereiche, Festlegung der genauen Abschaltfrequenzwerte durch die Betreiber der Übertragungsnetze, Durchführung der Nachrüstung innerhalt von drei Jahren, Kostenregelung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "17.12.2014 - BR-Drucksache 624/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0624-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.01.2015 - BR-Drucksache 624/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0624-1-14.pdf",
+        "VP_ABSTRAKT": "Wi: Zustimmung/Änderungen - U: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.02.2015 - BR-Plenarprotokoll 930, TOP 43, S. 23B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/930.pdf#P.23",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23B",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "624/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.02.2015 - BR-Drucksache 624/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0624-14B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-81590",
+  "vorgangId": "81590",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Entlastung des Bundesrechnungshofes",
@@ -51,5 +51,96 @@
       "Bundesrechnungshof"
     ],
     "ABSTRAKT": "Erläuterungen und Rechnungslegung zu den Kapiteln Zentral veranschlagte Verwaltungseinnahmen und -ausgaben, Bundesrechnungshof sowie Prüfungsämter des Bundes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "11.05.2017 - BT-Drucksache 18/12350",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/123/1812350.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "12.05.2017 - BR-Drucksache 386/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0386-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "01.06.2017 - BT-Plenarprotokoll 18/237, S. 24070B - 24071D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18237.pdf#P.24070",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24071D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/12350"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "29.06.2017 - BT-Drucksache 18/12972",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/129/1812972.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Hagedorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Körber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Leutert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Entlastung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 54, S. 345C - 345D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345D",
+          "BESCHLUSSTENOR": "Entlastung",
+          "BEZUGSDOKUMENT": "386/17",
+          "GRUNDLAGE": "§ 101 Bundeshaushaltsordnung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 386/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0386-17B.pdf"
+      }
+    ]
   }
 }

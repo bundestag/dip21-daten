@@ -1,5 +1,5 @@
 {
-  "process": "18-78017",
+  "vorgangId": "78017",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,49 @@
       "Agrarzahlungen-Verpflichtungenverordnung"
     ],
     "ABSTRAKT": "Erleichterung der freiwilligen Anlage von Blühstreifen und Bejagungsschneisen, redaktionelle Klarstellungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "17.11.2016 - BR-Drucksache 682/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0682-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.01.2017 - BR-Drucksache 682/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0682-1-16.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 81, S. 49B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.49",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "49B",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "682/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.02.2017 - BR-Drucksache 682/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0682-16B.pdf"
+      }
+    ]
   }
 }

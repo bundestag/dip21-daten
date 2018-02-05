@@ -1,5 +1,5 @@
 {
-  "process": "18-59282",
+  "vorgangId": "59282",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,37 @@
       "TPG-Gewebeverordnung"
     ],
     "ABSTRAKT": "Regelungen zur Durchführung von Antikörpertests und Blutprobenentnahmen bei Gewebespendern"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "08.04.2014 - BR-Drucksache 141/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0141-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.05.2014 - BR-Plenarprotokoll 922, TOP 34, S. 134A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/922.pdf#P.134",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "134A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "141/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.05.2014 - BR-Drucksache 141/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0141-14B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-69921",
+  "vorgangId": "69921",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -23,5 +23,31 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "16.10.2015 - BT-Drucksache 18/6417, Nr. A.21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/064/1806417.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "27.11.2015 - BT-Plenarprotokoll 18/141, S. 13874D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18141.pdf#P.13874",
+        "VP_ABSTRAKT": "S. 13874D - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

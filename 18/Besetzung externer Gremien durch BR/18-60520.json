@@ -1,5 +1,5 @@
 {
-  "process": "18-60520",
+  "vorgangId": "60520",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Stiftung für ehemalige politische Häftlinge",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "04.06.2014 - BR-Drucksache 246/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0246-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.06.2014 - BR-Drucksache 246/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0246-1-14.pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.07.2014 - BR-Plenarprotokoll 924, TOP 39, S. 228D - 229A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.228",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "228D",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "246/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.07.2014 - BR-Drucksache 246/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0246-14B.pdf"
+      }
+    ]
   }
 }

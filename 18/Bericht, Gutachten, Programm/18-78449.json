@@ -1,5 +1,5 @@
 {
-  "process": "18-78449",
+  "vorgangId": "78449",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,37 @@
       "Verkehrsstatistik"
     ],
     "ABSTRAKT": "Untersuchungsverfahren, allgemeine Verkehrsentwicklung und Entwicklung des Modal Split im Güterverkehr, Ergebnisse: Maßnahmenwirkung, ergänzende Modellrechnungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "30.11.2016 - BT-Drucksache 18/10567",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/105/1810567.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "16.12.2016 - BT-Drucksache 18/10696",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/106/1810696.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "27.01.2017 - BT-Plenarprotokoll 18/216, S. 21704A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18216.pdf#P.21704",
+        "VP_ABSTRAKT": "S. 21704A - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

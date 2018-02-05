@@ -1,5 +1,5 @@
 {
-  "process": "18-59722",
+  "vorgangId": "59722",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -22,5 +22,31 @@
     },
     "EU_DOK_NR": "Ratsdok. 7505/14",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT ",
+        "FUNDSTELLE": "04.04.2014 - BT-Drucksache 18/1048, Nr. A.3",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/010/1801048.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "09.05.2014 - BT-Plenarprotokoll 18/34, S. 2933C - 2934C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18034.pdf#P.2933",
+        "VP_ABSTRAKT": "S. 2933C - Kenntnisnahme"
+      }
+    ]
   }
 }

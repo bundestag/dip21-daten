@@ -1,5 +1,5 @@
 {
-  "process": "18-58418",
+  "vorgangId": "58418",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Stiftung Haus der Geschichte der Bundesrepublik Deutschland",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "07.03.2014 - BR-Drucksache 97/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0097-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, TOP 31, S. 85A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.85",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "85A",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "97/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.04.2014 - BR-Drucksache 97/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0097-14B.pdf"
+      }
+    ]
   }
 }

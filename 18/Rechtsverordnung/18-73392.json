@@ -1,5 +1,5 @@
 {
-  "process": "18-73392",
+  "vorgangId": "73392",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,42 @@
       "Psychotrope Substanz"
     ],
     "ABSTRAKT": "Änderung der Anlagen des Betäubungsmittelgesetzes, Änderung der Betäubungsmittel-Verschreibungsverordnung, Anpassung an den Stand wissenschaftlicher Erkenntnisse, Aufnahme neuer psychoaktiver Substanzen in die Anlagen des Betäubungsmittelgesetzes, Zulassung der Verschreibung von Methadon für den tierärztlichen Praxisbedarf"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "24.03.2016 - BR-Drucksache 147/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0147-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "13.05.2016 - BR-Plenarprotokoll 945, TOP 26, S. 187B - 187C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/945.pdf#P.187",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "187C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "147/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "13.05.2016 - BR-Drucksache 147/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0147-16B.pdf"
+      }
+    ]
   }
 }

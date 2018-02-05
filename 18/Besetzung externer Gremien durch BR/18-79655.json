@@ -1,5 +1,5 @@
 {
-  "process": "18-79655",
+  "vorgangId": "79655",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -26,5 +26,43 @@
       "Bundesgerichtshof"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "01.02.2017 - BR-Drucksache 104/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0104-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "08.02.2017 - BR-Drucksache 104/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0104-1-17.pdf",
+        "VP_ABSTRAKT": "Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.02.2017 - BR-Plenarprotokoll 953, TOP 105, S. 13C - 13D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/953.pdf#P.13",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13D",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drs 104/1/17",
+          "BEZUGSDOKUMENT": "104/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.02.2017 - BR-Drucksache 104/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0104-17B.pdf"
+      }
+    ]
   }
 }

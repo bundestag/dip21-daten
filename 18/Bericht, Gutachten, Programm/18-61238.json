@@ -1,5 +1,5 @@
 {
-  "process": "18-61238",
+  "vorgangId": "61238",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -41,5 +41,47 @@
       "Verwaltungszustellung"
     ],
     "ABSTRAKT": "Möglichkeiten und technische Voraussetzungen zur Ersetzung der Schriftform in der Kommunikation mit staatlichen Stellen und im elektronischen Rechtsverkehr: De-Mail als Alternative zur qualifizierten elektronischen Signatur (qeS), Verwendung von De-Mail und Online-Ausweisfunktion im Verwaltungsrecht, im Sozial- und Steuerrecht sowie im Prozessrecht"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "13.09.2012 - BT-Drucksache 17/10720",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/107/1710720.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.06.2014 - BT-Plenarprotokoll 18/43, S. 3884A - 3884C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18043.pdf#P.3884",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "3884C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "17/10720"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

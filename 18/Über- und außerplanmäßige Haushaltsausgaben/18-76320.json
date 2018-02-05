@@ -1,5 +1,5 @@
 {
-  "process": "18-76320",
+  "vorgangId": "76320",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Über- und außerplanmäßige Haushaltsausgaben",
@@ -29,5 +29,35 @@
       "Verpflichtungsermächtigung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "17.08.2016 - BT-Drucksache 18/9453",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/094/1809453.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "26.08.2016 - BR-Drucksache 480/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0480-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.09.2016 - BT-Drucksache 18/9596",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/095/1809596.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

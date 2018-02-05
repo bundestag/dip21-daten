@@ -1,5 +1,5 @@
 {
-  "process": "18-80114",
+  "vorgangId": "80114",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "KfW-Bankengruppe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "03.03.2017 - BR-Drucksache 192/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0192-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.03.2017 - BR-Plenarprotokoll 954, TOP 87, S. 97A - 97B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/954.pdf#P.97",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "97B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "192/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.03.2017 - BR-Drucksache 192/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0192-17B.pdf"
+      }
+    ]
   }
 }

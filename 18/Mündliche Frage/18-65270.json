@@ -1,5 +1,5 @@
 {
-  "process": "18-65270",
+  "vorgangId": "65270",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,55 @@
       "Unternehmen"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Vertreter deutscher Wirtschaftsunternehmen haben Uwe Beckmeyer, Parlamentarischer Staatssekretär beim Bundesminister für Wirtschaft und Energie, bei seinem jüngsten Indien-Besuch begleitet, und mit welchen Politikern auf der indischen Seite wurden Gespräche geführt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "20.02.2015 - BT-Drucksache 18/4043, Nr. 21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/040/1804043.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "25.02.2015 - BT-Plenarprotokoll 18/87, S. 8219B - 8221B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18087.pdf#P.8219",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "8219B"
+          },
+          {
+            "VORNAME": "Brigitte",
+            "NACHNAME": "Zypries",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "8219C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "8220C"
+          },
+          {
+            "VORNAME": "Susanna",
+            "NACHNAME": "Karawanskij",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "8221A"
+          }
+        ]
+      }
+    ]
   }
 }

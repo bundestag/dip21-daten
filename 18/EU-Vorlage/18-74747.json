@@ -1,5 +1,5 @@
 {
-  "process": "18-74747",
+  "vorgangId": "74747",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -43,5 +43,57 @@
       "Sicherheitsvorschrift"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "06.06.2016 - BR-Drucksache 303/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0303-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "07.06.2016 - BR-Drucksache zu303/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0303-16(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.07.2016 - BR-Plenarprotokoll 947, TOP 999c, S. 312A - 312C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/947.pdf#P.312",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "312C",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "303/16",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.07.2016 - BR-Drucksache 303/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0303-16B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "08.07.2016 - BT-Drucksache 18/9141, Nr. B.26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/091/1809141.pdf"
+      }
+    ]
   }
 }

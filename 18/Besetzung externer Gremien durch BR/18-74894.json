@@ -1,5 +1,5 @@
 {
-  "process": "18-74894",
+  "vorgangId": "74894",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "14.06.2016 - BR-Drucksache 329/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0329-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "17.06.2016 - BR-Plenarprotokoll 946, TOP 69, S. 243A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/946.pdf#P.243",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "243A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "329/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "17.06.2016 - BR-Drucksache 329/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0329-16B.pdf"
+      }
+    ]
   }
 }

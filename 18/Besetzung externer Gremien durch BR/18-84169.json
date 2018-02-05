@@ -1,5 +1,5 @@
 {
-  "process": "18-84169",
+  "vorgangId": "84169",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "17.10.2017 - BR-Drucksache 689/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0689-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.11.2017 - BR-Plenarprotokoll 961, TOP 24, S. 435B - 435C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "435C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "689/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.11.2017 - BR-Drucksache 689/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0689-17B.pdf"
+      }
+    ]
   }
 }

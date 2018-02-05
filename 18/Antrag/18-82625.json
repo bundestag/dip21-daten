@@ -1,5 +1,5 @@
 {
-  "process": "18-82625",
+  "vorgangId": "82625",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -32,5 +32,61 @@
       "Transsexualität"
     ],
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs betr. Streichung der bislang verpflichtenden psychiatrischen Begutachtung zur Änderung des Vornamens oder Personenstands sowie der Unterbindung von Operationen zur Herstellung von Geschlechtseindeutigkeit ohne Einwilligung der Betroffenen; Einbringung des Mantelgesetzentwurfs zur Anerkennung und zum Schutz der Geschlechtervielfalt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "20.06.2017 - BT-Drucksache 18/12783",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/127/1812783.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Petzold",
+            "WAHLKREISZUSATZ": "Havelland",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Sigrid",
+            "NACHNAME": "Hupach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "22.06.2017 - BT-Plenarprotokoll 18/240, S. 24531A - 24532B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18240.pdf#P.24531",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24532B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/12783"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

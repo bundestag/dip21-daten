@@ -1,5 +1,5 @@
 {
-  "process": "18-57387",
+  "vorgangId": "57387",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -23,5 +23,34 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "04.07.2014 - BT-Plenarprotokoll 18/47, S. 4414D - 4415C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18047.pdf#P.4414",
+        "VP_ABSTRAKT": "S. 4414D - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

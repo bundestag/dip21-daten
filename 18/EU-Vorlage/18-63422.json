@@ -1,5 +1,5 @@
 {
-  "process": "18-63422",
+  "vorgangId": "63422",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -41,5 +41,87 @@
     "EU_DOK_NR": "Ratsdok. 14152/14, Kom. (2014) 700 endg.",
     "SCHLAGWORT": "EU-Erweiterung",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "07.11.2014 - BR-Drucksache 551/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0551-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "07.11.2014 - BT-Drucksache 18/3110, Nr. A.15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/031/1803110.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.01.2015 - BR-Drucksache 551/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0551-1-14.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.02.2015 - BR-Plenarprotokoll 930, TOP 32, S. 40A - 40B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/930.pdf#P.40",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Peter",
+          "NACHNAME": "Friedrich",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Bundesrat, Europa und internationale Angelegenheiten und Bevollmächtigter des Landes Baden-Württemberg beim Bund",
+          "BUNDESLAND": "Baden-Württemberg",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "40A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "40B",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "551/14",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.02.2015 - BR-Drucksache 551/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0551-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "03.07.2015 - BT-Plenarprotokoll 18/116, S. 11350A - 11350D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18116.pdf#P.11350",
+        "VP_ABSTRAKT": "S. 11350A - Kenntnisnahme"
+      }
+    ]
   }
 }

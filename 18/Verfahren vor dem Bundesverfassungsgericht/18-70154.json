@@ -1,5 +1,5 @@
 {
-  "process": "18-70154",
+  "vorgangId": "70154",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -27,5 +27,27 @@
       "Gerichtsverfahren"
     ],
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "04.11.2015 - BT-Drucksache 18/6572",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/065/1806572.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.11.2015 - BT-Plenarprotokoll 18/133, S. 12936B - 12936C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18133.pdf#P.12936",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "12936C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/6572",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-70091",
+  "vorgangId": "70091",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -48,5 +48,49 @@
       "Wohnungspolitik"
     ],
     "ABSTRAKT": "Wohnungspolitische Schwerpunkte, Mietentwicklung, Entwicklung des Wohngelds und der Kosten für Unterkunft und Heizung, Struktur der Empfängerhaushalte, geänderte Vorschriften und Untersuchungen zum Wohngeldrecht"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "29.10.2015 - BR-Drucksache 527/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0527-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "29.10.2015 - BT-Drucksache 18/6540",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/065/1806540.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "13.11.2015 - BT-Drucksache 18/6708",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/067/1806708.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "18.12.2015 - BT-Plenarprotokoll 18/147, S. 14569D - 14570B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18147.pdf#P.14569",
+        "VP_ABSTRAKT": "S. 14570B - Mitteilung über Absehen von Berichterstattung (18/6540)"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-80671",
+  "vorgangId": "80671",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,39 @@
       "Verpackung"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Kenntnisse hat die Bundesregierung über verschwundenen Müll (Verpackungsmüll, Elektroschrott, Altautos), und welche Konsequenzen wird sie daraus ziehen?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "24.03.2017 - BT-Drucksache 18/11681, Nr. 4",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/116/1811681.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "29.03.2017 - BT-Plenarprotokoll 18/227, S. 22812D - 22813D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18227.pdf#P.22812",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Meiwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22812D"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Pronold",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22813A"
+          }
+        ]
+      }
+    ]
   }
 }

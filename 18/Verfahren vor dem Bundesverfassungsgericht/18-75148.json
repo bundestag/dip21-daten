@@ -1,5 +1,5 @@
 {
-  "process": "18-75148",
+  "vorgangId": "75148",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -31,5 +31,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesverfassungsgericht",
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.06.2016 - BR-Drucksache 336/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0336-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "06.07.2016 - BR-Drucksache zu336/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0336-16(zu).pdf",
+        "VP_ABSTRAKT": "Ergänzung weiterer Verfahren"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.07.2016 - BR-Plenarprotokoll 947, TOP 50, S. 287B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/947.pdf#P.287",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "287B",
+          "BESCHLUSSTENOR": "Abstandnahme von Äußerung und Beitritt",
+          "BEZUGSDOKUMENT": "336/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.07.2016 - BR-Drucksache 336/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0336-16B.pdf"
+      }
+    ]
   }
 }

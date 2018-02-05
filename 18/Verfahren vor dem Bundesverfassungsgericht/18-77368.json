@@ -1,5 +1,5 @@
 {
-  "process": "18-77368",
+  "vorgangId": "77368",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesverfassungsgericht",
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "20.10.2016 - BR-Drucksache 576/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0576-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "04.11.2016 - BR-Plenarprotokoll 950, TOP 37, S. 437A - 437B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/950.pdf#P.437",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "437B",
+          "BESCHLUSSTENOR": "Abstandnahme von Äußerung und Beitritt",
+          "BEZUGSDOKUMENT": "576/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "04.11.2016 - BR-Drucksache 576/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0576-16B.pdf"
+      }
+    ]
   }
 }

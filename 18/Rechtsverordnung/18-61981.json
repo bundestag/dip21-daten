@@ -1,5 +1,5 @@
 {
-  "process": "18-61981",
+  "vorgangId": "61981",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,37 @@
       "Wiedergutmachung nationalsozialistischen Unrechts"
     ],
     "ABSTRAKT": "Feststellung der endgültigen Lastenanteile für das Rechnungsjahr 2013"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "21.08.2014 - BR-Drucksache 374/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0374-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.10.2014 - BR-Plenarprotokoll 926, TOP 26, S. 320C - 320D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/926.pdf#P.320",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "320D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "374/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.10.2014 - BR-Drucksache 374/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0374-14B.pdf"
+      }
+    ]
   }
 }

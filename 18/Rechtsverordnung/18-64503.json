@@ -1,5 +1,5 @@
 {
-  "process": "18-64503",
+  "vorgangId": "64503",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,37 @@
       "Gewerbesteuer"
     ],
     "ABSTRAKT": "Erhöhung des Vervielfältigers zur Berechnung der Gewerbesteuerumlage"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "08.01.2015 - BR-Drucksache 3/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0003-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.03.2015 - BR-Plenarprotokoll 931, TOP 18, S. 65C - 65D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/931.pdf#P.65",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "65D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "3/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.03.2015 - BR-Drucksache 3/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0003-15B.pdf"
+      }
+    ]
   }
 }

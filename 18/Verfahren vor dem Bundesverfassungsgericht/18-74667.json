@@ -1,5 +1,5 @@
 {
-  "process": "18-74667",
+  "vorgangId": "74667",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesverfassungsgericht",
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "03.06.2016 - BR-Drucksache 248/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0248-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "17.06.2016 - BR-Plenarprotokoll 946, TOP 58, S. 243A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/946.pdf#P.243",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "243A",
+          "BESCHLUSSTENOR": "Abstandnahme von Äußerung und Beitritt",
+          "BEZUGSDOKUMENT": "248/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "17.06.2016 - BR-Drucksache 248/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0248-16B.pdf"
+      }
+    ]
   }
 }

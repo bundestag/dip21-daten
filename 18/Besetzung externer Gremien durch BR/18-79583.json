@@ -1,5 +1,5 @@
 {
-  "process": "18-79583",
+  "vorgangId": "79583",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Stiftung Haus der Geschichte der Bundesrepublik Deutschland",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "27.01.2017 - BR-Drucksache 91/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0091-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.03.2017 - BR-Plenarprotokoll 954, TOP 84, S. 97A - 97B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/954.pdf#P.97",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "97B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "91/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.03.2017 - BR-Drucksache 91/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0091-17B.pdf"
+      }
+    ]
   }
 }

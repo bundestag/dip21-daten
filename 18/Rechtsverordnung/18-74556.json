@@ -1,5 +1,5 @@
 {
-  "process": "18-74556",
+  "vorgangId": "74556",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,45 @@
       "Leistungen für Unterkunft und Heizung"
     ],
     "ABSTRAKT": "Rückwirkende Anpassung des Wertes der erhöhten Bundesbeteiligung auf bundesdurchschnittlich 4,1 Prozent, Ableitung der länderspezifischen Ausgleichswerte"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "25.05.2016 - BR-Drucksache 268/16(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0268-16(neu).pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.07.2016 - BR-Plenarprotokoll 947, TOP 38, S. 287B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/947.pdf#P.287",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "287B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "268/16(neu)",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.07.2016 - BR-Drucksache 268/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0268-16B.pdf"
+      }
+    ]
   }
 }

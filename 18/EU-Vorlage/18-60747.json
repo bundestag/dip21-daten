@@ -1,5 +1,5 @@
 {
-  "process": "18-60747",
+  "vorgangId": "60747",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -24,5 +24,40 @@
     ],
     "EU_DOK_NR": "Ratsdok. 8485/14, Kom. (2014) 172 endg.",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.05.2014 - BT-Drucksache 18/1393, Nr. B.18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/013/1801393.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "12.09.2014 - BT-Drucksache 18/2533, Nr. C.1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/025/1802533.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          }
+        ]
+      }
+    ]
   }
 }

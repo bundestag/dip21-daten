@@ -1,5 +1,5 @@
 {
-  "process": "18-63078",
+  "vorgangId": "63078",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verordnungsantrag der Länder",
@@ -35,5 +35,37 @@
       "Verkehrstarif"
     ],
     "ABSTRAKT": "Anhebung des erhöhten Beförderungsentgelts von 40 Euro auf 60 Euro"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnungsantrag,  Urheber : Bayern und Nordrhein-Westfalen ",
+        "FUNDSTELLE": "21.10.2014 - BR-Drucksache 502/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0502-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "28.11.2014 - BR-Plenarprotokoll 928, TOP 17, S. 380A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/928.pdf#P.380",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "380A",
+          "BESCHLUSSTENOR": "Zuleitung",
+          "BEZUGSDOKUMENT": "502/14",
+          "GRUNDLAGE": "Art. 80 Abs. 3 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache / Verordnungsentwurf ",
+        "FUNDSTELLE": "28.11.2014 - BR-Drucksache 502/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0502-14B.pdf"
+      }
+    ]
   }
 }

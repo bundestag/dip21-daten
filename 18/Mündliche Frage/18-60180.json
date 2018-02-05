@@ -1,5 +1,5 @@
 {
-  "process": "18-60180",
+  "vorgangId": "60180",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,39 @@
       "USA"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Kenntnisse hat die Bundesregierung über den Einsatz amerikanischer Söldner von Blackwater/Academi in der Ukraine (vgl. Neue Zürcher Zeitung vom 15. Mai 2014), und welche Konsequenzen ergeben sich daraus?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "16.05.2014 - BT-Drucksache 18/1433, Nr. 35",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/014/1801433.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "21.05.2014 - BT-Plenarprotokoll 18/35, S. 2986D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18035.pdf#P.2986",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Agnieszka",
+            "NACHNAME": "Brugger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "2986D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "2986D"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-76488",
+  "vorgangId": "76488",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -43,5 +43,45 @@
       "Wirtschaftlichkeit"
     ],
     "ABSTRAKT": "Infrastrukturfinanzierung: Finanzmanagementsystem (FMS), Steuerung der Investitionsmittel; ÖPP-Bereich: Betreibermodelle im Bundesfernstraßenbau, Projektentwicklung und Wirtschaftlichkeitsuntersuchung einschl. Projektbegleitung im Vergabeverfahren, Vertragsmanagement; Weiterentwicklung der Gesellschaft "
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "31.08.2016 - BT-Drucksache 18/9545",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/095/1809545.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.01.2017 - BT-Plenarprotokoll 18/215, S. 21509C - 21510B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18215.pdf#P.21509",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21510B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9545"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "10.03.2017 - BT-Plenarprotokoll 18/222, S. 22430B - 22431A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18222.pdf#P.22430",
+        "VP_ABSTRAKT": "S. 22430B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

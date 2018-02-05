@@ -1,5 +1,5 @@
 {
-  "process": "18-82699",
+  "vorgangId": "82699",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -33,5 +33,42 @@
       "Verschlusssache"
     ],
     "ABSTRAKT": "Aufhebung der im Mai 1994 vom 1. Untersuchungsausschuss der 12. Wahlperiode des Bundestages (MfS/KoKo) beschlossenen Einstufung des abweichenden Berichts der Abgeordneten Ingrid Köppe als \"Verschlusssache-Geheim\", Aufhebung etwa noch gültiger Einstufungen im Bericht erwähnter bzw. verwendeter Unterlagen als Verschlusssache soweit für den Zweck erforderlich"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "21.06.2017 - BT-Drucksache 18/12821",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/128/1812821.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Irene",
+            "NACHNAME": "Mihalic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "29.06.2017 - BT-Plenarprotokoll 18/243, S. 25039B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18243.pdf#P.25039",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "25039B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/12821"
+        }
+      }
+    ]
   }
 }

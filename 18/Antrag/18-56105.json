@@ -1,5 +1,5 @@
 {
-  "process": "18-56105",
+  "vorgangId": "56105",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -31,5 +31,61 @@
       "Sitzverteilung"
     ],
     "ABSTRAKT": "Festsetzung der Anzahl der Stellvertreter des Präsidenten auf zwei für die größte und die nächstfolgende Fraktion sowie auf je einen für jede weitere Fraktion"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "22.10.2013 - BT-Drucksache 18/2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800002.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.10.2013 - BT-Plenarprotokoll 18/1, S. 9C - 13C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18001.pdf#P.9",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Grosse-Brömer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Petra",
+            "NACHNAME": "Sitte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10C"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Oppermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11D"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "12C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/2"
+        }
+      }
+    ]
   }
 }

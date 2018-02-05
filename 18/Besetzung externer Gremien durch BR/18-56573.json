@@ -1,5 +1,5 @@
 {
-  "process": "18-56573",
+  "vorgangId": "56573",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "05.12.2013 - BR-Drucksache 797/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0797-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "03.03.2014 - BR-Drucksache 797/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0797-1-13.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.03.2014 - BR-Plenarprotokoll 920, TOP 36b, S. 28A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/920.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28A",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "797/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.03.2014 - BR-Drucksache 797/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0797-13B.pdf"
+      }
+    ]
   }
 }

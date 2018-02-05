@@ -1,5 +1,5 @@
 {
-  "process": "18-69297",
+  "vorgangId": "69297",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -48,5 +48,42 @@
       "Verordnung zu abschaltbaren Lasten"
     ],
     "ABSTRAKT": "Umsetzung der Verordnung und Einsatz abschaltbarer Lasten: Produkte der AbLaV (Verbrauchseinrichtungen), Rahmenbedingungen und Präqualifikationsbedingungen, Ausschreibung und Zuschlag, Abruf der Lasten, Kosten; Evaluierung: Bewertung und Handlungsempfehlungen der Bundesnetzagentur"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "22.09.2015 - BT-Drucksache 18/6096",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/060/1806096.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.12.2015 - BT-Plenarprotokoll 18/143, S. 13980B - 13980D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18143.pdf#P.13980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13980D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/6096"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "18.12.2015 - BT-Plenarprotokoll 18/147, S. 14569D - 14570B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18147.pdf#P.14569",
+        "VP_ABSTRAKT": "S. 14570A - Mitteilung über Absehen von Berichterstattung (18/6096)"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-68538",
+  "vorgangId": "68538",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -29,5 +29,37 @@
       "Meldewesen"
     ],
     "ABSTRAKT": "Vereinheitlichung des Verwaltungsvollzugs und Erleichterung von Arbeitsabläufen in den Meldebehörden"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "12.08.2015 - BR-Drucksache 341/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0341-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.09.2015 - BR-Plenarprotokoll 936, TOP 59, S. 302C - 302D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/936.pdf#P.302",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "302D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "341/15",
+          "GRUNDLAGE": "Art. 84 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.09.2015 - BR-Drucksache 341/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0341-15B.pdf"
+      }
+    ]
   }
 }

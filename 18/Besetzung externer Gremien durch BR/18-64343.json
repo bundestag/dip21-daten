@@ -1,5 +1,5 @@
 {
-  "process": "18-64343",
+  "vorgangId": "64343",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 634/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0634-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.01.2015 - BR-Drucksache 634/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0634-1-14.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.02.2015 - BR-Plenarprotokoll 930, TOP 46, S. 23B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/930.pdf#P.23",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23B",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drucksache 634/1/14",
+          "BEZUGSDOKUMENT": "634/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.02.2015 - BR-Drucksache 634/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0634-14B.pdf"
+      }
+    ]
   }
 }

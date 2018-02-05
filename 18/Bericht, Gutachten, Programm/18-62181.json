@@ -1,5 +1,5 @@
 {
-  "process": "18-62181",
+  "vorgangId": "62181",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -35,5 +35,36 @@
       "Unverletzlichkeit der Wohnung"
     ],
     "ABSTRAKT": "Maßnahmen zur Wohnraumüberwachung im Jahr 2013, Katalog der Straftaten, Statistik einschließlich Anlass, Dauer, Benachrichtigung und Kosten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "04.09.2014 - BR-Drucksache 409/14(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0409-14(neu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend), Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "04.09.2014 - BT-Drucksache 18/2495",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/024/1802495.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "26.09.2014 - BT-Drucksache 18/2672",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/026/1802672.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

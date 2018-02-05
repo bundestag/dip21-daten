@@ -1,5 +1,5 @@
 {
-  "process": "18-82353",
+  "vorgangId": "82353",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -26,5 +26,36 @@
       "Bundesgerichtshof"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "15.06.2017 - BR-Drucksache 502/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0502-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 95, S. 345C - 345D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "502/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 502/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0502-17B.pdf"
+      }
+    ]
   }
 }

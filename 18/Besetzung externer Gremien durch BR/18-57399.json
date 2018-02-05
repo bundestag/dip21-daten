@@ -1,5 +1,5 @@
 {
-  "process": "18-57399",
+  "vorgangId": "57399",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "05.02.2014 - BR-Drucksache 37/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0037-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.02.2014 - BR-Plenarprotokoll 919, TOP 28a, S. 1D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/919.pdf#P.1",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1D",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "37/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.02.2014 - BR-Drucksache 37/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0037-14B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-60306",
+  "vorgangId": "60306",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -37,5 +37,39 @@
       "Verordnung der EU"
     ],
     "ABSTRAKT": "(Bericht gem. Beschluss auf BT-Drs 17/7671) Zonale Verfahren für die Zulassung von Pflanzenschutzmitteln: Grundlagen, Stand der Zulassungsverfahren, Harmonisierung der Zulassungen, Zulassungsunterlagen, Schlussfolgerungen; Pflanzenstärkungsmittel"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "27.05.2014 - BR-Drucksache 245/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0245-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft",
+        "FUNDSTELLE": "27.05.2014 - BT-Drucksache 18/1591",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/015/1801591.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "27.06.2014 - BT-Drucksache 18/1924",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/019/1801924.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      }
+    ]
   }
 }

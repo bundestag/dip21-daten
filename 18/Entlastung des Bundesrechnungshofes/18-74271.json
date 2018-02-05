@@ -1,5 +1,5 @@
 {
-  "process": "18-74271",
+  "vorgangId": "74271",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Entlastung des Bundesrechnungshofes",
@@ -51,5 +51,108 @@
       "Bundesrechnungshof"
     ],
     "ABSTRAKT": "Erläuterungen und Rechnungslegung zu den Kapiteln Zentral veranschlagte Verwaltungseinnahmen und -ausgaben, Bundesrechnungshof sowie Prüfungsämter des Bundes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "13.05.2016 - BR-Drucksache 250/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0250-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "13.05.2016 - BT-Drucksache 18/8460",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/084/1808460.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "09.06.2016 - BT-Plenarprotokoll 18/176, S. 17351B - 17351D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18176.pdf#P.17351",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "17351D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/8460"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "07.07.2016 - BT-Drucksache 18/9109",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/091/1809109.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Hagedorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Körber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Leutert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Entlastung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.07.2016 - BR-Plenarprotokoll 947, TOP 30, S. 287B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/947.pdf#P.287",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "287B",
+          "BESCHLUSSTENOR": "Entlastung",
+          "BEZUGSDOKUMENT": "250/16",
+          "GRUNDLAGE": "§ 101 Bundeshaushaltsordnung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.07.2016 - BR-Drucksache 250/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0250-16B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.09.2016 - BT-Plenarprotokoll 18/187, S. 18555C - 18555D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18187.pdf#P.18555",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18555C",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "18/9109",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig,damit Entlasung des Bundesrechnungshofes erteilt"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-70965",
+  "vorgangId": "70965",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,42 @@
       "Verschreibungspflicht"
     ],
     "ABSTRAKT": "Änderung der Anlage 1 der Verordnung, Entlassung von Arzneimitteln mit dem Wirkstoff Racecadotril aus der Verschreibungspflicht, Unterstellung von Tierarzneimitteln mit dem Wirkstoff Praziquantel unter die Verschreibungspflicht, Streichung und Neueinfügung von Positionen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft, Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "11.12.2015 - BR-Drucksache 618/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0618-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "29.01.2016 - BR-Plenarprotokoll 941, TOP 30, S. 11C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.11",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "618/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "29.01.2016 - BR-Drucksache 618/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0618-15B.pdf"
+      }
+    ]
   }
 }

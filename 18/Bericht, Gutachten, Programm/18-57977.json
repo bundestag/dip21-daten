@@ -1,5 +1,5 @@
 {
-  "process": "18-57977",
+  "vorgangId": "57977",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -34,5 +34,39 @@
       "Personalbeschaffung"
     ],
     "ABSTRAKT": "Stand des Ausbaus am 1. März 2012, zusätzlich benötigte Plätze für ein bedarfsgerechtes Angebot, Ausbaustrategien, Finanzierung des U3-Betreuungsausbaus, Fachkräftesicherung, Elternzufriedenheit"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "14.03.2013 - BT-Drucksache 17/12883",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/128/1712883.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "21.02.2014 - BT-Drucksache 18/641",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/006/1800641.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

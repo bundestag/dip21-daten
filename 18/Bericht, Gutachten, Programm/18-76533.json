@@ -1,5 +1,5 @@
 {
-  "process": "18-76533",
+  "vorgangId": "76533",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -45,5 +45,39 @@
       "Wertschöpfung"
     ],
     "ABSTRAKT": "Ziele der Bundesregierung: Ernährungssicherung, Standortsicherung, Strukturwandel, Umwelt- und Naturschutz, Strategien oder &ndash;konzepte auf regionaler, europäischer und globaler Ebene, wirtschaftliche Kerndaten der Bioökonomie, Stellungnahme und Empfehlungen des Bioökonomierates, Umsetzung, Zusammenfassung und Ausblick"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "01.09.2016 - BR-Drucksache 509/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0509-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "01.09.2016 - BT-Drucksache 18/9589",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/095/1809589.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.09.2016 - BT-Drucksache 18/9733",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/097/1809733.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-62018",
+  "vorgangId": "62018",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Über- und außerplanmäßige Haushaltsausgaben",
@@ -36,5 +36,42 @@
       "Verpflichtungsermächtigung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "26.08.2014 - BR-Drucksache 403/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0403-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "27.08.2014 - BT-Drucksache 18/2445",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/024/1802445.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "12.09.2014 - BT-Drucksache 18/2530",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/025/1802530.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "08.07.2016 - BT-Plenarprotokoll 18/184, S. 18306C - 18307A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18184.pdf#P.18306",
+        "VP_ABSTRAKT": "S. 18306C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

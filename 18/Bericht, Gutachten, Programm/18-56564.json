@@ -1,5 +1,5 @@
 {
-  "process": "18-56564",
+  "vorgangId": "56564",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -50,5 +50,84 @@
       "Sozialbeirat für die gesetzliche Rentenversicherung"
     ],
     "ABSTRAKT": "Versichertenbestand, Rentenentwicklung nach Rentenarten, Strukturen des Rentenbestandes, Angleichung der neuen Bundesländer mit Modellrechnung bis 2017, Einnahmen, Ausgaben und Vermögen, Vorausberechnungen 2013 bis 2017 sowie bis 2027, Auswirkungen der Heraufsetzung der Altersgrenzen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "20.11.2013 - BR-Drucksache 793/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0793-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "20.11.2013 - BT-Drucksache 18/95",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800095.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "17.01.2014 - BT-Drucksache 18/305",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/003/1800305.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.02.2014 - BR-Plenarprotokoll 919, TOP 6, S. 5C - 6D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/919.pdf#P.5",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Sven",
+          "NACHNAME": "Morlok",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Staatsminister für Wirtschaft, Arbeit und Verkehr",
+          "BUNDESLAND": "Sachsen",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "5C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "793/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.02.2014 - BR-Drucksache 793/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0793-13B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "15.04.2016 - BT-Plenarprotokoll 18/165, S. 16300C - 16301B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18165.pdf#P.16300",
+        "VP_ABSTRAKT": "S. 16300C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

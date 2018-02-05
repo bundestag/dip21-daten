@@ -1,5 +1,5 @@
 {
-  "process": "18-64955",
+  "vorgangId": "64955",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Vertikaler Finanzausgleich"
     ],
     "ABSTRAKT": "Regelung des vorläufigen Vollzugs der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2015"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "30.01.2015 - BR-Drucksache 34/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0034-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2015 - BR-Plenarprotokoll 932, TOP 26, S. 120A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/932.pdf#P.120",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "120A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "34/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2015 - BR-Drucksache 34/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0034-15B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-64254",
+  "vorgangId": "64254",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Eisenbahninfrastrukturbeirat",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "17.12.2014 - BR-Drucksache 626/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0626-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2014 - BR-Plenarprotokoll 929, TOP 52, S. 410C - 410D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/929.pdf#P.410",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "410C",
+          "BESCHLUSSTENOR": "vorschlagsgemäß",
+          "BEZUGSDOKUMENT": "626/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 626/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0626-14B.pdf"
+      }
+    ]
   }
 }

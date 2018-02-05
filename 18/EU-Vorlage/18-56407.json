@@ -1,5 +1,5 @@
 {
-  "process": "18-56407",
+  "vorgangId": "56407",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -24,5 +24,63 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Haushaltspolitik",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "20.11.2013 - BR-Drucksache 775/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0775-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2013 - BR-Plenarprotokoll 918, TOP 9, S. 568B - 569C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/918.pdf#P.568",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmuth",
+            "NACHNAME": "Markov",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister der Finanzen",
+            "BUNDESLAND": "Brandenburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "568B"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Haderthauer",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Leiterin der Staatskanzlei und Staatsministerin für Bundesangelegenheiten und Sonderaufgaben",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "569B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "569C",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "775/13",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2013 - BR-Drucksache 775/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0775-13B.pdf"
+      }
+    ]
   }
 }

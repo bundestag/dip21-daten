@@ -1,5 +1,5 @@
 {
-  "process": "18-77259",
+  "vorgangId": "77259",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -35,5 +35,37 @@
       "Politische Straftat"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "12.10.2016 - BT-Drucksache 18/9997",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/099/1809997.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Tempel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "31.10.2016 - BT-Drucksache 18/10172",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/101/1810172.pdf"
+      }
+    ]
   }
 }

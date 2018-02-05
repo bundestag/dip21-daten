@@ -1,5 +1,5 @@
 {
-  "process": "18-68819",
+  "vorgangId": "68819",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -38,5 +38,42 @@
       "Online-Dienst"
     ],
     "ABSTRAKT": "Grundlagen der Zusammenarbeit zwischen BKA und Beschwerdestellen (Meldewege), Statistik 2014: Gesamtzahl der Hinweise, inländische und ausländische Inhalte (URL), mediale Form, Hinweisquellen, Bewertung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "03.09.2015 - BR-Drucksache 403/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0403-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend), Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "03.09.2015 - BT-Drucksache 18/5904",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805904.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "25.09.2015 - BT-Drucksache 18/6138",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/061/1806138.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

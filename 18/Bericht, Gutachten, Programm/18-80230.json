@@ -1,5 +1,5 @@
 {
-  "process": "18-80230",
+  "vorgangId": "80230",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -53,5 +53,73 @@
       "Wettbewerbsrecht"
     ],
     "ABSTRAKT": "Wettbewerbspotenziale im Krankenversicherungsmarkt, Struktur und Probleme des Wettbewerbs sowie Anwendung des Wettbewerbsrechts in GKV und PKV, zentrale Handlungsempfehlungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "07.03.2017 - BR-Drucksache 194/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0194-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Monopolkommission ",
+        "FUNDSTELLE": "08.03.2017 - BT-Drucksache 18/11490",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/114/1811490.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "24.03.2017 - BT-Drucksache 18/11683",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/116/1811683.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.05.2017 - BR-Plenarprotokoll 957, TOP 62, S. 219B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/957.pdf#P.219",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "219B",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "194/17",
+          "GRUNDLAGE": "§ 44 Abs. 1 Satz 4 GWB"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.05.2017 - BR-Drucksache 194/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0194-17B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "23.06.2017 - BT-Plenarprotokoll 18/241, S. 24781D - 24782C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18241.pdf#P.24781",
+        "VP_ABSTRAKT": "S. 24781D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

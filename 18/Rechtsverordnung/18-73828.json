@@ -1,5 +1,5 @@
 {
-  "process": "18-73828",
+  "vorgangId": "73828",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,44 @@
       "Tierkrankheit"
     ],
     "ABSTRAKT": "Identifizierung von infizierten Rindern, Verkürzung von Untersuchungsfristen, Regelungen zum Verbringen von Rindern aus infizierten Beständen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "20.04.2016 - BR-Drucksache 200/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0200-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "06.06.2016 - BR-Drucksache 200/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0200-1-16.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "17.06.2016 - BR-Plenarprotokoll 946, TOP 47, S. 243A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/946.pdf#P.243",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "243A",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "200/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "17.06.2016 - BR-Drucksache 200/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0200-16B.pdf"
+      }
+    ]
   }
 }

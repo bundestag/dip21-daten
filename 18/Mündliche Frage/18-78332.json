@@ -1,5 +1,5 @@
 {
-  "process": "18-78332",
+  "vorgangId": "78332",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,39 @@
       "Pflegehilfe"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nSind der Bundesregierung Fälle, wie zum Beispiel die Situation des D. B., dem aufgrund \"zu hoher Assistenzkosten\" eine Heimeinweisung droht, bekannt (Quelle: Landesschau Baden-Württemberg des SWR, 17. November 2016)?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "25.11.2016 - BT-Drucksache 18/10442, Nr. 29",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/104/1810442.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "30.11.2016 - BT-Plenarprotokoll 18/205, S. 20485B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18205.pdf#P.20485",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Werner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20485B"
+          },
+          {
+            "VORNAME": "Anette",
+            "NACHNAME": "Kramme",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20485B"
+          }
+        ]
+      }
+    ]
   }
 }

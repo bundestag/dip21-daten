@@ -1,5 +1,5 @@
 {
-  "process": "18-61982",
+  "vorgangId": "61982",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,37 @@
       "Subvention"
     ],
     "ABSTRAKT": "Kürzung von Subventionen aufgrund der Beschlüsse über den Mehrjährigen Finanzrahmen (MFR) und aufgrund der Umverteilung zugunsten von Mitgliedstaaten mit sehr geringen Direktzahlungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "21.08.2014 - BR-Drucksache 377/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0377-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.10.2014 - BR-Plenarprotokoll 926, TOP 24, S. 320C - 320D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/926.pdf#P.320",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "320D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "377/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.10.2014 - BR-Drucksache 377/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0377-14B.pdf"
+      }
+    ]
   }
 }

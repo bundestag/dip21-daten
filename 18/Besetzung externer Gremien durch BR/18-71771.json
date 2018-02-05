@@ -1,5 +1,5 @@
 {
-  "process": "18-71771",
+  "vorgangId": "71771",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "22.01.2016 - BR-Drucksache 39/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0039-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "15.02.2016 - BR-Drucksache 39/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0039-1-16.pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "26.02.2016 - BR-Plenarprotokoll 942, TOP 28c, S. 69A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/942.pdf#P.69",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "69A",
+          "BESCHLUSSTENOR": "Zustimmung zu der Empfehlung in Drucksache 39/1/16",
+          "BEZUGSDOKUMENT": "39/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "26.02.2016 - BR-Drucksache 39/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0039-16B.pdf"
+      }
+    ]
   }
 }

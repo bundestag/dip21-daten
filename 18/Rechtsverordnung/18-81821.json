@@ -1,5 +1,5 @@
 {
-  "process": "18-81821",
+  "vorgangId": "81821",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,85 @@
       "Messwesen"
     ],
     "ABSTRAKT": "Redaktionelle Anpassungen, Klarstellungen und Behebung von im Rahmen des Vollzugs aufgetretenen Fehlern"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "24.05.2017 - BR-Drucksache 418/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0418-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.06.2017 - BR-Drucksache 418/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0418-1-17.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Niedersachsen ",
+        "FUNDSTELLE": "05.07.2017 - BR-Drucksache 418/2/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0418-2-17.pdf",
+        "VP_ABSTRAKT": "Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 89, S. 365A - 366C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.365",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Olaf",
+            "NACHNAME": "Lies",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Arbeit und Verkehr",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "365A"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Wiese",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "365D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marcel",
+            "NACHNAME": "Huber",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Leiter der Staatskanzlei und Staatsminister für Bundesangelegenheiten und Sonderaufgaben",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "366B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "366C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen; Entschließung",
+          "BEZUGSDOKUMENT": "418/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 418/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0418-17B.pdf"
+      }
+    ]
   }
 }

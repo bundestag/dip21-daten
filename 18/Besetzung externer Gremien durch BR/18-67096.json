@@ -1,5 +1,5 @@
 {
-  "process": "18-67096",
+  "vorgangId": "67096",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Stiftung Haus der Geschichte der Bundesrepublik Deutschland",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "20.05.2015 - BR-Drucksache 244/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0244-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.06.2015 - BR-Plenarprotokoll 934, TOP 44, S. 222C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/934.pdf#P.222",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "222C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "244/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.06.2015 - BR-Drucksache 244/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0244-15B.pdf"
+      }
+    ]
   }
 }

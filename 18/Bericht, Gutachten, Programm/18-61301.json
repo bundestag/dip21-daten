@@ -1,5 +1,5 @@
 {
-  "process": "18-61301",
+  "vorgangId": "61301",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -48,5 +48,51 @@
       "Wettbewerb"
     ],
     "ABSTRAKT": "Bericht zu der durch das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag durchgeführten Untersuchung: Trends und Bestimmungsgründe der Wassernutzung und des Wasserverbrauchs, technologische Leistungsfähigkeit und Wettbewerbsfähigkeit Deutschlands, Analysen zur Marktentwicklung, Bedingungen für die Entwicklung und Diffusion neuer Technologien"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Ausschuss für Bildung, Forschung und Technikfolgenabschätzung ",
+        "FUNDSTELLE": "10.07.2014 - BT-Drucksache 18/2085",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/020/1802085.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.09.2014 - BT-Plenarprotokoll 18/54, S. 4951D - 4953B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18054.pdf#P.4951",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4953A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/2085"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "27.02.2015 - BT-Plenarprotokoll 18/89, S. 8531C - 8533A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18089.pdf#P.8531",
+        "VP_ABSTRAKT": "S. 8531C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

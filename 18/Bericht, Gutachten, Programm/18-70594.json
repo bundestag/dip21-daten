@@ -1,5 +1,5 @@
 {
-  "process": "18-70594",
+  "vorgangId": "70594",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -45,5 +45,52 @@
       "Klimaschutz"
     ],
     "ABSTRAKT": "Ziele der Energiewende im Gebäudebereich, Gebäudeszenario 2050, Maßnahmen und weitere Optionen zur Steigerung der Energieeffizienz und des Anteils Erneuerbarer Energien im Gebäudebestand, Kommunikation und weiteres Verfahren, Monitoring"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "19.11.2015 - BR-Drucksache 579/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0579-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "19.11.2015 - BT-Drucksache 18/6782",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/067/1806782.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "04.12.2015 - BT-Drucksache 18/6933",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/069/1806933.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "15.02.2016 - BR-Drucksache 579/1/15",
+        "VP_ABSTRAKT": "EU, In: Kenntnisnahme - U, Wi: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "26.02.2016 - BT-Plenarprotokoll 18/159, S. 15742C - 15742D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18159.pdf#P.15742",
+        "VP_ABSTRAKT": "S. 15742C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

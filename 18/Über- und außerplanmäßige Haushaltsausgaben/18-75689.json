@@ -1,5 +1,5 @@
 {
-  "process": "18-75689",
+  "vorgangId": "75689",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Über- und außerplanmäßige Haushaltsausgaben",
@@ -39,5 +39,42 @@
       "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2016"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "14.07.2016 - BR-Drucksache 379/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0379-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "14.07.2016 - BT-Drucksache 18/9224",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/092/1809224.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.09.2016 - BT-Drucksache 18/9596",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/095/1809596.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "11.11.2016 - BT-Plenarprotokoll 18/200, S. 20049D - 20050B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18200.pdf#P.20049",
+        "VP_ABSTRAKT": "S. 20049D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

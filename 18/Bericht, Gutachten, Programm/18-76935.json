@@ -1,5 +1,5 @@
 {
-  "process": "18-76935",
+  "vorgangId": "76935",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -58,5 +58,60 @@
       "Wald"
     ],
     "ABSTRAKT": "Beschränkung auf Flächen des Bundes: Waldflächen, Flächen der Streitkräfte, Bundeswasserstraßen, Bundesautobahnen und Bundesstraßen, Schienennetz der Eisenbahn des Bundes, Bundeseisenbahnvermögen, Bundesliegenschaften; konkrete bereits zur Umsetzung der Nationalen Strategie zur biologischen Vielfalt (NBS) entwickelte Projekte, öffentliche Beschaffung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "16.09.2016 - BR-Drucksache 553/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0553-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "16.09.2016 - BT-Drucksache 18/9710",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/097/1809710.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "01.06.2017 - BT-Plenarprotokoll 18/237, S. 24070B - 24071D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18237.pdf#P.24070",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24071D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9710"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "23.06.2017 - BT-Plenarprotokoll 18/241, S. 24781D - 24782C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18241.pdf#P.24781",
+        "VP_ABSTRAKT": "S. 24781D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

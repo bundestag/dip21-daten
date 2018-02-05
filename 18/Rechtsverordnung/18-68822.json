@@ -1,5 +1,5 @@
 {
-  "process": "18-68822",
+  "vorgangId": "68822",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,42 @@
       "Psychotrope Substanz"
     ],
     "ABSTRAKT": "Änderung der Anlagen des Betäubungsmittelgesetzes, Änderung der Betäubungsmittel-Verschreibungsverordnung, Anpassung an den Stand wissenschaftlicher Erkenntnisse, Aufnahme neuer psychoaktiver Substanzen in die Anlagen des Betäubungsmittelgesetzes, Erhöhung der Höchstverschreibungsmengen von Betäubungsmitteln, redaktionelle Änderungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "03.09.2015 - BR-Drucksache 399/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0399-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "16.10.2015 - BR-Plenarprotokoll 937, TOP 26, S. 391A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/937.pdf#P.391",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "391A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "399/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "16.10.2015 - BR-Drucksache 399/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0399-15B.pdf"
+      }
+    ]
   }
 }

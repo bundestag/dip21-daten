@@ -1,5 +1,5 @@
 {
-  "process": "18-67654",
+  "vorgangId": "67654",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -27,18 +27,12 @@
     "SCHLAGWORT": [
       "Beamter",
       "Bundesamt für Verfassungsschutz",
-      "Bundeskriminalamt",
-      "Durchsuchung",
       "Ermittlungsverfahren",
-      "Generalbundesanwalt beim Bundesgerichtshof",
-      "Innere Sicherheit",
       "Landesamt für Verfassungsschutz",
       "Nationalsozialistischer Untergrund",
       "Politische Straftat",
-      "Polizeiliche Maßnahme",
       "Rechtsextremismus",
       "Rechtsextremistische Organisation",
-      "Terroristische Vereinigung",
       "Verfassungsschutz",
       "Verjährung",
       "Vernehmung",
@@ -46,5 +40,37 @@
       "Zeuge"
     ],
     "ABSTRAKT": "Stand des sog. Strukturermittlungsverfahrens gegen Unbekannt im NSU-Komplex: Durchsuchungen, Zeugenvernehmungen (u.a. von V-Personen, V-Personen-Führern, Referatsleitern und Präsidenten von Verfassungsschutzämtern), Rechtshilfeersuchen; Ermittlungen gegen Beamte des BfV; Stand der neun Ermittlungsverfahren gegen namentlich bekannte Beschuldigte im NSU-Komplex wegen Unterstützung einer terroristischen Vereinigung: Verjährung der Tatvorwürfe, Anklageerhebung; Anklageerhebung im Fall des Sprengstoffanschlags in einer Gaststätte im Juni 1999 in Nürnberg \n(insgesamt 19 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "19.06.2015 - BT-Drucksache 18/5306",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805306.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "08.07.2015 - BT-Drucksache 18/5516",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/055/1805516.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-59970",
+  "vorgangId": "59970",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -49,5 +49,54 @@
       "Wissenschaftsfreiheit"
     ],
     "ABSTRAKT": "Grundbegriffe und geschichtlicher Hintergrund, relevante Forschungsfelder, Einschätzung des Gefährdungspotentials, ethische Fragen, rechtliche Rahmenbedingungen, Forschungsförderung, Forschungskodizes, Forschung in ausgewählten Staaten, Aus- und Fortbildungsmaßnahmen, Schlussfolgerungen und Empfehlungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Deutscher Ethikrat ",
+        "FUNDSTELLE": "28.04.2014 - BT-Drucksache 18/1380",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/013/1801380.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.02.2015 - BT-Plenarprotokoll 18/85, S. 8068D - 8069A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18085.pdf#P.8068",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8069A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/1380"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "27.02.2015 - BT-Plenarprotokoll 18/89, S. 8531C - 8533A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18089.pdf#P.8531",
+        "VP_ABSTRAKT": "S. 8531C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

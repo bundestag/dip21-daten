@@ -1,5 +1,5 @@
 {
-  "process": "18-77336",
+  "vorgangId": "77336",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -48,5 +48,77 @@
       "Waggon"
     ],
     "ABSTRAKT": "Vorschlag einer gesetzlichen, EU-Rechts-konformen Regelung zur Festschreibung eines Fahrverbots von lauten, nicht mit neueren, lärmarmeren Bremsen ausgerüsteten Güterwagen ab 2020 auf allen deutschen Schienenwegen bis 31. Dezember 2016"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "19.10.2016 - BT-Drucksache 18/10033",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/100/1810033.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "20.10.2016 - BT-Plenarprotokoll 18/196, S. 19463B - 19464D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18196.pdf#P.19463",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19464D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/10033",
+          "ABSTIMMUNG_BEMERKUNG": "Überweisung gegen den Wunsch der Fraktion B90/GR (Sofortabstimmung)"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "13.02.2017 - BT-Drucksache 18/11144",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/111/1811144.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Annette",
+          "NACHNAME": "Sawade",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.06.2017 - BT-Plenarprotokoll 18/240, S. 24537C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18240.pdf#P.24537",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24537C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/10033"
+        }
+      }
+    ]
   }
 }

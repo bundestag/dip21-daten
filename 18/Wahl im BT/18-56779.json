@@ -1,5 +1,5 @@
 {
-  "process": "18-56779",
+  "vorgangId": "56779",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl im BT",
@@ -33,5 +33,26 @@
       "Wahl"
     ],
     "ABSTRAKT": "Wahl der Abg Dr. Angela Merkel (CDU/CSU) auf Vorschlag des Bundespräsidenten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "17.12.2013 - BT-Plenarprotokoll 18/4, S. 229C - 230D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18004.pdf#P.229",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "230B",
+          "BESCHLUSSTENOR": "Annahme"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Vereidigung",
+        "FUNDSTELLE": "17.12.2013 - BT-Plenarprotokoll 18/4, S. 230D - 231A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18004.pdf#P.230",
+        "VP_ABSTRAKT": "Vereidigung der Bundeskanzlerin"
+      }
+    ]
   }
 }

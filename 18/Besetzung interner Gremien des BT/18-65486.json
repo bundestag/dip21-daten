@@ -1,5 +1,5 @@
 {
-  "process": "18-65486",
+  "vorgangId": "65486",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
@@ -27,5 +27,29 @@
       "Wahl"
     ],
     "ABSTRAKT": "Volkmar Klein"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU ",
+        "FUNDSTELLE": "03.03.2015 - BT-Drucksache 18/4167",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/041/1804167.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.03.2015 - BT-Plenarprotokoll 18/91, S. 8650B - 8650C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18091.pdf#P.8650",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8658D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/4167",
+          "ABSTIMMUNGSART": "Geheime Wahl",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "519:35:35"
+        }
+      }
+    ]
   }
 }

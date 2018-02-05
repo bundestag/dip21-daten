@@ -1,5 +1,5 @@
 {
-  "process": "18-70854",
+  "vorgangId": "70854",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -31,5 +31,57 @@
       "Paul-Ehrlich-Institut"
     ],
     "ABSTRAKT": "Patientenfreundliche Umsetzung der \"Bekanntmachung von Empfehlungen zur Gestaltung von Packungsbeilagen\", Verbesserung der Lesbarkeit"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Saarland ",
+        "FUNDSTELLE": "07.12.2015 - BR-Drucksache 604/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0604-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "04.03.2016 - BR-Drucksache 604/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0604-1-15.pdf",
+        "VP_ABSTRAKT": "Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.03.2016 - BR-Plenarprotokoll 943, TOP 9, S. 117C - 117D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/943.pdf#P.117",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Jürgen",
+          "NACHNAME": "Lennartz",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Staatssekretär, Chef der Staatskanzlei und Bevollmächtigter des Saarlandes beim Bund",
+          "BUNDESLAND": "Saarland",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "117D"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "117C",
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "604/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.03.2016 - BR-Drucksache 604/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0604-15B.pdf"
+      }
+    ]
   }
 }

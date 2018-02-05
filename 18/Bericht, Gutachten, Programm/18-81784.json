@@ -1,5 +1,5 @@
 {
-  "process": "18-81784",
+  "vorgangId": "81784",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -41,5 +41,103 @@
       "Tourismuspolitischer Bericht der Bundesregierung"
     ],
     "ABSTRAKT": "Chancen und Herausforderungen für den Tourismusstandort Deutschland, Akteure und Organisationen der Tourismuspolitik auf Bundesebene, Aktivitäten des BMWi und anderer Bundesministerien"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "18.05.2017 - BR-Drucksache 423/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0423-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "18.05.2017 - BT-Drucksache 18/12505",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/125/1812505.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.06.2017 - BT-Plenarprotokoll 18/241, S. 24763D - 24771C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18241.pdf#P.24763",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Iris",
+            "NACHNAME": "Gleicke",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24764A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24765A"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Brehmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24766A"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Tressel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24767D"
+          },
+          {
+            "VORNAME": "Gabriele",
+            "NACHNAME": "Hiller-Ohm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24769A"
+          },
+          {
+            "VORNAME": "Barbara",
+            "NACHNAME": "Lanzinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24770A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24771C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/12505"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      }
+    ]
   }
 }

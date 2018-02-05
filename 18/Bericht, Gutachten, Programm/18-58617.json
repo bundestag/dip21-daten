@@ -1,5 +1,5 @@
 {
-  "process": "18-58617",
+  "vorgangId": "58617",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -54,5 +54,60 @@
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition, Nichtionisierende Strahlung: Elektromagnetische Felder, optische Strahlung (UV-Strahlung)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "03.03.2014 - BT-Drucksache 18/708",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/007/1800708.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "21.03.2014 - BT-Drucksache 18/891",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/008/1800891.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "11.09.2014 - BR-Drucksache 414/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0414-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.11.2014 - BR-Plenarprotokoll 927, TOP 38, S. 345B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/927.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345B",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "414/14",
+          "GRUNDLAGE": "§ 5 Abs. 2 Strahlenschutzvorsorgegesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.11.2014 - BR-Drucksache 414/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0414-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "20.03.2015 - BT-Plenarprotokoll 18/95, S. 9102C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18095.pdf#P.9102",
+        "VP_ABSTRAKT": "S. 9102C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-77358",
+  "vorgangId": "77358",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verordnungsantrag der Länder",
@@ -26,5 +26,47 @@
       "Verordnung zur Kennzeichnung der Kraftfahrzeuge mit geringem Beitrag zur Schadstoffbelastung"
     ],
     "ABSTRAKT": "Eindeutige Kennzeichnung besonders emissionsarmer Fahrzeuge mittels einer neuen Plakette"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnungsantrag,  Urheber : Baden-Württemberg ",
+        "FUNDSTELLE": "19.10.2016 - BR-Drucksache 617/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0617-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "04.11.2016 - BR-Plenarprotokoll 950, TOP 12, S. 445A - 447A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/950.pdf#P.445",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Winfried",
+          "NACHNAME": "Hermann",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Verkehr",
+          "BUNDESLAND": "Baden-Württemberg",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "445A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "446D",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "617/16"
+        }
+      }
+    ]
   }
 }

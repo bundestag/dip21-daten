@@ -1,5 +1,5 @@
 {
-  "process": "18-64437",
+  "vorgangId": "64437",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,41 @@
       "Sturm"
     ],
     "ABSTRAKT": "Stand der Umsetzung auf Bundesebene: Risikoanalysen \"Sturmflut\" und \"Freisetzung KKW\"; Stand der Umsetzung auf Länderebene, Entwicklung auf EU-Ebene"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "23.12.2014 - BT-Drucksache 18/3682",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/036/1803682.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.12.2015 - BT-Plenarprotokoll 18/143, S. 13980B - 13980D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18143.pdf#P.13980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13980D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/3682"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
+      }
+    ]
   }
 }

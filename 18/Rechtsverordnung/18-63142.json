@@ -1,5 +1,5 @@
 {
-  "process": "18-63142",
+  "vorgangId": "63142",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,45 @@
       "Verwaltungskostenfeststellungsverordnung"
     ],
     "ABSTRAKT": "Umsetzung festgestellter Anpassungs- und Konkretisierungsbedarfe sowie redaktionelle Änderungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "28.10.2014 - BR-Drucksache 507/14(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0507-14(neu).pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "28.11.2014 - BR-Plenarprotokoll 928, TOP 29a, S. 380A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/928.pdf#P.380",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "380A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "507/14(neu)",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "28.11.2014 - BR-Drucksache 507/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0507-14B.pdf"
+      }
+    ]
   }
 }

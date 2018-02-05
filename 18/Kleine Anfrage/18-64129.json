@@ -1,5 +1,5 @@
 {
-  "process": "18-64129",
+  "vorgangId": "64129",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -23,10 +23,7 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Wirtschaft",
-      "Arbeit und Beschäftigung"
-    ],
+    "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": [
       "Arbeitsbedingungen",
       "Arbeitslosengeld II",
@@ -50,5 +47,37 @@
       "Wochenendarbeit"
     ],
     "ABSTRAKT": "Umfang des Brief- und Paketverkehrs seit 2004, Beschäftigte bei Post- und Zustelldiensten: Anzahl, befristete Arbeitsverhältnisse, Übernahmequote, Arbeitslosmeldungen, Niedriglohnbezieher, ergänzender ALG-II-Bezug, Leiharbeitskräfte, Ausfalltage, Erwerbsminderungsrente aufgrund psychischer Erkrankung, Arbeitsbelastung, geringfügige Beschäftigung, Arbeitszeitvolumen, Schicht-, Wochenend- und Nachtarbeit, Arbeit auf Abruf, Überstunden, Beschäftigungsdauer; Dividendenausschüttung, Ausschüttungsquote, Dividende je Aktie, Dividendenrendite, Gewinn vor Steuern der Deutschen Post AG \n(insgesamt 24 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "12.12.2014 - BT-Drucksache 18/3531",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/035/1803531.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jutta",
+            "NACHNAME": "Krellmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Ernst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "21.01.2015 - BT-Drucksache 18/3796",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/037/1803796.pdf"
+      }
+    ]
   }
 }

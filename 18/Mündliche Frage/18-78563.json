@@ -1,5 +1,5 @@
 {
-  "process": "18-78563",
+  "vorgangId": "78563",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,40 @@
       "USA"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nIst die Bundesregierung der Auffassung, dass sie durch die Zurverfügungstellung der Einrichtung in Ramstein mit einer Relaisstation für die Weiterleitung von Daten für das US-Militär an den Kampfdrohneneinsätzen der USA beteiligt ist, und falls nein, mit welcher Begründung?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.12.2016 - BT-Drucksache 18/10595, Nr. 12",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/105/1810595.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.12.2016 - BT-Plenarprotokoll 18/208, S. 20808C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18208.pdf#P.20808",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20808C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Maria",
+            "NACHNAME": "Böhmer",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20808C"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-60940",
+  "vorgangId": "60940",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -42,5 +42,73 @@
       "Spielverordnung"
     ],
     "ABSTRAKT": "Zustimmung zur sechsten Verordnung zur Änderung der Spielverordnung mit den Maßgaben aus der BR-Sitzung vom 5. Juli 2013 zur Prävention der Glückspielsucht, Herbeiführung eines entsprechenden Kabinettsbeschlusses durch das zuständige BMWi"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "24.06.2014 - BT-Drucksache 18/1875",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/018/1801875.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Harald",
+            "NACHNAME": "Terpe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "03.07.2014 - BT-Plenarprotokoll 18/46, S. 4150C - 4151C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18046.pdf#P.4150",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4151B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/1875"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wirtschaft und Energie ",
+        "FUNDSTELLE": "15.10.2014 - BT-Drucksache 18/2905",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/029/1802905.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Barbara",
+          "NACHNAME": "Lanzinger",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Amtliche Mitteilung: Rücknahme",
+        "FUNDSTELLE": "07.11.2014 - BT-Plenarprotokoll 18/64, S. 6067D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18064.pdf#P.6067",
+        "VP_ABSTRAKT": "S. 6067D - Mitteilung über Rücknahme 18/1875"
+      }
+    ]
   }
 }

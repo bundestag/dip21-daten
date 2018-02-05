@@ -1,5 +1,5 @@
 {
-  "process": "18-66201",
+  "vorgangId": "66201",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -26,5 +26,36 @@
       "Bundesgerichtshof"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "30.03.2015 - BR-Drucksache 139/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0139-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 65, S. 166B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.166",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "139/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 139/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0139-15B.pdf"
+      }
+    ]
   }
 }

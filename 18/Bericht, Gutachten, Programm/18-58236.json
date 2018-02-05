@@ -1,5 +1,5 @@
 {
-  "process": "18-58236",
+  "vorgangId": "58236",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -37,5 +37,45 @@
       "Kriminalstatistik"
     ],
     "ABSTRAKT": "Grundlagen der Zusammenarbeit zwischen BKA und Beschwerdestellen (Meldewege), Statistik 2012: Gesamtzahl der Hinweise, inländische und ausländische Inhalte (URL), mediale Form, Hinweisquellen, Bewertung; Maßnahmen zur Stärkung des Kampfes gegen Missbrauchsdarstellungen im Internet"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "27.02.2014 - BR-Drucksache 86/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0086-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz",
+        "FUNDSTELLE": "27.02.2014 - BT-Drucksache 18/688",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/006/1800688.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "14.03.2014 - BT-Drucksache 18/817",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/008/1800817.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-65491",
+  "vorgangId": "65491",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Immunitätsangelegenheit",
@@ -24,5 +24,71 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Parlamentarische Immunität",
     "ABSTRAKT": "Erteilung der Genehmigung zur Durchführung eines Strafverfahrens gegen die Abg Nicole Gohlke"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "27.02.2015 - BT-Drucksache 18/4181",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/041/1804181.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.03.2015 - BT-Plenarprotokoll 18/91, S. 8647A - 8649D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18091.pdf#P.8647",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan",
+            "NAMENSZUSATZ": "van",
+            "NACHNAME": "Aken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "8647A"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Kauder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8648A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gregor",
+            "NACHNAME": "Gysi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8648C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Johann",
+            "NACHNAME": "Wadephul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8648D"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8649A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8649D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/4181"
+        }
+      }
+    ]
   }
 }

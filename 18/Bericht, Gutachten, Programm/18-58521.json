@@ -1,5 +1,5 @@
 {
-  "process": "18-58521",
+  "vorgangId": "58521",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -27,5 +27,49 @@
       "Parlamentarischer Beirat für nachhaltige Entwicklung"
     ],
     "ABSTRAKT": "Funktion der Nachhaltigkeitsprüfung in der Gesetzesfolgenabschätzung, Optimierung des Verfahrens, Fazit und Ausblick"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Parlamentarischer Beirat für nachhaltige Entwicklung ",
+        "FUNDSTELLE": "26.07.2011 - BT-Drucksache 17/6680",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/066/1706680.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf erneute Behandlung,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "11.03.2014 - BT-Drucksache 18/770, Nr. 1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/007/1800770.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag auf erneute Überweisung an die Ausschüsse"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung über Antrag auf erneute Behandlung",
+        "FUNDSTELLE": "13.03.2014 - BT-Plenarprotokoll 18/20, S. 1577C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18020.pdf#P.1577",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1577C",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "18/770",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

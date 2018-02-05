@@ -1,5 +1,5 @@
 {
-  "process": "18-65880",
+  "vorgangId": "65880",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -52,5 +52,64 @@
       "Schienenverkehr"
     ],
     "ABSTRAKT": "Tätigkeitsbericht für den Bereich Eisenbahnen: Marktentwicklung, Marktbeobachtung, Zugang zu Schienenwegen und Serviceeinrichtungen, Prüfung von Entgelten, gerichtliche Verfahren, Grundsatzfragen der Eisenbahnregulierung, internationale und bilaterale Zusammenarbeit, Rolle und Organisation der Bundesnetzagentur, Herausforderungen und Vorhabenplan"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "13.03.2015 - BR-Drucksache 98/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0098-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen, Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "13.03.2015 - BT-Drucksache 18/4294",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/042/1804294.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "27.03.2015 - BT-Drucksache 18/4495",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/044/1804495.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 45, S. 166B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.166",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166B",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "98/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 98/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0098-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "03.07.2015 - BT-Plenarprotokoll 18/116, S. 11349B - 11350A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18116.pdf#P.11349",
+        "VP_ABSTRAKT": "S. 11349B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

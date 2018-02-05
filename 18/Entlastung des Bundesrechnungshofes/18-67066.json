@@ -1,5 +1,5 @@
 {
-  "process": "18-67066",
+  "vorgangId": "67066",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Entlastung des Bundesrechnungshofes",
@@ -51,5 +51,108 @@
       "Bundesrechnungshof"
     ],
     "ABSTRAKT": "Erläuterungen und Rechnungslegung zu den Kapiteln Zentral veranschlagte Verwaltungseinnahmen und -ausgaben, Bundesrechnungshof sowie Prüfungsämter des Bundes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "20.05.2015 - BR-Drucksache 236/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0236-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag des Präsidenten des BRH,  Urheber : Präsident des Bundesrechnungshofes ",
+        "FUNDSTELLE": "20.05.2015 - BT-Drucksache 18/5020",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/050/1805020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2015 - BT-Plenarprotokoll 18/112, S. 10745D - 10746C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18112.pdf#P.10745",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "10746C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/5020"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "01.07.2015 - BT-Drucksache 18/5388",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805388.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Hagedorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Körber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Leutert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Entlastung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.07.2015 - BR-Plenarprotokoll 935, TOP 32, S. 246B - 246C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/935.pdf#P.246",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "246B",
+          "BESCHLUSSTENOR": "Entlastung",
+          "BEZUGSDOKUMENT": "236/15",
+          "GRUNDLAGE": "§ 101 Bundeshaushaltsordnung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.07.2015 - BR-Drucksache 236/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0236-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "10.09.2015 - BT-Plenarprotokoll 18/121, S. 11751D - 11752A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18121.pdf#P.11751",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11752A",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "18/5388",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig, damit Entlastung des Bundesrechnungshofes erteilt"
+        }
+      }
+    ]
   }
 }

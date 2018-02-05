@@ -1,5 +1,5 @@
 {
-  "process": "18-68077",
+  "vorgangId": "68077",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -54,5 +54,60 @@
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition, Nichtionisierende Strahlung: Elektromagnetische Felder, optische Strahlung (UV-Strahlung)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "13.07.2015 - BT-Drucksache 18/5565",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/055/1805565.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "16.07.2015 - BR-Drucksache 325/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0325-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "11.09.2015 - BT-Drucksache 18/5976",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805976.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.09.2015 - BR-Plenarprotokoll 936, TOP 42, S. 302C - 302D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/936.pdf#P.302",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "302D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "325/15",
+          "GRUNDLAGE": "§ 5 Abs. Strahlenschutzvorsorgegesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.09.2015 - BR-Drucksache 325/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0325-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.11.2015 - BT-Plenarprotokoll 18/134, S. 13167D - 13168C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18134.pdf#P.13167",
+        "VP_ABSTRAKT": "S. 13167D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

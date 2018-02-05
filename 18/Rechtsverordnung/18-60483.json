@@ -1,5 +1,5 @@
 {
-  "process": "18-60483",
+  "vorgangId": "60483",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,37 @@
       "Internationales Abkommen"
     ],
     "ABSTRAKT": "Inkraftsetzung des Abkommens"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "30.05.2014 - BR-Drucksache 230/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0230-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Auswärtige Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.07.2014 - BR-Plenarprotokoll 924, TOP 26, S. 228D - 229A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.228",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "228D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "230/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.07.2014 - BR-Drucksache 230/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0230-14B.pdf"
+      }
+    ]
   }
 }

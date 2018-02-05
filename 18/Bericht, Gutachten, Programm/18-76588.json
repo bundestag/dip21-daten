@@ -1,5 +1,5 @@
 {
-  "process": "18-76588",
+  "vorgangId": "76588",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -54,5 +54,65 @@
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Ausgewählte Themen im Strahlenschutz im Berichtsjahr, aktuelle Themen, natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition, Nichtionisierende Strahlung: Elektromagnetische Felder, optische Strahlung (UV-Strahlung)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "08.09.2016 - BT-Drucksache 18/9600",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/096/1809600.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.09.2016 - BT-Drucksache 18/9733",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/097/1809733.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "27.09.2016 - BR-Drucksache 557/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0557-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "04.11.2016 - BR-Plenarprotokoll 950, TOP 27, S. 437A - 437B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/950.pdf#P.437",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "437B",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "557/16",
+          "GRUNDLAGE": "§ 5 Abs. 2 Strahlenschutzvorsorgegesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "04.11.2016 - BR-Drucksache 557/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0557-16B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "02.12.2016 - BT-Plenarprotokoll 18/207, S. 20767B - 20767C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18207.pdf#P.20767",
+        "VP_ABSTRAKT": "S. 20767B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

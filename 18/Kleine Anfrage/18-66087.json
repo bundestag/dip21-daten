@@ -1,5 +1,5 @@
 {
-  "process": "18-66087",
+  "vorgangId": "66087",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -23,7 +23,11 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Wissenschaft, Forschung und Technologie",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung",
+      "Wissenschaft, Forschung und Technologie"
+    ],
     "SCHLAGWORT": [
       "Bundesinstitut für Arzneimittel und Medizinprodukte",
       "Kosmetika",
@@ -35,5 +39,37 @@
       "Verfassungsgrundsatz"
     ],
     "ABSTRAKT": "Genehmigungsgründe für Tierversuche an 90 000 Mäusen trotz bevorstehender Anerkennung einer tierversuchsfreien Testmethode durch das Bundesinstitut für Arzneimittel und Medizinprodukte, Einzelheiten zu LD50-Tests sowie tierversuchsfreien Testmethoden für Botulinumtoxin A und B, Anzahl getöteter Tiere für Tierversuche in den letzten fünf Jahren, Vereinbarkeit des LD50-Tests mit Tierschutzgesetz und Staatsziel Tierschutz \n(insgesamt 6 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "25.03.2015 - BT-Drucksache 18/4479",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/044/1804479.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Maisch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Kai",
+            "NACHNAME": "Gehring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "10.04.2015 - BT-Drucksache 18/4593",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/045/1804593.pdf"
+      }
+    ]
   }
 }

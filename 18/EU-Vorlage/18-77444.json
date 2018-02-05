@@ -1,5 +1,5 @@
 {
-  "process": "18-77444",
+  "vorgangId": "77444",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -22,23 +22,225 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/106/1810669.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "Beratung",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "18/210",
-        "PLPR_SEITEN": "21062A - 21076D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18210.pdf#P.21062"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "18/210",
+      "PLPR_SEITEN": "21062A - 21076D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18210.pdf#P.21062"
+    },
     "EU_DOK_NR": "Ratsdok. 10255/16",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "24.10.2016 - BT-Drucksache 18/10116, Nr. A.28",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/101/1810116.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Menschenrechte und humanitäre Hilfe ",
+        "FUNDSTELLE": "14.12.2016 - BT-Drucksache 18/10669",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/106/1810669.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Heinrich",
+            "WAHLKREISZUSATZ": "Chemnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Inge",
+            "NACHNAME": "Höger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Tom",
+            "NACHNAME": "Koenigs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schwabe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "16.12.2016 - BT-Plenarprotokoll 18/210, S. 21062A - 21076D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18210.pdf#P.21062",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schwabe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21062C"
+          },
+          {
+            "VORNAME": "Inge",
+            "NACHNAME": "Höger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21063C"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Heinrich",
+            "WAHLKREISZUSATZ": "Chemnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21065A"
+          },
+          {
+            "VORNAME": "Tom",
+            "NACHNAME": "Koenigs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21066D"
+          },
+          {
+            "VORNAME": "Angelika",
+            "NACHNAME": "Glöckner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21068A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Fabritius",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21069B"
+          },
+          {
+            "VORNAME": "Marieluise",
+            "NACHNAME": "Beck",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "21070A"
+          },
+          {
+            "VORNAME": "Tom",
+            "NACHNAME": "Koenigs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "21071D"
+          },
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Hajduk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "21073A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Fabritius",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "21073C"
+          },
+          {
+            "VORNAME": "Gabriela",
+            "NACHNAME": "Heinrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21074A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Fabritius",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "21074B"
+          },
+          {
+            "VORNAME": "Sylvia",
+            "NACHNAME": "Pantel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21075C"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "21076C",
+            "BESCHLUSSTENOR": "Kenntnisnahme",
+            "BEZUGSDOKUMENT": "18/10669"
+          },
+          {
+            "BESCHLUSSSEITE": "21076C",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "18/10669"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
+        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
+      }
+    ]
   }
 }

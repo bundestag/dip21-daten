@@ -1,5 +1,5 @@
 {
-  "process": "18-82812",
+  "vorgangId": "82812",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -34,5 +34,47 @@
       "Wahlrecht"
     ],
     "ABSTRAKT": "Ersatzlose Streichung des Wahlrechtsausschlusses als automatische Rechtsfolge einer Betreuung in allen Angelegenheiten sowie als Folge einer Unterbringung in einem psychiatrischen Krankenhaus aufgrund einer strafrechtlichen Maßregel im Bundes- und Europawahlgesetz, Schaffung bedarfsgerechter Assistenz-/Unterstützungsangebote, barrierefreie Ausgestaltung aller Wahllokale"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "27.06.2017 - BT-Drucksache 18/12941",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/129/1812941.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Werner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Sigrid",
+            "NACHNAME": "Hupach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "29.06.2017 - BT-Plenarprotokoll 18/243, S. 25027A - 25027B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18243.pdf#P.25027",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "25027B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/12941",
+          "ABSTIMMUNG_BEMERKUNG": "Überweisung gegen den Wunsch der Fraktion DIE LINKE (Sofortabstimmung)"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

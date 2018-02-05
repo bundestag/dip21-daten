@@ -1,5 +1,5 @@
 {
-  "process": "18-80690",
+  "vorgangId": "80690",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -27,5 +27,40 @@
       "Sportstätte"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nMit welchen Bundesstützpunkten ist die Bundesregierung im Rahmen der Spitzensportförderreform bezüglich einer Schließung im Gespräch, und wie ist der aktuelle Stand der Verhandlungen?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "24.03.2017 - BT-Drucksache 18/11681, Nr. 22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/116/1811681.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "29.03.2017 - BT-Plenarprotokoll 18/227, S. 22833C - 22833D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18227.pdf#P.22833",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Özcan",
+            "NACHNAME": "Mutlu",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22833C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22833C"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-64346",
+  "vorgangId": "64346",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -37,5 +37,37 @@
       "Passverordnung"
     ],
     "ABSTRAKT": "Anpassung der Muster der Reisedokumente, Ergänzung der kroatischen Sprache"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium des Innern ",
+        "FUNDSTELLE": "18.12.2014 - BR-Drucksache 633/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0633-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.02.2015 - BR-Plenarprotokoll 930, TOP 38, S. 23B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/930.pdf#P.23",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "633/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.02.2015 - BR-Drucksache 633/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0633-14B.pdf"
+      }
+    ]
   }
 }

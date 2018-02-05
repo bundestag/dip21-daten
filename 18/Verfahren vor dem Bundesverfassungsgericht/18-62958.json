@@ -1,5 +1,5 @@
 {
-  "process": "18-62958",
+  "vorgangId": "62958",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
@@ -27,5 +27,27 @@
       "Gerichtsverfahren"
     ],
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "16.10.2014 - BT-Drucksache 18/2921",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/029/1802921.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "06.11.2014 - BT-Plenarprotokoll 18/63, S. 5847A - 5847B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18063.pdf#P.5847",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5847B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/2921",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

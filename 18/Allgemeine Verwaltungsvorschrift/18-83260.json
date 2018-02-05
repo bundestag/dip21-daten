@@ -1,5 +1,5 @@
 {
-  "process": "18-83260",
+  "vorgangId": "83260",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -32,5 +32,49 @@
       "Vollziehungsanweisung"
     ],
     "ABSTRAKT": "Anpassung der Vollstreckungsanweisung und der Vollziehungsanweisung an die geltende Rechtslage und Konkretisierung des Verwaltungsverfahrens"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "19.07.2017 - BR-Drucksache 575/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0575-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift ",
+        "FUNDSTELLE": "07.09.2017 - BR-Drucksache zu575/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0575-17(zu).pdf",
+        "VP_ABSTRAKT": "Berichtigung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "22.09.2017 - BR-Plenarprotokoll 960, TOP 49, S. 401C - 401D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/960.pdf#P.401",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "401D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "575/17",
+          "GRUNDLAGE": "Art. 108 Abs. 7 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "22.09.2017 - BR-Drucksache 575/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0575-17B.pdf"
+      }
+    ]
   }
 }

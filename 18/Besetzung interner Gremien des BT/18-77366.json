@@ -1,5 +1,5 @@
 {
-  "process": "18-77366",
+  "vorgangId": "77366",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
@@ -27,5 +27,29 @@
       "Wahl"
     ],
     "ABSTRAKT": "Mitglied: Johannes Kahrs \nStellvertreter: Dennis Rohde"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der SPD ",
+        "FUNDSTELLE": "21.10.2016 - BT-Drucksache 18/10096",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/100/1810096.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "10.11.2016 - BT-Plenarprotokoll 18/199, S. 19802A - 19802C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18199.pdf#P.19802",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19815A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/10096",
+          "ABSTIMMUNGSART": "Geheime Wahl",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "gewähltes Mitglied: Johannes Kahrs (465:94:31), Stellvertreter: Dennis Rohde (514:47:29)"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-55159",
+  "vorgangId": "55159",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -22,22 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "BR-Sitzung",
-        "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "915",
-        "PLPR_SEITEN": "515B - 515D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/915.pdf#P.515"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "915",
+      "PLPR_SEITEN": "515B - 515D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/915.pdf#P.515"
+    },
     "EU_DOK_NR": "Ratsdok. 12554/13, Kom. (2013) 533 endg.",
     "SCHLAGWORT": [
       "Betrug",
@@ -49,5 +40,63 @@
       "Verwaltungsorganisation"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "13.08.2013 - BR-Drucksache 648/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0648-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.10.2013 - BR-Plenarprotokoll 915, TOP 999b, S. 515B - 515D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/915.pdf#P.515",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "515D",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "648/13",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.10.2013 - BR-Drucksache 648/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0648-13B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.43",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

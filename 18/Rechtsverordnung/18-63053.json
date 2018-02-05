@@ -1,5 +1,5 @@
 {
-  "process": "18-63053",
+  "vorgangId": "63053",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,42 @@
       "Spielverordnung"
     ],
     "ABSTRAKT": "Ermöglichung der Gebührenanhebung für Prüfaufwände der Physikalisch-Technischen Bundesanstalt, Verlängerung der maximalen Aufstelldauer von Geldspielgeräten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Wirtschaft und Energie ",
+        "FUNDSTELLE": "16.10.2014 - BR-Drucksache 471/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0471-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "28.11.2014 - BR-Plenarprotokoll 928, TOP 37, S. 380A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/928.pdf#P.380",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "380A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "471/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "28.11.2014 - BR-Drucksache 471/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0471-14B.pdf"
+      }
+    ]
   }
 }

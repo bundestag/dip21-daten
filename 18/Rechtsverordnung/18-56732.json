@@ -1,5 +1,5 @@
 {
-  "process": "18-56732",
+  "vorgangId": "56732",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Gewerbesteuer"
     ],
     "ABSTRAKT": "Erhöhung des Vervielfältigers zur Berechnung der Gewerbesteuerumlage"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "16.12.2013 - BR-Drucksache 805/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0805-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.02.2014 - BR-Plenarprotokoll 919, TOP 22, S. 1D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/919.pdf#P.1",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "805/13",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.02.2014 - BR-Drucksache 805/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0805-13B.pdf"
+      }
+    ]
   }
 }

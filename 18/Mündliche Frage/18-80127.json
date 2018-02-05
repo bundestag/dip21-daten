@@ -1,5 +1,5 @@
 {
-  "process": "18-80127",
+  "vorgangId": "80127",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,56 @@
       "Observation"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWie bewertet die Bundesregierung, dass der Bundesnachrichtendienst laut Medienberichten über mehrere Jahre hinweg Journalisten und Redaktionen überwacht haben soll? \n \nWie will die Bundesregierung verhindern, dass dies auch künftig ständige Praxis des Bundesnachrichtendienstes bleibt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "03.03.2017 - BT-Drucksache 18/11364, Nr. 3, 4",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/113/1811364.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "08.03.2017 - BT-Plenarprotokoll 18/220, S. 22017A - 22018C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18220.pdf#P.22017",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22017A"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Fritsche",
+            "FUNKTION": "Staatssekr.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22017A"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "22017D"
+          },
+          {
+            "VORNAME": "Jan",
+            "NAMENSZUSATZ": "van",
+            "NACHNAME": "Aken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "22018B"
+          }
+        ]
+      }
+    ]
   }
 }

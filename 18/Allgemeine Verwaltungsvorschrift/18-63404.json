@@ -1,5 +1,5 @@
 {
-  "process": "18-63404",
+  "vorgangId": "63404",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -30,5 +30,45 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Ermöglichung der Verwendung anderer sicherer Verfahren durch die Sozialversicherungsträger statt der qualifizierten elektronischen Signatur, Präzisierung der Vorschriften zum Einsatz selbst erstellter Software"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "05.11.2014 - BR-Drucksache 539/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0539-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2014 - BR-Plenarprotokoll 929, TOP 33b, S. 410C - 410D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/929.pdf#P.410",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "410C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "539/14",
+          "GRUNDLAGE": "Art. 84 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 539/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0539-14B.pdf"
+      }
+    ]
   }
 }

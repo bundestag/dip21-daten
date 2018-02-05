@@ -1,5 +1,5 @@
 {
-  "process": "18-83384",
+  "vorgangId": "83384",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,49 @@
       "Verschreibungspflicht"
     ],
     "ABSTRAKT": "Anpassung der Anlage 1 der Verordnung an den aktuellen wissenschaftlichen Stand, Streichung, Modifizierung sowie Einfügung weiterer Stoffe und Zubereitungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft, Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "01.08.2017 - BR-Drucksache 586/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0586-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "19.10.2017 - BR-Drucksache 586/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0586-1-17.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.11.2017 - BR-Plenarprotokoll 961, TOP 15, S. 435B - 435C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "435C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "586/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.11.2017 - BR-Drucksache 586/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0586-17B.pdf"
+      }
+    ]
   }
 }

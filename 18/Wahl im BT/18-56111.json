@@ -1,5 +1,5 @@
 {
-  "process": "18-56111",
+  "vorgangId": "56111",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl im BT",
@@ -31,5 +31,33 @@
       "Wahl"
     ],
     "ABSTRAKT": "Wahl des Abg Dr. Norbert Lammert (CDU/CSU) auf Vorschlag der Fraktion der CDU/CSU"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "22.10.2013 - BT-Plenarprotokoll 18/1, S. 4D - 6A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18001.pdf#P.4",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5D",
+          "BESCHLUSSTENOR": "Annahme"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Amtsübernahme",
+        "FUNDSTELLE": "22.10.2013 - BT-Plenarprotokoll 18/1, S. 6A - 9B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18001.pdf#P.6",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Norbert",
+          "NACHNAME": "Lammert",
+          "FUNKTION": "Bundestagspräs.",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "6A"
+        }
+      }
+    ]
   }
 }

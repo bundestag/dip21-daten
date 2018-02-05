@@ -1,5 +1,5 @@
 {
-  "process": "18-65080",
+  "vorgangId": "65080",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "Wiedergutmachung nationalsozialistischen Unrechts"
     ],
     "ABSTRAKT": "Erhöhung der Entschädigungsrenten zum 1. August 2014 um 5 Prozent, Anpassung der Renten an die Erhöhungen der Beamtenbezüge, Änderung der Ersten, Zweiten und Dritten Verordnung zur Durchführung des Bundesentschädigungsgesetzes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "05.02.2015 - BR-Drucksache 39/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0039-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2015 - BR-Plenarprotokoll 932, TOP 27, S. 120A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/932.pdf#P.120",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "120A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "39/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2015 - BR-Drucksache 39/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0039-15B.pdf"
+      }
+    ]
   }
 }

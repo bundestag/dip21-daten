@@ -1,5 +1,5 @@
 {
-  "process": "18-65657",
+  "vorgangId": "65657",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,51 @@
       "Tierkrankheit"
     ],
     "ABSTRAKT": "Anpassung von Regelungen hinsichtlich Vorbeugung und Untersuchung zur Bekämpfung der Bovinen Herpesvirusinfektion Typ 1"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "10.03.2015 - BR-Drucksache 94/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0094-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.04.2015 - BR-Drucksache 94/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0094-1-15.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Mecklenburg-Vorpommern ",
+        "FUNDSTELLE": "05.05.2015 - BR-Drucksache 94/2/15(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0094-2-15(neu).pdf",
+        "VP_ABSTRAKT": "Änderungen anstelle Ziffer 3 in Drs 94/1/15"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 55, S. 181C - 181D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.181",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "181D",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "94/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 94/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0094-15B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-81057",
+  "vorgangId": "81057",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "Psychotrope Substanz"
     ],
     "ABSTRAKT": "Anpassung der Anlagen I und II an aktuelle wissenschaftliche Erkenntnisse, Aufnahme von zwölf neuen psychoaktiven Stoffen, Ergänzung von Bezeichnungen um Trivialnamen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "12.04.2017 - BR-Drucksache 282/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0282-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "02.06.2017 - BR-Plenarprotokoll 958, TOP 42, S. 282C - 282D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/958.pdf#P.282",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "282D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "282/17",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "02.06.2017 - BR-Drucksache 282/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0282-17B.pdf"
+      }
+    ]
   }
 }

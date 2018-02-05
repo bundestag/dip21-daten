@@ -1,5 +1,5 @@
 {
-  "process": "18-77231",
+  "vorgangId": "77231",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,37 @@
       "Rückstellung"
     ],
     "ABSTRAKT": "Anpassung der Regelungen über den kollektiven Teil der Rückstellung für Beitragsrückerstattung aufgrund der geänderten Rechtslage durch Änderungen im Versicherungsaufsichtgesetz (VAG)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "11.10.2016 - BR-Drucksache 585/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0585-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.11.2016 - BR-Plenarprotokoll 951, TOP 31, S. 475B - 475C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/951.pdf#P.475",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "475B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "585/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.11.2016 - BR-Drucksache 585/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0585-16B.pdf"
+      }
+    ]
   }
 }

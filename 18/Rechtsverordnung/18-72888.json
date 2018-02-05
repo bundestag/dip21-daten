@@ -1,5 +1,5 @@
 {
-  "process": "18-72888",
+  "vorgangId": "72888",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Viehwirtschaft"
     ],
     "ABSTRAKT": "Verlängerung der Geltungsdauer der als Eilverordnung erlassenen Verordnung (BAnz AT 19.11.2016 V1), Auszahlung von europäischen Finanzmitteln an Tierhaltungsbetriebe in den Mitgliedstaaten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "04.03.2016 - BR-Drucksache 110/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0110-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "22.04.2016 - BR-Plenarprotokoll 944, TOP 32, S. 159C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/944.pdf#P.159",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "159C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "110/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "22.04.2016 - BR-Drucksache 110/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0110-16B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-70082",
+  "vorgangId": "70082",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,60 @@
       "Tankstelle"
     ],
     "ABSTRAKT": "Regelung der technischen Mindestanforderungen an den sicheren und interoperablen Aufbau und Betrieb von öffentlich zugänglichen Ladepunkten für Elektromobile, Gewährleistung der Sicherheit von Ladesäulen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Wirtschaft und Energie ",
+        "FUNDSTELLE": "29.10.2015 - BR-Drucksache 507/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0507-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.02.2016 - BR-Drucksache 507/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0507-1-15.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen; Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "26.02.2016 - BR-Plenarprotokoll 942, TOP 26, S. 89D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/942.pdf#P.89",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Brigitte",
+          "NACHNAME": "Zypries",
+          "FUNKTION": "Parl. Staatssekr.",
+          "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "89D"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "89D",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen; Entschließung",
+          "BEZUGSDOKUMENT": "507/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "26.02.2016 - BR-Drucksache 507/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0507-15B.pdf"
+      }
+    ]
   }
 }

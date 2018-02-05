@@ -1,5 +1,5 @@
 {
-  "process": "18-78138",
+  "vorgangId": "78138",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -26,5 +26,36 @@
       "Bundesgerichtshof"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "18.11.2016 - BR-Drucksache 685/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0685-16.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "16.12.2016 - BR-Plenarprotokoll 952, TOP 66, S. 515A - 515B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/952.pdf#P.515",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "515A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "685/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "16.12.2016 - BR-Drucksache 685/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0685-16B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-61027",
+  "vorgangId": "61027",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,41 @@
       "Studie"
     ],
     "ABSTRAKT": " Originaltext der Frage(n): \n\n Wie lautet der Forschungsauftrag und wer wurde vom Bundesministerium des Innern mit der von der \"Jerusalem Post\" genannten Studie zum Antisemitismus und Antizionismus beauftragt (siehe Jerusalem Post, 13. Juni 2014, www.jpost.com/Jewish-World/Jewish-News/Germany-to-conduct-study-on-anti-Semitism-anti-Zionism-358229)? \n"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "27.06.2014 - BT-Drucksache 18/1920, Nr. 8",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/019/1801920.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "02.07.2014 - BT-Plenarprotokoll 18/45, S. 4075C - 4075D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18045.pdf#P.4075",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Beck",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "4075C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "4075D"
+          }
+        ]
+      }
+    ]
   }
 }

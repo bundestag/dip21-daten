@@ -1,5 +1,5 @@
 {
-  "process": "18-80207",
+  "vorgangId": "80207",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -26,5 +26,37 @@
     "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": "Mindestlohn",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "02.03.2017 - BT-Drucksache 18/11466",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/114/1811466.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Ernst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "11.04.2017 - BT-Drucksache 18/11918",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/119/1811918.pdf"
+      }
+    ]
   }
 }

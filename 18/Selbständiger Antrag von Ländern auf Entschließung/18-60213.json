@@ -1,5 +1,5 @@
 {
-  "process": "18-60213",
+  "vorgangId": "60213",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -42,5 +42,59 @@
       "Sportveranstaltung"
     ],
     "ABSTRAKT": "Forderung nach Fortführung der finanziellen Unterstützung des Bundes, Rücknahme der geplanten Kürzung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Berlin, Baden-Württemberg, Brandenburg, Hamburg, Niedersachsen, Nordrhein-Westfalen, Schleswig-Holstein ",
+        "FUNDSTELLE": "20.05.2014 - BR-Drucksache 218/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0218-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.05.2014 - BR-Plenarprotokoll 922, TOP 48, S. 153C - 155C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/922.pdf#P.153",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Stoch",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Kultus, Jugend und Sport",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "153C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "154C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "155C",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "218/14"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.05.2014 - BR-Drucksache 218/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0218-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "16.10.2014 - BR-Drucksache zu218/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0218-14B(zu).pdf",
+        "VP_ABSTRAKT": "Antwort der Bundesregierung auf die Entschließung des Bundesrates in Drs 218/14 (Beschluss)"
+      }
+    ]
   }
 }

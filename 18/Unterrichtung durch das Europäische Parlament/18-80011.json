@@ -1,5 +1,5 @@
 {
-  "process": "18-80011",
+  "vorgangId": "80011",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Unterrichtung durch das Europäische Parlament",
@@ -16,5 +16,28 @@
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+      "FUNDSTELLE": "17.02.2017 - BT-Drucksache 18/11229, Nr. A.24",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/112/1811229.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+        }
+      ]
+    }
   }
 }

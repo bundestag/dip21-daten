@@ -1,5 +1,5 @@
 {
-  "process": "18-59445",
+  "vorgangId": "59445",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -22,22 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/015/1801524.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "BR-Sitzung",
-        "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "924",
-        "PLPR_SEITEN": "249A - 249B",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.249"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "924",
+      "PLPR_SEITEN": "249A - 249B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.249"
+    },
     "EU_DOK_NR": "Ratsdok. 8847/14, Kom. (2014) 213 endg.",
     "SCHLAGWORT": [
       "Aktiengesellschaft",
@@ -47,5 +38,86 @@
       "Richtlinie der EU"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "10.04.2014 - BR-Drucksache 166/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0166-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "15.04.2014 - BR-Drucksache zu166/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0166-14(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.05.2014 - BT-Drucksache 18/1524, Nr. A.5",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/015/1801524.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "30.06.2014 - BR-Drucksache 166/1/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0166-1-14.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.07.2014 - BR-Plenarprotokoll 924, TOP 24, S. 249A - 249B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/924.pdf#P.249",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "249B",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "166/14",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.07.2014 - BR-Drucksache 166/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0166-14B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "23.09.2014 - BR-Drucksache zu166/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0166-14B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 166/14 (Beschluss)"
+      }
+    ]
   }
 }

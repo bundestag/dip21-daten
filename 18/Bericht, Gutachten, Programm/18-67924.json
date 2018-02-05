@@ -1,5 +1,5 @@
 {
-  "process": "18-67924",
+  "vorgangId": "67924",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -30,5 +30,43 @@
       "Finanzmarkt"
     ],
     "ABSTRAKT": "Stabilitätslage im deutschen Finanzsystem (allgemeine Risikolage durch niedrige Zinsen, Banken- und Versicherungssektor, Wohnimmobilien, Staatsschuldtitel u.a.), Zusammenarbeit mit dem Europäischen Ausschuss für Systemrisiken"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "01.07.2015 - BT-Drucksache 18/5457\nAnl. Mitglieder des Ausschusses für Finanzstabilität, Sitzungstermine",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/054/1805457.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "11.09.2015 - BT-Drucksache 18/5976",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805976.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.11.2015 - BT-Plenarprotokoll 18/134, S. 13167D - 13168C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18134.pdf#P.13167",
+        "VP_ABSTRAKT": "S. 13167D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

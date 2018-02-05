@@ -1,5 +1,5 @@
 {
-  "process": "18-57316",
+  "vorgangId": "57316",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,37 @@
       "Vertikaler Finanzausgleich"
     ],
     "ABSTRAKT": "Regelung des vorläufigen Vollzugs der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2014"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "30.01.2014 - BR-Drucksache 28/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0028-14.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.03.2014 - BR-Plenarprotokoll 920, TOP 32, S. 28A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/920.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "28/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.03.2014 - BR-Drucksache 28/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0028-14B.pdf"
+      }
+    ]
   }
 }

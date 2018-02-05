@@ -1,5 +1,5 @@
 {
-  "process": "18-56437",
+  "vorgangId": "56437",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -16,7 +16,7 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Bundesamt für den Militärischen Abschirmdienst",
+      "Amt für den Militärischen Abschirmdienst",
       "Bundesamt für Verfassungsschutz",
       "Bundesnachrichtendienst",
       "Bundeswehr",
@@ -26,5 +26,40 @@
       "USA"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nInwiefern wurden von deutschen Nachrichtendiensten wie dem Bundesnachrichtendienst, dem Bundesamt für Verfassungsschutz oder dem Militärischen Abschirmdienst Aufträge an das US-amerikanische Unternehmen Computer Sciences Corporation (CSC) vergeben, und welchen Gegenstand hatten diese jeweils?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "25.11.2013 - BT-Drucksache 18/87, Nr. 25",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800087.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "28.11.2013 - BT-Plenarprotokoll 18/3, S. 211D - 212A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18003.pdf#P.211",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Omid",
+            "NACHNAME": "Nouripour",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "211D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ole",
+            "NACHNAME": "Schröder",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "211D"
+          }
+        ]
+      }
+    ]
   }
 }

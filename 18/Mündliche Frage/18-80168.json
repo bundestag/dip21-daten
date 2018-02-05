@@ -1,5 +1,5 @@
 {
-  "process": "18-80168",
+  "vorgangId": "80168",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -17,5 +17,40 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Pflegeversicherung",
     "ABSTRAKT": "Originaltext der Frage(n): \n \nAuf welche Summe beläuft sich derzeit die Finanzreserve der sozialen Pflegeversicherung, zum einen absolut, zum anderen ausgedrückt in monatlichen Ausgaben?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "03.03.2017 - BT-Drucksache 18/11364, Nr. 40",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/113/1811364.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "08.03.2017 - BT-Plenarprotokoll 18/220, S. 22059A - 22059B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18220.pdf#P.22059",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22059A"
+          },
+          {
+            "VORNAME": "Annette",
+            "NACHNAME": "Widmann-Mauz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22059B"
+          }
+        ]
+      }
+    ]
   }
 }

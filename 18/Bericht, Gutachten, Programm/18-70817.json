@@ -1,5 +1,5 @@
 {
-  "process": "18-70817",
+  "vorgangId": "70817",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -34,5 +34,55 @@
       "Tiefbau"
     ],
     "ABSTRAKT": "Übersicht zu Öffentlich-Privaten Partnerschaften, ÖPP-Projekte des Bundes im Betrieb (Tiefbau, Hochbau, sonstige Projekte), Transparenz und Akzeptanz von ÖPP"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "26.11.2015 - BT-Drucksache 18/6898\nAnl. Evaluierungsfragebögen",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/068/1806898.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "18.12.2015 - BT-Drucksache 18/7116",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/071/1807116.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderung der Ausschussüberweisung",
+        "FUNDSTELLE": "28.01.2016 - BT-Plenarprotokoll 18/152, S. 14884B - 14884C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18152.pdf#P.14884",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14884C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/6898"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "29.04.2016 - BT-Plenarprotokoll 18/168, S. 16631D - 16632C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18168.pdf#P.16631",
+        "VP_ABSTRAKT": "S. 16631D - Absehen von Berichterstattung"
+      }
+    ]
   }
 }

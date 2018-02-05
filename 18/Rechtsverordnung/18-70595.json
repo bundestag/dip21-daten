@@ -1,5 +1,5 @@
 {
-  "process": "18-70595",
+  "vorgangId": "70595",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,42 @@
       "Energiewirtschaftskostenverordnung"
     ],
     "ABSTRAKT": "Ergänzung von Gebührentatbeständen für Amtshandlungen der Bundesnetzagentur zur Durchführung des unmittelbaren Vollzugs europarechtlicher Verordnungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Wirtschaft und Energie ",
+        "FUNDSTELLE": "26.11.2015 - BR-Drucksache 573/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0573-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.12.2015 - BR-Plenarprotokoll 940, TOP 41, S. 513B - 513C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/940.pdf#P.513",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "513C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "573/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.12.2015 - BR-Drucksache 573/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0573-15B.pdf"
+      }
+    ]
   }
 }

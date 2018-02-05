@@ -1,5 +1,5 @@
 {
-  "process": "18-80784",
+  "vorgangId": "80784",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Eisenbahninfrastrukturbeirat",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "30.03.2017 - BR-Drucksache 257/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0257-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "31.03.2017 - BR-Plenarprotokoll 956, TOP 86, S. 199D - 200A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/956.pdf#P.199",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "200A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "257/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "31.03.2017 - BR-Drucksache 257/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0257-17B.pdf"
+      }
+    ]
   }
 }

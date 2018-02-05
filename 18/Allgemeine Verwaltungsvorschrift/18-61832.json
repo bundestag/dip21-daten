@@ -1,5 +1,5 @@
 {
-  "process": "18-61832",
+  "vorgangId": "61832",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -29,5 +29,42 @@
       "Transportrecht"
     ],
     "ABSTRAKT": "Aktualisierung von bundeseinheitlich zu verwendenden Genehmigungsdokumenten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "30.07.2014 - BR-Drucksache 344/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0344-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.09.2014 - BR-Plenarprotokoll 925, TOP 62, S. 284B - 284C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/925.pdf#P.284",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "284C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "344/14",
+          "GRUNDLAGE": "Art. 84 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.09.2014 - BR-Drucksache 344/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0344-14B.pdf"
+      }
+    ]
   }
 }

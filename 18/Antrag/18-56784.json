@@ -1,5 +1,5 @@
 {
-  "process": "18-56784",
+  "vorgangId": "56784",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -34,6 +34,28 @@
       "Parlamentsausschuss",
       "Sitzverteilung"
     ],
-    "ABSTRAKT": "Anwendung des Verfahrens der mathematischen Proportion (St. Lague/Schepers) bei der Berechnung der Sitzverteilung im Ältestenrat, in den Ausschüssen sowie bei den Vorsitzen in den Ausschüssen, vorbehaltlich entgegenstehender gesetzlicher Regelungen Anwendung auch auf weitere Gremien, bei Nichtwiedergabe der parlamentarischen Mehrheit oder mehrdeutigen Ergebnissen Verteilung nach d&rsquo;Hondt"
+    "ABSTRAKT": "Anwendung des Verfahrens der mathematischen Proportion (St. Lague/Schepers) bei der Berechnung der Sitzverteilung im Ältestenrat, in den Ausschüssen sowie bei den Vorsitzen in den Ausschüssen, vorbehaltlich entgegenstehender gesetzlicher Regelungen Anwendung auch auf weitere Gremien, bei Nichtwiedergabe parlamentarischer Mehrheiten oder mehrdeutigen Ergebnissen Errechnung der Verteilung nach d&rsquo;Hondt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "19.12.2013 - BT-Drucksache 18/212",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/002/1800212.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.12.2013 - BT-Plenarprotokoll 18/6, S. 288A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18006.pdf#P.288",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "288A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/212",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

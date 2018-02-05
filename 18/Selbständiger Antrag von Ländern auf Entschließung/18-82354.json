@@ -1,5 +1,5 @@
 {
-  "process": "18-82354",
+  "vorgangId": "82354",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -35,5 +35,57 @@
       "Versuch"
     ],
     "ABSTRAKT": "Forderung nach Änderung des Betäubungsmittelgesetzes, Schaffung der Rechtsgrundlage für die Abgabe ärztlich nicht verschriebener Gebrauchsmengen von Cannabis im Rahmen von Versuchsprojekten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Bremen, Thüringen und Berlin ",
+        "FUNDSTELLE": "14.06.2017 - BR-Drucksache 500/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0500-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.06.2017 - BR-Drucksache 500/1/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0500-1-17.pdf",
+        "VP_ABSTRAKT": "Ablehnung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.07.2017 - BR-Plenarprotokoll 959, TOP 52, S. 357C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.357",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Karoline",
+          "NACHNAME": "Linnert",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Bürgermeisterin, Senatorin für Finanzen",
+          "BUNDESLAND": "Bremen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "357C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "357C",
+          "BESCHLUSSTENOR": "Ablehnung",
+          "BEZUGSDOKUMENT": "500/17"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.07.2017 - BR-Drucksache 500/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0500-17B.pdf"
+      }
+    ]
   }
 }

@@ -1,11 +1,11 @@
 {
-  "process": "18-54916",
+  "vorgangId": "54916",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
     "TITEL": "Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates über das Europäische Jahr der Entwicklung (2015)\nKOM(2013) 509 endg.; Ratsdok. 12278/13",
     "INITIATIVE": "Europäische Kommission",
-    "AKTUELLER_STAND": "",
+    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,22 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "BR-Sitzung",
-        "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "914",
-        "PLPR_SEITEN": "485C - 485D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.485"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "914",
+      "PLPR_SEITEN": "485C - 485D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.485"
+    },
     "EU_DOK_NR": "Ratsdok. 12278/13, Kom. (2013) 509 endg.",
     "SCHLAGWORT": [
       "Entwicklungspolitik",
@@ -45,5 +36,80 @@
       "Europäisches Jahr"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "24.07.2013 - BR-Drucksache 599/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0599-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "25.07.2013 - BR-Drucksache zu599/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0599-13(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "09.09.2013 - BR-Drucksache 599/1/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0599-1-13.pdf",
+        "VP_ABSTRAKT": "EU, AS: Stellungnahme - Wi: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 46, S. 485C - 485D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.485",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "485D",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "599/13",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 599/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0599-13B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.176",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "10.02.2014 - BR-Drucksache zu599/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0599-13B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 599/13 (Beschluss)"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-73385",
+  "vorgangId": "73385",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -31,5 +31,39 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Deutsches Institut für Menschenrechte",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "21.03.2016 - BR-Drucksache 145/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0145-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag,  Urheber : Ständiger Beirat BR ",
+        "FUNDSTELLE": "06.05.2016 - BR-Drucksache 145/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0145-1-16.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "13.05.2016 - BR-Plenarprotokoll 945, TOP 32, S. 187B - 187C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/945.pdf#P.187",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "187C",
+          "BESCHLUSSTENOR": "Zustimmung zu dem Vorschlag des Ständigen Beirats in Drucksache 145/1/16",
+          "BEZUGSDOKUMENT": "145/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "13.05.2016 - BR-Drucksache 145/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0145-16B.pdf"
+      }
+    ]
   }
 }

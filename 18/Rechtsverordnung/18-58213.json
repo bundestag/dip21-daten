@@ -1,5 +1,5 @@
 {
-  "process": "18-58213",
+  "vorgangId": "58213",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -32,5 +32,45 @@
       "Vorprüfungsstelle"
     ],
     "ABSTRAKT": "Auflösung der Vorprüfungsstelle der Stiftung, Übertragung der Finanzkontrolle an die für Kultur zuständige oberste Bundesbehörde, Zulassung eines Abschlussprüfers, weitere Anpassung aufgrund des Inkrafttretens des Tarifvertrages für den öffentlichen Dienst (TVöd)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundeskanzleramt (federführend)",
+        "FUNDSTELLE": "26.02.2014 - BR-Drucksache 76/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0076-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, TOP 25, S. 85A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.85",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "85A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "76/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "11.04.2014 - BR-Drucksache 76/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0076-14B.pdf"
+      }
+    ]
   }
 }

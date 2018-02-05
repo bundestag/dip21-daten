@@ -1,5 +1,5 @@
 {
-  "process": "18-63143",
+  "vorgangId": "63143",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -29,5 +29,42 @@
       "Kommunalträger-Abrechnungsverwaltungsvorschrift"
     ],
     "ABSTRAKT": "Umsetzung des in Bezug auf die Versorgungsaufwendungen festgestellten Anpassungsbedarfs"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "28.10.2014 - BR-Drucksache 508/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0508-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "28.11.2014 - BR-Plenarprotokoll 928, TOP 29b, S. 380A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/928.pdf#P.380",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "380A",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "508/14",
+          "GRUNDLAGE": "Art. 91e Abs. 2 u. 3 GG i.V.m. § 48 Abs. 3 Zweites Buch Sozialgesetzbuch"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "28.11.2014 - BR-Drucksache 508/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0508-14B.pdf"
+      }
+    ]
   }
 }

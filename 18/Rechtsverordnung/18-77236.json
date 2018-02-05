@@ -1,5 +1,5 @@
 {
-  "process": "18-77236",
+  "vorgangId": "77236",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,49 @@
       "Versicherungswirtschaft"
     ],
     "ABSTRAKT": "Erbringung des Nachweises über Kenntnisse und Fähigkeiten in Bezug auf das Gestalten, Anbieten, Vermitteln und Abschließen von Kreditverträgen oder das Erbringen von Beratungsleistungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "11.10.2016 - BR-Drucksache 586/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0586-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "11.11.2016 - BR-Drucksache 586/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0586-1-16.pdf",
+        "VP_ABSTRAKT": "Zustimmung - Wi: zus. Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.11.2016 - BR-Plenarprotokoll 951, TOP 32, S. 475B - 475C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/951.pdf#P.475",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "475B",
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "586/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.11.2016 - BR-Drucksache 586/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0586-16B.pdf"
+      }
+    ]
   }
 }

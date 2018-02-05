@@ -1,5 +1,5 @@
 {
-  "process": "18-61300",
+  "vorgangId": "61300",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,42 @@
       "Steuerverteilung"
     ],
     "ABSTRAKT": "Festlegung der Schlüsselzahlen anhand der Bundesstatistik über die Lohn- und Einkommensteuer für das Jahr 2010, Anpassung der Zurechnung der Steuerbeträge an die Gemeinden an aktuelle Entwicklungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "08.07.2014 - BR-Drucksache 301/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0301-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.09.2014 - BR-Plenarprotokoll 925, TOP 52, S. 284B - 284C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/925.pdf#P.284",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "284C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "301/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.09.2014 - BR-Drucksache 301/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0301-14B.pdf"
+      }
+    ]
   }
 }

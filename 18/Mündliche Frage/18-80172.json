@@ -1,5 +1,5 @@
 {
-  "process": "18-80172",
+  "vorgangId": "80172",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -21,5 +21,39 @@
       "Verkehrslärm"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche Aufträge (Forschungsvorhaben, Gutachten etc.) hat das BMVI seit dem 1. Januar 2015 in Bezug auf die 16. Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes vergeben, und wann werden voraussichtlich dem Bundestag Änderungen an dieser Verordnung zur Beschlussfassung vorgelegt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "03.03.2017 - BT-Drucksache 18/11364, Nr. 44",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/113/1811364.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "08.03.2017 - BT-Plenarprotokoll 18/220, S. 22060D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18220.pdf#P.22060",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Herbert",
+            "NACHNAME": "Behrens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "22060D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Barthle",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "22060D"
+          }
+        ]
+      }
+    ]
   }
 }

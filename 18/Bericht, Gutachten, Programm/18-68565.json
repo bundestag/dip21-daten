@@ -1,5 +1,5 @@
 {
-  "process": "18-68565",
+  "vorgangId": "68565",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -48,5 +48,49 @@
       "Waffenhandel"
     ],
     "ABSTRAKT": "Beschluss der Bundesregierung zur Anpassung der GO BSR an die Entscheidung des Bundesverfassungsgerichts vom 21. Oktober 2014 zur Beantwortung parlamentarischer Anfragen zu Rüstungsexporten: zusätzliche Unterrichtung über beteiligte Unternehmen und Gesamtvolumen des Geschäfts; verfahrensmäßige und redaktionelle Überarbeitung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "13.08.2015 - BR-Drucksache 342/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0342-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundeskanzleramt (federführend)",
+        "FUNDSTELLE": "13.08.2015 - BT-Drucksache 18/5773",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/057/1805773.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "25.09.2015 - BT-Drucksache 18/6138",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/061/1806138.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.11.2015 - BT-Plenarprotokoll 18/134, S. 13167D - 13168C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18134.pdf#P.13167",
+        "VP_ABSTRAKT": "S. 13167D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

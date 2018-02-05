@@ -1,5 +1,5 @@
 {
-  "process": "18-65487",
+  "vorgangId": "65487",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
@@ -27,5 +27,28 @@
       "Wahl"
     ],
     "ABSTRAKT": "Eckhardt Rehberg"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU ",
+        "FUNDSTELLE": "03.03.2015 - BT-Drucksache 18/4166",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/041/1804166.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.03.2015 - BT-Plenarprotokoll 18/91, S. 8649D - 8650A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18091.pdf#P.8649",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8658D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/4166",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "527:45:17"
+        }
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-56803",
+  "vorgangId": "56803",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl im BT",
@@ -20,5 +20,57 @@
       "Wahl"
     ],
     "ABSTRAKT": "Wahl der Abg Andrea Voßhoff (CDU/CSU) auf Vorschlag der Bundesregierung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Wahl",
+      "FUNDSTELLE": "19.12.2013 - BT-Plenarprotokoll 18/6, S. 311C - 311D",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18006.pdf#P.311",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Jan",
+          "NACHNAME": "Korte",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+          "SEITE": "279B"
+        },
+        {
+          "VORNAME": "Michael",
+          "NACHNAME": "Grosse-Brömer",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+          "SEITE": "280B"
+        },
+        {
+          "VORNAME": "Britta",
+          "NACHNAME": "Haßelmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+          "SEITE": "280D"
+        },
+        {
+          "VORNAME": "Christine",
+          "NACHNAME": "Lambrecht",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+          "SEITE": "281C"
+        }
+      ],
+      "BESCHLUSS": [
+        {
+          "BESCHLUSSSEITE": "315A",
+          "BESCHLUSSTENOR": "Annahme"
+        },
+        {
+          "BESCHLUSSSEITE": "282A",
+          "BESCHLUSSTENOR": "Ablehnung Geschäftsordnungsantrag der Fraktion DIE LINKE auf Absetzung der Wahl der Bundesbeauftragten für den Datenschutz und die Informationsfreiheit von der Tagesordnung"
+        }
+      ]
+    }
   }
 }

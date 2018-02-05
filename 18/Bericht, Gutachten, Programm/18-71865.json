@@ -1,5 +1,5 @@
 {
-  "process": "18-71865",
+  "vorgangId": "71865",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -43,5 +43,80 @@
       "Wahlkreiskommission"
     ],
     "ABSTRAKT": "Ergänzende Überprüfung der Verteilung von Wahlkreisen auf die Länder Thüringen und Hessen aufgrund der absehbaren Veränderungen in der Bevölkerungsentwicklung, Vorschläge zur Neueinteilung von Wahlkreisen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "22.01.2016 - BT-Drucksache 18/7350",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/073/1807350.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.03.2016 - BT-Plenarprotokoll 18/161, S. 15926D - 15932A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18161.pdf#P.15926",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15927B"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Tempel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15928A"
+          },
+          {
+            "VORNAME": "Gabriele",
+            "NACHNAME": "Fograscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15929A"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15930B"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "WAHLKREISZUSATZ": "Altötting",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15931A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "15932A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/7350"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "15.04.2016 - BT-Plenarprotokoll 18/165, S. 16300C - 16301B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18165.pdf#P.16300",
+        "VP_ABSTRAKT": "S. 16300C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

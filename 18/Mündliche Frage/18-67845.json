@@ -1,5 +1,5 @@
 {
-  "process": "18-67845",
+  "vorgangId": "67845",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -17,5 +17,47 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Patientenberatung",
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWird der Monitor Patientenberatung der Unabhängigen Patientenberatung Deutschland (UPD) wie jedes Jahr am 1. Juli veröffentlicht, und wenn nein, warum nicht?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2015 - BT-Drucksache 18/5341, Nr. 25",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805341.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "01.07.2015 - BT-Plenarprotokoll 18/114, S. 11002C - 11003C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18114.pdf#P.11002",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "11002C"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Fischbach",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "11002C"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "11003B"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-62679",
+  "vorgangId": "62679",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -42,5 +42,76 @@
       "Landwirtschaftsbetrieb"
     ],
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs zur Abschaffung der sog. Hofabgabeklausel"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "08.10.2014 - BT-Drucksache 18/2770",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/027/1802770.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Ostendorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "16.10.2014 - BT-Plenarprotokoll 18/60, S. 5551B - 5552B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18060.pdf#P.5551",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5552B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/2770"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Arbeit und Soziales ",
+        "FUNDSTELLE": "04.12.2014 - BT-Drucksache 18/3455",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/034/1803455.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Albert",
+          "NACHNAME": "Stegemann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.06.2017 - BT-Plenarprotokoll 18/240, S. 24534A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18240.pdf#P.24534",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24534A",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/2770"
+        }
+      }
+    ]
   }
 }

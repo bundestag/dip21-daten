@@ -1,5 +1,5 @@
 {
-  "process": "18-75975",
+  "vorgangId": "75975",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,42 @@
       "Verschreibungspflicht"
     ],
     "ABSTRAKT": "Anpassung der Anlage 1 der Verordnung an den aktuellen wissenschaftlichen Stand"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft, Bundesministerium für Gesundheit ",
+        "FUNDSTELLE": "04.08.2016 - BR-Drucksache 396/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0396-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.09.2016 - BR-Plenarprotokoll 948, TOP 73, S. 338B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/948.pdf#P.338",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "338B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "396/16",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.09.2016 - BR-Drucksache 396/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0396-16B.pdf"
+      }
+    ]
   }
 }

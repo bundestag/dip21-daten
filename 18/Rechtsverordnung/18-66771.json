@@ -1,5 +1,5 @@
 {
-  "process": "18-66771",
+  "vorgangId": "66771",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -33,5 +33,63 @@
       "Berufsförderungsverordnung"
     ],
     "ABSTRAKT": "Neuregelung aufgrund der Änderungen der Berufsförderung im Soldatenvorsorgegesetz und der Neustrukturierung der Bundeswehr, Anhebung von Kostenhöchstgrenzen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "30.04.2015 - BR-Drucksache 208/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0208-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verteidigung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "12.06.2015 - BR-Plenarprotokoll 934, TOP 41, S. 205C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/934.pdf#P.205",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "205C",
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "208/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Mecklenburg-Vorpommern ",
+        "FUNDSTELLE": "07.07.2015 - BR-Drucksache 208/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0208-1-15.pdf",
+        "VP_ABSTRAKT": "Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.07.2015 - BR-Plenarprotokoll 935, TOP 61, S. 274A - 274B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/935.pdf#P.274",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "274B",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "208/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.07.2015 - BR-Drucksache 208/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0208-15B.pdf"
+      }
+    ]
   }
 }

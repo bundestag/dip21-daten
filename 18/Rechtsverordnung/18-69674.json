@@ -1,5 +1,5 @@
 {
-  "process": "18-69674",
+  "vorgangId": "69674",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,37 @@
       "Wiedergutmachung nationalsozialistischen Unrechts"
     ],
     "ABSTRAKT": "Feststellung der endgültigen Lastenanteile für das Rechnungsjahr 2014"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "02.10.2015 - BR-Drucksache 457/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0457-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2015 - BR-Plenarprotokoll 939, TOP 30, S. 456B - 456C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/939.pdf#P.456",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "456C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "457/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2015 - BR-Drucksache 457/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0457-15B.pdf"
+      }
+    ]
   }
 }

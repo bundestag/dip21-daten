@@ -1,5 +1,5 @@
 {
-  "process": "18-67812",
+  "vorgangId": "67812",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,40 @@
       "V-Person"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWann hat das Bundeskriminalamt bzw. der Generalbundesanwalt beim Bundesgerichtshof eine Vernehmung des neonazistischen V-Mannes J. H. im Rahmen der Ermittlungen gegen den so genannten Nationalsozialistischen Untergrund (NSU) durchgeführt?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2015 - BT-Drucksache 18/5341, Nr. 2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/053/1805341.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "01.07.2015 - BT-Plenarprotokoll 18/114, S. 11021C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18114.pdf#P.11021",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "11021C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "11021C"
+          }
+        ]
+      }
+    ]
   }
 }

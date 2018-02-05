@@ -1,5 +1,5 @@
 {
-  "process": "18-64252",
+  "vorgangId": "64252",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,33 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Kommission Lagerung hoch radioaktiver Abfallstoffe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "17.12.2014 - BR-Drucksache 623/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0623-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "19.12.2014 - BR-Plenarprotokoll 929, TOP 51, S. 410C - 410D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/929.pdf#P.410",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "410C",
+          "BESCHLUSSTENOR": "Zustimmung zu dem Antrag",
+          "BEZUGSDOKUMENT": "623/14",
+          "GRUNDLAGE": "§ 3 Abs. 1 Satz 2 Nr. 3, Satz 5 u. 6 Standortauswahlgesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "19.12.2014 - BR-Drucksache 623/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0623-14B.pdf"
+      }
+    ]
   }
 }

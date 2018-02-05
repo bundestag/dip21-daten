@@ -1,5 +1,5 @@
 {
-  "process": "18-58235",
+  "vorgangId": "58235",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,32 @@
       "Verkehrsstatistik"
     ],
     "ABSTRAKT": "Untersuchungsverfahren, allgemeine Verkehrsentwicklung, Ergebnisse: mautbedingte Entwicklung an den Zählstellen, Modellrechnung, Verkehrsverlagerungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur",
+        "FUNDSTELLE": "27.02.2014 - BT-Drucksache 18/689",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/006/1800689.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "14.03.2014 - BT-Drucksache 18/817",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/008/1800817.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "09.05.2014 - BT-Plenarprotokoll 18/34, S. 2933A - 2933C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18034.pdf#P.2933",
+        "VP_ABSTRAKT": "S. 2933A - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

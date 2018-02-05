@@ -1,5 +1,5 @@
 {
-  "process": "18-70200",
+  "vorgangId": "70200",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
@@ -27,5 +27,29 @@
       "Wahl"
     ],
     "ABSTRAKT": "Mitglied: Roland Claus \nStellvertreter: Dr. Dietmar Bartsch"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "10.11.2015 - BT-Drucksache 18/6630",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/066/1806630.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "12.11.2015 - BT-Plenarprotokoll 18/136, S. 13284C - 13285C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18136.pdf#P.13284",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13293A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "18/6630",
+          "ABSTIMMUNGSART": "Geheime Wahl",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "es wurde als Mitglied gewählt: Roland Claus (430:109:44), als Stellvertreter: Dietmar Bartsch (476:79:21)"
+        }
+      }
+    ]
   }
 }

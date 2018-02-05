@@ -1,5 +1,5 @@
 {
-  "process": "18-59797",
+  "vorgangId": "59797",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,48 @@
       "V-Person"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nDurch welche Behörde haben welche Bundesbehörden erstmals von der CD mit der Aufschrift &bdquo;NSU/NSDAP&ldquo; (vgl. DER SPIEGEL vom 18. April 2014, www.spiegel.de/panorama/toter-v-mann-corelli-sollte-zu-nazi-cd-befragt-werden-a-965216.html) Kenntnis erhalten (bitte unter Angabe des Zeitpunktes)? \n \nWelche der auf der genannten CD befindlichen Dateien, mit welchem Inhalt und Erstellungsdatum, lassen sich nach Erkenntnissen der Bundesregierung dem V-Mann Corelli zurechnen?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.05.2014 - BT-Drucksache 18/1293, Nr. 34, 35",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/012/1801293.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "07.05.2014 - BT-Plenarprotokoll 18/32, S. 2646A - 2647D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18032.pdf#P.2646",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "2646A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "2646A"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "2647A"
+          }
+        ]
+      }
+    ]
   }
 }

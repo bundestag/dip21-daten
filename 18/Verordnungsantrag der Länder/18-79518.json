@@ -1,5 +1,5 @@
 {
-  "process": "18-79518",
+  "vorgangId": "79518",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Verordnungsantrag der Länder",
@@ -33,5 +33,45 @@
       "Hofraumverordnung"
     ],
     "ABSTRAKT": "Bedarf einer Sonderregelung zur Herstellung der formalen Grundbuchfähigkeit von sogenannten ungetrennten Hofräumen, Regelung der grundbuchmäßigen Behandlung der Anteile"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnungsantrag,  Urheber : Sachsen ",
+        "FUNDSTELLE": "25.01.2017 - BR-Drucksache 49/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0049-17.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.03.2017 - BR-Plenarprotokoll 954, TOP 17, S. 97A - 97B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/954.pdf#P.97",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "97B",
+          "BESCHLUSSTENOR": "Zuleitung",
+          "BEZUGSDOKUMENT": "49/17",
+          "GRUNDLAGE": "Art. 80 Abs. 3 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache / Verordnungsentwurf ",
+        "FUNDSTELLE": "10.03.2017 - BR-Drucksache 49/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0049-17B.pdf"
+      }
+    ]
   }
 }

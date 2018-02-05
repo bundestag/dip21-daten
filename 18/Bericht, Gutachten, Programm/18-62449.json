@@ -1,5 +1,5 @@
 {
-  "process": "18-62449",
+  "vorgangId": "62449",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -32,17 +32,67 @@
     ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Kultur",
       "Außenpolitik und internationale Beziehungen",
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
       "Auslandsrundfunk",
-      "Auswärtige Kultur- und Bildungspolitik",
       "Bericht",
       "Deutsche Welle",
       "Evaluation"
     ],
     "ABSTRAKT": "Strategische Neuausrichtung, Angebote, finanzielle und gesetzliche Grundlage der Deutschen Welle, Wettbewerbsumfeld; Grundlagen der Evaluation, Modell und Vorgehensweise; Angebotsneuausrichtung und Strukturreform; Output und Outcome in den Regionen: Zielgebiete und Beschreibung der Medienmärkte, Ergebnisse und Wirkung der Angebote"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Deutsche Welle ",
+        "FUNDSTELLE": "20.06.2013 - BT-Drucksache 17/14285",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/142/1714285.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.09.2014 - BT-Plenarprotokoll 18/54, S. 4951D - 4953B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18054.pdf#P.4951",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4953A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "17/14285"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "19.12.2014 - BT-Plenarprotokoll 18/77, S. 7429D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18077.pdf#P.7429",
+        "VP_ABSTRAKT": "S. 7429D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

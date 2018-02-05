@@ -1,5 +1,5 @@
 {
-  "process": "18-59974",
+  "vorgangId": "59974",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -47,5 +47,51 @@
       "Wirtschaftspolitik"
     ],
     "ABSTRAKT": "Jahreswachstumsbericht 2013 der EU-Kommission, Frühjahrsgipfel des Europäischen Rates; Stabilitäts- und Konvergenzprogramme (SKP) und Nationale Reformprogramme (NKP) sowie Einbindung der nationalen Parlamente bei der Erstellung, Paket der EU-Kommission"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "21.08.2013 - BT-Drucksache 17/14622",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/17/146/1714622.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.05.2014 - BT-Plenarprotokoll 18/33, S. 2753B - 2754B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18033.pdf#P.2753",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2754B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "17/14622"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "05.12.2014 - BT-Plenarprotokoll 18/74, S. 7135B - 7135C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18074.pdf#P.7135",
+        "VP_ABSTRAKT": "S. 7135B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

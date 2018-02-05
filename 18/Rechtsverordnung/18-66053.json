@@ -1,5 +1,5 @@
 {
-  "process": "18-66053",
+  "vorgangId": "66053",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -34,5 +34,37 @@
       "Verkehrstarif"
     ],
     "ABSTRAKT": "Änderung der Verordnung über die Allgemeinen Beförderungsbedingungen für den Straßenbahn- und Obusverkehr sowie den Linienverkehr mit Kraftfahrzeugen, Änderung der Eisenbahn-Verkehrsordnung; \nAnhebung des erhöhten Beförderungsentgelts von 40 Euro auf 60 Euro"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "24.03.2015 - BR-Drucksache 115/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0115-15.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 60, S. 166B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.166",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "115/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 115/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0115-15B.pdf"
+      }
+    ]
   }
 }

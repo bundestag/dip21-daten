@@ -1,5 +1,5 @@
 {
-  "process": "18-66812",
+  "vorgangId": "66812",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,33 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Kommission Lagerung hoch radioaktiver Abfallstoffe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "05.05.2015 - BR-Drucksache 209/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0209-15.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.05.2015 - BR-Plenarprotokoll 933, TOP 70, S. 166B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/933.pdf#P.166",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166B",
+          "BESCHLUSSTENOR": "Zustimmung zu dem Antrag",
+          "BEZUGSDOKUMENT": "209/15",
+          "GRUNDLAGE": "§ 3 Abs. 1 Satz 2 Nr. 3, Satz 4 bis 6 Standortauswahlgesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.05.2015 - BR-Drucksache 209/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0209-15B.pdf"
+      }
+    ]
   }
 }

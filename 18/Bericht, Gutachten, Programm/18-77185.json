@@ -1,5 +1,5 @@
 {
-  "process": "18-77185",
+  "vorgangId": "77185",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -43,5 +43,43 @@
       "Stromnetz"
     ],
     "ABSTRAKT": "Umsetzungsstand der EnLAG-Vorhaben, Fortschreibung des Bedarfsplans, Erfahrungen mit Erdkabeln (Gesetzeslage, Pilotvorhaben, Forschungsvorhaben)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "29.09.2016 - BT-Drucksache 18/9855\nAnl. Übersichten zur baulichen Fertigstellung der EnLAG-Vorhaben",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/098/1809855.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "30.09.2016 - BR-Drucksache 573/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0573-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "21.10.2016 - BT-Drucksache 18/10102",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/101/1810102.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "20.01.2017 - BT-Plenarprotokoll 18/213, S. 21418C - 21419C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18213.pdf#P.21418",
+        "VP_ABSTRAKT": "S. 21419B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

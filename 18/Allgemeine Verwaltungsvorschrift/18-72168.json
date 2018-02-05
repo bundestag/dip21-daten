@@ -1,5 +1,5 @@
 {
-  "process": "18-72168",
+  "vorgangId": "72168",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Allgemeine Verwaltungsvorschrift",
@@ -36,5 +36,55 @@
       "Körperschaftsteuer-Richtlinien"
     ],
     "ABSTRAKT": "Neufassung der Körperschaftsteuer-Richtlinien, Anpassung an die Rechtsentwicklung und an die Änderungen des Körperschaftsteuergesetzes"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "04.02.2016 - BR-Drucksache 76/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0076-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Allgemeine Verwaltungsvorschrift ",
+        "FUNDSTELLE": "25.02.2016 - BR-Drucksache zu76/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0076-16(zu).pdf",
+        "VP_ABSTRAKT": "Berichtigung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.03.2016 - BR-Plenarprotokoll 943, TOP 37, S. 117C - 117D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/943.pdf#P.117",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "117C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "76/16",
+          "GRUNDLAGE": "Art. 108 Abs. 7 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.03.2016 - BR-Drucksache 76/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0076-16B.pdf"
+      }
+    ]
   }
 }

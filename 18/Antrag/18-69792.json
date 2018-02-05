@@ -1,5 +1,5 @@
 {
-  "process": "18-69792",
+  "vorgangId": "69792",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -30,7 +30,10 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18146.pdf#P.14479"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Umwelt",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Artenschutz",
       "Biotopschutz",
@@ -43,17 +46,157 @@
       "Hund",
       "Informationssystem",
       "Monitoring",
-      "Nutztier",
       "Planung",
       "Politikberatung",
       "Schadensersatz",
       "Tierhaltung",
       "Tierschutz",
       "Tierzucht",
+      "Vieh",
       "Weidewirtschaft",
       "Wolf",
       "Zuständigkeit"
     ],
     "ABSTRAKT": "Einrichtung eines Herden- und Wolfsschutz-Kompetenzzentrums zur Politikberatung sowie Finanzierung durch Mittel des Bundeshaushaltes 2017 und künftiger Haushalte: Strategieerarbeitung, Managementplanerstellung für Wolfs-, Biotop- und Herdenschutz, Koordinierung von Forschungsbedarf und Forschungsvorhaben, Initiierung angewandter Forschung, Bündelung von Forschungsergebnissen zum Herdenschutz aus dem Wolfsmonitoring, Informationssystem sowie Standards zur Vermeidung von Weidetierschäden, Schadensregulierung, Empfehlungen zum Einsatz geeigneter Nutztierrassen und zur Herdenzusammensetzung, Herdenschutzsysteme; Standards für Zucht, Ausbildung und Haltung von Herdenschutzhunden"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "13.10.2015 - BT-Drucksache 18/6327",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/063/1806327.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Karin",
+            "NACHNAME": "Binder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "15.10.2015 - BT-Plenarprotokoll 18/130, S. 12628C - 12629C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18130.pdf#P.12628",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "12629A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/6327"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "04.12.2015 - BT-Drucksache 18/6940",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/069/1806940.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Crone",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Stockhofe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.12.2015 - BT-Plenarprotokoll 18/146, S. 14479D - 14484D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18146.pdf#P.14479",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Stockhofe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14480A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14481A"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Crone",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14482A"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14483A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus-Peter",
+            "NACHNAME": "Schulze",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14483D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14484D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/6327"
+        }
+      }
+    ]
   }
 }

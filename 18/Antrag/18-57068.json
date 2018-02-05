@@ -1,5 +1,5 @@
 {
-  "process": "18-57068",
+  "vorgangId": "57068",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -41,5 +41,142 @@
       "Wirtschaftsverband"
     ],
     "ABSTRAKT": "Einbringung eines Gesetzentwurfs zur Änderung des Parteiengesetzes: Verbot von Parteispenden juristischer Personen sowie von Parteiensponsoring, Höchstbetrag für Parteispenden natürlicher Personen 25.000 EUR"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "17.01.2014 - BT-Drucksache 18/301",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/003/1800301.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Halina",
+            "NACHNAME": "Wawzyniak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "13.03.2014 - BT-Plenarprotokoll 18/20, S. 1577B - 1577C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18020.pdf#P.1577",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1577C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/301"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Innenausschuss ",
+        "FUNDSTELLE": "16.12.2015 - BT-Drucksache 18/7093",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/070/1807093.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gabriele",
+            "NACHNAME": "Fograscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Tempel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.12.2015 - BT-Plenarprotokoll 18/146, S. 14453A - 14459B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18146.pdf#P.14453",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "WAHLKREISZUSATZ": "Altötting",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14453B"
+          },
+          {
+            "VORNAME": "Halina",
+            "NACHNAME": "Wawzyniak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14454C"
+          },
+          {
+            "VORNAME": "Gabriele",
+            "NACHNAME": "Fograscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14455C"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14456D"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "14457D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14459B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/301"
+        }
+      }
+    ]
   }
 }

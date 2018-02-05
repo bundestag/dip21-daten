@@ -1,5 +1,5 @@
 {
-  "process": "18-77346",
+  "vorgangId": "77346",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -44,5 +44,89 @@
       "Verursacherprinzip"
     ],
     "ABSTRAKT": "Unterbrechungslose Verlängerung bis 2022 und Erhöhung des Steuertarifs ab 2017 zur Deckung der Kosten für Rückbau und Entsorgung nuklearer Altlasten sowie Endlagersanierung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "19.10.2016 - BT-Drucksache 18/10034",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/100/1810034.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sylvia",
+            "NACHNAME": "Kotting-Uhl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "24.11.2016 - BT-Plenarprotokoll 18/203, S. 20316B - 20317A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18203.pdf#P.20316",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20317A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/10034"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ],
+        "VP_ABSTRAKT": "Festlegung der Federführung gegen den Wunsch der Fraktion B90/GR (Federführung beim AfUB)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "01.12.2016 - BT-Drucksache 18/10545",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/105/1810545.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Petry",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "15.12.2016 - BT-Plenarprotokoll 18/209, S. 20868B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18209.pdf#P.20868",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20868B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "18/10034"
+        }
+      }
+    ]
   }
 }

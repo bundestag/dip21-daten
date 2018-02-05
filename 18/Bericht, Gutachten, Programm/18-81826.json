@@ -1,5 +1,5 @@
 {
-  "process": "18-81826",
+  "vorgangId": "81826",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -31,5 +31,36 @@
       "Verteidigungspolitik"
     ],
     "ABSTRAKT": "Tagungsablauf; Arbeitsgruppen: östliche Nachbarschaft der EU, nachhaltige Entwicklung und Migration, Europäische Verteidigungsunion, Schlussfolgerungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Deutsche Delegation in der Interparlamentarischen Konferenz für die Gemeinsame Außen- und Sicherheitspolitik und die Gemeinsame Sicherheits- und Verteidigungspolitik ",
+        "FUNDSTELLE": "26.05.2017 - BT-Drucksache 18/12507",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/125/1812507.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.06.2017 - BT-Drucksache 18/12879",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/128/1812879.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

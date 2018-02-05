@@ -1,5 +1,5 @@
 {
-  "process": "18-56788",
+  "vorgangId": "56788",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,47 @@
       "Sturm"
     ],
     "ABSTRAKT": "Stand der Umsetzung auf Bundesebene: Risikoanalysen \"Wintersturm\" und \"Sturmflut\"; Risikoanalysen 2012 in Bezug zu aktuellen Ereignissen: Hochwasser 2013, Virus \"MERS-CoV\"; Stand der Umsetzung auf Länderebene; Entwicklung auf europäischer Ebene"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "16.12.2013 - BT-Drucksache 18/208\nAnl. Klassifikation Eintrittswahrscheinlichkeit, Klassifikation Schadensausmaß, Ergebnis Risikoanalyse \"Wintersturm\", Publikationsverzeichnis Hochwasser 2013",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/002/1800208.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.12.2015 - BT-Plenarprotokoll 18/143, S. 13980B - 13980D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18143.pdf#P.13980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "13980D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/208"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

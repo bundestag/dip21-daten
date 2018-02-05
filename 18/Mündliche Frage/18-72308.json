@@ -1,5 +1,5 @@
 {
-  "process": "18-72308",
+  "vorgangId": "72308",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,41 @@
       "Zeitschrift"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nKann die Bundesregierung den Bericht des Magazins \"DER SPIEGEL\" bestätigen, wonach der groß angelegte Hackerangriff auf den Deutschen Bundestag im vergangenen Jahr von deutschen Behörden mittlerweile \"klar einem russischen militärischen Nachrichtendienst\" zugeschrieben werde (DER SPIEGEL, \"Das Ende der Wahrheit\" vom 30. Januar 2016), und falls ja, welche Motive verfolgten nach Einschätzung der Bundesregierung die Angreifer?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.02.2016 - BT-Drucksache 18/7509, Nr. 18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/075/1807509.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.02.2016 - BT-Plenarprotokoll 18/154, S. 15192B - 15192C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18154.pdf#P.15192",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marieluise",
+            "NACHNAME": "Beck",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "15192B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "15192C"
+          }
+        ]
+      }
+    ]
   }
 }

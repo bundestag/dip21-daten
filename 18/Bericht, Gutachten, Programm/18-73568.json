@@ -1,5 +1,5 @@
 {
-  "process": "18-73568",
+  "vorgangId": "73568",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,51 @@
       "Sexuell übertragbare Krankheit"
     ],
     "ABSTRAKT": "Epidemiologische, medizinische u.a. Entwicklungen und Herausforderungen, Handlungsfelder (gesellschaftliche Akzeptanz, Angebotsentwicklung, Vernetzung der Akteure, Wissensgrundlage und Datennutzung), internationale Beiträge"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "08.04.2016 - BR-Drucksache 178/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0178-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend), Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
+        "FUNDSTELLE": "08.04.2016 - BT-Drucksache 18/8058",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/080/1808058.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "29.04.2016 - BT-Drucksache 18/8283",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/082/1808283.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderung der Ausschussüberweisung",
+        "FUNDSTELLE": "12.05.2016 - BT-Plenarprotokoll 18/170, S. 16690A - 16690C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18170.pdf#P.16690",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "16690C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/5058"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      }
+    ]
   }
 }

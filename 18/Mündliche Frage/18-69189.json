@@ -1,5 +1,5 @@
 {
-  "process": "18-69189",
+  "vorgangId": "69189",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -22,5 +22,40 @@
       "Verdeckte Ermittlung"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nIst die in Hamburg unter dem Pseudonym &bdquo;Maria Block&ldquo; als verdeckte Ermittlerin in der linken Szene eingesetzt gewesene Polizistin auch für das Bundeskriminalamt oder die Generalbundesanwaltschaft tätig gewesen bzw. hat Informationen an diese übermittelt und wenn ja, welche Angaben kann die Bundesregierung dazu machen?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "18.09.2015 - BT-Drucksache 18/6019, Nr. 33",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/060/1806019.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "23.09.2015 - BT-Plenarprotokoll 18/123, S. 11938A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18123.pdf#P.11938",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "11938A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "11938A"
+          }
+        ]
+      }
+    ]
   }
 }

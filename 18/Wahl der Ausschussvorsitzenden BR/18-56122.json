@@ -1,5 +1,5 @@
 {
-  "process": "18-56122",
+  "vorgangId": "56122",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl der Ausschussvorsitzenden BR",
@@ -24,5 +24,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Ausschussvorsitzender",
     "ABSTRAKT": "Zur Ausschussvorsitzenden für das laufende Geschäftsjahr wird Frau Staatsministerin Ilse Aigner (Bayern) vorgeschlagen."
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Wahlvorschlag,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "25.10.2013 - BR-Drucksache 722/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0722-13.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Wahl",
+        "FUNDSTELLE": "08.11.2013 - BR-Plenarprotokoll 916, TOP 3, S. 525B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/916.pdf#P.525",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "525B",
+          "BESCHLUSSTENOR": "antragsgemäß",
+          "BEZUGSDOKUMENT": "722/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.11.2013 - BR-Drucksache 722/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0722-13B.pdf"
+      }
+    ]
   }
 }

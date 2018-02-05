@@ -1,5 +1,5 @@
 {
-  "process": "18-78636",
+  "vorgangId": "78636",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -38,5 +38,39 @@
       "Prognos"
     ],
     "ABSTRAKT": "Vergabe des Evaluationsauftrags an die Prognos AG; Daten- und Methodengrundlagen, Inanspruchnahme des Altersgelds und Auskunftsanträge, Transparenz der Regelung und Qualität der Regelungsumsetzung, personalpolitische und -strategische Wirkungen des AltGG, Wirkung und Bedeutung bei den Bediensteten, fiskalische Auswirkungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "13.12.2016 - BT-Drucksache 18/10680",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/106/1810680.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "16.01.2017 - BR-Drucksache 114/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0114-17.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "20.01.2017 - BT-Drucksache 18/10924",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/109/1810924.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

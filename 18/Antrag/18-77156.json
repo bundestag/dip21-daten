@@ -1,5 +1,5 @@
 {
-  "process": "18-77156",
+  "vorgangId": "77156",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Antrag",
@@ -32,5 +32,51 @@
       "Sucht"
     ],
     "ABSTRAKT": "Einsetzung einer Expertenkommission (Zusammensetzung, klärungsbedürftiger bundesrechtlicher Handlungsbedarf), Aufklärungskampagne, Berücksichtigung in der Aus- und Weiterbildung betroffener Berufsgruppen, weitere wissenschaftliche Studien betr. spezifische Belastungen und Bedürfnisse von Kindern psychisch kranker (einschließlich suchterkrankter) Eltern"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "29.09.2016 - BT-Drucksache 18/9856",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/098/1809856.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Beate",
+            "NACHNAME": "Walter-Rosenheimer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "20.10.2016 - BT-Plenarprotokoll 18/196, S. 19463B - 19464D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18196.pdf#P.19463",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19464C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9856"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-76786",
+  "vorgangId": "76786",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -40,5 +40,58 @@
       "Verkehrsunfall"
     ],
     "ABSTRAKT": "Unfallentwicklung, umgesetzte Maßnahmen für mehr Sicherheit im Straßenverkehr im Berichtszeitraum, Maßnahmen ab 2016"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "15.09.2016 - BR-Drucksache 530/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0530-16.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "15.09.2016 - BT-Drucksache 18/9640",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/096/1809640.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "30.09.2016 - BT-Drucksache 18/9879",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/098/1809879.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderung der Ausschussüberweisung",
+        "FUNDSTELLE": "20.10.2016 - BT-Plenarprotokoll 18/196, S. 19417B - 19417D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18196.pdf#P.19417",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19417D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "18/9640"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "20.01.2017 - BT-Plenarprotokoll 18/213, S. 21418C - 21419C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18213.pdf#P.21418",
+        "VP_ABSTRAKT": "S. 21419C - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-56440",
+  "vorgangId": "56440",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -23,5 +23,40 @@
       "USA"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \n \nWer entschied jeweils, dass die US-Beraterfirma CSC mit ihren deutschen Tochtergesellschaften Bundesaufträge im Rahmen der IT-Vorhaben De-Mail, nPa, ePa, Quellcodeprüfung Staatstrojaner, Nationales Waffenregister, E-Government, E-Gerichtsakte und E-Strafregister erhielt, und wie wurde jeweils sichergestellt, dass der Auftragnehmer bei der Vertragserfüllung zur Kenntnis erlangte vertrauliche Daten nicht an Dritte weiterleitet?"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "25.11.2013 - BT-Drucksache 18/87, Nr. 27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800087.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "28.11.2013 - BT-Plenarprotokoll 18/3, S. 212A - 212C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18003.pdf#P.212",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "212A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ole",
+            "NACHNAME": "Schröder",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "212A"
+          }
+        ]
+      }
+    ]
   }
 }

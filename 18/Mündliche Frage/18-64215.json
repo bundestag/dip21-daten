@@ -1,5 +1,5 @@
 {
-  "process": "18-64215",
+  "vorgangId": "64215",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Mündliche Frage",
@@ -20,5 +20,40 @@
       "Bundestagsfraktion"
     ],
     "ABSTRAKT": " Originaltext der Frage(n): \n\n Warum stellt die Bundesregierung den Fraktionen im Deutschen Bundestag immer noch nicht die Tagesordnung der Kabinettsitzung frühzeitig zur Verfügung, obwohl der Bundesminister des Auswärtigen, Dr. Frank-Walter Steinmeier, in der Fragestunde des Deutschen Bundestages am 12. November 2014 (Plenarprotokoll 18/65, S. 6078) eine diesbezügliche Klärung zugesagt hatte? \n"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.12.2014 - BT-Drucksache 18/3518, Nr. 38",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/035/1803518.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.12.2014 - BT-Plenarprotokoll 18/75, S. 7187A - 7187B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18075.pdf#P.7187",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "7187A"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Helge",
+            "NACHNAME": "Braun",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "7187B"
+          }
+        ]
+      }
+    ]
   }
 }

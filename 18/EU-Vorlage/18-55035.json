@@ -1,11 +1,11 @@
 {
-  "process": "18-55035",
+  "vorgangId": "55035",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
     "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: \nNach 2015: Auf dem Weg zu einem umfassenden und integrierten Konzept für die Finanzierung von Armutsbeseitigung und nachhaltiger Entwicklung\nKOM(2013) 531 endg.; Ratsdok. 12434/13",
     "INITIATIVE": "Europäische Kommission",
-    "AKTUELLER_STAND": "",
+    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,22 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "BR-Sitzung",
-        "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "914",
-        "PLPR_SEITEN": "487B - 488C",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.487"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "914",
+      "PLPR_SEITEN": "487B - 488C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.487"
+    },
     "EU_DOK_NR": "Ratsdok. 12434/13, Kom. (2013) 531 endg.",
     "SCHLAGWORT": [
       "Armut",
@@ -46,5 +37,66 @@
       "Nachhaltige Entwicklung"
     ],
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "06.08.2013 - BR-Drucksache 619/13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0619-13.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "20.09.2013 - BR-Plenarprotokoll 914, TOP 999f, S. 487B - 488C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.487",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "487D",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "619/13",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "20.09.2013 - BR-Drucksache 619/13(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0619-13B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.177",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          }
+        ]
+      }
+    ]
   }
 }

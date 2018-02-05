@@ -1,5 +1,5 @@
 {
-  "process": "18-66759",
+  "vorgangId": "66759",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,42 @@
       "Kriegsopferversorgung"
     ],
     "ABSTRAKT": "Anhebung der in § 56 des Bundesversorgungsgesetzes näher bestimmten Leistungen um 2,10 vom Hundert und des Bemessungsbetrages um 2,08 vom Hundert"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "30.04.2015 - BR-Drucksache 205/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0205-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.06.2015 - BR-Plenarprotokoll 934, TOP 33b, S. 222C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/934.pdf#P.222",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "222C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "205/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.06.2015 - BR-Drucksache 205/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0205-15B.pdf"
+      }
+    ]
   }
 }

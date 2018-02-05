@@ -1,5 +1,5 @@
 {
-  "process": "18-58398",
+  "vorgangId": "58398",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
@@ -30,5 +30,35 @@
       "Verbrechensbekämpfung"
     ],
     "ABSTRAKT": "EU-Vorlage als  Bundesrats-Drucksache 51/12 "
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "21.02.2014 - BT-Drucksache 18/642, Nr. C.1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/006/1800642.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ],
+        "VP_ABSTRAKT": "Erneute Überweisung an die Ausschüsse"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "13.11.2015 - BT-Plenarprotokoll 18/137, S. 13496B - 13496D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18137.pdf#P.13496",
+        "VP_ABSTRAKT": "S. 13496B - Kenntnisnahme"
+      }
+    ]
   }
 }

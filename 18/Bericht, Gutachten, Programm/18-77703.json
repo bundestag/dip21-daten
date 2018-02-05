@@ -1,5 +1,5 @@
 {
-  "process": "18-77703",
+  "vorgangId": "77703",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -33,5 +33,32 @@
       "Steuertarif"
     ],
     "ABSTRAKT": "Definition der kalten Progression, methodisches Vorgehen und Ergebnisse der Simulationsrechnungen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "02.11.2016 - BT-Drucksache 18/10221",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/102/1810221.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "25.11.2016 - BT-Drucksache 18/10444",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/104/1810444.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "16.12.2016 - BT-Plenarprotokoll 18/210, S. 21133D - 21134A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18210.pdf#P.21133",
+        "VP_ABSTRAKT": "S. 21133D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

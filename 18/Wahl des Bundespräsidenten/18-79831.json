@@ -1,5 +1,5 @@
 {
-  "process": "18-79831",
+  "vorgangId": "79831",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Wahl des Bundespräsidenten",
@@ -37,5 +37,118 @@
       "Wahl"
     ],
     "ABSTRAKT": "Wahl von Frank-Walter Steinmeier zum Bundespräsidenten auf Vorschlag der CDU/CSU und SPD; \nweitere Wahlvorschläge: Christoph Butterwegge (Vorschlag Die Linke), Albrecht Glaser (Vorschlag der AfD), Engelbert Sonneborn (Vorschlag der Piratenpartei NRW), Alexander Hold (Vorschlag der Freien Wähler Bayern)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BV",
+        "URHEBER": "Wahl des Bundespräsidenten durch die Bundesversammlung",
+        "FUNDSTELLE": "12.02.2017 - BV-Plenarprotokoll 16 (2017), S. 3A - 10C",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Lammert",
+            "FUNKTION": "Bundestagspräs.",
+            "AKTIVITAETSART": "Rede"
+          },
+          {
+            "VORNAME": "Frank-Walter",
+            "NACHNAME": "Steinmeier",
+            "FUNKTION": "Bundespräs.",
+            "AKTIVITAETSART": "Rede"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "6D",
+            "BESCHLUSSTENOR": "Annahme Geschäftsordnungsantrag"
+          },
+          {
+            "BESCHLUSSSEITE": "8D",
+            "BESCHLUSSTENOR": "Wahl des Bundespräsidenten durch die Bundesversammlung"
+          }
+        ],
+        "VP_ABSTRAKT": "Anlage: Geschäftsordnungsantrag von Mitgliedern der Bundesversammlung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Vereidigung des Bundespräsidenten",
+        "FUNDSTELLE": "22.03.2017 - BT-Plenarprotokoll 18/223, S. 22433A - 22442D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18223.pdf#P.22433",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Lammert",
+            "FUNKTION": "Bundestagspräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22433A"
+          },
+          {
+            "VORNAME": "Malu",
+            "NACHNAME": "Dreyer",
+            "FUNKTION": "Bundesratspräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22434A"
+          },
+          {
+            "PERSON_TITEL": "Dr. h. c.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Gauck",
+            "FUNKTION": "Altbundespräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22435D"
+          },
+          {
+            "VORNAME": "Frank-Walter",
+            "NACHNAME": "Steinmeier",
+            "FUNKTION": "Bundespräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22438B"
+          }
+        ],
+        "VP_ABSTRAKT": "zugleich 955. Sitzung des Bundesrates"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vereidigung des Bundespräsidenten",
+        "FUNDSTELLE": "22.03.2017 - BR-Plenarprotokoll 955, S. 145A - 155C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/955.pdf#P.145",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Lammert",
+            "FUNKTION": "Bundestagspräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "145A"
+          },
+          {
+            "VORNAME": "Malu",
+            "NACHNAME": "Dreyer",
+            "FUNKTION": "Bundesratspräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "146A"
+          },
+          {
+            "PERSON_TITEL": "Dr. h. c.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Gauck",
+            "FUNKTION": "Altbundespräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "148A"
+          },
+          {
+            "VORNAME": "Frank-Walter",
+            "NACHNAME": "Steinmeier",
+            "FUNKTION": "Bundespräs.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "150C"
+          }
+        ],
+        "VP_ABSTRAKT": "zugleich 223. Sitzung des Deutschen Bundestages"
+      }
+    ]
   }
 }

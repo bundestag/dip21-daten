@@ -1,5 +1,5 @@
 {
-  "process": "18-70151",
+  "vorgangId": "70151",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -42,5 +42,50 @@
       "Strahlenbelastung"
     ],
     "ABSTRAKT": "Forderung nach Abschluss des Rechtsetzungsverfahrens zu der Verordnung zur Änderung von Arbeitsschutzverordnungen (Bundesratsdrucksache 509/14)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Brandenburg, Thüringen und Bremen, Schleswig-Holstein ",
+        "FUNDSTELLE": "03.11.2015 - BR-Drucksache 531/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0531-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2015 - BR-Plenarprotokoll 939, TOP 15, S. 467C - 468B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/939.pdf#P.467",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Diana",
+          "NACHNAME": "Golze",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+          "BUNDESLAND": "Brandenburg",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "467C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "468B",
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "531/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2015 - BR-Drucksache 531/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0531-15B.pdf"
+      }
+    ]
   }
 }

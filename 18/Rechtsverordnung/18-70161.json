@@ -1,5 +1,5 @@
 {
-  "process": "18-70161",
+  "vorgangId": "70161",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -36,5 +36,51 @@
       "Visum"
     ],
     "ABSTRAKT": "Erlangung von Reiseausweisen für Resettlement-Flüchtlinge, Ergänzung der Regelungen zur Grenzgängerkarte, Verzicht auf die Zustimmung der Ausländerbehörden im Visumverfahren bei begleitenden Ehegatten und Lebenspartnern von ausländischen Fachkräften, Aufenthaltsberechnung, Datenaustausch, Festlegung von Visumpflichten und -befreiungen für bestimmte Länder"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "04.11.2015 - BR-Drucksache 534/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0534-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.12.2015 - BR-Plenarprotokoll 940, TOP 40, S. 513B - 513C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/940.pdf#P.513",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "513C",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "534/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.12.2015 - BR-Drucksache 534/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0534-15B.pdf"
+      }
+    ]
   }
 }

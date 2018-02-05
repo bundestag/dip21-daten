@@ -1,5 +1,5 @@
 {
-  "process": "18-67925",
+  "vorgangId": "67925",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -42,5 +42,43 @@
       "Sicherheitsgewerbe"
     ],
     "ABSTRAKT": "Gegenstand, Vorgehensweise und Ziele der Evaluation, Zulassungsverfahren; Erfahrungsberichte des Bundesamtes und der Bundepolizei See; Schlussfolgerungen und Änderungsvorschläge"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "01.07.2015 - BT-Drucksache 18/5456",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/054/1805456.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "11.09.2015 - BT-Drucksache 18/5976",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805976.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "02.10.2015 - BT-Plenarprotokoll 18/128, S. 12498C - 12499D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18128.pdf#P.12498",
+        "VP_ABSTRAKT": "S. 12499D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

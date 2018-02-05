@@ -1,5 +1,5 @@
 {
-  "process": "18-76561",
+  "vorgangId": "76561",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -48,5 +48,103 @@
       "Staatsangehörigkeit"
     ],
     "ABSTRAKT": "Forderung nach Vorlage eines Einwanderungsgesetzes, Erforderlichkeit breiter gesellschaftlicher Verständigung im Rahmen des Gesetzgebungsverfahrens, Diskussion von Arbeitsmigrationsmodellen (z. B. Punktesystem), Definition von Engpassberufen, Ermöglichung des Familiennachzugs, Sprachförderung, Erwerb der deutschen Staatsangehörigkeit, Berücksichtigung unterschiedlicher Qualifikationsniveaus, Ausbau von Informations- und Beratungsangeboten im In- und Ausland, Vereinfachung von Visaverfahren, Ausbau des deutschen Auslandsschulwesens"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Niedersachsen, Rheinland-Pfalz, Schleswig-Holstein, Thüringen und Bremen ",
+        "FUNDSTELLE": "08.09.2016 - BR-Drucksache 508/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0508-16.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "23.09.2016 - BR-Plenarprotokoll 948, TOP 27, S. 332D - 336B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/948.pdf#P.332",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Boris",
+            "NACHNAME": "Pistorius",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "332D"
+          },
+          {
+            "VORNAME": "Annegret",
+            "NACHNAME": "Kramp-Karrenbauer",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsidentin",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "333D"
+          },
+          {
+            "VORNAME": "Anne",
+            "NACHNAME": "Spiegel",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Familie, Frauen, Jugend, Integration und Verbraucherschutz",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "335C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "336B",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "508/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.02.2017 - BR-Drucksache 508/1/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0508-1-16.pdf",
+        "VP_ABSTRAKT": "Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "10.03.2017 - BR-Plenarprotokoll 954, TOP 22, S. 109B - 109C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/954.pdf#P.109",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Boris",
+          "NACHNAME": "Pistorius",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+          "BUNDESLAND": "Niedersachsen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "109C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "109C",
+          "BESCHLUSSTENOR": "Ablehnung",
+          "BEZUGSDOKUMENT": "508/16"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "10.03.2017 - BR-Drucksache 508/16(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0508-16B.pdf"
+      }
+    ]
   }
 }

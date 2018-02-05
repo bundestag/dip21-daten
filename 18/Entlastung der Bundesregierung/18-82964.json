@@ -1,5 +1,5 @@
 {
-  "process": "18-82964",
+  "vorgangId": "82964",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Entlastung der Bundesregierung",
@@ -35,5 +35,36 @@
       "Entlastung der Bundesregierung: Haushaltsjahr 2016"
     ],
     "ABSTRAKT": "Jahresrechnungen beim Bundesrat als Sonderdrucke verteilt"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Antrag auf Entlastung der BRg,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "04.07.2017 - BR-Drucksache 549/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0549-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entlastung der BRg,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "04.07.2017 - BT-Drucksache 18/13075",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/130/1813075.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Bemerkungen des Bundesrechnungshofes,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "11.12.2017 - BR-Drucksache 760/17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0760-17.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        "VP_ABSTRAKT": "Bemerkungen des Bundesrechnungshofes 2017 zur Haushalts- und Wirtschaftsführung des Bundes (einschließlich der Feststellungen zur Jahresrechnung 2016)"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "18-69298",
+  "vorgangId": "69298",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,42 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Anpassung von Sachbezugswerten auf Grundlage der maßgebenden Verbraucherpreisentwicklung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "22.09.2015 - BR-Drucksache 425/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0425-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2015 - BR-Plenarprotokoll 938, TOP 37, S. 414B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/938.pdf#P.414",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "414B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "425/15",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2015 - BR-Drucksache 425/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0425-15B.pdf"
+      }
+    ]
   }
 }

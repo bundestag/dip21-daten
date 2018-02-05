@@ -1,5 +1,5 @@
 {
-  "process": "18-56390",
+  "vorgangId": "56390",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Kleine Anfrage",
@@ -23,7 +23,10 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
+    "SACHGEBIET": [
+      "Bildung und Erziehung",
+      "Ausländerpolitik, Zuwanderung"
+    ],
     "SCHLAGWORT": [
       "Arbeitsbedingungen",
       "Ausländerintegration",
@@ -42,5 +45,37 @@
       "Vergütung"
     ],
     "ABSTRAKT": "Teilnahmeberechtigungen, neue Kursteilnehmer sowie Ausgabenentwicklung für Integrationskurse 2013; Haushaltsmittel für 2014 und Finanzbedarf, geplante Mittelkürzung für niedrigschwellige Frauenkurse, Rechtsanspruch auf Integrationskursteilnahme, Kursgröße, Lehrkräftezulassung, Ergebnisse der Sprachprüfungen, Lehrkräftehonorare, Auswirkungen der Neugestaltung von Trägerpauschale und Mindesthonorargrenze, befristete Kursträger-Lizensierungen, Verhinderung von Lohndumping, Unterstützung der Kurse durch das BAMF \n(insgesamt 35 Einzelfragen)"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "21.11.2013 - BT-Drucksache 18/90",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/000/1800090.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "12.12.2013 - BT-Drucksache 18/160",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/001/1800160.pdf"
+      }
+    ]
   }
 }

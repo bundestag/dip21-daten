@@ -1,5 +1,5 @@
 {
-  "process": "18-68530",
+  "vorgangId": "68530",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -31,5 +31,37 @@
       "Gerichtsvollzieherformular-Verordnung"
     ],
     "ABSTRAKT": "Schaffung eines einheitlichen Formulars für den Vollstreckungsauftrag an den Gerichtsvollzieher zur Vollstreckung von Geldforderungen, Ermöglichung der elektronischen Bearbeitung, Übermittlung und Weiterverarbeitung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Justiz und für Verbraucherschutz ",
+        "FUNDSTELLE": "07.08.2015 - BR-Drucksache 336/15(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0336-15(neu).pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "25.09.2015 - BR-Plenarprotokoll 936, TOP 54, S. 302C - 302D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/936.pdf#P.302",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "302D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "336/15(neu)",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "25.09.2015 - BR-Drucksache 336/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0336-15B.pdf"
+      }
+    ]
   }
 }

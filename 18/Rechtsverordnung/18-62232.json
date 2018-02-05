@@ -1,5 +1,5 @@
 {
-  "process": "18-62232",
+  "vorgangId": "62232",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,42 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Anpassung von Sachbezugswerten auf Grundlage der maßgebenden Verbraucherpreisentwicklung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Arbeit und Soziales ",
+        "FUNDSTELLE": "09.09.2014 - BR-Drucksache 410/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0410-14.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.11.2014 - BR-Plenarprotokoll 927, TOP 40, S. 345B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/927.pdf#P.345",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "345B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "410/14",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.11.2014 - BR-Drucksache 410/14(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0410-14B.pdf"
+      }
+    ]
   }
 }

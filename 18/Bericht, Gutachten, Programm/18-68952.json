@@ -1,5 +1,5 @@
 {
-  "process": "18-68952",
+  "vorgangId": "68952",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -49,5 +49,95 @@
       "Radioaktiver Abfall"
     ],
     "ABSTRAKT": "Grundlagen der Entsorgungspolitik, Bestand und Prognose radioaktiver Abfälle, Entsorgung radioaktiver Abfälle, Rechtsrahmen der nuklearen Entsorgung in Deutschland, Öffentlichkeitsbeteiligung, Kosten und Finanzierung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "21.08.2015 - BR-Drucksache 390/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0390-15.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit (federführend)",
+        "FUNDSTELLE": "21.08.2015 - BT-Drucksache 18/5980",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/059/1805980.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "25.09.2015 - BT-Drucksache 18/6138",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/061/1806138.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.10.2015 - BR-Drucksache 390/1/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0390-1-15.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "04.11.2015 - BR-Drucksache 390/2/15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0390-2-15.pdf",
+        "VP_ABSTRAKT": "Stellungnahme anstelle Ziffer 9 in Drs 390/1/15"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2015 - BR-Plenarprotokoll 938, TOP 33, S. 431D - 432B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/938.pdf#P.431",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Wenzel",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Umwelt, Energie und Klimaschutz",
+          "BUNDESLAND": "Niedersachsen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "432A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "432B",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "390/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2015 - BR-Drucksache 390/15(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0390-15B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "18.12.2015 - BT-Plenarprotokoll 18/147, S. 14569D - 14570B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/18/18147.pdf#P.14569",
+        "VP_ABSTRAKT": "S. 14570A - Mitteilung über Absehen von Berichterstattung (18/5980)"
+      }
+    ]
   }
 }

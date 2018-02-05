@@ -1,5 +1,5 @@
 {
-  "process": "18-63057",
+  "vorgangId": "63057",
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
@@ -44,5 +44,36 @@
       "Verwaltungsgerichtsbarkeit"
     ],
     "ABSTRAKT": "(Bericht gem. Beschluss auf BT-Drs 17/7217) Verzögerungsrügen, Entschädigungsklagen, Prozesskostenhilfe, Klagebegehren und beendete Entschädigungsverfahren in sämtlichen Zweigen der Gerichtsbarkeit (Bund und Länder) sowie BVerfG; Äußerungen der Verbände"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "17.10.2014 - BR-Drucksache 499/14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2014/0499-14.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "17.10.2014 - BT-Drucksache 18/2950",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/029/1802950.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "07.11.2014 - BT-Drucksache 18/3108",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/031/1803108.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }
