@@ -23,29 +23,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
-      "FUNDSTELLE": "08.08.1997 - BT-Drucksache 13/8375, Nr. 7",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/13/083/1308375.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Kurt",
-          "NACHNAME": "Schelter",
-          "FUNKTION": "Staatssekr.",
-          "RESSORT": "Bundesministerium des Innern",
-          "AKTIVITAETSART": "Antwort"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Manuel",
-          "NACHNAME": "Kiper",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Frage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "08.08.1997 - BT-Drucksache 13/8377",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/13/083/1308377.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "11.09.1997 - BT-Drucksache 13/8507",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/13/085/1308507.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Wissenschaft, Forschung, Technologie und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.02.1998 - BT-Plenarprotokoll 13/217, S. 19885D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/13/13217.pdf#P.19885",
+        "VP_ABSTRAKT": "Mittlg: S.19885D - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }
