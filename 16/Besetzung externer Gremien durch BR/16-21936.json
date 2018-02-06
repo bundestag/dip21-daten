@@ -1,5 +1,5 @@
 {
-  "process": "16-21936",
+  "vorgangId": "21936",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,36 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "20.10.2009 - BR-Drucksache 775/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0775-09.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2009 - BR-Plenarprotokoll 863, TOP 22a, S. 407D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/863.pdf#P.407",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "407D",
+          "BESCHLUSSTENOR": "vorschlagsgemäß",
+          "BEZUGSDOKUMENT": "775/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2009 - BR-Drucksache 775/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0775-09B.pdf"
+      }
+    ]
   }
 }

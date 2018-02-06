@@ -1,5 +1,5 @@
 {
-  "process": "16-21787",
+  "vorgangId": "21787",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "06.10.2009 - BR-Drucksache 749/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0749-09.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.10.2009 - BR-Drucksache 749/1/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0749-1-09.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2009 - BR-Plenarprotokoll 863, TOP 21a, S. 407D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/863.pdf#P.407",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "407D",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "749/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2009 - BR-Drucksache 749/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0749-09B.pdf"
+      }
+    ]
   }
 }

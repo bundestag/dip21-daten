@@ -1,5 +1,5 @@
 {
-  "process": "16-21879",
+  "vorgangId": "21879",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -29,5 +29,37 @@
       "Vertikaler Finanzausgleich"
     ],
     "ABSTRAKT": "Festlegung der endgültigen Höhe der Länderanteile an der Umsatzsteuer und der Höhe der Ausgleichsleistungen im Länderfinanzausgleich für das Jahr 2008"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "07.10.2009 - BR-Drucksache 753/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0753-09.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2009 - BR-Plenarprotokoll 864, TOP 17, S. 434B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/864.pdf#P.434",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "434B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "753/09",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2009 - BR-Drucksache 753/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0753-09B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "16-21949",
+  "vorgangId": "21949",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -24,5 +24,48 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "21.10.2009 - BR-Drucksache 777/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0777-09.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "16.11.2009 - BR-Drucksache 777/1/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0777-1-09.pdf",
+        "VP_ABSTRAKT": "Benennung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2009 - BR-Plenarprotokoll 864, TOP 19c, S. 434B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/864.pdf#P.434",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "434B",
+          "BESCHLUSSTENOR": "Benennung",
+          "BEZUGSDOKUMENT": "777/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2009 - BR-Drucksache 777/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0777-09B.pdf"
+      }
+    ]
   }
 }

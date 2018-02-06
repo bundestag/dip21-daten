@@ -1,5 +1,5 @@
 {
-  "process": "16-21788",
+  "vorgangId": "21788",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
@@ -40,5 +40,86 @@
       "Sozialgerichtsbarkeit"
     ],
     "ABSTRAKT": "Eindämmung von Verfahrenszahlen vor den Sozialgerichten; Vereinfachung der sozialgerichtlichen Verfahren; Einbeziehung von Arbeitsgruppenergebnissen"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Niedersachsen, Sachsen-Anhalt ",
+        "FUNDSTELLE": "06.10.2009 - BR-Drucksache 750/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0750-09.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "16.10.2009 - BR-Plenarprotokoll 862, TOP 16, S. 395B - 398C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/862.pdf#P.395",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Busemann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Justizminister",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "395B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Angela",
+            "NACHNAME": "Kolb",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin der Justiz",
+            "BUNDESLAND": "Sachsen-Anhalt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "396B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Reinhart",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Bundes- und Europaangelegenheiten sowie für den Geschäftsbereich des Staatsministeriums und Bevollmächtigter des Landes Baden-Württemberg beim Bund",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "397C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "398C",
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "750/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, S. 105A - 105C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "105C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "750/09"
+        }
+      }
+    ]
   }
 }

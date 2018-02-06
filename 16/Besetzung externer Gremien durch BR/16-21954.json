@@ -1,5 +1,5 @@
 {
-  "process": "16-21954",
+  "vorgangId": "21954",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,32 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "21.10.2009 - BR-Drucksache 779/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0779-09.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2009 - BR-Plenarprotokoll 863, TOP 22b, S. 407D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/863.pdf#P.407",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "407D",
+          "BESCHLUSSTENOR": "vorschlagsgemäß",
+          "BEZUGSDOKUMENT": "779/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2009 - BR-Drucksache 779/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0779-09B.pdf"
+      }
+    ]
   }
 }

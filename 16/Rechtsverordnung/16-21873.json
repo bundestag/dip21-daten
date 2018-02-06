@@ -1,5 +1,5 @@
 {
-  "process": "16-21873",
+  "vorgangId": "21873",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -30,5 +30,45 @@
       "Sozialversicherungsrecht"
     ],
     "ABSTRAKT": "Bestimmung der maßgeblichen Rechengrößen der Sozialversicherung entsprechend der gesetzlichen Regelungen, insbesondere für das Versicherungs-, Beitrags- und Leistungsrecht in der Kranken- und Rentenversicherung"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "07.10.2009 - BR-Drucksache 752/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0752-09.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2009 - BR-Plenarprotokoll 864, TOP 16, S. 434B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/864.pdf#P.434",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "434B",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "752/09",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2009 - BR-Drucksache 752/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0752-09B.pdf"
+      }
+    ]
   }
 }

@@ -1,5 +1,5 @@
 {
-  "process": "16-21870",
+  "vorgangId": "21870",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Rechtsverordnung",
@@ -26,5 +26,49 @@
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": "Düngemittelverordnung",
     "ABSTRAKT": "Redaktionelle Korrekturen; Änderung von Grenzwerten"
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz ",
+        "FUNDSTELLE": "07.10.2009 - BR-Drucksache 751/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0751-09.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Agrarausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "13.11.2009 - BR-Drucksache 751/1/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0751-1-09.pdf",
+        "VP_ABSTRAKT": "Zustimmung/Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2009 - BR-Plenarprotokoll 864, TOP 14, S. 434B - 434C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/864.pdf#P.434",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "434C",
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen",
+          "BEZUGSDOKUMENT": "751/09",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2009 - BR-Drucksache 751/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0751-09B.pdf"
+      }
+    ]
   }
 }

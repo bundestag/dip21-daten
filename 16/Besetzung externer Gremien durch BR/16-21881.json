@@ -1,5 +1,5 @@
 {
-  "process": "16-21881",
+  "vorgangId": "21881",
   "VORGANG": {
     "WAHLPERIODE": "16",
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
@@ -23,5 +23,43 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": "KfW-Bankengruppe",
     "ABSTRAKT": ""
+  },
+  "VORGANGSABLAUF": {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "08.10.2009 - BR-Drucksache 757/09(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0757-09(neu).pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "03.12.2009 - BR-Drucksache 757/1/09",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0757-1-09.pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "18.12.2009 - BR-Plenarprotokoll 865, TOP 38, S. 474C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/865.pdf#P.474",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "474C",
+          "BESCHLUSSTENOR": "Bestellung",
+          "BEZUGSDOKUMENT": "757/09(neu)"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.12.2009 - BR-Drucksache 757/09(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0757-09B.pdf"
+      }
+    ]
   }
 }
