@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Herdenschutz und Schutz der Menschen im ländlichen Raum - Wolfspopulation intelligent regulieren",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/594",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900594.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/12",
+      "PLPR_SEITEN": "958C - 969D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.958"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -40,28 +47,51 @@
     "ABSTRAKT": "Statusneufestlegung in Deutschland lebender Wölfe und Wolfsmischlinge, Aktualisierung der Habitatanalyse; Maßnahmen zum Schutz von Weidetieren und Menschen: Umsetzung des Bundesnaturschutzgesetzes betr. Entnahme von Problemtieren und Mischlingen, zusätzl. gesetzliche Grundlagen im Naturschutz und Jagdrecht zur Festlegung von Obergrenzen für Populationsdichten; Erhöhung der Rechtssicherheit: Einstufung von Problemwölfen, Reduzierung des Schutzstatus, frühzeitige Entnahme von Kreuzungen zw. Hunden und Gemeinen Wölfen, Änderung der Tierschutz-Hundeverordnung, Schadensersatz für Rissschäden und Verluste von Haus- und Jagdgebrauchshunden"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "31.01.2018 - BT-Drucksache 19/594",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900594.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Karsten",
-          "NACHNAME": "Hilse",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "31.01.2018 - BT-Drucksache 19/594",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900594.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heiko",
+            "NACHNAME": "Wildberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.02.2018 - BT-Plenarprotokoll 19/12, S. 958C - 969D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.958",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "969D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/594",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktionen FDP und DIE LINKE (Federführung beim AfEL)"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Heiko",
-          "NACHNAME": "Wildberg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -20,7 +20,8 @@
     "PLENUM": {
       "PLPR_KLARTEXT": "Ausschusszuweisung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "964"
+      "PLPR_NUMMER": "964",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -42,12 +43,25 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Länderantrag,  Urheber : Thüringen und Rheinland-Pfalz ",
         "FUNDSTELLE": "24.01.2018 - BR-Drucksache 23/18",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Ausschusszuweisung",
         "FUNDSTELLE": "02.02.2018 - BR-Plenarprotokoll 964, TOP 28",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "23/18"
