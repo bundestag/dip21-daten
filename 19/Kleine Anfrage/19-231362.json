@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bodenbelastung am Flughafen Berlin-Tegel \"Otto Lilienthal\"",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/524",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900524.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/524",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900524.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/682",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -40,27 +47,34 @@
     "ABSTRAKT": "Flächen im Bundes- und Landeseigentum sowie anderer Eigentümer, Stand der Grundstücksübertragung, Kaufpreis, Bodenbelastung und hieraus resultierende Wertminderung, Sanierungsaufwand, Schlussfolgerungen für den Wohnungsbau aufgrund möglicher Bodenkontaminierung, rechtliche Schritte betr. Umwidmung in Bauland, Kampfmittelbeseitigung, Untersuchungen betr. Bodenbelastung mit Kerosin und sonst. Altlasten, Kostenträger umfassender Bodensanierung \n(insgesamt 14 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "18.01.2018 - BT-Drucksache 19/524",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900524.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christoph",
-          "NACHNAME": "Meyer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Daniela",
-          "NACHNAME": "Kluckert",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "18.01.2018 - BT-Drucksache 19/524",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900524.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Meyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Kluckert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "08.02.2018 - BT-Drucksache 19/682"
+      }
+    ]
   }
 }

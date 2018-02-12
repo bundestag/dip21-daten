@@ -50,13 +50,34 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
-        "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 854B - 857D",
+        "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 854B - 857A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854",
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "856D",
           "BESCHLUSSTENOR": "Überweisung",
           "BEZUGSDOKUMENT": "19/472"
-        }
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
       }
     ]
   }
