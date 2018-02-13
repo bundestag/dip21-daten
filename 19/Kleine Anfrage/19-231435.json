@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Reduktion von Schiffsemissionen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/528",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900528.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/528",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900528.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/719",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -45,27 +52,34 @@
     "ABSTRAKT": "Ziele der Förderrichtlinie für LNG, Zunahme von Schiffen mit LNG-Antrieb bis zu deren Ablauf, Mittelausstattung, Anreize für umweltfreundliche Abgastechniken, Zusammenarbeit mit Küstenländern, Ergebnisse der Studie zum Bund-Länder-Verhältnis in der Hafenpolitik, Fortschritte betr. Reduktion klima- und gesundheitsschädlicher Emissionen (CO2, SOx, NOx, Feinstaub, Rußpartikel) im Seeverkehr, Grenzwertverschärfung, Sachstand betr. Einrichtung von Sonderemissionszonen, LNG-Infrastruktur in Häfen, Antriebsausstattung der Schiffsflotte, Ergebnisse der Evaluierung des Küstenwachverbundes \n(insgesamt 16 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "19.01.2018 - BT-Drucksache 19/528",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900528.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Claudia",
-          "NACHNAME": "Müller",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Annalena",
-          "NACHNAME": "Baerbock",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "19.01.2018 - BT-Drucksache 19/528",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900528.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Annalena",
+            "NACHNAME": "Baerbock",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "12.02.2018 - BT-Drucksache 19/719"
+      }
+    ]
   }
 }
