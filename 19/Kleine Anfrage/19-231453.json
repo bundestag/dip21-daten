@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Maßnahmen gegen den Landarztmangel",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/553",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900553.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/553",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900553.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/751",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -26,33 +33,41 @@
       "Medizinische Ausbildung",
       "Medizinisches Versorgungszentrum",
       "Medizinische Versorgung",
-      "Prognose"
+      "Prognose",
+      "Telemedizin"
     ],
-    "ABSTRAKT": "Begriffsdefinition \"Landarzt\", Hausarzt- und Facharztdichte, Anzahl an Landarztpraxen, Prognosen für das Jahr 2030, mobile Praxen, medizinische Versorgungszentren, computergestützte ärztliche Versorgung (eHealth), Landarztquoten bei der Zulassung zum Medizinstudium, Zuwanderung von Ärzten, weitere Maßnahmen zur Sicherung der ärztlichen Versorgung im ländlichen Raum, Evaluation \n(insgesamt 21 Einzelfragen)"
+    "ABSTRAKT": "Begriffsdefinition \"Landarzt\", Haus- und Facharztdichte, Anzahl an Landarztpraxen, Prognosen für das Jahr 2030, mobile Praxen, medizinische Versorgungszentren, computergestützte ärztliche Versorgung (eHealth), Landarztquoten bei der Zulassung zum Medizinstudium, Zuwanderung von Ärzten, weitere Maßnahmen zur Sicherung der ärztlichen Versorgung im ländlichen Raum, Evaluation \n(insgesamt 21 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "24.01.2018 - BT-Drucksache 19/553",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900553.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Wieland",
-          "NACHNAME": "Schinnenburg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christine",
-          "NACHNAME": "Aschenberg-Dugnus",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "24.01.2018 - BT-Drucksache 19/553",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900553.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "14.02.2018 - BT-Drucksache 19/751"
+      }
+    ]
   }
 }
