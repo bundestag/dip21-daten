@@ -162,18 +162,13 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "3807A",
           "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "17/1295"
+          "BEZUGSDOKUMENT": "17/1295",
+          "ABSTIMMUNG_BEMERKUNG": "Mitberatung des Finanzausschusses entfällt"
         },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-            "UEBERWEISUNGSART": "Rücküberweisung"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
-            "UEBERWEISUNGSART": "nachträgliche Überweisung"
-          }
-        ]
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
       },
       {
         "ZUORDNUNG": "BT",
