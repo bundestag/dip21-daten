@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Erweiterung der Auskunftspflicht der Vermieterinnen und Vermieter und zur Abschaffung der Rügepflicht der Mieterinnen und Mieter",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/258)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/258",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900258.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/17",
+      "PLPR_SEITEN": "1426D - 1437A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1426"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -34,27 +41,35 @@
     "ABSTRAKT": "Stärkung der Mietpreisbremse: aktive Auskunftspflicht des Vermieters bei Vertragsbeginn über alle die Zulässigkeit der Miethöhe betreffenden Tatsachen mit Recht auf Belegeinsicht, Abschaffung der Rügepflicht und Rückzahlungsanspruch ab Mietbeginn; \nÄnderung § 556g Bürgerliches Gesetzbuch und Ergänzung Art. 229 Einführungsgesetz zum Bürgerlichen Gesetzbuche"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "13.12.2017 - BT-Drucksache 19/258",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900258.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Caren",
-          "NACHNAME": "Lay",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        },
-        {
-          "VORNAME": "Nicole",
-          "NACHNAME": "Gohlke",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "13.12.2017 - BT-Drucksache 19/258",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900258.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Gohlke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1426D - 1437A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1426"
+      }
+    ]
   }
 }

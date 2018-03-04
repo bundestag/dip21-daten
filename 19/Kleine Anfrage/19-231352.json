@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Aktueller Stand sowie Perspektiven der humanitären Hilfe und Entwicklungspolitik in Syrien",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/510",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900510.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/510",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900510.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/848",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/008/1900848.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -27,42 +35,53 @@
       "Grenzüberschreitender Verkehr",
       "Hilfsorganisation",
       "Humanitäre Hilfe",
+      "Islamischer Staat",
       "Kampfmittelbeseitigung",
       "Krisenbewältigung",
       "Krisengebiet",
       "Kurden",
+      "Lebensmittelversorgung",
       "Medizinische Versorgung",
       "Militärbündnis",
       "Syrien",
       "Terrorismusbekämpfung",
       "Türkei",
       "Vereinte Nationen",
+      "Wirtschaftssanktion",
       "Zivilschutz"
     ],
-    "ABSTRAKT": "Kontinuität der humanitären Hilfe, Finanzbedarfsplanungen, diesbzgl. Schwerpunkte, VN-Hilfsplan im Jahr 2017, Zugang zu humanitärer Hilfe, Finanzausstattung des European Social Safety Net (ESSN), Ernährungssicherheit der Zivilbevölkerung, Deeskalationszonen, medizinische Versorgung und diesbzgl. Kooperationen der GIZ, Arbeit des Syrischen Zivilschutzes (Weißhelme), politische Stabilisierungsmaßnahmen, Embargopolitik der Türkei, Lage in Rojava, Unterstützungsmaßnahmen, Stand der Minen- und Kampfmittelräumung, Militärbündnis SDF als Partner der Anti-IS-Koalition \n(insgesamt 33 Einzelfragen)"
+    "ABSTRAKT": "Wahrung der Kontinuität humanitärer Hilfe in Krisengebieten, Finanzplanungen für Syrien, Schwerpunkte der humanitären Förderung, VN-Hilfsplan im Jahr 2017, kampflinien- und grenzüberschreitende Hilfe, Ausnahmegenehmigungen für humanitäre Zwecke seit Verabschiedung der EU-Sanktionen, Finanzausstattung des \"European Social Safety Net Programms\" (ESSN), Ernährungssicherheit der syrischen Zivilbevölkerung, Zugang zu Deeskalationszonen, medizinische Versorgung und diesbzgl. Kooperationen der GIZ, Arbeit des Syrischen Zivilschutzes (Weißhelme), politische Stabilisierungsmaßnahmen, Embargopolitik der Türkei, Lage in Rojava, Unterstützungsmaßnahmen, Stand der Minen- und Kampfmittelräumung, Militärbündnis SDF als Partner der Anti-IS-Koalition \n(insgesamt 33 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "16.01.2018 - BT-Drucksache 19/510",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900510.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Helin Evrim",
-          "NACHNAME": "Sommer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christine",
-          "NACHNAME": "Buchholz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "16.01.2018 - BT-Drucksache 19/510",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/005/1900510.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Helin Evrim",
+            "NACHNAME": "Sommer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "21.02.2018 - BT-Drucksache 19/848",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/008/1900848.pdf"
+      }
+    ]
   }
 }

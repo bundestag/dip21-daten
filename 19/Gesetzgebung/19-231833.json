@@ -9,7 +9,7 @@
       "Niedersachsen",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Einbringung beschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 41/18)",
@@ -18,6 +18,11 @@
       "DRS_NUMMER": "41/18",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "965"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -39,11 +44,35 @@
     "ABSTRAKT": "Schließung von Regelungslücken betr. Schaulustige bei schweren Unfällen: Strafbarkeit der Behinderung von Hilfeleistenden der Feuerwehr, des Katastrophenschutzes oder eines Rettungsdienstes auch ohne qualifizierende Tatmittel (Gewalt oder Drohung); Ausweitung des Verbotes der Herstellung und Verbreitung bloßstellender Bildaufnahmen auf verstorbene Personen, Strafbarkeit des Versuchs, Anpassung des Strafantragsrechtes; \nEinfügung § 115 sowie Änderung §§ 201a und 205 Strafgesetzbuch, Folgeänderung § 374 Strafprozessordnung \n \nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 226/16 in der Fassung BR-Drs 226/16 (Beschluss) (GESTA 18. WP C108)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen, Mecklenburg-Vorpommern, Nordrhein-Westfalen ",
-      "FUNDSTELLE": "09.02.2018 - BR-Drucksache 41/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen, Mecklenburg-Vorpommern, Nordrhein-Westfalen ",
+        "FUNDSTELLE": "09.02.2018 - BR-Drucksache 41/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen ",
+        "FUNDSTELLE": "27.02.2018 - BR-Drucksache 41/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-1-18.pdf",
+        "VP_ABSTRAKT": "Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 4",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Einbringung in geänderter Fassung; Bestellung einer Beauftragten",
+          "BEZUGSDOKUMENT": "41/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "02.03.2018 - BR-Drucksache 41/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18B.pdf"
+      }
+    ]
   }
 }

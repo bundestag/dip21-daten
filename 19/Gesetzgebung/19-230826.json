@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Erstes Gesetz zur Änderung des Konsulargesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 772/17)",
@@ -21,15 +21,44 @@
         "DRS_NUMMER": "19/699",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/006/1900699.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/996",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900996.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "964",
-      "PLPR_SEITEN": "15B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.15"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964",
+        "PLPR_SEITEN": "15B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.15"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/14",
+        "PLPR_SEITEN": "1165A - 1165C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1165"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/17",
+        "PLPR_SEITEN": "1450C - 1450D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/17",
+        "PLPR_SEITEN": "1450D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -78,6 +107,94 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Auswärtiges Amt",
         "FUNDSTELLE": "09.02.2018 - BT-Drucksache 19/699",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/006/1900699.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "22.02.2018 - BT-Plenarprotokoll 19/14, S. 1165A - 1165C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1165",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1165C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/699"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Auswärtiger Ausschuss ",
+        "FUNDSTELLE": "28.02.2018 - BT-Drucksache 19/996",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900996.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Petr",
+            "NACHNAME": "Bystron",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Bijan",
+            "NACHNAME": "Djir-Sarai",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Hardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Liebich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Omid",
+            "NACHNAME": "Nouripour",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.03.2018 - BR-Drucksache 60/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0060-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Auswärtige Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450C - 1450D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
       }
     ]
   }

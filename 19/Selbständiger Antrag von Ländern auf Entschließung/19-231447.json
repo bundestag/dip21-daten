@@ -20,13 +20,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "964",
-      "PLPR_SEITEN": "14C - 15B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.14"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964",
+        "PLPR_SEITEN": "14C - 15B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.14"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "965"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -86,6 +93,22 @@
         "FUNDSTELLE": "16.02.2018 - BR-Drucksache 27/1/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-1-18.pdf",
         "VP_ABSTRAKT": "Wi: Annahme - U: Annahme in geänderter Fassung (u.a. Titeländerung)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
+        "FUNDSTELLE": "28.02.2018 - BR-Drucksache 27/2/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0027-2-18.pdf",
+        "VP_ABSTRAKT": "Änderungen anstelle Ziffer 1 in Drs 27/1/18 (u.a. Titeländerung)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 9",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "27/18"
+        }
       }
     ]
   }

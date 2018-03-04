@@ -4,14 +4,15 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Ausbau von erneuerbaren Energien bis zum Jahr 2030",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/776",
-      "DRS_TYP": "Fragen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf"
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/13",
+      "PLPR_SEITEN": "1028C - 1030B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1028"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -20,21 +21,57 @@
       "Photovoltaik",
       "Windenergie"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Originaltext der Frage(n): \n \nWie viel Megawatt Wind an Land und PV müssen pro Jahr brutto zugebaut werden, wenn das Mengenverhältnis zwischen PV und Wind an Land gleich bleibt, wie derzeit im EEG angestrebt, und die Volllaststunden gleich bleiben und Offshore-Wind bis 2030, wie im Bundesrat (Bundesratsdrucksache 27/18) derzeit diskutiert, auf 20 Gigawatt installierte Leistung ausgebaut würde und Biomasse die derzeit im EEG angestrebten Ausbauziele erreicht, um einen Anteil von 65 Prozent erneuerbarer Energien im Strombereich bis zum Jahr 2030 auf einem linearen Ausbaupfad zu erreichen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 10",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Ingrid",
-        "NACHNAME": "Nestle",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "21.02.2018 - BT-Plenarprotokoll 19/13, S. 1028C - 1030B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1028",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Nestle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "1028C"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Beckmeyer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "1028D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Julia",
+            "NACHNAME": "Verlinden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "1029C"
+          },
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "1030A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

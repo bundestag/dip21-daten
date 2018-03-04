@@ -15,13 +15,22 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900218.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/4",
-      "PLPR_SEITEN": "275C - 286D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19004.pdf#P.275"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/4",
+        "PLPR_SEITEN": "275C - 286D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19004.pdf#P.275"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/11",
+        "PLPR_SEITEN": "857A - 858B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.857"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -192,7 +201,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Nachtrag: 1. Beratung",
+        "URHEBER": "1. Beratung",
         "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 857A - 858B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.857",
         "BESCHLUSS": {
@@ -221,8 +230,7 @@
           {
             "AUSSCHUSS_KLARTEXT": "Innenausschuss"
           }
-        ],
-        "VP_ABSTRAKT": "Aufhebung der Überweisung an den HauptA (fdf)"
+        ]
       }
     ]
   }

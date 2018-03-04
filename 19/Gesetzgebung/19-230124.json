@@ -15,13 +15,22 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900044.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/3",
-      "PLPR_SEITEN": "170D - 180C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19003.pdf#P.170"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/3",
+        "PLPR_SEITEN": "170D - 180C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19003.pdf#P.170"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/11",
+        "PLPR_SEITEN": "854B - 857A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Ausländerpolitik, Zuwanderung",
@@ -145,7 +154,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Nachtrag: 1. Beratung",
+        "URHEBER": "1. Beratung",
         "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 854B - 857A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854",
         "BESCHLUSS": {
@@ -179,8 +188,7 @@
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
-        ],
-        "VP_ABSTRAKT": "Aufhebung der Überweisung an den HauptA (fdf)"
+        ]
       }
     ]
   }

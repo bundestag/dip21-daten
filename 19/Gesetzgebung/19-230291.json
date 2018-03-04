@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Strafgesetzbuches - Aufhebung des Werbeverbots für Schwangerschaftsabbrüche",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/93)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/93",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900093.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/14",
+      "PLPR_SEITEN": "1221C - 1233C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1221"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -25,30 +32,153 @@
       "Strafgesetzbuch",
       "Werbung"
     ],
-    "ABSTRAKT": "Zur Erleichterung des Informationszugangs von Schwangeren in Notsituationen und zur Entkriminalisierung von Fachärzten Abschaffung des Werbeverbots für Schwangerschaftsabbrüche; \nAufhebung § 219a und Folgeänderung § 218b Strafgesetzbuch \n \nBezug: Der Gesetzentwurf ist bei geänderten Titeln textidentisch mit dem beim BR eingebrachten Gesetzesantrag auf BR-Drs 761/17 (neu) und identisch mit dem Entwurf der Fraktion B90/GR auf BT-Drs 19/630 "
+    "ABSTRAKT": "Zur Erleichterung des Informationszugangs von Schwangeren in Notsituationen und zur Entkriminalisierung von Fachärzten Abschaffung des Werbeverbots für Schwangerschaftsabbrüche; \nAufhebung § 219a und Folgeänderung § 218b Strafgesetzbuch \n \nBezug: Der Gesetzentwurf ist bei geänderten Titeln textidentisch mit dem beim BR eingebrachten Gesetzesantrag auf BR-Drs 761/17 (neu) und identisch mit dem Entwurf der Fraktion B90/GR auf BT-Drs 19/630"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "22.11.2017 - BT-Drucksache 19/93",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900093.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Cornelia",
-          "NACHNAME": "Möhring",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "22.11.2017 - BT-Drucksache 19/93",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900093.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Cornelia",
+            "NACHNAME": "Möhring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "22.02.2018 - BT-Plenarprotokoll 19/14, S. 1221C - 1233C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1221",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulle",
+            "NACHNAME": "Schauws",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1221D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Stephan",
+            "NACHNAME": "Harbarth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1223A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Eva",
+            "NACHNAME": "Högl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1224A"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Münz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "1225B"
+          },
+          {
+            "VORNAME": "Mariana Iris",
+            "NACHNAME": "Harder-Kühnel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1225D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1227A"
+          },
+          {
+            "VORNAME": "Cornelia",
+            "NACHNAME": "Möhring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1228A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frauke",
+            "NACHNAME": "Petry",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1229A"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1229C"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Johannes",
+            "NACHNAME": "Fechner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1230D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Silke",
+            "NACHNAME": "Launert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1231D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1233C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/93"
         },
-        {
-          "VORNAME": "Christine",
-          "NACHNAME": "Buchholz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

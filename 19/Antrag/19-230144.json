@@ -14,13 +14,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900048.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/3",
-      "PLPR_SEITEN": "180C - 190C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19003.pdf#P.180"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/3",
+        "PLPR_SEITEN": "180C - 190C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19003.pdf#P.180"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/11",
+        "PLPR_SEITEN": "854B - 857A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -162,7 +171,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Nachtrag: Beratung",
+        "URHEBER": "Beratung",
         "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 854B - 857A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854",
         "BESCHLUSS": {
@@ -187,8 +196,7 @@
           {
             "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
           }
-        ],
-        "VP_ABSTRAKT": "Aufhebung der Überweisung an den HauptA (fdf)"
+        ]
       }
     ]
   }

@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Finanzierung einer Studie zum Thema \"Rechtsextremismus und Fremdenfeindlichkeit in Ostdeutschland\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Finanzierung der Studie \"Rechtsextremismus und Fremdenfeindlichkeit in Ostdeutschland\"",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/13",
+      "PLPR_SEITEN": "1022A - 1022D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1022"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Finanzierung",
@@ -14,21 +21,40 @@
       "Rechtsextremismus",
       "Studie"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Originaltext der Frage(n): \n \nWelche konkreten rechtlichen Überlegungen haben die Ostbeauftragte Iris Gleicke und das Bundeswirtschaftsministerium dazu veranlasst, für eine Studie des Göttinger Instituts für Demokratieforschung zum Thema \"Rechtsextremismus und Fremdenfeindlichkeit in Ostdeutschland\", die nach eigenen Angaben von Iris Gleicke selbst nach Nacherfüllungsmöglichkeit eine \"schlicht nicht hinnehmbare Schlamperei\" darstellt, von der sie sich öffentlich distanziert hat und die für sie \"jeden Wert [...] verloren\" hatte, nicht nur die Rückforderung von bereits ausgezahlten Geldern zu unterlassen, sondern auch noch zu einem Zeitpunkt, als die Unbrauchbarkeit der Studie bereits bekannt war, einen bis dahin noch nicht ausgezahlten Betrag hierfür zu zahlen, wie u. a. die Zeitung \"DIE WELT\" am 12. Februar 2018 berichtet hat, und wie hoch war der Betrag, der erst nach Bekanntwerden der Mangelhaftigkeit der Studie an das Göttinger Institut für Demokratieforschung bzw. die Georg-August-Universität Göttingen ausgezahlt wurde?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 5",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Thomas",
-        "NACHNAME": "Ehrhorn",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 5",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "21.02.2018 - BT-Plenarprotokoll 19/13, S. 1022A - 1022D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1022",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Ehrhorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "1022A"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Beckmeyer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "1022A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

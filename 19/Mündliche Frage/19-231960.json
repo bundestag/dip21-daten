@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Genehmigung der Modernisierung der türkischen Leopard-2-Panzer",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Genehmigung der Modernisierung von Leopard-2-Panzern in der Türkei",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/13",
+      "PLPR_SEITEN": "1055C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1055"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Genehmigung",
@@ -14,21 +21,40 @@
       "Rheinmetall",
       "Türkei"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Originaltext der Frage(n): \n \nHat die Bundesregierung oder haben die ihr unterstellten Behörden den im März 2017 von der Türkei und der Rheinmetall AG gestellten Antrag zur Genehmigung einer umfassenden Modernisierung der türkischen Leopard-Panzer mittlerweile genehmigt oder abgelehnt?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 1",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Stefan",
-        "NACHNAME": "Liebich",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/776, Nr. 1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900776.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "21.02.2018 - BT-Plenarprotokoll 19/13, S. 1055C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19013.pdf#P.1055",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Liebich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "1055C"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Beckmeyer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "1055C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

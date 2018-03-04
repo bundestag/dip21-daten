@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates - Rechtssicherheit für KWK-Anlagen bei der Höhe der EEG-Umlage für Eigenstromnutzung gewährleisten",
     "INITIATIVE": [
+      "Hessen",
       "Rheinland-Pfalz",
+      "Saarland",
+      "Sachsen",
       "Thüringen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,13 +20,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "964",
-      "PLPR_SEITEN": "13A - 14C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.13"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964",
+        "PLPR_SEITEN": "13A - 14C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.13"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "965"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -42,7 +52,7 @@
     "VORGANGSPOSITION": [
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Länderantrag,  Urheber : Thüringen und Rheinland-Pfalz ",
+        "URHEBER": "Länderantrag,  Urheber : Thüringen und Hessen, Rheinland-Pfalz, Saarland, Sachsen ",
         "FUNDSTELLE": "24.01.2018 - BR-Drucksache 23/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18.pdf",
         "ZUWEISUNG": [
@@ -95,6 +105,21 @@
         "FUNDSTELLE": "16.02.2018 - BR-Drucksache 23/1/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-1-18.pdf",
         "VP_ABSTRAKT": "Wi, U: Annahme in geänderter Fassung - EU: Annahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 8",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "23/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "02.03.2018 - BR-Drucksache 23/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0023-18B.pdf"
       }
     ]
   }
