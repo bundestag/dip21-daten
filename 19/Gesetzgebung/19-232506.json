@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Dreiundsechzigstes Gesetz zur Änderung des Grundgesetzes (Gesetz zur Festschreibung der deutschen Sprache als Landessprache)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/951)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/951",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900951.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/18",
+      "PLPR_SEITEN": "1521D - 1535A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1521"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -31,27 +38,151 @@
     "ABSTRAKT": "Hervorhebung der Bedeutung der deutschen Sprache für das politische und gesellschaftliche Zusammenleben und Schutz gegen die Verdrängung durch Einfügung einer Bestimmung zur Festlegung von Deutsch als Landessprache; \nÄnderung Art. 22 Grundgesetz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/951",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900951.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Brandner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/951",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900951.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Boehringer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "02.03.2018 - BT-Plenarprotokoll 19/18, S. 1521D - 1535A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1521",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1522A"
+          },
+          {
+            "VORNAME": "Gitta",
+            "NACHNAME": "Connemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1524A"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "1525B"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1525D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1527A"
+          },
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "1527C"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "1528A"
+          },
+          {
+            "VORNAME": "Simone",
+            "NACHNAME": "Barrientos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1528C"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1529C"
+          },
+          {
+            "VORNAME": "Andrea",
+            "NACHNAME": "Lindholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1531A"
+          },
+          {
+            "VORNAME": "Johann",
+            "NACHNAME": "Saathoff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1532C"
+          },
+          {
+            "VORNAME": "Axel",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1534A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1535A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/951"
         },
-        {
-          "VORNAME": "Peter",
-          "NACHNAME": "Boehringer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          }
+        ]
+      }
+    ]
   }
 }

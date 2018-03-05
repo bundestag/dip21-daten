@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -16,6 +16,13 @@
       "DRS_NUMMER": "19/956",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900956.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/18",
+      "PLPR_SEITEN": "1513B - 1521D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1513"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -35,11 +42,134 @@
     "ABSTRAKT": "Maßnahmen zur Vermeidung einer neuen nuklearen Aufrüstungsdynamik, Bewahrung des INF-Vertragsregimes, Appell an Russland und die USA zur Nutzung der Special Verification Commission betr. Überprüfung etwaiger Vertragsverletzungen, Erhalt und Stärkung von Abrüstungs- und Rüstungskontrollregimen sowie vertrauensbildenden Maßnahmen in Europa, Initiative für weltweite Abrüstung und Rüstungsbegrenzung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/956",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900956.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/956",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900956.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.03.2018 - BT-Plenarprotokoll 19/18, S. 1513B - 1521D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1513",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rolf",
+            "NACHNAME": "Mützenich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1513D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Johann",
+            "NACHNAME": "Wadephul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1515A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Anton ",
+            "NACHNAME": "Friesen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1515C"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1516B"
+          },
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Lucassen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "1517B"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "1517C"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1517C"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1518C"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Hardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1519C"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1520C"
+          },
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "1521B"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "1521C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1521D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/956"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }
