@@ -11,20 +11,30 @@
       "Niedersachsen",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "C016",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 53/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "53/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0053-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "53/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0053-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1717",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901717.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "44A - 45C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.44"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -42,7 +52,7 @@
       "Landgericht",
       "Zivilprozessordnung"
     ],
-    "ABSTRAKT": "Zur Attraktivitätssteigerung des Gerichtsstandortes Deutschland sowie zur Förderung der Wahl deutschen Rechts bei internationalen Vertragsverhältnissen und erhöhter Rechtssicherheit für deutsche Unternehmen Einrichtung besonderer Kammern für internationale Handelssachen bei den Landgerichten mit der Möglichkeit der Prozessführung in englischer Sprache, Zulässigkeit gemeinsamer Kammern mehrerer Bundesländer, Rechte Dritter, Verfahrensregelungen, Berufungsverfahren; \nÄnderung §§ 93 und 184 sowie Einfügung §§ 114a bis 114c Gerichtsverfassungsgesetz, Änderung §§ 73 und 523 Zivilprozessordnung sowie Einfügung § 37b Gesetz betreffend die Einführung der Zivilprozessordnung; Verordnungsermächtigung betr. Einrichtung der Kammern \n \nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 93/14 (GESTA 18. WP C013)"
+    "ABSTRAKT": "Zur Attraktivitätssteigerung des Gerichtsstandortes Deutschland sowie zur Förderung der Wahl deutschen Rechts bei internationalen Vertragsverhältnissen und erhöhter Rechtssicherheit für deutsche Unternehmen Einrichtung besonderer Kammern für internationale Handelssachen bei den Landgerichten mit der Möglichkeit der Prozessführung in englischer Sprache, Zulässigkeit gemeinsamer Kammern mehrerer Bundesländer, Rechte Dritter, Verfahrensregelungen, Berufungsverfahren; \r\nÄnderung §§ 93 und 184 sowie Einfügung §§ 114a bis 114c Gerichtsverfassungsgesetz, Änderung §§ 73 und 523 Zivilprozessordnung sowie Einfügung § 37b Gesetz betreffend die Einführung der Zivilprozessordnung; Verordnungsermächtigung betr. Einrichtung der Kammern \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 93/14 (GESTA 18. WP C013)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -55,10 +65,43 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 24",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 24, S. 44A - 45C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.44",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Biesenbach",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister der Justiz",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "44A"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Winfried",
+            "NACHNAME": "Bausback",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Staatsminister der Justiz",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "45A"
+          },
+          {
+            "VORNAME": "Lucia",
+            "NACHNAME": "Puttrich",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Bundes- und Europaangelegenheiten und Bevollmächtigte des Landes Hessen beim Bund",
+            "BUNDESLAND": "Hessen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "45C"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "45C",
           "BESCHLUSSTENOR": "erneute Einbringung; Bestellung eines Beauftragten",
-          "BEZUGSDOKUMENT": "53/18"
+          "BEZUGSDOKUMENT": "53/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -66,6 +109,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 53/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0053-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1717\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901717.pdf"
       }
     ]
   }

@@ -3,26 +3,36 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
-    "TITEL": "Gesetz über die Finanzierung der Beseitigung von Rüstungsaltlasten in der Bundesrepublik Deutschland (Rüstungsaltlastenfinanzierungsgesetz - RüstAltlFG)",
+    "TITEL": "Gesetz über die Finanzierung der Beseitigung von Rüstungsaltlasten in der Bundesrepublik Deutschland (Rüstungsaltlastenfinanzierungsgesetz - RüstAltFG)",
     "INITIATIVE": [
       "Brandenburg",
       "Niedersachsen",
       "Sachsen-Anhalt"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "D002",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 43/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "43/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0043-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "43/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0043-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1718",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901718.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "37D - 39B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.37"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -37,7 +47,7 @@
       "Rüstungsaltlastenfinanzierungsgesetz",
       "Zweiter Weltkrieg"
     ],
-    "ABSTRAKT": "Ausweitung der Finanzierungspflicht des Bundes auf die Bergung und Vernichtung alliierter Munition und Kampfmittel aus dem Zweiten Weltkrieg auf nicht bundeseigenen Flächen \n \nBezug: Wiedervorlage des Gesetzentwurfs auf BR-Drs 282/14 (Beschluss) (GESTA 18. WP D014) und des Gesetzentwurfs auf BT-Drs 18/4841 (GESTA 18. WP D035)"
+    "ABSTRAKT": "Ausweitung der Finanzierungspflicht des Bundes auf die Bergung und Vernichtung alliierter Munition und Kampfmittel aus dem Zweiten Weltkrieg auf nicht bundeseigenen Flächen \r\n \r\nBezug: Wiedervorlage des Gesetzentwurfs auf BR-Drs 282/14 (Beschluss) (GESTA 18. WP D014) und des Gesetzentwurfs auf BT-Drs 18/4841 (GESTA 18. WP D035)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -50,10 +60,42 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 2",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 2, S. 37D - 39B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.37",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Schröter",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister des Innern und für Kommunales",
+            "BUNDESLAND": "Brandenburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "38A"
+          },
+          {
+            "VORNAME": "Monika",
+            "NACHNAME": "Heinold",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Finanzministerin",
+            "BUNDESLAND": "Schleswig-Holstein",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "39A"
+          },
+          {
+            "VORNAME": "Boris",
+            "NACHNAME": "Pistorius",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "39A"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "39A",
           "BESCHLUSSTENOR": "erneute Einbringung; Bestellung eines Beauftragten",
-          "BEZUGSDOKUMENT": "43/18"
+          "BEZUGSDOKUMENT": "43/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -61,6 +103,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 43/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0043-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1718\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901718.pdf"
       }
     ]
   }

@@ -9,20 +9,30 @@
       "Niedersachsen",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "C012",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 41/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "41/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "41/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1594",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/015/1901594.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "41A - 42A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.41"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -41,7 +51,7 @@
       "Unfallopfer",
       "Widerstand gegen die Staatsgewalt"
     ],
-    "ABSTRAKT": "Schließung von Regelungslücken betr. Schaulustige bei schweren Unfällen: Strafbarkeit der Behinderung von Hilfeleistenden der Feuerwehr, des Katastrophenschutzes oder eines Rettungsdienstes auch ohne qualifizierende Tatmittel (Gewalt oder Drohung); Ausweitung des Verbotes der Herstellung und Verbreitung bloßstellender Bildaufnahmen auf verstorbene Personen, Strafbarkeit des Versuchs, Anpassung des Strafantragsrechtes; \nEinfügung § 115 sowie Änderung §§ 201a und 205 Strafgesetzbuch, Folgeänderung § 374 Strafprozessordnung \n \nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 226/16 in der Fassung BR-Drs 226/16 (Beschluss) (GESTA 18. WP C108)"
+    "ABSTRAKT": "Schließung von Regelungslücken betr. Schaulustige bei schweren Unfällen: Strafbarkeit der Behinderung von Hilfeleistenden der Feuerwehr, des Katastrophenschutzes oder eines Rettungsdienstes auch ohne qualifizierende Tatmittel (Gewalt oder Drohung); Ausweitung des Verbotes der Herstellung und Verbreitung bloßstellender Bildaufnahmen auf verstorbene Personen, Strafbarkeit des Versuchs, Anpassung des Strafantragsrechtes; \r\nEinfügung § 115 sowie Änderung §§ 201a und 205 Strafgesetzbuch, Folgeänderung § 374 Strafprozessordnung \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 226/16 in der Fassung BR-Drs 226/16 (Beschluss) (GESTA 18. WP C108) \r\n \r\n Änderung durch BR-Beschluss:  Wegfall der zwischenzeitlich anderweitig geregelten Strafbarkeit der Behinderung von Rettungskräften; rechtsförmliche Änderungen; \r\nVerzicht auf Einfügung § 115 \r\n \r\nBezug: Zweiundfünfzigstes Gesetz zur Änderung des Strafgesetzbuches - Stärkung des Schutzes von Vollstreckungsbeamten und Rettungskräften, GESTA 18. WP C151"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -61,10 +71,42 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 4",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 4, S. 41A - 42A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.41",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Boris",
+            "NACHNAME": "Pistorius",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "41A"
+          },
+          {
+            "VORNAME": "Barbara",
+            "NACHNAME": "Havliza",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Justizministerin",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "41D"
+          },
+          {
+            "VORNAME": "Ulrike",
+            "NACHNAME": "Höfken",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Umwelt, Energie, Ernährung und Forsten",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "41D"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "42A",
           "BESCHLUSSTENOR": "Einbringung in geänderter Fassung; Bestellung einer Beauftragten",
-          "BEZUGSDOKUMENT": "41/18"
+          "BEZUGSDOKUMENT": "41/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -72,6 +114,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 41/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0041-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "11.04.2018 - BT-Drucksache 19/1594\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/015/1901594.pdf"
       }
     ]
   }

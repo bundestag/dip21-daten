@@ -13,7 +13,7 @@
     ],
     "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "C008",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 761/17(neu))",
     "WICHTIGE_DRUCKSACHE": {
       "DRS_HERAUSGEBER": "BR",
@@ -21,13 +21,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0761-17(neu).pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "457C - 459D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.457"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "457C - 459D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.457"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "113A - 116A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.113"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -38,7 +47,7 @@
       "Strafgesetzbuch",
       "Werbung"
     ],
-    "ABSTRAKT": "Zur Stärkung von Informationsfreiheit, Selbstbestimmung und freier Arztwahl sowie Straffreiheit der Erfüllung ärztlicher Aufklärungspflicht Abschaffung des Werbeverbots für Schwangerschaftsabbrüche; \nAufhebung § 219a und Folgeänderung § 218b Strafgesetzbuch \n \nBezug: Der Gesetzentwurf ist bei geänderten Titeln textidentisch dem Entwurf der Fraktion DIE LINKE auf BT-Drs 19/93 und identisch mit dem Entwurf der Fraktion B90/GR auf BT-Drs 19/630 "
+    "ABSTRAKT": "Zur Stärkung von Informationsfreiheit, Selbstbestimmung und freier Arztwahl sowie Straffreiheit der Erfüllung ärztlicher Aufklärungspflicht Abschaffung des Werbeverbots für Schwangerschaftsabbrüche; \r\nAufhebung § 219a und Folgeänderung § 218b Strafgesetzbuch \r\n \r\nBezug: Der Gesetzentwurf ist bei geänderten Titeln identisch mit dem Entwurf der Fraktion DIE LINKE auf BT-Drs 19/93 GESTA C003, dem Entwurf der Fraktion B90/GR auf BT-Drs 19/630 GESTA C011 sowie dem Entwurf der Fraktion der SPD auf BT-Drs 19/1046 GESTA C017 \r\nSiehe auch GESTA C014"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -98,6 +107,67 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "459D",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "761/17(neu)"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.04.2018 - BR-Drucksache 115/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0115-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          }
+        ],
+        "VP_ABSTRAKT": "R: Beratungen noch nicht abgeschlossen - FJ, G: Einbringung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, TOP 5, S. 113A - 116A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.113",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dirk",
+            "NACHNAME": "Behrendt",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Senator für Justiz, Verbraucherschutz und Antidiskriminierung",
+            "BUNDESLAND": "Berlin",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "113B"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Werner",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "114A"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Winfried",
+            "NACHNAME": "Bausback",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Staatsminister der Justiz",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "115B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "116A",
+          "BESCHLUSSTENOR": "Fortsetzung der Ausschussberatungen",
           "BEZUGSDOKUMENT": "761/17(neu)"
         }
       }

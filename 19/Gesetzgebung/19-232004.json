@@ -5,20 +5,30 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Strafrechtsänderungsgesetz - Strafbarkeit der unbefugten Benutzung informationstechnischer Systeme - Digitaler Hausfriedensbruch",
     "INITIATIVE": "Hessen",
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "C013",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 47/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "47/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0047-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "47/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0047-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1716",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901716.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "42A - 42B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.42"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -37,7 +47,7 @@
       "Strafrechtsänderungsgesetz",
       "Übereinkommen über Computerkriminalität"
     ],
-    "ABSTRAKT": "Verbesserung des Schutzes der Integrität und Vertraulichkeit von informationstechnischen Systemen: Schaffung eines neuen Straftatbestandes der \"unbefugten Benutzung informationstechnischer Systeme\" (\"digitaler Hausfriedensbruch\"), Regelbeispiele, Strafmaßdifferenzierungen; Einstufung als relatives Antragsdelikt sowie als Privatklagedelikt; \nEinfügung § 202e und Änderung § 205 Strafgesetzbuch sowie Änderung § 374 Strafprozessordnung \n \nBezug: Art. 2 Übereinkommen des Europarates vom 23. November 2001 über Computerkriminalität s. GESTA 16. WP XC010 \nWiedervorlage des Gesetzesantrags auf BR-Drs 338/16 (GESTA 18. WP C113)"
+    "ABSTRAKT": "Verbesserung des Schutzes der Integrität und Vertraulichkeit von informationstechnischen Systemen: Schaffung eines neuen Straftatbestandes der \"unbefugten Benutzung informationstechnischer Systeme\" (\"digitaler Hausfriedensbruch\"), Regelbeispiele, Strafmaßdifferenzierungen; Einstufung als relatives Antragsdelikt sowie als Privatklagedelikt; \r\nEinfügung § 202e und Änderung § 205 Strafgesetzbuch sowie Änderung § 374 Strafprozessordnung \r\n \r\nBezug: Art. 2 Übereinkommen des Europarates vom 23. November 2001 über Computerkriminalität s. GESTA 16. WP XC010 \r\nWiedervorlage des Gesetzesantrags auf BR-Drs 338/16 (GESTA 18. WP C113)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -50,10 +60,22 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 5",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 5, S. 42A - 42B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.42",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Lucia",
+          "NACHNAME": "Puttrich",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Ministerin für Bundes- und Europaangelegenheiten und Bevollmächtigte des Landes Hessen beim Bund",
+          "BUNDESLAND": "Hessen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "42A"
+        },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "42B",
           "BESCHLUSSTENOR": "erneute Einbringung; Bestellung einer Beauftragten",
-          "BEZUGSDOKUMENT": "47/18"
+          "BEZUGSDOKUMENT": "47/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -61,6 +83,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 47/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0047-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1716\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901716.pdf"
       }
     ]
   }

@@ -8,28 +8,45 @@
       "Mecklenburg-Vorpommern",
       "Niedersachsen"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "B009",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 39/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "39/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0039-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "39/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0039-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1715",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901715.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "39B - 41A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.39"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
+      "Datenabgleich",
+      "Extremismus",
+      "Innere Sicherheit",
+      "Sicherheitsüberprüfung von Personen",
+      "Verfassungsschutz",
+      "Waffenbesitz",
       "Waffengesetz",
-      "Waffenrecht"
+      "Waffenrecht",
+      "Waffenschein"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verpflichtung der Waffenbehörden zur Ausweitung der waffenrechtlichen Zuverlässigkeitsprüfung auf Informationen der Verfassungsschutzbehörden zur besseren Kontrolle des legalen Waffenbesitzes im extremistischen Spektrum im Nachgang zu den Ermittlungserkenntnissen betr. sog. Nationalsozialistischer Untergrund; \r\nÄnderung § 5 Waffengesetz \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 115/14 (Beschluss) (GESTA 18. WP B011) \r\nSiehe auch GESTA B011"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -42,10 +59,33 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 3",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 3, S. 39B - 41A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.39",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Boris",
+            "NACHNAME": "Pistorius",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Inneres und Sport",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "39B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Beuth",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister des Innern und für Sport",
+            "BUNDESLAND": "Hessen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "40A"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "41A",
           "BESCHLUSSTENOR": "erneute Einbringung; Bestellung eines Beauftragten",
-          "BEZUGSDOKUMENT": "39/18"
+          "BEZUGSDOKUMENT": "39/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -53,6 +93,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 39/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0039-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1715\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901715.pdf"
       }
     ]
   }

@@ -5,20 +5,30 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über Vorrechte, Immunitäten, Befreiungen und Erleichterungen in der Bundesrepublik Deutschland als Gaststaat internationaler Einrichtungen (Gaststaatgesetz)",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
+    "GESTA_ORDNUNGSNUMMER": "A002",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 49/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "49/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0049-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "49/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0049-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1719",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901719.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
+      "PLPR_NUMMER": "965",
+      "PLPR_SEITEN": "52A - 52B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.52"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
@@ -28,7 +38,7 @@
       "Internationale Organisation",
       "Nichtregierungsorganisation"
     ],
-    "ABSTRAKT": "Schaffung eines einheitlichen Rechtsrahmens für die Ansiedlung internationaler Organisationen und weiterer internationaler Einrichtungen (internationale Institutionen, quasizwischenstaatliche Organisationen u.a.) sowie internationaler Nichtregierungsorganisationen in Deutschland: Regelungen zu Status, Vorrechten, Immunitäten, Befreiungen und Erleichterungen; \nVerordnungsermächtigungen \n \nBezug: Wiedervorlage des Gesetzentwurfs auf BR-Drs 232/17 in der Fassung BR-Drs 232/17 (Beschluss) (GESTA 18. WP A003)"
+    "ABSTRAKT": "Schaffung eines einheitlichen Rechtsrahmens für die Ansiedlung internationaler Organisationen und weiterer internationaler Einrichtungen (internationale Institutionen, quasizwischenstaatliche Organisationen u.a.) sowie internationaler Nichtregierungsorganisationen in Deutschland: Regelungen zu Status, Vorrechten, Immunitäten, Befreiungen und Erleichterungen; Verordnungsermächtigung \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 232/17 in der Fassung BR-Drs 232/17 (Beschluss) (GESTA 18. WP A003)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -41,10 +51,13 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 19",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 19, S. 52A - 52B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.52",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "52B",
           "BESCHLUSSTENOR": "erneute Einbringung; Bestellung eines Beauftragten",
-          "BEZUGSDOKUMENT": "49/18"
+          "BEZUGSDOKUMENT": "49/18",
+          "GRUNDLAGE": "Art. 76 Abs. 1 GG"
         }
       },
       {
@@ -52,6 +65,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 49/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0049-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1719\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901719.pdf"
       }
     ]
   }

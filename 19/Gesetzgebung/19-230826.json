@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Erstes Gesetz zur Änderung des Konsulargesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Verabschiedet",
-    "SIGNATUR": "",
-    "GESTA_ORDNUNGSNUMMER": "",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 772/17)",
+    "AKTUELLER_STAND": "Verkündet",
+    "SIGNATUR": "XIX/3",
+    "GESTA_ORDNUNGSNUMMER": "A001",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 772/17)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -57,9 +60,18 @@
         "PLPR_NUMMER": "19/17",
         "PLPR_SEITEN": "1450D",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "70D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.70"
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 18.04.2018 - Bundesgesetzblatt Teil I 2018 Nr.1424.04.2018 S. 478 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl118s0478.pdf']",
+    "INKRAFTTRETEN": "25.04.2018",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
       "Diplomatischer Schutz",
@@ -70,7 +82,7 @@
       "Richtlinie der EU",
       "Unionsbürgerschaft"
     ],
-    "ABSTRAKT": "Umsetzung der EU-Richtlinie zur Erleichterung des konsularischen Schutzes von nicht im Drittland vertretenen Unionsbürgern in Problemsituationen, Regelungen zur Auslagenerstattung; \nEinfügung § 9a Konsulargesetz \n \nBezug: Richtlinie (EU) 2015/637 vom 20. April 2015 über Koordinierungs- und Kooperationsmaßnahmen zur Erleichterung des konsularischen Schutzes von nicht vertretenen Unionsbürgern in Drittländern und zur Aufhebung des Beschlusses 95/553/EG (ABl. L 106 vom 24.04.2015, S. 1)"
+    "ABSTRAKT": "Umsetzung der EU-Richtlinie zur Erleichterung des konsularischen Schutzes von nicht im Drittland vertretenen Unionsbürgern in Problemsituationen, Regelungen zur Auslagenerstattung; \r\nEinfügung § 9a Konsulargesetz \r\n \r\nBezug: Richtlinie (EU) 2015/637 vom 20. April 2015 über Koordinierungs- und Kooperationsmaßnahmen zur Erleichterung des konsularischen Schutzes von nicht vertretenen Unionsbürgern in Drittländern und zur Aufhebung des Beschlusses 95/553/EG (ABl. L 106 vom 24.04.2015, S. 1)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -104,7 +116,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Auswärtiges Amt",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
         "FUNDSTELLE": "09.02.2018 - BT-Drucksache 19/699",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/006/1900699.pdf"
       },
@@ -175,6 +187,30 @@
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450C - 1450D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1450D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/699",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1450D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/699",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 60/18",
@@ -185,16 +221,22 @@
         }
       },
       {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "2. Beratung",
-        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450C - 1450D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+        "ZUORDNUNG": "BR",
+        "URHEBER": "2. Durchgang",
+        "FUNDSTELLE": "23.03.2018 - BR-Plenarprotokoll 966, TOP 1, S. 70D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.70",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "70D",
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+          "BEZUGSDOKUMENT": "60/18",
+          "GRUNDLAGE": "Art. 77 Abs. 2 GG"
+        }
       },
       {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "3. Beratung",
-        "FUNDSTELLE": "01.03.2018 - BT-Plenarprotokoll 19/17, S. 1450D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1450"
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.03.2018 - BR-Drucksache 60/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0060-18B.pdf"
       }
     ]
   }
