@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Bericht der Kommission an das Europäische Parlament und den Rat über die Durchführung der Verordnung (EG) Nr. 428/2009 des Rates über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck \nKOM(2017) 679 endg.; Ratsdok. 14765/17",
+    "TITEL": "Bericht der Kommission an das Europäische Parlament und den Rat über die Durchführung der Verordnung (EG) Nr. 428/2009 des Rates über eine Gemeinschaftsregelung für die Kontrolle der Ausfuhr, der Verbringung, der Vermittlung und der Durchfuhr von Gütern mit doppeltem Verwendungszweck \r\nKOM(2017) 679 endg.; Ratsdok. 14765/17",
     "INITIATIVE": "Bundestag",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -14,30 +14,46 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/21",
+      "PLPR_SEITEN": "1793A - 1793C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793"
+    },
     "EU_DOK_NR": "Ratsdok. 14765/17, Kom. (2017) 679 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
-      "FUNDSTELLE": "26.02.2018 - BT-Drucksache 19/910, Nr. A.77",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "26.02.2018 - BT-Drucksache 19/910, Nr. A.77",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.03.2018 - BT-Plenarprotokoll 19/21, S. 1793A - 1793C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793",
+        "VP_ABSTRAKT": "S. 1793A - Kenntnisnahme"
+      }
+    ]
   }
 }

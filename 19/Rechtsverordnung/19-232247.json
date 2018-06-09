@@ -8,28 +8,58 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/900",
-      "DRS_TYP": "Verordnung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900900.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/900",
+        "DRS_TYP": "Verordnung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900900.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1333",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/013/1901333.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "150/18",
+        "DRS_TYP": "Verordnung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0150-18.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/26",
+      "PLPR_SEITEN": "2346C - 2346D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19026.pdf#P.2346"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Abfallrecht",
       "Abfallwirtschaft",
       "Anzeige- und Erlaubnisverordnung",
+      "Blei",
+      "Cadmium",
+      "Datenschutz",
+      "Datenschutz-Grundverordnung",
       "Elektrogerät",
       "Elektro- und Elektronikgeräte-Stoff-Verordnung",
+      "Ersatzteil",
+      "Gebrauchtwarenhandel",
       "Gefahrstoff",
       "Gesundheitsschädlicher Stoff",
+      "Glas",
       "Innerstaatliche Umsetzung von EU-Recht",
-      "Medizintechnik",
-      "Messgerät",
-      "Richtlinie der EU"
+      "Instandhaltung",
+      "Maschine",
+      "Optische Technologie",
+      "Richtlinie der EU",
+      "Verkauf",
+      "Verordnung der EU"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Umsetzung von EU-Recht zur Beschränkung der Verwendung best. gefährlicher Stoffe in Elektro- und Elektronikgeräten: Ausschluss von Pfeifenorgeln bzw. Erweiterung des Ausschlusses für bewegliche Maschinen aus dem Anwendungsbereich sowie Erleichterungen für die Förderung von Sekundärmarkttätigkeiten (Weiterverkauf, Gebrauchtwarenhandel, Reparatur) für Elektro- und Elektronikgeräte oder deren Teile, Erneuerung und Konkretisierung der Geltungsdauer ausgelaufener Ausnahmen betr. Cadmium und Blei in Filterglas und Glas für Reflexionsstandards, Blei in Weißglas für optische Anwendungen sowie Cadmiumselenid für Displayanwendungen; redaktionelle Anpassung an das Datenschutzrecht \r\n  \r\nBezug: Richtlinie 2017/2102/EU vom 15. November 2017 zur Änderung der Richtlinie 2011/65/EU zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten (ABl. L 305, 21.11.2017, S. 8) ; Delegierte Richtlinien 2017/1009/EU, 2017/1010/EU, 2017/1011/EU, 2017/1975/EU zur Änderung des Anhangs III der Richtlinie 2011/65/EU vom 8. Juni 2011 zur Beschränkung der Verwendung bestimmter gefährlicher Stoffe in Elektro- und Elektronikgeräten (ABl. L 153, 16.06.2017, S. 21, 23, 25 ; ABl. L 281, 31.10.2017, S. 29) \r\nVerordnung (EU) 2016/679 vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (ABl. L 119, 04.05.2016, S. 1) (EU-Datenschutz-Grundverordnung)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -57,6 +87,85 @@
           },
           {
             "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit ",
+        "FUNDSTELLE": "21.03.2018 - BT-Drucksache 19/1333",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/013/1901333.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marie-Luise",
+            "NACHNAME": "Dött",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bettina",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Kraft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ralph",
+            "NACHNAME": "Lenkert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Judith",
+            "NACHNAME": "Skudelny",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Thews",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Zustimmung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.04.2018 - BT-Plenarprotokoll 19/26, S. 2346C - 2346D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19026.pdf#P.2346",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2346D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "19/900"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
+        "FUNDSTELLE": "26.04.2018 - BR-Drucksache 150/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0150-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
           }
         ]
       }

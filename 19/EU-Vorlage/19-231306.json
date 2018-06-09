@@ -3,23 +3,42 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Eine europäische Strategie für Kunststoffe in der Kreislaufwirtschaft\nKOM(2018) 28 endg.",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEine europäische Strategie für Kunststoffe in der Kreislaufwirtschaft \r\nKOM(2018) 28 endg.; Ratsdok. 5477/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "13/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0013-18.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965"
-    },
-    "EU_DOK_NR": "Kom. (2018) 28 endg.",
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "13/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0013-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1053",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901053.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "965",
+        "PLPR_SEITEN": "50C - 51A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.50"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/30",
+        "PLPR_SEITEN": "2884C - 2884D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19030.pdf#P.2884"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 5477/18, Kom. (2018) 28 endg.",
     "SCHLAGWORT": [
       "Abfallbeseitigung",
       "Kunststoff",
@@ -60,10 +79,13 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 13b",
+        "FUNDSTELLE": "02.03.2018 - BR-Plenarprotokoll 965, TOP 13b, S. 50C - 51A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.50",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "51A",
           "BESCHLUSSTENOR": "Stellungnahme",
-          "BEZUGSDOKUMENT": "13/18"
+          "BEZUGSDOKUMENT": "13/18",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
         }
       },
       {
@@ -71,6 +93,28 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "02.03.2018 - BR-Drucksache 13/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0013-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.03.2018 - BT-Drucksache 19/1053, Nr. A.28",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901053.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "27.04.2018 - BT-Plenarprotokoll 19/30, S. 2884C - 2884D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19030.pdf#P.2884",
+        "VP_ABSTRAKT": "S. 2884C - Kenntnisnahme"
       }
     ]
   }

@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2009/73/EG über gemeinsame Vorschriften für den Erdgasbinnenmarkt\nKOM(2017) 660 endg.; Ratsdok. 14204/17",
+    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2009/73/EG über gemeinsame Vorschriften für den Erdgasbinnenmarkt\r\nKOM(2017) 660 endg.; Ratsdok. 14204/17",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "484A - 484D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.484"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "484A - 484D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.484"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/21",
+        "PLPR_SEITEN": "1793A - 1793C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 14204/17, Kom. (2017) 660 endg.",
     "SCHLAGWORT": [
       "Europäischer Binnenmarkt",
@@ -95,6 +104,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.03.2018 - BT-Plenarprotokoll 19/21, S. 1793A - 1793C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793",
+        "VP_ABSTRAKT": "S. 1793A - Kenntnisnahme"
       }
     ]
   }

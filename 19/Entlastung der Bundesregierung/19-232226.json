@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Entlastung der Bundesregierung",
-    "TITEL": "Entlastung der Bundesregierung für das Haushaltsjahr 2015\n- Haushaltsrechnung und Vermögensrechnung des Bundes für das Haushaltsjahr 2015 -",
+    "TITEL": "Entlastung der Bundesregierung für das Haushaltsjahr 2015\r\n- Haushaltsrechnung und Vermögensrechnung des Bundes für das Haushaltsjahr 2015 -",
     "INITIATIVE": "Bundesministerium der Finanzen",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -26,15 +26,28 @@
         "DRS_NUMMER": "18/11990",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/119/1811990.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1881",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/018/1901881.pdf"
       }
     ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/33",
+      "PLPR_SEITEN": "3123B - 3123C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19033.pdf#P.3123"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
       "Bericht der Bundesregierung",
       "Entlastung der Bundesregierung: Haushaltsjahr 2015"
     ],
-    "ABSTRAKT": "Jahresrechnungen beim Bundesrat als Sonderdrucke verteilt"
+    "ABSTRAKT": "Jahresrechnungen beim Bundesrat als Sonderdrucke verteilt \r\n \r\n Beschlussempfehlung des Ausschusses:  Erteilung der Entlastung; Aufforderung zur Befolgung der Feststellungen des Haushaltsausschusses zu den Bemerkungen des BRH, Maßnahmen zur Steigerung der Wirtschaftlichkeit, fristgerechte Erfüllung von Berichtspflichten"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -49,7 +62,7 @@
         "URHEBER": "Bemerkungen des Bundesrechnungshofes,  Urheber : Bundesrechnungshof ",
         "FUNDSTELLE": "14.11.2016 - BT-Drucksache 18/10200",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/102/1810200.pdf",
-        "VP_ABSTRAKT": "Bemerkungen des Bundesrechnungshofes 2016 zur Haushalts- und Wirtschaftsführung des Bundes (einschließlich der Feststellungen zur Jahresrechnung 2015) - Band I"
+        "VP_ABSTRAKT": "Bemerkungen des Bundesrechnungshofes 2016 zur Haushalts- und Wirtschaftsführung des Bundes (einschließlich der Feststellungen zur Jahresrechnung 2015) "
       },
       {
         "ZUORDNUNG": "BT",
@@ -158,6 +171,41 @@
           }
         ],
         "VP_ABSTRAKT": "Überweisung der Bemerkungen des BRH 18/11990"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "25.04.2018 - BT-Drucksache 19/1881",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/018/1901881.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Tobias",
+          "NACHNAME": "Lindner",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Entlastung; Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.05.2018 - BT-Plenarprotokoll 19/33, S. 3123B - 3123C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19033.pdf#P.3123",
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "3123C",
+            "BESCHLUSSTENOR": "Annahme",
+            "BEZUGSDOKUMENT": "19/1881",
+            "ABSTIMMUNG_BEMERKUNG": "damit Entlastung der Bundesregierung erteilt"
+          },
+          {
+            "BESCHLUSSSEITE": "3123C",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "19/1881",
+            "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+          }
+        ]
       }
     ]
   }

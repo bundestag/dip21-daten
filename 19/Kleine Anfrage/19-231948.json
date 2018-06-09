@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Asyl-Entscheidungen des Bundesamtes für Migration und Flüchtlinge in Brandenburg",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/785",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900785.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/785",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900785.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1088",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901088.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
     "SCHLAGWORT": [
@@ -24,21 +32,29 @@
       "Dublin-Verordnung",
       "Personalausstattung"
     ],
-    "ABSTRAKT": "Asylbewerber nach Herkunftsländern in Brandenburg, unbearbeitete Asylanträge, Anerkennungen bzw. Ablehnungen, Dublin-Verfahren, Antragsrücknahmen, Personaleinsatz \n(insgesamt 4 Einzelfragen)"
+    "ABSTRAKT": "Asylbewerber nach Herkunftsländern in Brandenburg, unbearbeitete Asylanträge, Anerkennungen bzw. Ablehnungen, Dublin-Verfahren, Antragsrücknahmen, Personaleinsatz \r\n(insgesamt 4 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/785",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900785.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "René",
-        "NACHNAME": "Springer",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/785",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900785.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "René",
+          "NACHNAME": "Springer",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
+        "FUNDSTELLE": "06.03.2018 - BT-Drucksache 19/1088",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901088.pdf"
       }
-    }
+    ]
   }
 }

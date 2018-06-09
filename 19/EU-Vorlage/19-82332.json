@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (Neufassung)\nKOM (2017) 280 endg.; Ratsdok. 9673/17",
+    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (Neufassung)\r\nKOM (2017) 280 endg.; Ratsdok. 9673/17",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "959",
-      "PLPR_SEITEN": "367B - 368C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.367"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "959",
+        "PLPR_SEITEN": "367B - 368C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/959.pdf#P.367"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/34",
+        "PLPR_SEITEN": "3258A - 3258D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19034.pdf#P.3258"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 9673/17, Kom. (2017) 280 endg.",
     "SCHLAGWORT": [
       "Europäische Union",
@@ -99,6 +108,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "18.05.2018 - BT-Plenarprotokoll 19/34, S. 3258A - 3258D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19034.pdf#P.3258",
+        "VP_ABSTRAKT": "S. 3258A - Kenntnisnahme"
       }
     ]
   }

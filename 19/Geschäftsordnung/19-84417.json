@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Geschäftsordnung",
-    "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\nhier: Beratungsfrist",
+    "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\r\nhier: Beratungsfrist",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/11",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900011.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/29",
+      "PLPR_SEITEN": "2680D - 2681C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2680"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
@@ -23,14 +30,36 @@
       "Parlamentarische Beratung",
       "Parlamentsausschuss"
     ],
-    "ABSTRAKT": "Einführung eines Anspruchs auf abschließende Behandlung im Ausschuss nach erfolgter Berichterstattung zum Beratungsstand: Fristen und antragsberechtigte Mehrheiten; Aufsetzungspflicht im Plenum; \nÄnderung § 62 Geschäftsordnung des Deutschen Bundestages"
+    "ABSTRAKT": "Einführung eines Anspruchs auf abschließende Behandlung im Ausschuss nach erfolgter Berichterstattung zum Beratungsstand: Fristen und antragsberechtigte Mehrheiten; Aufsetzungspflicht im Plenum; \r\nÄnderung § 62 Geschäftsordnung des Deutschen Bundestages"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "24.10.2017 - BT-Drucksache 19/11",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900011.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "24.10.2017 - BT-Drucksache 19/11",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900011.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.04.2018 - BT-Plenarprotokoll 19/29, S. 2680D - 2681C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2680",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "2681C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/11"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

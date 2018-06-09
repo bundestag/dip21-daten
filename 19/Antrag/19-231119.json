@@ -14,13 +14,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900448.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/7",
-      "PLPR_SEITEN": "610D - 621C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19007.pdf#P.610"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/7",
+        "PLPR_SEITEN": "610D - 621C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19007.pdf#P.610"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/8",
+        "PLPR_SEITEN": "680D - 681A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.680"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Landwirtschaft und Ernährung",
@@ -132,7 +141,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Ausschussüberweisung",
+        "URHEBER": "Fortsetzung: Beratung",
         "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 680D - 681A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.680",
         "BESCHLUSS": {
@@ -143,12 +152,10 @@
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
-            "FEDERFUEHRUNG": "federf&uuml;hrend",
-            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
           },
           {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
-            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
           }
         ]
       }

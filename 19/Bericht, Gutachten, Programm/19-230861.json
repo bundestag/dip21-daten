@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/004/1900400.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/15",
-      "PLPR_SEITEN": "1237A - 1251B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19015.pdf#P.1237"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/15",
+        "PLPR_SEITEN": "1237A - 1251B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19015.pdf#P.1237"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "84B - 85A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.84"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
     "SCHLAGWORT": [
@@ -37,6 +46,8 @@
       "Eltern",
       "Elterngeld",
       "Elternzeit",
+      "Familienpolitik",
+      "Gesetzesfolgenabschätzung",
       "Gesetz zur Einführung des Elterngeld Plus mit Partnerschaftsbonus und einer flexibleren Elternzeit im Bundeselterngeld- und Elternzeitgesetz",
       "Haushaltseinkommen",
       "Kinderbetreuung",
@@ -182,6 +193,39 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.03.2018 - BR-Drucksache 6/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0006-1-18.pdf",
+        "VP_ABSTRAKT": "Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.03.2018 - BR-Plenarprotokoll 966, TOP 9, S. 84B - 85A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.84",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Manfred",
+          "NACHNAME": "Lucha",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Soziales und Integration",
+          "BUNDESLAND": "Baden-Württemberg",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "84B"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "85A",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "6/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.03.2018 - BR-Drucksache 6/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0006-18B.pdf"
       }
     ]
   }

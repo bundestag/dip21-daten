@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Pläne der Bundesregierung zur Ausweitung des Einsatzes im Irak",
+    "TITEL": "Pläne der Bundesregierung zur Ausweitung des Einsatzes der Bundeswehr  im Irak",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/784",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900784.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/784",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900784.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1087",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901087.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -24,30 +32,38 @@
       "Irak",
       "Militärische Ausbildung"
     ],
-    "ABSTRAKT": "Planungsstand bzgl. der Ausweitung des Bundeswehreinsatzes im Irak, Einsatzgebiete, Ausbildungsunterstützung für irakische Streitkräfte, Gründe für die Initiative \n(insgesamt 5 Einzelfragen)"
+    "ABSTRAKT": "Planungsstand bzgl. der Ausweitung des Bundeswehreinsatzes im Irak, Einsatzgebiete, Ausbildungsunterstützung für irakische Streitkräfte, Gründe für die Initiative \r\n(insgesamt 5 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/784",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900784.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Rüdiger",
-          "NACHNAME": "Lucassen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Jan Ralf",
-          "NACHNAME": "Nolte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "16.02.2018 - BT-Drucksache 19/784",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900784.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Lucassen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Jan Ralf",
+            "NACHNAME": "Nolte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "06.03.2018 - BT-Drucksache 19/1087",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901087.pdf"
+      }
+    ]
   }
 }

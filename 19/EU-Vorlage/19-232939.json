@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Unterrichtung durch die Bundesregierung gemäß § 7 Absatz 1 EUZBBG (GASP/GSVP)\nSanktionen: Belarus\n(Anlage 2 zur 41. Indikativen Vorschau vom 12. Januar 2018) \nEuB-BReg 2/2018",
+    "TITEL": "Unterrichtung durch die Bundesregierung gemäß § 7 Absatz 1 EUZBBG (GASP/GSVP)\r\nSanktionen: Belarus\r\n(Anlage 2 zur 41. Indikativen Vorschau vom 12. Januar 2018) \r\nEuB-BReg 2/2018",
     "INITIATIVE": "Bundestag",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -14,30 +14,46 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901053.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/27",
+      "PLPR_SEITEN": "2552C - 2552D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2552"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "02.03.2018 - BT-Drucksache 19/1053, Nr. A.2",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901053.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.03.2018 - BT-Drucksache 19/1053, Nr. A.2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901053.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "20.04.2018 - BT-Plenarprotokoll 19/27, S. 2552C - 2552D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2552",
+        "VP_ABSTRAKT": "S. 2552C - Kenntnisnahme"
+      }
+    ]
   }
 }

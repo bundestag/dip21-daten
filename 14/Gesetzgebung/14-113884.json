@@ -16,20 +16,17 @@
       {
         "DRS_HERAUSGEBER": "BR",
         "DRS_NUMMER": "54/01",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D54+01.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/5655",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/056/1405655.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/5981",
-        "DRS_TYP": "Beschlussempfehlung und Bericht",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/059/1405981.pdf"
+        "DRS_TYP": "Beschlussempfehlung und Bericht"
       }
     ],
     "PLENUM": [
@@ -99,7 +96,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
         "FUNDSTELLE": "26.01.2001 - BR-Drucksache 54/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D54+01.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
@@ -117,7 +113,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Ausschuss für Innere Angelegenheiten, Rechtsausschuss, Wirtschaftsausschuss ",
         "FUNDSTELLE": "27.02.2001 - BR-Drucksache 54/1/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D54+1+01.pdf",
         "VP_ABSTRAKT": "Änderungsvorschläge - InnenA: zus. Stellungnahme - RechtsA: zus. Feststellung der Zustimmungsbedürftigkeit"
       },
       {
@@ -125,6 +120,25 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "09.03.2001 - BR-Plenarprotokoll 760, S. 105A - 106C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/760.pdf#P.105",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karin",
+            "NACHNAME": "Schubert",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Sachsen-Anhalt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "105A-106B"
+          },
+          {
+            "VORNAME": "Fritz Rudolf",
+            "NACHNAME": "Körper",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "120A-121C/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "106C",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge (u.a. Feststellung der Zustimmungsbedürftigkeit) - gem. Art. 76 Abs. 2 GG"
@@ -138,14 +152,56 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern (federführend)",
-        "FUNDSTELLE": "26.03.2001 - BT-Drucksache 14/5655\nAnl. Stellungnahme BR u.GegÄuß BRg",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/056/1405655.pdf"
+        "FUNDSTELLE": "26.03.2001 - BT-Drucksache 14/5655\nAnl. Stellungnahme BR u.GegÄuß BRg"
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "29.03.2001 - BT-Plenarprotokoll 14/161, S. 15788C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14161.pdf#P.15788",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Zeitlmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "15793B-15794A/Anl"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "15794A-D/Anl"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Edzard",
+            "NACHNAME": "Schmidt-Jortzig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "15795A-C/Anl"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "15795C-15796C"
+          },
+          {
+            "VORNAME": "Fritz Rudolf",
+            "NACHNAME": "Körper",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "15796C-15797D/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "15788C",
           "BESCHLUSSTENOR": "Überweisung"
@@ -167,91 +223,407 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Innenausschuss ",
         "FUNDSTELLE": "09.05.2001 - BT-Drucksache 14/5981",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/059/1405981.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Cem",
+            "NACHNAME": "Özdemir",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Max",
+            "NACHNAME": "Stadler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Dieter",
+            "NACHNAME": "Wiefelspütz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Zeitlmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/5997",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/059/1405997.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/5998",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/059/1405998.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/5999",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/059/1405999.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6000",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406000.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6001",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406001.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6002",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406002.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6003",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406003.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6004",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406004.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6005",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406005.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6006",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406006.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6007",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406007.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6008",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406008.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.05.2001 - BT-Drucksache 14/6009",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406009.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "11.05.2001 - BT-Plenarprotokoll 14/168, S. 16476D - 16485B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14168.pdf#P.16476",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Fritz Rudolf",
+            "NACHNAME": "Körper",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16477A-16478B"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "16477D"
+          },
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Marschewski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16478B-16480A"
+          },
+          {
+            "VORNAME": "Dieter",
+            "NACHNAME": "Wiefelspütz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "16479A-B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Max",
+            "NACHNAME": "Stadler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "16479C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16480B-16481A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Max",
+            "NACHNAME": "Stadler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16481B-16482C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "16481B-C"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16482C-16483B"
+          },
+          {
+            "VORNAME": "Dieter",
+            "NACHNAME": "Wiefelspütz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16483B-16484B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "16485A",
           "BESCHLUSSTENOR": "Annahme Drs 14/5655 idF Drs 14/5981; Ablehnung ÄndAntr Drs 14/5997 - 14/6009"
@@ -271,7 +643,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "11.05.2001 - BR-Drucksache 351/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D351+01.pdf",
         "ZUWEISUNG": {
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
@@ -281,7 +652,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Ausschuss für Innere Angelegenheiten ",
         "FUNDSTELLE": "21.05.2001 - BR-Drucksache 351/1/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D351+1+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT; Feststellung der Zustimmungsbedürftigkeit"
       },
       {
@@ -289,6 +659,25 @@
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "01.06.2001 - BR-Plenarprotokoll 764, S. 260D - 261A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/764.pdf#P.260",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stanislaw",
+            "NACHNAME": "Tillich",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Bundes- u. Europaangel, BevollmBund",
+            "BUNDESLAND": "Sachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "273B-C/Anl"
+          },
+          {
+            "VORNAME": "Fritz Rudolf",
+            "NACHNAME": "Körper",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "273C-274A/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "261A",
           "BESCHLUSSTENOR": "Feststellung der Zustimmungsbedürftigkeit; Zustimmung - gem. Art. 84 Abs. 1 GG"

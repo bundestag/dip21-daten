@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Geschäftsordnung",
-    "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\nhier: Ausschussöffentlichkeit",
+    "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\r\nhier: Ausschussöffentlichkeit",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,37 +14,76 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900965.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/23",
+      "PLPR_SEITEN": "1996A - 1996B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19023.pdf#P.1996"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
     "SCHLAGWORT": [
+      "Ausschussprotokoll",
+      "Geheimschutzordnung des Deutschen Bundestages",
       "Geschäftsordnung des Deutschen Bundestages",
+      "Geschäftsordnung des Deutschen Bundestages § 107 - Immunitätsangelegenheiten",
+      "Geschäftsordnung des Deutschen Bundestages § 110 - Rechte des Petitionsausschusses",
       "Geschäftsordnung des Deutschen Bundestages § 69 - Nichtöffentliche Ausschusssitzungen",
-      "Parlamentsausschuss"
+      "Geschäftsordnung des Deutschen Bundestages § 70 - Öffentliche Anhörungssitzungen",
+      "Geschäftsordnung des Deutschen Bundestages § 73 - Ausschussprotokolle",
+      "Internet",
+      "Parlamentarische Anhörung",
+      "Parlamentarische Beratung",
+      "Parlamentsausschuss",
+      "Parlamentsmaterialien"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Stärkung des demokratischen Öffentlichkeitsprinzips durch Umkehrung des Regel-Ausnahme-Verhältnisses betr. grundsätzliche Öffentlichkeit der Ausschussberatungen, Regelungen zu Echtzeitübertragung (Livestream), schutzbedürftigen Interessen und Geheimhaltungsbedürfnissen sowie Veröffentlichung der Ausschussprotokolle und Ausschussdrucksachen; \r\nÄnderung §§ 69, 70, 73, 107 und 110 Geschäftsordnung des Deutschen Bundestages sowie § 2 Anlage 3 (Geheimschutzordnung des Deutschen Bundestages) zur Geschäftsordnung \r\n \r\nBezug: Der Antrag ist textidentisch mit dem Antrag der Fraktion DIE LINKE auf BT-Drs 19/10 \r\nWiedervorlage des Antrags auf BR-DRs 18/3045"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/965",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900965.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Britta",
-          "NACHNAME": "Haßelmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "27.02.2018 - BT-Drucksache 19/965",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900965.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.03.2018 - BT-Plenarprotokoll 19/23, S. 1996A - 1996B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19023.pdf#P.1996",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "1996A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/965"
         },
-        {
-          "VORNAME": "Luise",
-          "NACHNAME": "Amtsberg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Petitionsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -22,13 +22,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900080.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/12",
-      "PLPR_SEITEN": "937A - 947C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.937"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/12",
+        "PLPR_SEITEN": "937A - 947C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19012.pdf#P.937"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "70D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.70"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/27",
+        "PLPR_SEITEN": "2552A - 2552B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2552"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -214,6 +230,31 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.03.2018 - BR-Plenarprotokoll 966, TOP 10a, S. 70D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.70",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "70D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "716/17",
+          "GRUNDLAGE": "§ 6 Abs. 1 SachvRatG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.03.2018 - BR-Drucksache 716/17(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0716-17B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "20.04.2018 - BT-Plenarprotokoll 19/27, S. 2552A - 2552B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2552",
+        "VP_ABSTRAKT": "S. 2552A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

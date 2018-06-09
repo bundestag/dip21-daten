@@ -140,6 +140,24 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "26.09.1986 - BR-Plenarprotokoll 568, S. 518A - 518D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/568.pdf#P.518",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Vogt",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "518A-B"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Vogt",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "533D-535B/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "518D",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge"
@@ -185,11 +203,11 @@
             "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
           },
           {
-            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
-          },
-          {
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
             "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
           },
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft"
@@ -254,7 +272,24 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
         "FUNDSTELLE": "12.11.1986 - BT-Drucksache 10/6439",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006439.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006439.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Sieler",
+            "WAHLKREISZUSATZ": "Amberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hans-Gerd",
+            "NACHNAME": "Strube",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
@@ -266,13 +301,84 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Bericht,  Urheber : Ausschuss für Arbeit und Sozialordnung ",
         "FUNDSTELLE": "13.11.1986 - BT-Drucksache 10/6462",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006462.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006462.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kurt",
+            "NACHNAME": "Faltlhauser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gunter",
+            "NACHNAME": "Huonker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "14.11.1986 - BT-Plenarprotokoll 10/247, S. 19159A - 19169C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10247.pdf#P.19159",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kurt",
+            "NACHNAME": "Faltlhauser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung",
+            "SEITE": "19159C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kurt",
+            "NACHNAME": "Faltlhauser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19159D-19161D"
+          },
+          {
+            "VORNAME": "Gunter",
+            "NACHNAME": "Huonker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19161D-19164B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hermann Otto",
+            "NACHNAME": "Solms",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19164B-19165C"
+          },
+          {
+            "VORNAME": "Axel",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19165C-19167A"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Vogt",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19167A-19168C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19168D",
           "BESCHLUSSTENOR": "Annahme Drs 10/5981 idF Drs 10/6438; Berichtigung zu Drs 10/6438 S.19159C; Ablehnung Drs 10/6440"
@@ -298,7 +404,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "28.11.1986 - BR-Drucksache 575/86",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1986/D575+86.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
@@ -326,6 +431,43 @@
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "19.12.1986 - BR-Plenarprotokoll 572, S. 741A - 741B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/572.pdf#P.741",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Willi",
+            "NACHNAME": "Görlach",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Landw u. BevollmBund",
+            "BUNDESLAND": "Hessen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "787D-788D/Anl"
+          },
+          {
+            "VORNAME": "Heinrich",
+            "NACHNAME": "Jürgens",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Bundesangel",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "789A-D/Anl"
+          },
+          {
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Weiser",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Ernährung",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "790A-B/Anl"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Vogt",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "790B-791B/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "741B",
           "BESCHLUSSTENOR": "Zustimmung - gem.Art.105 Abs.3 GG"

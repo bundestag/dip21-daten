@@ -73,9 +73,9 @@
     "VERKUENDUNG": "Gesetz vom 06.10.2010 - Bundesgesetzblatt Teil II 2010 Nr.2713.10.2010 S. 1110 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl210s1110.pdf']",
     "INKRAFTTRETEN": "14.10.2010 (weiteres siehe im BGBl)",
     "SACHGEBIET": [
-      "Wirtschaft",
+      "Medien, Kommunikation und Informationstechnik",
       "Verkehr",
-      "Medien, Kommunikation und Informationstechnik"
+      "Wirtschaft"
     ],
     "SCHLAGWORT": [
       "Internationale Organisation für mobile Satellitenkommunikation",
@@ -85,7 +85,7 @@
       "Schiffssicherheit",
       "Seefunk"
     ],
-    "ABSTRAKT": "Zustimmung zu den am 2. Oktober 2008 in Valletta von der Versammlung der Vertragsparteien des Übereinkommens beschlossenen Änderungen des Übereinkommens vom 3. September 1976 über die Internationale Organisation für mobile Satellitenkommunikation (IMSO): IMSO-Mandatserweiterung, Schaffung zusätzlicher Instrumente zum Schutz der Meeresumwelt und des menschlichen Lebens auf See, IMSO-Koordinatoraufgaben für das LRIT-Routenverfolgungssystem von Schiffen; \nBekanntmachungsermächtigung \n \nEs sind keine finanziellen Auswirkungen zu erwarten."
+    "ABSTRAKT": "Zustimmung zu den am 2. Oktober 2008 in Valletta von der Versammlung der Vertragsparteien des Übereinkommens beschlossenen Änderungen des Übereinkommens vom 3. September 1976 über die Internationale Organisation für mobile Satellitenkommunikation (IMSO): IMSO-Mandatserweiterung, Schaffung zusätzlicher Instrumente zum Schutz der Meeresumwelt und des menschlichen Lebens auf See, IMSO-Koordinatoraufgaben für das LRIT-Routenverfolgungssystem von Schiffen; \r\nBekanntmachungsermächtigung \r\n \r\nEs sind keine finanziellen Auswirkungen zu erwarten."
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -162,13 +162,18 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "3807A",
           "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "17/1295",
-          "ABSTIMMUNG_BEMERKUNG": "Mitberatung des Finanzausschusses entfällt"
+          "BEZUGSDOKUMENT": "17/1295"
         },
-        "ZUWEISUNG": {
-          "AUSSCHUSS_KLARTEXT": "Innenausschuss",
-          "UEBERWEISUNGSART": "nachträgliche Überweisung"
-        }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "UEBERWEISUNGSART": "Rücküberweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",

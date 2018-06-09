@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Bericht der Kommission an das Europäische Parlament, den Rat und den Europäischen Rechnungshof über die Verwaltung des Garantiefonds des Europäischen Fonds für Strategische Investitionen im Jahr 2015 \nKOM(2016) 353 endg.; Ratsdok. 9728/16",
+    "TITEL": "Bericht der Kommission an das Europäische Parlament, den Rat und den Europäischen Rechnungshof über die Verwaltung des Garantiefonds des Europäischen Fonds für Strategische Investitionen im Jahr 2015 \r\nKOM(2016) 353 endg.; Ratsdok. 9728/16",
     "INITIATIVE": "Bundestag",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -14,49 +14,33 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/089/1808936.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/8",
-      "PLPR_SEITEN": "683C - 684D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-    },
     "EU_DOK_NR": "Ratsdok. 9728/16, Kom. (2016) 353 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-        "FUNDSTELLE": "24.06.2016 - BT-Drucksache 18/8936, Nr. A.27",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/089/1808936.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Mitteilung des federführenden Ausschusses",
-        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
-        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+      "FUNDSTELLE": "24.06.2016 - BT-Drucksache 18/8936, Nr. A.27",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/089/1808936.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+        }
+      ]
+    }
   }
 }

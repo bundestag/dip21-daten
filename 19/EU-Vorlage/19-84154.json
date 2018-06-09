@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über einen Rahmen für den freien Verkehr nicht personenbezogener Daten in der Europäischen Union\nKOM(2017) 495 endg.; Ratsdok. 12244/17",
+    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über einen Rahmen für den freien Verkehr nicht personenbezogener Daten in der Europäischen Union\r\nKOM(2017) 495 endg.; Ratsdok. 12244/17",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "962",
-      "PLPR_SEITEN": "447D - 448A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/962.pdf#P.447"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "962",
+        "PLPR_SEITEN": "447D - 448A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/962.pdf#P.447"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/21",
+        "PLPR_SEITEN": "1793A - 1793C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "123C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.123"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 12244/17, Kom. (2017) 495 endg.",
     "SCHLAGWORT": [
       "Datenverarbeitung",
@@ -121,6 +137,38 @@
             "AUSSCHUSS_KLARTEXT": "Innenausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.03.2018 - BT-Plenarprotokoll 19/21, S. 1793A - 1793C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19021.pdf#P.1793",
+        "VP_ABSTRAKT": "S. 1793A - Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "18.04.2018 - BR-Drucksache 118/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0118-18.pdf",
+        "VP_ABSTRAKT": "EU, R: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, TOP 34, S. 123C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.123",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "123C",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "678/17",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.04.2018 - BR-Drucksache 118/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0118-18B.pdf"
       }
     ]
   }

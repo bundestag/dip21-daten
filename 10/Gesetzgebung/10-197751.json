@@ -13,8 +13,7 @@
       {
         "DRS_HERAUSGEBER": "BR",
         "DRS_NUMMER": "350/86",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1986/D350+86.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BT",
@@ -362,7 +361,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
         "FUNDSTELLE": "15.08.1986 - BR-Drucksache 350/86",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1986/D350+86.pdf",
         "ZUWEISUNG": {
           "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
@@ -505,6 +503,45 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "26.09.1986 - BR-Plenarprotokoll 568, S. 479D - 489A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/568.pdf#P.479",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Voss",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "479D-482B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Posser",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Finanz",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "482C-485D"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Kasper",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Finanz",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "486A-488A"
+          },
+          {
+            "VORNAME": "Peter M.",
+            "NACHNAME": "Schmidhuber",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Bundesangel",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "523A/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "489A",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge"
@@ -525,25 +562,877 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "09.09.1986 - BT-Plenarprotokoll 10/227, S. 17580A - 17656C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10227.pdf#P.17580"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10227.pdf#P.17580",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Stoltenberg",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17580B-17594C,17620D-17628B,17895A-17902C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Apel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17594D-17608B,17625C-D"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Carstens",
+            "WAHLKREISZUSATZ": "Emstek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17608C-17612C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Apel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17610C-D,17626B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17612C-17616B,17824B-17827A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17616C-17620D"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17625A-B,17655D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Spöri",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17628B-17631D"
+          },
+          {
+            "VORNAME": "Claus",
+            "NACHNAME": "Jäger",
+            "WAHLKREISZUSATZ": "Wangen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17630B-C"
+          },
+          {
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Spilker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17631D-17635A"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17635A-17637C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Otto",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17637D-17644A"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Löffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17640A"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Bindig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17643B-C"
+          },
+          {
+            "VORNAME": "Heide",
+            "NACHNAME": "Simonis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17644B-17646C"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Echternach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17646D-17649D"
+          },
+          {
+            "VORNAME": "Eckart",
+            "NACHNAME": "Kuhlwein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17648C-D,17652D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludolf-Georg",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Wartenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17649D-17652A"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Roth",
+            "WAHLKREISZUSATZ": "Gießen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17652A-17654A"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Kraus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17654A-17656C"
+          },
+          {
+            "VORNAME": "Egon",
+            "NACHNAME": "Lutz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17655A,17769D-17770A"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "10.09.1986 - BT-Plenarprotokoll 10/228, S. 17659A - 17751D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10228.pdf#P.17659"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10228.pdf#P.17659",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alfred",
+            "NACHNAME": "Dregger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17659B-17668B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Spöri",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17665C,17898D,17899D"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Hamburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17668B-17685A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Otto",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17679D-17680A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Martin",
+            "NACHNAME": "Bangemann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17685B-17692A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Hauff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17687B,C,17820C-D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Kohl",
+            "FUNKTION": "Bundeskanzl.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17692B-17703A"
+          },
+          {
+            "VORNAME": "Hannegret",
+            "NACHNAME": "Hönes",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17703A-17707A"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17705B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Theodor",
+            "NACHNAME": "Waigel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17707A-17715B"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Hamburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17708D,17709A-B,C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "WAHLKREISZUSATZ": "Bonn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17715B-17720D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Barzel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17721A-17727C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "WAHLKREISZUSATZ": "Bonn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17726A"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17727D-17731C"
+          },
+          {
+            "VORNAME": "Annemarie",
+            "NACHNAME": "Borgmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17731D-17734A"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17732A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17734A-17738C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17735C,17822D,17848A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Wörner",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17738C-17742A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17739B-C,17868A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Gansel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17742A-17745B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Wörner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17743C-D"
+          },
+          {
+            "VORNAME": "Jürgen W.",
+            "NACHNAME": "Möllemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17744A"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Seiler-Albring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17745B-17747D,17827A-17830B"
+          },
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Lange",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17747D-17751A"
+          },
+          {
+            "VORNAME": "Lieselotte",
+            "NACHNAME": "Berger",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17749C"
+          },
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Horn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17750A"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Bohl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17750B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Andreas",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Bülow",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "17751C-D"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "11.09.1986 - BT-Plenarprotokoll 10/229, S. 17757C - 17860A",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10229.pdf#P.17757"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10229.pdf#P.17757",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Dohnanyi",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "SenPräs u. 1. Bgm",
+            "BUNDESLAND": "Hamburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17757D-17762C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Friedmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17762C-17766B"
+          },
+          {
+            "VORNAME": "Eberhard",
+            "NACHNAME": "Bueb",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17766B-17768B"
+          },
+          {
+            "VORNAME": "Dieter-Julius",
+            "NACHNAME": "Cronenberg",
+            "WAHLKREISZUSATZ": "Arnsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17768B-17772B"
+          },
+          {
+            "VORNAME": "Hans-Eberhard",
+            "NACHNAME": "Urbaniak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17770B-C"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Sieler",
+            "WAHLKREISZUSATZ": "Amberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17772B-17774A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Blüm",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17774A-17782D"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17776A"
+          },
+          {
+            "VORNAME": "Eberhard",
+            "NACHNAME": "Bueb",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17777D,17781A,17785C,17787D"
+          },
+          {
+            "VORNAME": "Anke",
+            "NACHNAME": "Fuchs",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17783A-17788C"
+          },
+          {
+            "VORNAME": "Dieter-Julius",
+            "NACHNAME": "Cronenberg",
+            "WAHLKREISZUSATZ": "Arnsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17783C,17786D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Irmgard",
+            "NACHNAME": "Adam-Schwaetzer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17788D-17792C"
+          },
+          {
+            "VORNAME": "Eugen",
+            "NACHNAME": "Glombig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17791D,17793A-B"
+          },
+          {
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Jagoda",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17792C-17797A"
+          },
+          {
+            "VORNAME": "Anke",
+            "NACHNAME": "Fuchs",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17794A"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Wieczorek",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17797A-17799C"
+          },
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Seehofer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17799C-17804A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Walter",
+            "NACHNAME": "Wallmann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17804A-17812B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Hauff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17812B-17819C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Burkhard",
+            "NACHNAME": "Hirsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17813D"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Boroffka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17815B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Paul",
+            "NACHNAME": "Laufs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17819D-17824A"
+          },
+          {
+            "VORNAME": "Harald B.",
+            "NACHNAME": "Schäfer",
+            "WAHLKREISZUSATZ": "Offenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17821D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Zimmermann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17830B-17834D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Willfried",
+            "NACHNAME": "Penner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17834D-17840A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl",
+            "NACHNAME": "Miltner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17840B-17843C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NAMENSZUSATZ": "de",
+            "NACHNAME": "With",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17841C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17843D-17846D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Burkhard",
+            "NACHNAME": "Hirsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17846D-17848D"
+          },
+          {
+            "VORNAME": "Werner",
+            "NACHNAME": "Broll",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17848D-17851B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Willfried",
+            "NACHNAME": "Penner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17850D-17851A"
+          },
+          {
+            "VORNAME": "Harald B.",
+            "NACHNAME": "Schäfer",
+            "WAHLKREISZUSATZ": "Offenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17851B-17853D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Paul",
+            "NACHNAME": "Laufs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17852D-17853A"
+          },
+          {
+            "VORNAME": "Eckart",
+            "NACHNAME": "Kuhlwein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17853D-17855C"
+          },
+          {
+            "VORNAME": "Hans A.",
+            "NACHNAME": "Engelhard",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17855C-17857D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alfred",
+            "NACHNAME": "Emmerlich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17858A-17860A"
+          },
+          {
+            "VORNAME": "Benno",
+            "NACHNAME": "Erhard",
+            "WAHLKREISZUSATZ": "Bad Schwalbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17859C"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "12.09.1986 - BT-Plenarprotokoll 10/230, S. 17863B - 17902D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10230.pdf#P.17863",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rita",
+            "NACHNAME": "Süssmuth",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Jugend, Familie, Frauen und Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17863B-17872A"
+          },
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Nürnberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17872A-17876A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Eimer",
+            "WAHLKREISZUSATZ": "Fürth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17876B-17879B"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Mann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17878C-D"
+          },
+          {
+            "VORNAME": "Marita",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17879B-17883A"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Kroll-Schlüter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "17880B"
+          },
+          {
+            "VORNAME": "Kurt J.",
+            "NACHNAME": "Rossmanith",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17883A-17884D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans-Jochen",
+            "NACHNAME": "Vogel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17884D-17893D"
+          },
+          {
+            "VORNAME": "Hans-Günter",
+            "NACHNAME": "Hoppe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "17894A-17895A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "17902D",
           "BESCHLUSSTENOR": "Überweisung"
@@ -582,7 +1471,25 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Bericht,  Urheber : Haushaltsausschuss ",
         "FUNDSTELLE": "13.11.1986 - BT-Drucksache 10/6330",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/063/1006330.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/063/1006330.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Carstens",
+            "WAHLKREISZUSATZ": "Emstek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Roth",
+            "WAHLKREISZUSATZ": "Gießen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
@@ -603,6 +1510,53 @@
         "URHEBER": "Fortsetzung: 2. Beratung",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19421B - 19557D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19421",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Löffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19549D-19551C"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Roth",
+            "WAHLKREISZUSATZ": "Gießen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19551D-19553C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19553C-19555B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19555B-19557C"
+          },
+          {
+            "VORNAME": "Rudi",
+            "NACHNAME": "Walther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19556D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19557D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6329; Mündliche Berichtigung der Drs 10/6330"
@@ -646,6 +1600,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6505",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006505.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 02 01: Streichung der Mittel für den Anschluß des Bundestages an ISDN"
       },
       {
@@ -696,6 +1668,179 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "26.11.1986 - BT-Plenarprotokoll 10/249, S. 19281B - 19357C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10249.pdf#P.19281",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans-Jochen",
+            "NACHNAME": "Vogel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19281B-19292B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Theodor",
+            "NACHNAME": "Waigel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19292B-19300C"
+          },
+          {
+            "VORNAME": "Hannegret",
+            "NACHNAME": "Hönes",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19300D-19304A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Martin",
+            "NACHNAME": "Bangemann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19304A-19310A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Kohl",
+            "FUNKTION": "Bundeskanzl.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19310A-19322D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "WAHLKREISZUSATZ": "Bonn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19323A-19326A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alfred",
+            "NACHNAME": "Dregger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19326A-19332A"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19328B,C"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Reimann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19332B-19334D"
+          },
+          {
+            "VORNAME": "Josef",
+            "NACHNAME": "Ertl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19334D-19340B"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19340B-19342C"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Gansel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19342D-19347C"
+          },
+          {
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Reddemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19345C,D"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19347D-19351A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Schmude",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19348B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19351A-19352B"
+          },
+          {
+            "VORNAME": "Karsten D.",
+            "NACHNAME": "Voigt",
+            "WAHLKREISZUSATZ": "Frankfurt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19352B-19354A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Theodor",
+            "NACHNAME": "Waigel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19354B-D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans-Jochen",
+            "NACHNAME": "Vogel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19354D-19355B"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19355B-C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19357C",
           "BESCHLUSSTENOR": "Annahme in namentlicher Abstimmung Drs 10/6304,10/6331; Ablehnung Drs 10/6558"
@@ -714,6 +1859,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6506",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006506.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Streichung des Titels 529 02 in Kapitel 05 02 - Geheime Ausgaben"
       },
       {
@@ -721,6 +1884,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6507",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006507.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Mittelansätze in Kapitel 05 02 - Beitrag zum Hilfsfonds des Hohen Flüchtlingskommissars der Vereinten Nationen (UNHCR) - von 1 Mio DM auf 9 Mio DM"
       },
       {
@@ -728,6 +1909,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6508",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006508.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Streichung des Titels 686 22 in Kapitel 05 02 - NATO - Verteidigungshilfe"
       },
       {
@@ -735,6 +1934,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6509",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006509.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Streichung des Titels 686 23 in Kapitel 05 02 - Ausstattungshilfe"
       },
       {
@@ -742,6 +1959,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6510",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006510.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Streichung des Titels 686 27 in Kapitel 05 02 - Rüstungssonderhilfe"
       },
       {
@@ -756,6 +1991,85 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "26.11.1986 - BT-Plenarprotokoll 10/249, S. 19357C - 19376B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10249.pdf#P.19357",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Würtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19357D-19359A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus",
+            "NACHNAME": "Rose",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19359A-19361D"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Fischer",
+            "WAHLKREISZUSATZ": "Bad Hersfeld",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19361D-19364A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hildegard",
+            "NACHNAME": "Hamm-Brücher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19364A-19366D"
+          },
+          {
+            "VORNAME": "Dietrich",
+            "NACHNAME": "Stobbe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19366D-19369D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hildegard",
+            "NACHNAME": "Hamm-Brücher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19367C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Stercken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19370A-19372A"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19372A-19374B"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Huber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19374B-19376A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19376B",
           "BESCHLUSSTENOR": "Annahme Drs 10/6305,10/6331; Ablehnung Drs 10/6506-10/6510,10/6558"
@@ -774,6 +2088,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6511",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006511.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 06 08: Verminderung der Ansätze für Mahnschreiben um 71 000 DM, der Kosten für die Mitglieder von Fachbeiräten um 6000 DM und Streichung aller für die Volkszählung veranschlagten Mittel (26,7 Mio DM)"
       },
       {
@@ -781,6 +2113,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6512",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006512.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 06 24: Streichung der Mittel für Investitionsausgaben für die Bereitschaftspolizeien der Länder (Waffenbeschaffung)"
       },
       {
@@ -788,11 +2138,73 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "25.11.1986 - BT-Plenarprotokoll 10/248, S. 19266A - 19277D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10248.pdf#P.19266",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19266C-19268B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Erich",
+            "NACHNAME": "Riedl",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19268C-19270C"
+          },
+          {
+            "VORNAME": "Hans-Christian",
+            "NACHNAME": "Ströbele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19270C-19272D"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Seiler-Albring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19272D-19274C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wilhelm",
+            "NACHNAME": "Nöbel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19274C-19276C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Zimmermann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19276C-19277B"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19277B-D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19277D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6306,10/6331; Ablehnung Drs 10/6511,10/6512"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 06\n\n(zusammenberaten mit Einzelplan 33, Einzelplan 36)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 06\r\n\r\n(zusammenberaten mit Einzelplan 33, Einzelplan 36)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -806,11 +2218,81 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19505A - 19516A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19505",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NAMENSZUSATZ": "de",
+            "NACHNAME": "With",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19505A-19507A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Mann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19505C,19515D"
+          },
+          {
+            "VORNAME": "Carl-Detlev",
+            "NAMENSZUSATZ": "Freiherr von",
+            "NACHNAME": "Hammerstein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19507A-19508D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Mann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19508D-19510D"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Beckmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19510D-19513A"
+          },
+          {
+            "VORNAME": "Hans A.",
+            "NACHNAME": "Engelhard",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19513A-19515D"
+          },
+          {
+            "VORNAME": "Benno",
+            "NACHNAME": "Erhard",
+            "WAHLKREISZUSATZ": "Bad Schwalbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19525B-D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Mann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19535D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19516A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6307,10/6331"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 07\n\n(zusammenberaten mit Einzelplan 19)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 07\r\n\r\n(zusammenberaten mit Einzelplan 19)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -824,6 +2306,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6513",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006513.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 08 02: Streichung der Mittel für die Jahresversammlung des IWF und der Weltbankgruppe 1988 in Berlin"
       },
       {
@@ -831,6 +2331,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6514",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006514.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 08 06: Erhöhung der Kapitalzuführung an Unternehmen des industriellen Bundesvermögens um 3 Mrd DM aus Privatisierungserlösen"
       },
       {
@@ -838,6 +2356,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6515",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006515.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 08 07: Erhöhung der Ausgaben für die bundeseigenen Forsten um 50 Mio DM, insbesondere für Wiederaufforstung (ökologisches Umbauprogramm)"
       },
       {
@@ -845,11 +2381,159 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "25.11.1986 - BT-Plenarprotokoll 10/248, S. 19177B - 19225A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10248.pdf#P.19177",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Apel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19177D-19186A"
+          },
+          {
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Jagoda",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19184D"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Carstens",
+            "WAHLKREISZUSATZ": "Emstek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19186A-19192A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Apel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19187C-D,19203A,19206C,19215D"
+          },
+          {
+            "VORNAME": "Axel",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19192A-19196D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19196D-19200D"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19198C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Stoltenberg",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19200D-19207D"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19205A-B"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Wieczorek",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19208A-19214A"
+          },
+          {
+            "VORNAME": "Hans H.",
+            "NACHNAME": "Gattermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19214A-19216C"
+          },
+          {
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Reddemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19216A"
+          },
+          {
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Spilker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19216C-19219D"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Esters",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19219D-19220C"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Roth",
+            "WAHLKREISZUSATZ": "Gießen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19220C-19222D"
+          },
+          {
+            "VORNAME": "Dietrich",
+            "NACHNAME": "Austermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19222D-19224A"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Wieczorek",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19224D-19225A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19224C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6308,10/6331; Ablehnung Drs 10/6513-10/6515"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 08\n\n(zusammenberaten mit Einzelplan 20, Einzelplan 32, Einzelplan 60)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 08\r\n\r\n(zusammenberaten mit Einzelplan 20, Einzelplan 32, Einzelplan 60)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -863,6 +2547,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6516",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006516.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Streichung der mit 25 Mio DM angesetzten Zuschüsse zum Bau großtechnischer Kohleveredelungsanlagen"
       },
       {
@@ -870,6 +2572,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6517",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006517.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines neuen Titels \"Zuschüsse für Umstrukturierungsmaßnahmen in der Werftindustrie\" mit 150 Mio DM (ökologisches Umbauprogramm)"
       },
       {
@@ -877,6 +2597,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6518",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006518.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Aufnahme eines neuen Titels mit 3 Mrd DM zur Förderung von Energieeinsparungen und der Nutzung regenerativer Energiequellen"
       },
       {
@@ -884,6 +2622,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6519",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006519.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines mit 250 Mio DM angesetzten neuen Titels für den Ausbau der Energieberatung und zur Schaffung einer Energiespar-Agentur (ökologisches Umbauprogramm)"
       },
       {
@@ -891,6 +2647,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6520",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006520.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Aufnahme eines neuen, mit 200 Mio DM ausgestatteten Demonstrationsprogramms zur wärmetechnischen Sanierung öffentlicher Gebäude (ökologisches Umbauprogramm)"
       },
       {
@@ -898,6 +2672,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6521",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006521.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Erhöhung des Titels zur Abgeltung von Aufträgen an wirtschaftswissenschaftliche Forschungsinstitute von 11,37 Mio DM um 5 Mio DM auf 16,37 Mio DM zugunsten von Öko-Instituten"
       },
       {
@@ -905,6 +2697,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6522",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006522.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines neuen, mit 2 Mio DM ausgestatteten Titels zur Förderung von Beratungsmaßnahmen bei Gründung selbstverwalteter Betriebe (ökologisches Umbauprogramm)"
       },
       {
@@ -912,6 +2722,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6523",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006523.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines neuen Titels zur Förderung der Gründung selbstverwalteter Betriebe mit einem Baransatz von 12,5 Mio DM und einer Verpflichtungsermächtigung von 42 Mio DM (ökologisches Umbauprogramm)"
       },
       {
@@ -919,6 +2747,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "22.11.1986 - BT-Drucksache 10/6524",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006524.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Erhöhung des Ansatzes für Maßnahmen zur Unterrichtung und Vertretung der Verbraucher von 7,3 Mio DM auf 10 Mio DM, davon 4 Mio DM vorrangig zur Ernährungsberatung (ökologisches Umbauprogramm)"
       },
       {
@@ -926,6 +2772,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6525",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006525.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines mit 1,3 Mio DM ausgestatteten neuen Titels als Zuschuß an die Verbraucher Initiative e.V. (ökologisches Umbauprogramm)"
       },
       {
@@ -933,6 +2797,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6526",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006526.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines mit 3 Mio DM ausgestatteten neuen Titels zur Förderung der Verbraucheraufklärung durch unabhängige Verbände und Initiativen (ökologisches Umbauprogramm)"
       },
       {
@@ -940,6 +2822,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6527",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006527.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 02: Ausbringung eines mit 1 Mio DM ausgestatteten neuen Titels für die Verbraucheraufklärung zur Vermeidung von Strahlenschäden (ökologisches Umbauprogramm)"
       },
       {
@@ -947,6 +2847,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6528",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006528.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 09 03: Aufnahme eines mit 200 Mio DM ausgestatteten neuen Titels zur Konversion der Chemieindustrie (ökologisches Umbauprogramm)"
       },
       {
@@ -954,6 +2872,121 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "25.11.1986 - BT-Plenarprotokoll 10/248, S. 19225B - 19245B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10248.pdf#P.19225",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Roth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19225B-19229C"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Glos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19229C-19233B"
+          },
+          {
+            "VORNAME": "Dieter-Julius",
+            "NACHNAME": "Cronenberg",
+            "WAHLKREISZUSATZ": "Arnsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19231B"
+          },
+          {
+            "VORNAME": "Willi",
+            "NACHNAME": "Tatge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19233B-19234D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Otto",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19234D-19237B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Erich",
+            "NACHNAME": "Riedl",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19235D-19236A"
+          },
+          {
+            "VORNAME": "Heide",
+            "NACHNAME": "Simonis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19237C-19239C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Lammert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19238B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Martin",
+            "NACHNAME": "Bangemann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19239C-19242D"
+          },
+          {
+            "VORNAME": "Günther",
+            "NACHNAME": "Tietjen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19241D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Uwe",
+            "NACHNAME": "Jens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19242C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gero",
+            "NACHNAME": "Pfennig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19243A-19244C"
+          },
+          {
+            "VORNAME": "Heide",
+            "NACHNAME": "Simonis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19244C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19245B",
           "BESCHLUSSTENOR": "Annahme Drs 10/6309,10/6331; Ablehnung Drs 10/6516-6528"
@@ -972,6 +3005,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6483",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006483.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 10 02: Aufnahme eines Forschungsprojekts \"Langfristige gesundheitliche Auswirkungen radioaktiver Elemente in der Nahrung\" mit einem Ansatz von 150.000 DM in die Forschungsaufträge außerhalb der Bundesverwaltung; Reduzierung des Ansatzes für Forschungs- und Entwicklungsaufträge auf dem Gebiet der Produktions- und Verwendungsalternativen um 640.000 DM auf 2,26 Mio DM sowie des Ansatzes zur Förderung von Modellvorhaben um 230.500 DM auf 819.500 DM (ökologisches Umbauprogramm)"
       },
       {
@@ -979,6 +3029,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6484",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006484.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 10 02: Einrichtung eines neuen, mit 1,15 Mrd DM ausgestatteten Titels \"Sofortprogramm zur Existenzsicherung\", davon 500 Mio DM für ein Entschuldungsprogramm für unverschuldet in Not geratene klein- und mittelbäuerliche Betriebe, 500 Mio DM zur Existenzsicherung von Betrieben mit unterdurchschnittlichen Einkommen und 150 Mio DM zur Umstellung auf ökologische Landbewirtschaftung (ökologisches Umbauprogramm)"
       },
       {
@@ -986,6 +3053,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6485",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006485.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 10 03: Streichung der Verpflichtungsermächtigung über 900 Mio DM beim Bundesanteil der Gemeinschaftsaufgabe \"Verbesserung der Agrarstruktur und des Küstenschutzes\" und Verwendung der Mittel zum Schutz und zur Erhaltung der Kulturlandschaft, für Bodenschutz und umweltverträglichen Küstenschutz"
       },
       {
@@ -993,6 +3077,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "26.11.1986 - BT-Drucksache 10/6567",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006567.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kapitel 10 04: Streichung der Vergütung für die Aufgabe der Milcherzeugung im Rahmen der EG-Regelung in Höhe von 55,57 Mio DM, Einbringung eines Programms zur Eindämmung der Überschüsse auf dem Milchmarkt und zur Stützung der bäuerlichen Landwirtschaft mit einem Ansatz von 250 Mio DM und Verstärkung dieser Ausgaben durch Einsparungen bei den Kostenerstattungen für Verwaltung und Vorratshaltung der Bundesanstalt für landwirtschaftliche Marktordnung"
       },
       {
@@ -1000,6 +3101,84 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19493A - 19504D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19493",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ruth",
+            "NACHNAME": "Zutt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19493B-19495C"
+          },
+          {
+            "VORNAME": "Hans Peter",
+            "NACHNAME": "Schmitz",
+            "WAHLKREISZUSATZ": "Baesweiler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19495C-19498A"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19498B-19499C"
+          },
+          {
+            "VORNAME": "Georg",
+            "NACHNAME": "Gallus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19499C-19500C"
+          },
+          {
+            "VORNAME": "Ignaz",
+            "NACHNAME": "Kiechle",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Ernährung, Landwirtschaft und Forsten",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19500D-19503A"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19501B"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Dierstorf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19501D-19502A"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Schweinfurt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19503B-19504C"
+          },
+          {
+            "VORNAME": "Karl",
+            "NACHNAME": "Eigen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19504A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19504D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6310,10/6331; Ablehnung Drs 10/6483-10/6485,10/6567"
@@ -1018,6 +3197,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6486",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006486.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 11 09: Aufstockung der Mittel für die sprachliche Förderung ausländischer Arbeitnehmer um 15 Mio DM"
       },
       {
@@ -1025,6 +3213,126 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19421C - 19445D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19421",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Eugen",
+            "NACHNAME": "Glombig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19421D-19428C"
+          },
+          {
+            "VORNAME": "Hans-Gerd",
+            "NACHNAME": "Strube",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19428D-19431C"
+          },
+          {
+            "VORNAME": "Eberhard",
+            "NACHNAME": "Bueb",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19431D-19433B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Irmgard",
+            "NACHNAME": "Adam-Schwaetzer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19433B-19435D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Blüm",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19435D-19443C"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Kirschner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19437B-C"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Reimann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19439B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Schmude",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19440C"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Westphal",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19440D"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19440D-19441A"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Link",
+            "WAHLKREISZUSATZ": "Frankfurt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19441A-B"
+          },
+          {
+            "VORNAME": "Anke",
+            "NACHNAME": "Fuchs",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19443C-19445B"
+          },
+          {
+            "VORNAME": "Dieter-Julius",
+            "NACHNAME": "Cronenberg",
+            "WAHLKREISZUSATZ": "Arnsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19445B-C"
+          },
+          {
+            "VORNAME": "Egon",
+            "NACHNAME": "Lutz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19559C-D/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19445D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6311,10/6331; Ablehnung Drs 10/6486"
@@ -1043,6 +3351,22 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6487",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006487.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 12 03: Streichung von Anpassungsmaßnahmen an der Mittelweser für das auf 2,5 m abgeladene 1350-t-Schiff in Höhe von 4,8 Mio DM, des Ausbaus der Bundeswasserstraße Saar von Saarbrücken bis zur Mosel, 14. Teilbetrag, in Höhe von 92 Mio DM, der Maßnahmen am Main in Höhe von 22 Mio DM, der Ems-Umleitung im Zusammenhang mit der Verwirklichung des Dollart-Hafenprojektes und der Beteiligung an den Bauvorhaben der Rhein-Main-Donau AG in Höhe von 122,8 Mio DM (ökologisches Umbauprogramm)"
       },
       {
@@ -1050,6 +3374,22 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6488",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006488.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 12 10: Kürzung versch. Titel betr. Aufwendungen für den Straßenbau in Höhe von insgesamt 3,7 Mrd DM (Ökologisches Umbauprogramm)"
       },
       {
@@ -1057,6 +3397,22 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6489",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006489.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Kap 12 18: Erhöhung der Investitionszuschüsse an die Deutsche Bundesbahn für Verkehrswege des öffentlichen Personennahverkehrs sowie der Zuschüsse zu Investitionen an Regionalverkehrsgesellschaften (Bahn/Post) zur Förderung von Einzelvorhaben um 680 Mio DM, keine Verwendung für U- und Stadtbahnausbauten (Ökologisches Umbauprogramm)"
       },
       {
@@ -1064,6 +3420,49 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19526A - 19535D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19526",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Purps",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19526B-19528B"
+          },
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Metz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19528B-19530A"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19530A-19531C"
+          },
+          {
+            "VORNAME": "Roland",
+            "NACHNAME": "Kohn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19531C-19533C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Werner",
+            "NACHNAME": "Dollinger",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Verkehr",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19533D-19535C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19535D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6312,10/6331; Ablehnung Drs 10/6487,10/6488; Mitteilung über Rücknahme Drs 10/6489 - 249.Sitzung S.19417B"
@@ -1082,6 +3481,81 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19536A - 19549C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19536",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rudi",
+            "NACHNAME": "Walther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19536A-19537D"
+          },
+          {
+            "VORNAME": "Karl",
+            "NACHNAME": "Deres",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19538A-19540A"
+          },
+          {
+            "VORNAME": "Heidemarie",
+            "NACHNAME": "Dann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19540B-19542A"
+          },
+          {
+            "VORNAME": "Roland",
+            "NACHNAME": "Kohn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19542A-19543D"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Paterna",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19543D-19545D"
+          },
+          {
+            "VORNAME": "Hans-Werner",
+            "NACHNAME": "Senfft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19545D-19546A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christian",
+            "NACHNAME": "Schwarz-Schilling",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für das Post- und Fernmeldewesen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19546A-19549C"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19546B-C"
+          },
+          {
+            "VORNAME": "Rudi",
+            "NACHNAME": "Walther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19547A,B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19549C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6313,10/6331"
@@ -1100,6 +3574,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6537",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006537.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in den Kapitel 14 02, 14 03 und 14 12 im Rahmen des ökologischen Umbauprogramms, Einstellung eines neuen Titels 698 03 in Kapitel 14 12 mit 100 Mio DM als Sammeltitel für die Abgeltung ökologischer Schäden"
       },
       {
@@ -1121,11 +3613,71 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "26.11.1986 - BT-Plenarprotokoll 10/249, S. 19376B - 19393D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10249.pdf#P.19376",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Brigitte",
+            "NACHNAME": "Traupe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19376D-19379B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Friedmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19379B-19383B"
+          },
+          {
+            "VORNAME": "Gert",
+            "NACHNAME": "Bastian",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19383B-19385B"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Seiler-Albring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19385B-19387D"
+          },
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Horn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19387D-19390B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Wörner",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19390B-19393B"
+          },
+          {
+            "VORNAME": "Brigitte",
+            "NACHNAME": "Traupe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19393C-D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19393D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6314,10/6331; Ablehnung Drs 10/6537,10/6559,10/6560"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 14\n\n(zusammenberaten mit Einzelplan 35)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 14\r\n\r\n(zusammenberaten mit Einzelplan 35)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1139,6 +3691,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "25.11.1986 - BT-Drucksache 10/6561",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006561.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Herbert",
+            "NACHNAME": "Rusche",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 15 04 um 4 Mio DM für Aufklärungsmaßnahmen auf dem Gebiet der AIDS-Bekämpfung"
       },
       {
@@ -1146,6 +3716,108 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19445D - 19472C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19445",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ernst",
+            "NACHNAME": "Waltemathe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19446A-19448D"
+          },
+          {
+            "VORNAME": "Kurt J.",
+            "NACHNAME": "Rossmanith",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19448D-19451C"
+          },
+          {
+            "VORNAME": "Marita",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19451D-19453B"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Männle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19453B-19455B"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Eimer",
+            "WAHLKREISZUSATZ": "Fürth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19455B-19458B"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19456D-19457A,19469C,D-19470A"
+          },
+          {
+            "VORNAME": "Herbert",
+            "NACHNAME": "Rusche",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19458B-19459B"
+          },
+          {
+            "VORNAME": "Kurt J.",
+            "NACHNAME": "Rossmanith",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19458D,19459A"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Kroll-Schlüter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19459B-19461B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19461B-19467C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Paul",
+            "NACHNAME": "Hoffacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19466C,D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rita",
+            "NACHNAME": "Süssmuth",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Jugend, Familie, Frauen und Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19467C-19472B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19472C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6315,10/6331; Ablehnung Drs 10/6561"
@@ -1164,6 +3836,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6529",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006529.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 16 02 - Untersuchungen über Grundsatzfragen und Querschnittaufgaben in Ausführung des Umweltprogramms der Bundesregierung im Rahmen des ökologischen Umbauprogramms um 500 000 DM"
       },
       {
@@ -1171,6 +3861,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6530",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006530.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 16 02 - Förderung der Forschung auf den Gebieten der Reinhaltung der Luft und der Lärmbekämpfung - in Rahmen des ökologischen Umbauprogramms um 10 Mio DM"
       },
       {
@@ -1178,6 +3886,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6531",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006531.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 16 02 - Förderung der Forschung auf den Gebieten der Wasserwirtschaft, der Abfallwirtschaft und des Bodenschutzes - im Rahmen des ökologischen Umbauprogramms um 5 Mio DM"
       },
       {
@@ -1185,6 +3911,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6532",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006532.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 16 02 - Förderung ökologischer Demonstrationsvorhaben - im Rahmen des ökologischen Umbauprogramms um 1 Mio DM"
       },
       {
@@ -1192,6 +3936,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6533",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006533.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung der Ansätze in Kapitel 16 02 - Investitionen zur Vermeidung von Umweltbelastungen - im Rahmen des ökologischen Umbauprogramms von 110 Mio DM um 3,97 Mrd DM auf 4,08 Mrd DM, Förderung konkreter Projekte zur Verbesserung von Luftqualität, Wasserqualität, Bodenschutz, Lärmschutz und Abfallminderung"
       },
       {
@@ -1199,6 +3961,24 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "20.11.1986 - BT-Drucksache 10/6534",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006534.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Streichung der Titelgruppe 01 in Kapitel 16 02 - Reaktorsicherheit und Strahlenschutz - im Rahmen des ökologischen Umbauprogramms, Verwendung der veranschlagten Mittel für die Entschädigung von Bundesbürgern für die Folgen des Reaktorunfalls von Tschernobyl"
       },
       {
@@ -1206,6 +3986,112 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19472C - 19493A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19472",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19472D-19473D"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Gerster",
+            "WAHLKREISZUSATZ": "Mainz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19473D-19476C"
+          },
+          {
+            "VORNAME": "Hannegret",
+            "NACHNAME": "Hönes",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19476C-19478D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19478D-19480B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Hauff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19480B-19483D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Paul",
+            "NACHNAME": "Laufs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19483D-19485A"
+          },
+          {
+            "VORNAME": "Gerhart Rudolf",
+            "NACHNAME": "Baum",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19485A-19486B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Walter",
+            "NACHNAME": "Wallmann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19486C-19489D"
+          },
+          {
+            "VORNAME": "Harald B.",
+            "NACHNAME": "Schäfer",
+            "WAHLKREISZUSATZ": "Offenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19489D-19491B"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19491B-19492B"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19492C"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Gerster",
+            "WAHLKREISZUSATZ": "Mainz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19492D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19493A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6316,10/6331"
@@ -1228,7 +4114,7 @@
           "BESCHLUSSSEITE": "19516A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6317,10/6331"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 19\n\n(zusammenberaten mit Einzelplan 07, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 19\r\n\r\n(zusammenberaten mit Einzelplan 07, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1246,7 +4132,7 @@
           "BESCHLUSSSEITE": "19224C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6318,10/6331"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 20\n\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 20\r\n\r\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1260,6 +4146,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "24.11.1986 - BT-Drucksache 10/6550",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006550.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Erhöhung des Titelansatzes in Kapitel 23 01 - Vergütungen der Angestellten - für den Bereich Frauen und Ökologie sowie für den Bereich Soziokulturelle Aspekte um 500 000 DM"
       },
       {
@@ -1267,6 +4170,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "24.11.1986 - BT-Drucksache 10/6551",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006551.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Haushaltsvermerk in Kapitel 23 02: Erlaß der Zinsen und Tilgung von Darlehen der bilateralen Finanziellen Zusammenarbeit mit Entwicklungsländern sowie Rückflüsse aus Treuhandbeteiligungen in Entwicklungsländern"
       },
       {
@@ -1274,6 +4194,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "24.11.1986 - BT-Drucksache 10/6552",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006552.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Änderung in Kapitel 23 02: Streichung des Titels DEG Deutsche Finanzierungsgesellschaft für Beteiligungen in Entwicklungsländern GmbH, Köln, mit einem Ansatz von 79 783 000 DM"
       },
       {
@@ -1281,6 +4218,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "24.11.1986 - BT-Drucksache 10/6553",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006553.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Änderung in Kapitel 23 02: Titel - Bilaterale Finanzielle Zusammenarbeit mit Entwicklungsländern - Einsetzung von 35 Mio DM für Nicaragua"
       },
       {
@@ -1288,6 +4242,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "24.11.1986 - BT-Drucksache 10/6554",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/065/1006554.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludger",
+            "NACHNAME": "Volmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Änderung in Kapitel 23 02: Ergänzung des Haushaltsvermerks des Titels - Bilaterale Finanzielle Zusammenarbeit mit Entwicklungsländern -: \"Die aus diesem Titel finanzierten Vorhaben werden international ausgeschrieben\"."
       },
       {
@@ -1295,6 +4266,58 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "26.11.1986 - BT-Plenarprotokoll 10/249, S. 19394A - 19403B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10249.pdf#P.19394",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Alwin",
+            "NACHNAME": "Brück",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19394B-19395C"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Borchert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19395C-19397A"
+          },
+          {
+            "VORNAME": "Uschi",
+            "NACHNAME": "Eid",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19397A-19399A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Rumpf",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19399A-19401A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Warnke",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19401A-19403A"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Mann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19402A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19403B",
           "BESCHLUSSTENOR": "Annahme Drs 10/6319,10/6331; Ablehnung Drs 10/6550-10/6554"
@@ -1313,6 +4336,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6490",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006490.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Gerd Peter",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Westerland",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Änderung in Kapitel 25 02: Ausstattung der Titelgruppe \"Weiterentwicklung des Wohnungs- und Städtebaus durch Studien und Untersuchungen sowie durch Modellvorhaben, Versuchs- und Vergleichsbauvorhaben\" und des Titels \"Zuschüsse für laufende Zwecke im Inland\" mit 30 Mio DM"
       },
       {
@@ -1320,6 +4360,23 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6491",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006491.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Suhr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Gerd Peter",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Westerland",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ],
         "VP_ABSTRAKT": "Änderung in Kapitel 25 02: Einstellung eines neuen Titels \"Zuweisungen an Länder zur Förderung heizenergiesparender Maßnahmen an Gebäuden\" mit einem Baransatz von 15 Mio DM und einer Verpflichtungsermächtigung von 300 Mio DM"
       },
       {
@@ -1327,6 +4384,50 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "27.11.1986 - BT-Plenarprotokoll 10/250, S. 19516A - 19525B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10250.pdf#P.19516",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Meininghaus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19516B-19518C"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Echternach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19518C-19520B"
+          },
+          {
+            "VORNAME": "Gerd Peter",
+            "NACHNAME": "Werner",
+            "WAHLKREISZUSATZ": "Westerland",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19520C-19521D"
+          },
+          {
+            "VORNAME": "Hans H.",
+            "NACHNAME": "Gattermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19521D-19523B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Oscar",
+            "NACHNAME": "Schneider",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Raumordnung, Bauwesen und Städtebau",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19523B-19525A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19525B",
           "BESCHLUSSTENOR": "Annahme Drs 10/6320,10/6331; Ablehnung Drs 10/6490,10/6491"
@@ -1345,6 +4446,96 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "26.11.1986 - BT-Plenarprotokoll 10/249, S. 19403B - 19415D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10249.pdf#P.19403",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19403C-19407A"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Sauer",
+            "WAHLKREISZUSATZ": "Salzgitter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19404D"
+          },
+          {
+            "VORNAME": "Eduard",
+            "NACHNAME": "Lintner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19405D,19406A,19410B"
+          },
+          {
+            "VORNAME": "Lieselotte",
+            "NACHNAME": "Berger",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19407A-19409A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Henning",
+            "NACHNAME": "Schierholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19409A-19411A"
+          },
+          {
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Reddemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19410A"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Ronneburger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19411B-19412D"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Büchler",
+            "WAHLKREISZUSATZ": "Hof",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19411C,19414A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19412A,19413C-D"
+          },
+          {
+            "VORNAME": "Heinrich",
+            "NACHNAME": "Windelen",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für innerdeutsche Beziehungen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19412D-19415C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19415D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6321,10/6331"
@@ -1363,6 +4554,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6492",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006492.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 30 03: Erhöhung der Mittel für Umweltforschung und -technologie um insgesamt 83 Mio DM (Ökologisches Umbauprogramm)"
       },
       {
@@ -1370,6 +4570,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6493",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006493.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 30 03: Umwidmung von Titeln aus dem Bereich der Förderung der Biotechnologie (Ökologisches Umbauprogramm)"
       },
       {
@@ -1377,6 +4586,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6494",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006494.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 30 03: Einsetzung von 5 Mio DM für Risikountersuchungen in der chemischen Industrie (Ökologisches Umbauprogramm)"
       },
       {
@@ -1384,6 +4602,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6495",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006495.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 30 05: Erhöhung der Mittel für rationelle Energieverwendung und neue Energiequellen um insgesamt 241,5 Mio DM, Förderung dezentraler Energieverbundsysteme (Ökologisches Umbauprogramm)"
       },
       {
@@ -1391,6 +4618,15 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion Die Grünen ",
         "FUNDSTELLE": "18.11.1986 - BT-Drucksache 10/6496",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/10/064/1006496.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Joachim",
+          "NACHNAME": "Müller",
+          "WAHLKREISZUSATZ": "Bremen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "Die Grünen",
+          "AKTIVITAETSART": "Änderungsantrag"
+        },
         "VP_ABSTRAKT": "Kap 30 05: Streichung von 45 Mio DM für die Förderung von Hochtemperaturreaktoren (Ökologisches Umbauprogramm)"
       },
       {
@@ -1398,6 +4634,70 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "25.11.1986 - BT-Plenarprotokoll 10/248, S. 19245B - 19257D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10248.pdf#P.19245",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karl Fred",
+            "NACHNAME": "Zander",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19245B-19248A"
+          },
+          {
+            "VORNAME": "Dietrich",
+            "NACHNAME": "Austermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19248B-19250D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19250D-19252A"
+          },
+          {
+            "PERSON_TITEL": "Dr.-Ing.",
+            "VORNAME": "Karl-Hans",
+            "NACHNAME": "Laermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19252A-19253D"
+          },
+          {
+            "VORNAME": "Josef",
+            "NACHNAME": "Vosen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19253D-19254D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz",
+            "NACHNAME": "Riesenhuber",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Forschung und Technologie",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19254D-19257C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19256C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19257D",
           "BESCHLUSSTENOR": "Annahme Drs 10/6322,10/6331; Ablehnung Drs 10/6492-10/6496"
@@ -1416,6 +4716,62 @@
         "URHEBER": "Fortsetzung: 2. Beratung (Einzelpläne)",
         "FUNDSTELLE": "25.11.1986 - BT-Plenarprotokoll 10/248, S. 19257D - 19266A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10248.pdf#P.19257",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19257D-19259C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus",
+            "NACHNAME": "Rose",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19259C-19261B"
+          },
+          {
+            "VORNAME": "Karin",
+            "NACHNAME": "Zeitler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19261C-19263A"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Neuhausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19263A-19264D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19263D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dorothee",
+            "NACHNAME": "Wilms",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Bildung und Wissenschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19264D-19266A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19266A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6323,10/6331"
@@ -1438,7 +4794,7 @@
           "BESCHLUSSSEITE": "19224C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6324"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 32\n\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 32\r\n\r\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1456,7 +4812,7 @@
           "BESCHLUSSSEITE": "19278A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6325,10/6331"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 33\n\n(zusammenberaten mit Einzelplan 06, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 33\r\n\r\n(zusammenberaten mit Einzelplan 06, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1481,7 +4837,7 @@
           "BESCHLUSSSEITE": "19394A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6326; Ablehnung Drs 10/6558"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 35\n\n(zusammenberaten mit Einzelplan 14, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 35\r\n\r\n(zusammenberaten mit Einzelplan 14, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1506,7 +4862,7 @@
           "BESCHLUSSSEITE": "19278A",
           "BESCHLUSSTENOR": "Annahme Drs 10/6327,10/6331; Ablehnung Drs 10/6558"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 36\n\n(zusammenberaten mit Einzelplan 06, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 36\r\n\r\n(zusammenberaten mit Einzelplan 06, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -1524,13 +4880,139 @@
           "BESCHLUSSSEITE": "19224C",
           "BESCHLUSSTENOR": "Annahme Drs 10/6328"
         },
-        "VP_ABSTRAKT": "Annahme Einzelplan 60\n\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
+        "VP_ABSTRAKT": "Annahme Einzelplan 60\r\n\r\n(zusammenberaten mit Einzelplan 08, Rednerliste s. dort)"
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "3. Beratung",
         "FUNDSTELLE": "28.11.1986 - BT-Plenarprotokoll 10/251, S. 19561A - 19599D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/10/10251.pdf#P.19561",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Willy",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19561B-19567C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Erich",
+            "NACHNAME": "Riedl",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19567C-19572D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19573A-19576A"
+          },
+          {
+            "VORNAME": "Hans-Günter",
+            "NACHNAME": "Hoppe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19576A-19579D"
+          },
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Metz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19579D-19583C"
+          },
+          {
+            "VORNAME": "Rudi",
+            "NACHNAME": "Walther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19583D-19590B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19587A,19589A-B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus",
+            "NACHNAME": "Rose",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19587C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Weng",
+            "WAHLKREISZUSATZ": "Gerlingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "19590B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Stoltenberg",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19590C-19596C"
+          },
+          {
+            "VORNAME": "Josef",
+            "NACHNAME": "Vosen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19591C"
+          },
+          {
+            "VORNAME": "Karl Fred",
+            "NACHNAME": "Zander",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19593C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Joachim",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Bremen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19596D-19597A"
+          },
+          {
+            "VORNAME": "Karl Fred",
+            "NACHNAME": "Zander",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "19601C-19602A/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "19599D",
           "BESCHLUSSTENOR": "Annahme in namentlicher Abstimmung Drs 10/5900,10/6301-10/6329,10/6331"
@@ -1540,7 +5022,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "28.11.1986 - BR-Drucksache 570/86",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1986/D570+86.pdf",
         "ZUWEISUNG": {
           "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
@@ -1569,6 +5050,82 @@
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "19.12.1986 - BR-Plenarprotokoll 572, S. 699B - 709C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/572.pdf#P.699",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Gobrecht",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Sen Finanz",
+            "BUNDESLAND": "Hamburg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "699C-703A"
+          },
+          {
+            "VORNAME": "Peter M.",
+            "NACHNAME": "Schmidhuber",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Bundesangel",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "703B-C"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Kahrs",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Sen Rechtspflege u. Sen Bundesangel",
+            "BUNDESLAND": "Bremen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "703D-704D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Stoltenberg",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "704D-709A"
+          },
+          {
+            "VORNAME": "Peter M.",
+            "NACHNAME": "Schmidhuber",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Bundesangel",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "757D-758A/Anl"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Arno",
+            "NACHNAME": "Walter",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "758B-C/Anl"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Carl-Ludwig",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. StMin Finanz",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "758C-D/Anl"
+          },
+          {
+            "VORNAME": "Günther",
+            "NACHNAME": "Einert",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Bundesangel",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "759A-B/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "709B",
           "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung"

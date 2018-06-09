@@ -168,6 +168,64 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "30.01.1981 - BR-Plenarprotokoll 495, S. 1D - 15B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/495.pdf#P.1",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Stoltenberg",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "MinPräs",
+            "BUNDESLAND": "Schleswig-Holstein",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1D-6A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Posser",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Finanz",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6A-7D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rolf",
+            "NACHNAME": "Böhme",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8A-11D"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Späth",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "MinPräs",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11D-14A"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Koschnick",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "SenPräs u. Bgm",
+            "BUNDESLAND": "Bremen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "14A-B,22A-B/Anl"
+          },
+          {
+            "VORNAME": "Günter",
+            "NACHNAME": "Apel",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Sen BevollmBund",
+            "BUNDESLAND": "Hamburg",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "22B-23C/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "15B",
           "BESCHLUSSTENOR": "Stellungnahme"
@@ -188,31 +246,1312 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "23.01.1981 - BT-Plenarprotokoll 09/15, S. 501A - 512D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09015.pdf#P.501"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09015.pdf#P.501",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Hans",
+          "NACHNAME": "Matthöfer",
+          "FUNKTION": "Bundesmin.",
+          "RESSORT": "Bundesministerium der Finanzen",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "501B-512D,851C-857A"
+        }
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "27.01.1981 - BT-Plenarprotokoll 09/16, S. 515B - 604A",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09016.pdf#P.515"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09016.pdf#P.515",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hansjörg",
+            "NACHNAME": "Häfele",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "515C-523B"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Haase",
+            "WAHLKREISZUSATZ": "Kassel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "517D,536C,544A,570C,668D-669A,672C,754C-D"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Westphal",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "523C-529C"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Gärtner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "529C-537B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Kohl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "530B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dietrich",
+            "NACHNAME": "Sperling",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "530C"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "535C,595B,640D,792C,815D-816A"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Haase",
+            "WAHLKREISZUSATZ": "Kassel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "537B-542A"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Löffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "539C"
+          },
+          {
+            "VORNAME": "Rudi",
+            "NACHNAME": "Walther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "542A-548A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Erich",
+            "NACHNAME": "Riedl",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "543B"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Gärtner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "543C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Friedmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "545D,548C-D,567C,578A-B"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Gerster",
+            "WAHLKREISZUSATZ": "Mainz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "546A,B,549A,630C"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "548A-554A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Sprung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "554A-557A"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Westphal",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "554D,625D,773A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Spöri",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "556C"
+          },
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Gobrecht",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "557A-559D"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "559B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Erich",
+            "NACHNAME": "Riedl",
+            "WAHLKREISZUSATZ": "München",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "559D-563C"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Löffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "563D-566A"
+          },
+          {
+            "VORNAME": "Friedhelm",
+            "NACHNAME": "Rentrop",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "566A-568B"
+          },
+          {
+            "VORNAME": "Herbert",
+            "NACHNAME": "Wehner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "567A-B,612D,614A-B,754A-B,839A-B"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Carstens",
+            "WAHLKREISZUSATZ": "Emstek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "568B-570B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Spöri",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "570B-572D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Waffenschmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "572D-576A"
+          },
+          {
+            "VORNAME": "Klaus-Dieter",
+            "NACHNAME": "Kühbacher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "576A-580A,809C-813A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Waffenschmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "576B-C"
+          },
+          {
+            "VORNAME": "Hansheinz",
+            "NACHNAME": "Hauser",
+            "WAHLKREISZUSATZ": "Krefeld",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "577A-B,C"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Rapp",
+            "WAHLKREISZUSATZ": "Göppingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "580A-581D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Schulte",
+            "WAHLKREISZUSATZ": "Schwäbisch Gmünd",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "581D-583C"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Wieczorek",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "583D-586C"
+          },
+          {
+            "VORNAME": "Klaus-Jürgen",
+            "NACHNAME": "Hoffie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "586C-589C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Hauff",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Verkehr",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "589C-593A"
+          },
+          {
+            "VORNAME": "Ignaz",
+            "NACHNAME": "Kiechle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "593A-596A"
+          },
+          {
+            "VORNAME": "Hans-Joachim",
+            "NACHNAME": "Hoffmann",
+            "WAHLKREISZUSATZ": "Saarbrücken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "596A-599C"
+          },
+          {
+            "VORNAME": "Egon",
+            "NACHNAME": "Susset",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "597A,601D,602A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolf-Dieter",
+            "NACHNAME": "Zumpfort",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "599C-604A"
+          },
+          {
+            "VORNAME": "Karl",
+            "NACHNAME": "Eigen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "600D-601A,603A,C"
+          },
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Oostergetelo",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "603C-D,628C"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "28.01.1981 - BT-Plenarprotokoll 09/17, S. 607C - 709C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09017.pdf#P.607"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09017.pdf#P.607",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr. h.c.",
+            "VORNAME": "Franz Josef",
+            "NACHNAME": "Strauß",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "MinPräs",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "608A-622C"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Hamburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "616D-617A,618A,B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Posser",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Finanz",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "622C-633B"
+          },
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Schröder",
+            "WAHLKREISZUSATZ": "Lüneburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "624B-C"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Ennepetal",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "625B-D,626A"
+          },
+          {
+            "VORNAME": "Gerhard",
+            "NACHNAME": "Jahn",
+            "WAHLKREISZUSATZ": "Marburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "626D"
+          },
+          {
+            "VORNAME": "Walther Leisler",
+            "NACHNAME": "Kiep",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "627C-D,628A,D-629A,758A,856A"
+          },
+          {
+            "VORNAME": "Elmar",
+            "NACHNAME": "Kolb",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "631A"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Stockleben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "631C"
+          },
+          {
+            "VORNAME": "Hans-Günter",
+            "NACHNAME": "Hoppe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "633B-637C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Richard",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Weizsäcker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "637D-644D"
+          },
+          {
+            "VORNAME": "Willy",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "640C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "641B"
+          },
+          {
+            "VORNAME": "Willy",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "645A-652B"
+          },
+          {
+            "VORNAME": "Hans-Dietrich",
+            "NACHNAME": "Genscher",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "652B-661D"
+          },
+          {
+            "VORNAME": "Franz Ludwig Schenk",
+            "NAMENSZUSATZ": "Graf von",
+            "NACHNAME": "Stauffenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "652D-653A,688C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Richard",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Weizsäcker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "653C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alois",
+            "NACHNAME": "Mertes",
+            "WAHLKREISZUSATZ": "Gerolstein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "659D,660A-B,688A-B"
+          },
+          {
+            "VORNAME": "Peter Kurt",
+            "NACHNAME": "Würzbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "661D-666C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hans",
+            "NACHNAME": "Apel",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "666C-673B,680B-C,681B-682B"
+          },
+          {
+            "VORNAME": "Harm",
+            "NACHNAME": "Dallmeyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "670D-671A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Wörner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "672A,B,679A-B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Würtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "672B-C"
+          },
+          {
+            "VORNAME": "Kurt",
+            "NACHNAME": "Jung",
+            "WAHLKREISZUSATZ": "Kandel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "673C-675D"
+          },
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Biehle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "675D-678C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hermann",
+            "NACHNAME": "Scheer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "678A"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Würtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "678D-680B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Wörner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "680D-681B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alois",
+            "NACHNAME": "Mertes",
+            "WAHLKREISZUSATZ": "Gerolstein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "682B-686B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Peter",
+            "NACHNAME": "Corterier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "684C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "686B-691C"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Schäfer",
+            "WAHLKREISZUSATZ": "Mainz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "691C-693D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herbert",
+            "NACHNAME": "Hupka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "693D-696B"
+          },
+          {
+            "VORNAME": "Elmar",
+            "NACHNAME": "Pieroth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "696B-698D"
+          },
+          {
+            "VORNAME": "Günter",
+            "NACHNAME": "Schluckebier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "698D-701B"
+          },
+          {
+            "VORNAME": "Helga",
+            "NACHNAME": "Schuchardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "701B-704D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volkmar",
+            "NACHNAME": "Köhler",
+            "WAHLKREISZUSATZ": "Wolfsburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "701C-D"
+          },
+          {
+            "VORNAME": "Elmar",
+            "NACHNAME": "Pieroth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "703A-B,705A-B"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Offergeld",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für wirtschaftliche Zusammenarbeit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "704D-707C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volkmar",
+            "NACHNAME": "Köhler",
+            "WAHLKREISZUSATZ": "Wolfsburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "707C-709A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herbert",
+            "NACHNAME": "Hupka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "709C"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "29.01.1981 - BT-Plenarprotokoll 09/18, S. 711A - 817D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09018.pdf#P.711"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09018.pdf#P.711",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich-Adolf",
+            "NACHNAME": "Jahn",
+            "WAHLKREISZUSATZ": "Münster",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "711C-716C"
+          },
+          {
+            "VORNAME": "Franz",
+            "NACHNAME": "Müntefering",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "712B-C,713D-714A,729B"
+          },
+          {
+            "VORNAME": "Ernst",
+            "NACHNAME": "Waltemathe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "713D"
+          },
+          {
+            "VORNAME": "Brigitte",
+            "NACHNAME": "Traupe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "716C-718B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dieter",
+            "NACHNAME": "Haack",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Raumordnung, Bauwesen und Städtebau",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "718B-727B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich-Adolf",
+            "NACHNAME": "Jahn",
+            "WAHLKREISZUSATZ": "Münster",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "720A,722C,726B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Franz",
+            "NACHNAME": "Möller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "722D,726C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ludolf-Georg",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Wartenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "723A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Oscar",
+            "NACHNAME": "Schneider",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "727B-731A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Klejdzinski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "729D,775A-B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "730B"
+          },
+          {
+            "VORNAME": "Hans H.",
+            "NACHNAME": "Gattermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "731A-734D"
+          },
+          {
+            "VORNAME": "Lorenz",
+            "NACHNAME": "Niegel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "733D"
+          },
+          {
+            "VORNAME": "Ernst",
+            "NACHNAME": "Waltemathe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "735A-737A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz",
+            "NACHNAME": "Riesenhuber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "737A-742A"
+          },
+          {
+            "VORNAME": "Peter W.",
+            "NACHNAME": "Reuschenbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "739A,B"
+          },
+          {
+            "VORNAME": "Erich",
+            "NACHNAME": "Wolfram",
+            "WAHLKREISZUSATZ": "Recklinghausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "739C"
+          },
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Stahl",
+            "WAHLKREISZUSATZ": "Kempen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "741B,C,789C"
+          },
+          {
+            "VORNAME": "Erich",
+            "NACHNAME": "Wolfram",
+            "WAHLKREISZUSATZ": "Recklinghausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "742A-745D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz",
+            "NACHNAME": "Riesenhuber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "742D"
+          },
+          {
+            "VORNAME": "Hans-Eberhard",
+            "NACHNAME": "Urbaniak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "743C"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Beckmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "746A-748C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Otto",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "748C-750D"
+          },
+          {
+            "VORNAME": "Heinrich",
+            "NACHNAME": "Franke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "751A-757A"
+          },
+          {
+            "VORNAME": "Egon",
+            "NACHNAME": "Lutz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "755C,756A"
+          },
+          {
+            "VORNAME": "Eugen",
+            "NACHNAME": "Glombig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "757A-763A"
+          },
+          {
+            "VORNAME": "Heinrich",
+            "NACHNAME": "Franke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "757C,759B-C,761C,765A,C,767B-C,769D,770A,B"
+          },
+          {
+            "VORNAME": "Albert",
+            "NACHNAME": "Burger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "759C-D,769A-B"
+          },
+          {
+            "VORNAME": "Dieter-Julius",
+            "NACHNAME": "Cronenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "763B-766C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herbert",
+            "NACHNAME": "Ehrenberg",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Arbeit und Sozialordnung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "766C-771C"
+          },
+          {
+            "VORNAME": "Anton",
+            "NACHNAME": "Pfeifer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "771D-776D"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Matthöfer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "772C-D"
+          },
+          {
+            "VORNAME": "Gudrun",
+            "NACHNAME": "Weyel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "776D-779D"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Daweke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "777D"
+          },
+          {
+            "PERSON_TITEL": "Dr.-Ing.",
+            "VORNAME": "Karl-Hans",
+            "NACHNAME": "Laermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "779D-784A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Albert",
+            "NACHNAME": "Probst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "782A,B"
+          },
+          {
+            "VORNAME": "Björn",
+            "NACHNAME": "Engholm",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Bildung und Wissenschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "784A-786D"
+          },
+          {
+            "VORNAME": "Anton",
+            "NACHNAME": "Pfeifer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "785D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Andreas",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Bülow",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Forschung und Technologie",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "786D-788B"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lenzer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "788B-791A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Steger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "788D-789A"
+          },
+          {
+            "VORNAME": "Adolf",
+            "NACHNAME": "Stockleben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "791A-793C"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Huber",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Jugend, Familie und Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "793D-796C"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Kroll-Schlüter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "796C-799D"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Huber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "797D"
+          },
+          {
+            "VORNAME": "Carl",
+            "NACHNAME": "Ewen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "798C,D-799A"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Hölscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "799B"
+          },
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Nürnberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "799D-803B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helga",
+            "NACHNAME": "Wex",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "802C"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Hölscher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "803B-806B"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Kroll-Schlüter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "803D"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Hauck",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "804A"
+          },
+          {
+            "VORNAME": "Carl-Dieter",
+            "NACHNAME": "Spranger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "806B-809C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alfred",
+            "NACHNAME": "Emmerlich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "808D"
+          },
+          {
+            "VORNAME": "Carl-Dieter",
+            "NACHNAME": "Spranger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "809D-810A"
+          },
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Wolfgramm",
+            "WAHLKREISZUSATZ": "Göttingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "813A-814D"
+          },
+          {
+            "VORNAME": "Gerhart Rudolf",
+            "NACHNAME": "Baum",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium des Innern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "814D-817C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Horst",
+            "NACHNAME": "Ehmke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Persönliche Erklärung gem. § 32 Geschäftsordnung BT",
+            "SEITE": "817C-D"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "30.01.1981 - BT-Plenarprotokoll 09/19, S. 819B - 857B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09019.pdf#P.819",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "Bundeskanzl.",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "819D-836B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "825A"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Glos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "828C"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Roitzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "830B-C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Kohl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "836B-846A"
+          },
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Mischnick",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "846A-851C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Norbert",
+            "NACHNAME": "Blüm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "849C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "857B",
           "BESCHLUSSTENOR": "Überweisung"
@@ -286,19 +1625,121 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Bericht,  Urheber : Finanzausschuss ",
         "FUNDSTELLE": "17.02.1981 - BT-Drucksache 09/167",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/09/001/0900167.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/09/001/0900167.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Schäuble",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
         "FUNDSTELLE": "18.02.1981 - BT-Drucksache 09/173",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/09/001/0900173.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/09/001/0900173.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hans-Günter",
+            "NACHNAME": "Hoppe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Carstens",
+            "WAHLKREISZUSATZ": "Emstek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "19.02.1981 - BT-Plenarprotokoll 09/23, S. 987B - 999B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09023.pdf#P.987",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Schäuble",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "987C-991C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rolf",
+            "NACHNAME": "Böhme",
+            "WAHLKREISZUSATZ": "Freiburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "990A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "991A-B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nils",
+            "NACHNAME": "Diederich",
+            "WAHLKREISZUSATZ": "Berlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "991D-994B"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Matthäus-Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "994B-997A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Schäuble",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "995A,C"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Matthöfer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "997A-999B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "999B",
           "BESCHLUSSTENOR": "Annahme Drs 09/91 idF Drs 09/164"
@@ -330,6 +1771,45 @@
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "20.02.1981 - BR-Plenarprotokoll 496, S. 29D - 32B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/496.pdf#P.29",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Henning",
+            "NACHNAME": "Schwarz",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Bundesangel",
+            "BUNDESLAND": "Schleswig-Holstein",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "30A-31A"
+          },
+          {
+            "VORNAME": "Hans",
+            "NACHNAME": "Matthöfer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "31A-D"
+          },
+          {
+            "VORNAME": "Johann Wilhelm",
+            "NACHNAME": "Gaddum",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StMin Finanz",
+            "BUNDESLAND": "Rheinland-Pfalz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "31D-32B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Franz",
+            "NACHNAME": "Becker",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Rechtspflege",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "52A-B/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "32B",
           "BESCHLUSSTENOR": "Anrufung des Vermittlungsausschusses: Aufhebung des Gesetzesbeschlusses"
@@ -365,6 +1845,16 @@
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.1981 - BR-Plenarprotokoll 497, S. 55B - 56A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/497.pdf#P.55",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Henning",
+          "NACHNAME": "Schwarz",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Bundesangel",
+          "BUNDESLAND": "Schleswig-Holstein",
+          "AKTIVITAETSART": "Berichterstattung",
+          "SEITE": "55B-56A"
+        },
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "56A",
           "BESCHLUSSTENOR": "Einspruch"
@@ -394,6 +1884,33 @@
         "URHEBER": "Abstimmung über Einspruch des BR",
         "FUNDSTELLE": "18.03.1981 - BT-Plenarprotokoll 09/25, S. 1139C - 1143C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/09/09025.pdf#P.1139",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Schäuble",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1139C-1140A"
+          },
+          {
+            "VORNAME": "Heinz",
+            "NACHNAME": "Westphal",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1140A-D"
+          },
+          {
+            "VORNAME": "Friedhelm",
+            "NACHNAME": "Rentrop",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "1140D-1141B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "1141Bf",
           "BESCHLUSSTENOR": "Einspruch zurückgewiesen gem. Art. 77 Abs.4 GG in namentlicher Abstimmung"

@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel zu veröffentlichen ist \nKOM(2015) 583 endg.; Ratsdok. 14890/15",
+    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über den Prospekt, der beim öffentlichen Angebot von Wertpapieren oder bei deren Zulassung zum Handel zu veröffentlichen ist \r\nKOM(2015) 583 endg.; Ratsdok. 14890/15",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,22 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/074/1807422.pdf"
       }
     ],
-    "PLENUM": [
-      {
-        "PLPR_KLARTEXT": "BR-Sitzung",
-        "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "942",
-        "PLPR_SEITEN": "87D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/942.pdf#P.87"
-      },
-      {
-        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-        "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/8",
-        "PLPR_SEITEN": "683C - 684D",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-      }
-    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "942",
+      "PLPR_SEITEN": "87D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/942.pdf#P.87"
+    },
     "EU_DOK_NR": "Kom. (2015) 583 endg.",
     "SCHLAGWORT": [
       "Publizitätspflicht",
@@ -123,13 +114,6 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "26.02.2016 - BR-Drucksache 639/15(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0639-15B.pdf"
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Mitteilung des federführenden Ausschusses",
-        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
-        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
       }
     ]
   }

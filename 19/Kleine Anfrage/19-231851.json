@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Versorgungssicherheit in Deutschland in Zeiten der Energiewende",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/738",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900738.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/738",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900738.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1104",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/011/1901104.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
@@ -26,31 +34,39 @@
       "Straftat",
       "Stromausfall"
     ],
-    "ABSTRAKT": "Drohende größere Stromausfälle von Dezember 2016 bis Januar 2018 sowie heutige Wahrscheinlichkeit, Konsequenzen und Gegenmaßnahmen, bisherige und erwartete Kosten, Regelungen und Entscheidungszuständigkeiten, Ersatz von Folgeschäden, erwartete schwere Straftaten bei mehrständigen abendlichen Stromausfällen in Großstädten, Einsatz von Hilfskräften, Wiederaufnahme der Stromversorgung, erforderliche Reservekapazitäten \n(insgesamt 26 Einzelfragen)"
+    "ABSTRAKT": "Drohende größere Stromausfälle von Dezember 2016 bis Januar 2018 sowie heutige Wahrscheinlichkeit, Konsequenzen und Gegenmaßnahmen, bisherige und erwartete Kosten, Regelungen und Entscheidungszuständigkeiten, Ersatz von Folgeschäden, erwartete schwere Straftaten bei mehrständigen abendlichen Stromausfällen in Großstädten, Einsatz von Hilfskräften, Wiederaufnahme der Stromversorgung, erforderliche Reservekapazitäten \r\n(insgesamt 26 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "12.02.2018 - BT-Drucksache 19/738",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900738.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Marc",
-          "NACHNAME": "Bernhard",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Prof. Dr. ",
-          "VORNAME": "Heiko",
-          "NACHNAME": "Heßenkemper",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "12.02.2018 - BT-Drucksache 19/738",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900738.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marc",
+            "NACHNAME": "Bernhard",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr. ",
+            "VORNAME": "Heiko",
+            "NACHNAME": "Heßenkemper",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "07.03.2018 - BT-Drucksache 19/1104",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/011/1901104.pdf"
+      }
+    ]
   }
 }

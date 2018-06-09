@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "18",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission vom 28.4.2017\nMitteilung der Kommission über den Zugang zu Gerichten in Umweltangelegenheiten \nK(2017) 2616 endg.; Ratsdok. 8752/17",
+    "TITEL": "Mitteilung der Kommission vom 28.4.2017\r\nMitteilung der Kommission über den Zugang zu Gerichten in Umweltangelegenheiten \r\nK(2017) 2616 endg.; Ratsdok. 8752/17",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -13,49 +13,33 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/126/1812654.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/8",
-      "PLPR_SEITEN": "683C - 684D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
-    },
     "EU_DOK_NR": "Ratsdok. 8752/17",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT ",
-        "FUNDSTELLE": "02.06.2017 - BT-Drucksache 18/12654, Nr. A.12",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/126/1812654.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Mitteilung des federführenden Ausschusses",
-        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
-        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT ",
+      "FUNDSTELLE": "02.06.2017 - BT-Drucksache 18/12654, Nr. A.12",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/126/1812654.pdf",
+      "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+        },
+        {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+        }
+      ]
+    }
   }
 }

@@ -16,14 +16,12 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/6040",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406040.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/7052",
-        "DRS_TYP": "Beschlussempfehlung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/070/1407052.pdf"
+        "DRS_TYP": "Beschlussempfehlung"
       }
     ],
     "PLENUM": [
@@ -130,13 +128,47 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion der SPD ",
         "FUNDSTELLE": "14.05.2001 - BT-Drucksache 14/6040",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/060/1406040.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Hartenbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Bachmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Geschäftsordnungsantrag auf Aufsetzung der 1. Beratung auf die TO",
         "FUNDSTELLE": "17.05.2001 - BT-Plenarprotokoll 14/170, S. 16556C - 16559C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14170.pdf#P.16556",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Hartenbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+            "SEITE": "16556D-16558C"
+          },
+          {
+            "VORNAME": "Jörg",
+            "NAMENSZUSATZ": "van",
+            "NACHNAME": "Essen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zur Geschäftsordnung BT",
+            "SEITE": "16558C-16559B"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "16559C",
           "BESCHLUSSTENOR": "Geschäftsordnungsantrag der Fraktionen der SPD und B90/GR auf Aufsetzung auf die Tagesordnung - Annahme"
@@ -147,6 +179,77 @@
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "18.05.2001 - BT-Plenarprotokoll 14/171, S. 16719A - 16734A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14171.pdf#P.16719",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16719B-16721B"
+          },
+          {
+            "VORNAME": "Ronald",
+            "NACHNAME": "Pofalla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16721B-16723C"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Beck",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16723C-16725C"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Funke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16725C-16727B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Evelyn",
+            "NACHNAME": "Kenzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16727C-16728B"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Manzewski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16728B-16730A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Andreas",
+            "NACHNAME": "Birkmann",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16730B-16732A"
+          },
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Hartenbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16732A-16733D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "16734A",
           "BESCHLUSSTENOR": "Überweisung"
@@ -174,26 +277,168 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Rechtsausschuss ",
         "FUNDSTELLE": "09.10.2001 - BT-Drucksache 14/7052",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/070/1407052.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Bachmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hans-Joachim",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
         "VP_ABSTRAKT": "Änderungen, insbesondere auf der Grundlage der Stellungnahme des Bundesrats und der Gegenäußerung der Bundesregierung, sowie redaktionelle Klarstellungen, Ausschussvorschläge u.a. betreffend Vorschriften zu Verjährungsfristen, bei vorübergehender Unmöglichkeit von Leistungen, Schadensersatzpflichten, Fernabsatzverträgen, Verjährung von Mängelansprüchen, Rückgriffsrechten von Unternehmen auf Lieferanten und Darlehensverträgen, Garantien und Gewährleistungen, Sonderregelungen für Existenzgründer; Änderung versch. Art. Gesetz zur Reform des Zivilprozesses, Einfügung der §§ 24a und 28 in das Gesetz zur Einführung der Zivilprozessordnung, Änderung § 14 Urheberrechtswahrnehmungsgesetz, §§ 28 und 51 Baugesetzbuch, Änderung des Gesetzes zur Reform der betrieblichen Altersversorgung"
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der CDU/CSU ",
         "FUNDSTELLE": "09.10.2001 - BT-Drucksache 14/7067",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/070/1407067.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Geis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Ronald",
+            "NACHNAME": "Pofalla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion der PDS ",
         "FUNDSTELLE": "10.10.2001 - BT-Drucksache 14/7080",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/070/1407080.pdf"
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Evelyn",
+            "NACHNAME": "Kenzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Ostrowski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "11.10.2001 - BT-Plenarprotokoll 14/192, S. 18744C - 18765A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14192.pdf#P.18744",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Bachmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18745A-18746B"
+          },
+          {
+            "VORNAME": "Ronald",
+            "NACHNAME": "Pofalla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18746B-18749B"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Beck",
+            "WAHLKREISZUSATZ": "Köln",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18749B-18751B"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Funke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18751B-18753A"
+          },
+          {
+            "VORNAME": "Jella",
+            "NACHNAME": "Teuchner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18753A-D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Evelyn",
+            "NACHNAME": "Kenzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18753D-18754D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18755A-19758D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Geis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "18756D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NAMENSZUSATZ": "Freiherr von",
+            "NACHNAME": "Stetten",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18758D-18761C,18762A-B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Eckhart",
+            "NACHNAME": "Pick",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18761D-18762A"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Manzewski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "18762B-18764D"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "18765A",
           "BESCHLUSSTENOR": "Annahme Drs 14/6040 idF Drs 14/7052; Ablehnung ÄndAntr Drs 14/7067, Drs 14/7080"
@@ -213,7 +458,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "19.10.2001 - BR-Drucksache 819/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+01.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
@@ -234,91 +478,78 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Thüringen ",
         "FUNDSTELLE": "06.11.2001 - BR-Drucksache 819/2/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+2+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Sachsen-Anhalt ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/3/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+3+01.pdf",
         "VP_ABSTRAKT": "Entschließung"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 819/4/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+4+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 819/5/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+5+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 819/6/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+6+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 819/7/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+7+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsauschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern, Hessen, Saarland ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 819/8/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+8+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/9/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+9+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/10/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+10+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/11/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+11+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/12/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+12+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/13/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+13+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Hamburg ",
         "FUNDSTELLE": "07.11.2001 - BR-Drucksache 819/14/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D819+14+01.pdf",
         "VP_ABSTRAKT": "Anrufung des Vermittlungsausschusses; Anrufungsziel: Überarbeitung des Gesetzesbeschlusses BT"
       },
       {
@@ -326,6 +557,56 @@
         "URHEBER": "Durchgang",
         "FUNDSTELLE": "09.11.2001 - BR-Plenarprotokoll 769, S. 592C - 599D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/769.pdf#P.592",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manfred",
+            "NACHNAME": "Weiß",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "StMin Justiz",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "592C-593C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christian",
+            "NACHNAME": "Pfeiffer",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "593C-594C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Andreas",
+            "NACHNAME": "Birkmann",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "594C-596C"
+          },
+          {
+            "VORNAME": "Karin",
+            "NACHNAME": "Schubert",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "LMin Justiz",
+            "BUNDESLAND": "Sachsen-Anhalt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "596C-597B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herta",
+            "NACHNAME": "Däubler-Gmelin",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "597C-599C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "599D",
           "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung - gem. Art. 77 Abs. 2 GG"

@@ -18,20 +18,17 @@
       {
         "DRS_HERAUSGEBER": "BR",
         "DRS_NUMMER": "950/01",
-        "DRS_TYP": "Gesetzesantrag",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D950+01.pdf"
+        "DRS_TYP": "Gesetzesantrag"
       },
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/8613",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/086/1408613.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "14/9252",
-        "DRS_TYP": "Beschlussempfehlung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/092/1409252.pdf"
+        "DRS_TYP": "Beschlussempfehlung"
       }
     ],
     "PLENUM": [
@@ -93,7 +90,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen, Sachsen, Sachsen-Anhalt, Schleswig-Holstein ",
         "FUNDSTELLE": "08.11.2001 - BR-Drucksache 950/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D950+01.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Agrarausschuss",
@@ -109,27 +105,33 @@
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "30.11.2001 - BR-Plenarprotokoll 770, S. 684C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/770.pdf#P.684",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Hannelore",
+          "NACHNAME": "Kraft",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "LMin Bundes- u. Europaangel im Geschäftb des MinPräs",
+          "BUNDESLAND": "Nordrhein-Westfalen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "709B-710C/Anl"
+        },
         "VP_ABSTRAKT": "Mittlg: S.684C - Ausschusszuweisung: AgrA (fdf), AfGesundh"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Agrarausschuss, Gesundheitsausschuss ",
         "FUNDSTELLE": "21.01.2002 - BR-Drucksache 950/1/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D950+1+01.pdf",
         "VP_ABSTRAKT": "Einbringung in geänderter Fassung; Bestellung einer Beauftragten; Entschließung"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "31.01.2002 - BR-Drucksache 950/2/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D950+2+01.pdf",
         "VP_ABSTRAKT": "Änderungen"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Bayern ",
         "FUNDSTELLE": "31.01.2002 - BR-Drucksache 950/3/01",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2001/D950+3+01.pdf",
         "VP_ABSTRAKT": "Entschließung"
       },
       {
@@ -137,6 +139,26 @@
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "01.02.2002 - BR-Plenarprotokoll 772, S. 33B - 34D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/772.pdf#P.33",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bärbel",
+            "NACHNAME": "Höhn",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Umwelt u. Landw",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "33B-34A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gerald",
+            "NACHNAME": "Thalheim",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "34A-C"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "34D",
           "BESCHLUSSTENOR": "Einbringung in geänderter Fassung; Entschließung; Bestellung einer Beauftragten - gem. Art. 76 Abs. 1 GG"
@@ -150,8 +172,7 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
-        "FUNDSTELLE": "20.03.2002 - BT-Drucksache 14/8613\nAnl. Stellungnahme BRg",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/086/1408613.pdf"
+        "FUNDSTELLE": "20.03.2002 - BT-Drucksache 14/8613\nAnl. Stellungnahme BRg"
       },
       {
         "ZUORDNUNG": "BT",
@@ -176,7 +197,13 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Verbraucherschutz, Ernährung und Landwirtschaft ",
         "FUNDSTELLE": "05.06.2002 - BT-Drucksache 14/9252",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/14/092/1409252.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Peter",
+          "NACHNAME": "Bleser",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
         "VP_ABSTRAKT": "Titeländerung (eingebracht als: Gesetz zur Änderung tierarzneimittelrechtlicher Vorschriften); umfassende Neuformulierung des Entwurfs unter Beschränkung auf die Regelungskompetenz des Bundes, u.a. Verwendung von Arzneimittel-Vormischungen nur zur Herstellung von Fütterungsarzneimitteln und obligatorische Herstellungserlaubnis für Fütterungsarzneimittel"
       },
       {
@@ -184,6 +211,48 @@
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "07.06.2002 - BT-Plenarprotokoll 14/240, S. 24100A - 24100B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/14/14240.pdf#P.24100",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jella",
+            "NACHNAME": "Teuchner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "24118A-24119A/Anl"
+          },
+          {
+            "VORNAME": "Helmut",
+            "NACHNAME": "Lamp",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "24119A-D/Anl"
+          },
+          {
+            "VORNAME": "Ulrike",
+            "NACHNAME": "Höfken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "24119D-24120C/Anl"
+          },
+          {
+            "VORNAME": "Marita",
+            "NACHNAME": "Sehn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "24120C-24121B/Anl"
+          },
+          {
+            "VORNAME": "Kersten",
+            "NACHNAME": "Naumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "PDS",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "24121B-D/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "24100B",
           "BESCHLUSSTENOR": "Annahme Drs 14/8613 idF Drs 14/9252"
@@ -250,6 +319,34 @@
         "URHEBER": "Durchgang",
         "FUNDSTELLE": "21.06.2002 - BR-Plenarprotokoll 777, S. 343B - 343D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/777.pdf#P.343",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bärbel",
+            "NACHNAME": "Höhn",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "LMin Umwelt u. Landw",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "343B-C"
+          },
+          {
+            "VORNAME": "Erika",
+            "NACHNAME": "Görlitz",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "StSekr Gesundh",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "365A-C/Anl"
+          },
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Berninger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verbraucherschutz, Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "365C-366A/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "343D",
           "BESCHLUSSTENOR": "Zustimmung; Entschließung - gem. Art. 84 Abs. 1 GG"

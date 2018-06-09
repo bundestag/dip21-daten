@@ -13,8 +13,7 @@
       {
         "DRS_HERAUSGEBER": "BR",
         "DRS_NUMMER": "153/89",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1989/D153+89.pdf"
+        "DRS_TYP": "Gesetzentwurf"
       },
       {
         "DRS_HERAUSGEBER": "BR",
@@ -95,8 +94,8 @@
     "VERKUENDUNG": "Gesetz vom 05.11.1990 - Bundesgesetzblatt Teil I 1990 Nr.6110.11.1990 S. 2428 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl190s2428.pdf']",
     "INKRAFTTRETEN": "11.11.1990",
     "SACHGEBIET": [
-      "Verteidigung",
-      "Außenwirtschaft"
+      "Außenwirtschaft",
+      "Verteidigung"
     ],
     "SCHLAGWORT": [
       "ABC-Waffen",
@@ -121,7 +120,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft (federführend)",
         "FUNDSTELLE": "31.03.1989 - BR-Drucksache 153/89",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1989/D153+89.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
@@ -162,7 +160,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Ausschuss für Innere Angelegenheiten, Finanzausschuss, Rechtsausschuss, Wirtschaftsausschuss ",
         "FUNDSTELLE": "28.04.1989 - BR-Drucksache 153/1/89",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1989/D153+1+89.pdf",
         "VP_ABSTRAKT": "WirtschA, FinanzA: keine Einwendungen - InnenA, RechtsA: u.a. Änderungsvorschläge - RechtsA: u.a. Feststellung der Zustimmungsbedürftigkeit"
       },
       {
@@ -170,6 +167,15 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "12.05.1989 - BR-Plenarprotokoll 600, S. 201B - 201C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/600.pdf#P.201",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Horst",
+          "NACHNAME": "Gobrecht",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Sen BevollmBund",
+          "BUNDESLAND": "Hamburg",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "217B/Anl"
+        },
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "201C",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge"
@@ -191,6 +197,74 @@
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "23.06.1989 - BT-Plenarprotokoll 11/153, S. 11576A - 11593B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/11/11153.pdf#P.11576",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Kittelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11578A-11580C,11592D-11593A"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Pleisweiler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11580C-11583B"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Beckmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11583B-11585A"
+          },
+          {
+            "VORNAME": "Eckhard",
+            "NACHNAME": "Stratmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11585A-11587A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Haussmann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11587A-11588D"
+          },
+          {
+            "VORNAME": "Josef",
+            "NACHNAME": "Vosen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11588D-11590A"
+          },
+          {
+            "VORNAME": "Lorenz",
+            "NACHNAME": "Niegel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11590A-11591B"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Gansel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11591B-11592C,11593A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "11593A",
           "BESCHLUSSTENOR": "Überweisung"
@@ -225,6 +299,13 @@
         "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wirtschaft ",
         "FUNDSTELLE": "25.05.1990 - BT-Drucksache 11/7221",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/11/072/1107221.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Peter",
+          "NACHNAME": "Kittelmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "CDU/CSU",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
         "VP_ABSTRAKT": "Strafbarkeit für das leichtfertige Fördern von A-Waffen sowie für das Verleiten zur Herstellung von ABC-Waffen, Straffreiheit für das \"unerhebliche\" Fördern bei ABC-Waffen und Schaffung einer Ausnahmeregelung für Wissenschaft und Forschung, Verhängung einer lebenslangen Freiheitsstrafe in besonders schweren Fällen sowie einer Mindeststrafe von einem Jahr in den übrigen Fällen, Unterteilung der Strafvorschrift bei A-Waffen in einen Grund- und einen Qualifikationstatbestand, Erstreckung auf Auslandstaten bei letzterem"
       },
       {
@@ -238,6 +319,102 @@
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "01.06.1990 - BT-Plenarprotokoll 11/215, S. 16921D - 16941B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/11/11215.pdf#P.16921",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Kittelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16922C-16925C,16938D-16939B"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Pleisweiler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16925C-16927B,16939C"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Funke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16927B-16928D"
+          },
+          {
+            "VORNAME": "Christa",
+            "NACHNAME": "Vennegerts",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16928D-16931B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Haussmann",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Wirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16931B-16932D"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Bachmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16932D-16934C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz Günther",
+            "NACHNAME": "Hüsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16934C-16936C"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Gansel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16936C-16938B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Helmut",
+            "NACHNAME": "Lippelt",
+            "WAHLKREISZUSATZ": "Hannover",
+            "FUNKTION": "MdB",
+            "FRAKTION": "Die Grünen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "16938C-D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz Günther",
+            "NACHNAME": "Hüsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "16939C-D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Gansel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "16939D-16940A"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "16940C",
           "BESCHLUSSTENOR": "Annahme Drs 11/4609 idF Drs 11/7221; Ablehnung Drs 11/7274 (neu)"
@@ -257,7 +434,6 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "01.06.1990 - BR-Drucksache 396/90",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1990/D396+90.pdf",
         "ZUWEISUNG": [
           {
             "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
@@ -272,14 +448,12 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Rechtsausschuss, Wirtschaftsausschuss ",
         "FUNDSTELLE": "08.06.1990 - BR-Drucksache 396/1/90",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1990/D396+1+90.pdf",
         "VP_ABSTRAKT": "WirtschA: Zustimmung - RechtsA: Anrufung des Vermittlungsausschusses"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Plenarantrag,  Urheber : Berlin ",
         "FUNDSTELLE": "21.06.1990 - BR-Drucksache 396/2/90",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1990/D396+2+90.pdf",
         "VP_ABSTRAKT": "Eventualempfehlung für den Fall der Anrufung des Vermittlungsausschusses"
       },
       {
@@ -287,6 +461,15 @@
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "22.06.1990 - BR-Plenarprotokoll 615, S. 364A - 364B",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/615.pdf#P.364",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Lutz G.",
+          "NACHNAME": "Stavenhagen",
+          "FUNKTION": "Staatsmin.",
+          "RESSORT": "Bundeskanzleramt",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "381B-D/Anl"
+        },
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "364A",
           "BESCHLUSSTENOR": "Anrufung des Vermittlungsausschusses- gem.Art.84 Abs.1 GG"
@@ -316,6 +499,26 @@
         "URHEBER": "Abstimmung über Vermittlungsvorschlag",
         "FUNDSTELLE": "19.09.1990 - BT-Plenarprotokoll 11/225, S. 17786A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/11/11225.pdf#P.17786",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz Günther",
+            "NACHNAME": "Hüsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung",
+            "SEITE": "17791B-17792A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Heinz Günther",
+            "NACHNAME": "Hüsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "17793C-D/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "11792C",
           "BESCHLUSSTENOR": "Annahme Drs 11/7848"
@@ -324,14 +527,34 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Beschluss des BT,  Urheber : Bundestag ",
-        "FUNDSTELLE": "20.09.1990 - BR-Drucksache 626/90",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/1990/D626+90.pdf"
+        "FUNDSTELLE": "20.09.1990 - BR-Drucksache 626/90"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "21.09.1990 - BR-Plenarprotokoll 619, S. 509C - 509D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/619.pdf#P.509",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Herbert",
+            "NACHNAME": "Schnoor",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "StellvMinPräs u. LMin Inneres",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Berichterstattung (zu Protokoll gegeben)",
+            "SEITE": "530C-531A/Anl"
+          },
+          {
+            "VORNAME": "Alfred",
+            "NACHNAME": "Sauter",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "StSekr Bundesangel",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "531B/Anl"
+          }
+        ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "509D",
           "BESCHLUSSTENOR": "Zustimmung - gem.Art.84 Abs.1 GG"
