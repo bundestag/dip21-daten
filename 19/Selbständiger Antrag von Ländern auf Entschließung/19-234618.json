@@ -4,8 +4,11 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur Schließung der Förderlücke für ausbildungs-/ studienwillige Personen mit Aufenthaltsgestattung oder Duldung und Voraufenthaltszeiten von mehr als 15 Monaten",
-    "INITIATIVE": "Baden-Württemberg",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "INITIATIVE": [
+      "Baden-Württemberg",
+      "Hamburg"
+    ],
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +17,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0123-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "122C - 123B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.122"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "122C - 123B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.122"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Ausländerpolitik, Zuwanderung",
@@ -40,7 +50,7 @@
     "VORGANGSPOSITION": [
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Länderantrag,  Urheber : Baden-Württemberg ",
+        "URHEBER": "Länderantrag,  Urheber : Baden-Württemberg und Hamburg ",
         "FUNDSTELLE": "18.04.2018 - BR-Drucksache 123/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0123-18.pdf",
         "ZUWEISUNG": [
@@ -81,6 +91,21 @@
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "123/18"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 5",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "123/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.06.2018 - BR-Drucksache 123/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0123-18B.pdf"
       }
     ]
   }

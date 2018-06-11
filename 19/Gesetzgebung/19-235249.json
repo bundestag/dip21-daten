@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Kindergeldrechts",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I002",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 171/18)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "171/18",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0171-18.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "968"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -32,11 +37,22 @@
     "ABSTRAKT": "Beseitigung eines vom EU-Recht nicht beabsichtigten und nicht gerechtfertigten Missverhältnisses bei Notwendigkeit und Angemessenheit betr Kindergeldzahlungen in das EU-Ausland: Anpassung der Höhe des Kindergeldes an die tatsächlichen Lebenshaltungskosten des Wohnsitzstaates durch Anwendung der im Einkommenssteuerrecht zur Ermittlung ausländischer Lebensverhältnisse bereits verwendeten Ländergruppeneinteilung des BMF; \r\nÄnderung § 66 Einkommensteuergesetz und § 6 Bundeskindergeldgesetz \r\n \r\nBezug: Entscheidung des Europäischen Gerichtshofs vom 12. Juni 2012 zum Kindergeldanspruch von EU-Bürgern bei Wohnsitz der Kinder im EU-Ausland (C-611/10 Hudzinski, C-612/10 Wawrzyniak)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
-      "FUNDSTELLE": "07.05.2018 - BR-Drucksache 171/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0171-18.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
+        "FUNDSTELLE": "07.05.2018 - BR-Drucksache 171/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0171-18.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 2",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "171/18"
+        }
+      }
+    ]
   }
 }

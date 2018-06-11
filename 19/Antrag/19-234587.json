@@ -10,7 +10,7 @@
       "Fraktion der FDP",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -27,13 +27,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/021/1902115.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/27",
-      "PLPR_SEITEN": "2483A - 2493D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2483"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/27",
+        "PLPR_SEITEN": "2483A - 2493D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19027.pdf#P.2483"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/36",
+        "PLPR_SEITEN": "3477A - 3487B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3477"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -219,6 +228,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.06.2018 - BT-Plenarprotokoll 19/36, S. 3477A - 3487B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3477"
       }
     ]
   }

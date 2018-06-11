@@ -8,10 +8,11 @@
       "Berlin",
       "Brandenburg",
       "Bremen",
+      "Hamburg",
       "Hessen",
       "Thüringen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -20,13 +21,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0110-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "107C - 111A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.107"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "107C - 111A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.107"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
@@ -46,7 +54,7 @@
     "VORGANGSPOSITION": [
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Länderantrag,  Urheber : Berlin, Brandenburg, Bremen, Hessen, Thüringen ",
+        "URHEBER": "Länderantrag,  Urheber : Berlin, Brandenburg, Bremen, Hessen, Thüringen und Hamburg ",
         "FUNDSTELLE": "10.04.2018 - BR-Drucksache 110/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0110-18.pdf",
         "ZUWEISUNG": [
@@ -128,6 +136,21 @@
         "FUNDSTELLE": "05.06.2018 - BR-Drucksache 110/2/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0110-2-18.pdf",
         "VP_ABSTRAKT": "Änderungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 9",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "110/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.06.2018 - BR-Drucksache 110/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0110-18B.pdf"
       }
     ]
   }

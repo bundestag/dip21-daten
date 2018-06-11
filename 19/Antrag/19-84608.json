@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Die Erwerbsminderungsrente stärken",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/31",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900031.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/36",
+      "PLPR_SEITEN": "3523B - 3531C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3523"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Soziale Sicherung",
@@ -27,28 +34,36 @@
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs: Abschaffung der Rentenabschläge wegen Erwerbsminderung für gegenwärtige und zukünftige Empfänger sowie Verlängerung der Zurechnungszeit für Erwerbsminderungsrenten in einem Schritt vom 62. auf das 65. Lebensjahr zum 1. Juli 2018"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "03.11.2017 - BT-Drucksache 19/31",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900031.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Matthias W.",
-          "NACHNAME": "Birkwald",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Sabine",
-          "NACHNAME": "Zimmermann",
-          "WAHLKREISZUSATZ": "Zwickau",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "03.11.2017 - BT-Drucksache 19/31",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900031.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.06.2018 - BT-Plenarprotokoll 19/36, S. 3523B - 3531C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3523"
+      }
+    ]
   }
 }

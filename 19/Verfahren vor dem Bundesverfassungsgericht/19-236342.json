@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
     "TITEL": "Übersicht 2 des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) über die dem Deutschen Bundestag zugeleiteten Streitsachen vor dem Bundesverfassungsgericht",
     "INITIATIVE": "Ausschuss für Recht und Verbraucherschutz",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/2563",
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902563.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/36",
+      "PLPR_SEITEN": "3405B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3405"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -22,11 +29,19 @@
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
-      "FUNDSTELLE": "06.06.2018 - BT-Drucksache 19/2563",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902563.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "06.06.2018 - BT-Drucksache 19/2563",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902563.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.06.2018 - BT-Plenarprotokoll 19/36, S. 3405B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3405"
+      }
+    ]
   }
 }

@@ -28,13 +28,20 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0150-18.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/26",
-      "PLPR_SEITEN": "2346C - 2346D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19026.pdf#P.2346"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/26",
+        "PLPR_SEITEN": "2346C - 2346D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19026.pdf#P.2346"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
@@ -168,6 +175,21 @@
             "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 42",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "150/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.06.2018 - BR-Drucksache 150/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0150-18B.pdf"
       }
     ]
   }

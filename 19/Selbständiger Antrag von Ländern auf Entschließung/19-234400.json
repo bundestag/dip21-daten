@@ -17,13 +17,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0111-18(neu).pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "118D - 120A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.118"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "118D - 120A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.118"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
@@ -88,6 +95,15 @@
         "FUNDSTELLE": "28.05.2018 - BR-Drucksache 111/1/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0111-1-18.pdf",
         "VP_ABSTRAKT": "Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 7",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "111/18(neu)"
+        }
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Gesetzes über Urheberrecht und verwandte Schutzrechte",
     "INITIATIVE": "Sachsen",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Einbringung beschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C025",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 137/18)",
@@ -15,13 +15,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0137-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "118A - 118D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.118"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "118A - 118D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.118"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -84,6 +91,21 @@
         "FUNDSTELLE": "25.05.2018 - BR-Drucksache 137/1/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0137-1-18.pdf",
         "VP_ABSTRAKT": "Einbringung - R: zus. Bestellung eines Beauftragten"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 3",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Einbringung; Bestellung eines Beauftragten",
+          "BEZUGSDOKUMENT": "137/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.06.2018 - BR-Drucksache 137/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0137-18B.pdf"
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Aufenthaltsgesetzes",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B020",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/2523)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/2523",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902523.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/36",
+      "PLPR_SEITEN": "3343A - 3356A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3343"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
@@ -27,27 +34,153 @@
     "ABSTRAKT": "Verlängerung der Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten für weitere zwei Jahre bei Wiederzulassung des Familiennachzugs in bestimmten Ausnahmefällen, d.h. unter Berücksichtigung der Umstände des Einzelfalls, insb. individueller Härtefälle sowie der Integrationsleistung; \r\nÄnderung § 104 Aufenthaltsgesetz \r\n \r\nBezug: Wiedervorlage des Gesetzentwurfs auf BT-Drs 19/425 (GESTA B008) \r\nSiehe auch GESTA B016 und B019"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "05.06.2018 - BT-Drucksache 19/2523",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902523.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Lindner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "05.06.2018 - BT-Drucksache 19/2523",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902523.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.06.2018 - BT-Plenarprotokoll 19/36, S. 3343A - 3356A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3343",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Seehofer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3343C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Baumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3344D"
+          },
+          {
+            "VORNAME": "Burkhard",
+            "NACHNAME": "Lischka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3346C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3347C"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3348C"
+          },
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3349C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Stephan",
+            "NACHNAME": "Harbarth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3351A"
+          },
+          {
+            "VORNAME": "Filiz",
+            "NACHNAME": "Polat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "3351D"
+          },
+          {
+            "VORNAME": "Sönke",
+            "NACHNAME": "Rix",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3352C"
+          },
+          {
+            "VORNAME": "Linda",
+            "NACHNAME": "Teuteberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3353B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frauke",
+            "NACHNAME": "Petry",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3354A"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Throm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3354C"
+          },
+          {
+            "VORNAME": "Annalena",
+            "NACHNAME": "Baerbock",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "3555B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "3356A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/2523"
         },
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Thomae",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
-      ]
-    }
+      }
+    ]
   }
 }

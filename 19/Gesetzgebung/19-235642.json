@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Strafgesetzbuches - Verbesserung des strafrechtlichen Schutzes bei Rauschtaten",
     "INITIATIVE": "Sachsen",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C028",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 204/18)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "204/18",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-18.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "968"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -28,20 +33,31 @@
     "ABSTRAKT": "Sicherstellung des Gebots des gerechten Strafens sowie der positiven Generalprävention bei Straftaten unter Einfluss von Alkohol oder anderen Rauschmitteln: Regelhafter Ausschluss der Strafmilderung bei Straftaten im Zustand eines in vorwerfbarer Weise selbstverschuldeten Rausches, Abschaffung der eigenständigen Strafandrohung des Vollrausches bei rauschbedingter Schuldunfähigkeit unter milderungsfähigem Rückgriff auf die Strafandrohung der begangenen Tat; Anhebung des Strafrahmens der Fahrlässigen Tötung in Fällen von Leichtfertigkeit; Zuständigkeit des Schwurgerichts bei im Vollrausch begangenen Verbrechen; \r\nÄnderung §§ 21 und 323a sowie 222 Strafgesetzbuch und § 74 Gerichtsverfassungsgesetz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Sachsen ",
-      "FUNDSTELLE": "23.05.2018 - BR-Drucksache 204/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-18.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Sachsen ",
+        "FUNDSTELLE": "23.05.2018 - BR-Drucksache 204/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 4",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "204/18"
         }
-      ]
-    }
+      }
+    ]
   }
 }

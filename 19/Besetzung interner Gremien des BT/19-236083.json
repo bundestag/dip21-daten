@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
     "TITEL": "Wahl von Mitgliedern des Gremiums gemäß § 3 des Bundesschuldenwesengesetzes",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/2441",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902441.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/36",
+      "PLPR_SEITEN": "3406D - 3407A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3406"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -22,11 +29,19 @@
     "ABSTRAKT": "Albrecht Glaser, Volker Münz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "04.06.2018 - BT-Drucksache 19/2441",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902441.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "04.06.2018 - BT-Drucksache 19/2441",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902441.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.06.2018 - BT-Plenarprotokoll 19/36, S. 3406D - 3407A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19036.pdf#P.3406"
+      }
+    ]
   }
 }
