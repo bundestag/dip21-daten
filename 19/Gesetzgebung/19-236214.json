@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "N003",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/2508)",
@@ -17,6 +17,13 @@
       "DRS_NUMMER": "19/2508",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902508.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/37",
+      "PLPR_SEITEN": "3620C - 3627D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19037.pdf#P.3620"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -45,11 +52,103 @@
     "ABSTRAKT": "Beseitigung der verfassungsrechtlichen Beanstandungen zur Wiederherstellung des Vertrauensschutzes von Investoren durch Regelung von Ausgleichsansprüchen und des entspr. Verwaltungsverfahrens: Anspruch von Kraftwerksbetreibern auf finanziellen Ausgleich für im Vertrauen auf die Laufzeitverlängerung vom 28. Oktober 2010 bis 16. März 2011 getätigte Investitionen für die Erzeugung zusätzl. Elektrizitätsmengen sowie für ursprünglich den Kernkraftwerken Brunsbüttel, Krümmel und Mülheim-Kärlich zugewiesene bis zum 31.12.2022 nicht erzeugte bzw. nicht auf andere Kraftwerke übertragene Reststrommengen; \r\nEinfügung §§ 7e bis g Atomgesetz sowie Änderung § 48 Verwaltungsgerichtsordnung \r\n \r\nBezug: Entscheidung des Bundesverfassungsgerichtes vom 6. Dezember 2016 betr. Verfassungsmäßigkeit des Dreizehnten Gesetzes zur Änderung des Atomgesetzes zur Beschleunigung des Atomausstiegs \r\nDer Gesetzentwurf ist textidentisch mit der Regierungsvorlage auf BR-Drs 205/18 GESTA N002"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "05.06.2018 - BT-Drucksache 19/2508",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902508.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "05.06.2018 - BT-Drucksache 19/2508",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/025/1902508.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "08.06.2018 - BT-Plenarprotokoll 19/37, S. 3620C - 3627D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19037.pdf#P.3620",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Schwarzelühr-Sutter",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3620D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Kraft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3621D"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Möring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3623A"
+          },
+          {
+            "VORNAME": "Judith",
+            "NACHNAME": "Skudelny",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3624C"
+          },
+          {
+            "VORNAME": "Hubertus",
+            "NACHNAME": "Zdebel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3625B"
+          },
+          {
+            "VORNAME": "Sylvia",
+            "NACHNAME": "Kotting-Uhl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3626A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nina",
+            "NACHNAME": "Scheer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "3627A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "3627D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/2508"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

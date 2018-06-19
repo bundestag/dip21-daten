@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "962",
-      "PLPR_SEITEN": "448A - 449B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/962.pdf#P.448"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "962",
+        "PLPR_SEITEN": "448A - 449B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/962.pdf#P.448"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/37",
+        "PLPR_SEITEN": "3666B - 3666D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19037.pdf#P.3666"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 12211/17",
     "SCHLAGWORT": [
       "Europäische Union",
@@ -143,6 +152,13 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "08.06.2018 - BT-Plenarprotokoll 19/37, S. 3666B - 3666D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19037.pdf#P.3666",
+        "VP_ABSTRAKT": "S. 3666B - Kenntnisnahme"
       }
     ]
   }

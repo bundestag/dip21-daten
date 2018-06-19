@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Stärkung der direkten Demokratie im Grundgesetz",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B003",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/16)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/16",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900016.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/39",
+      "PLPR_SEITEN": "3890A - 3899B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19039.pdf#P.3890"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -46,28 +53,36 @@
     "ABSTRAKT": "Einführung direktdemokratischer Entscheidungen durch Volksinitiative, Volksbegehren und Volksentscheid, Organisation und Ablauf, Rechtschutz beim BVerfG, Erfordernis einer Volksabstimmung für Verträge zur Änderung des europäischen Primärrechts oder vergleichbarer Verträge, Ausweitung des aktiven Wahlrechtes (Absenkung des Alters, Ausländerwahlrecht nach 5 Aufenthaltsjahren); \r\nÄnderung Art. 23, 38, 76, 77 und 79 sowie Einfügung Art. 82a bis 82d Grundgesetz \r\n \r\nBezug: Wiedervorlage des grundgesetzändernden Teils des Gesetzentwurfs auf BT-Drs 18/825 (GESTA 18. WP B009) in geänderter Fassung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "24.10.2017 - BT-Drucksache 19/16",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900016.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Petra",
-          "NACHNAME": "Pau",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Dietmar",
-          "NACHNAME": "Bartsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "24.10.2017 - BT-Drucksache 19/16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900016.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dietmar",
+            "NACHNAME": "Bartsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "14.06.2018 - BT-Plenarprotokoll 19/39, S. 3890A - 3899B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19039.pdf#P.3890"
+      }
+    ]
   }
 }
