@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Legitimität der Präsidentschaftswahlen in Kenia",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2353",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902353.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2353",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902353.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2882",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -31,27 +38,34 @@
     "ABSTRAKT": "Dienstliche Auslandsreisen nach Kenia von Mitgliedern der Bundesregierung in der 19. WP, Ermordung eines Mitglieds der kenianischen Wahlkommission, Legitimität der Wahl Uhuru Kenyattas zum Präsidenten Kenias, Bedrohung der Unabhängigkeit der Justiz, Beteiligung der Firma Cambridge Analytica an Wahlkämpfen, Umgang mit Oppositionellen, Todesfälle bei politischen Protesten, Einsatz deutscher Rüstungsgüter, Aktivitäten deutscher Polizeibeamter als Sicherheitsberater, Maßnahmen der Bundesregierung in den Bereichen Flüchtlingshilfe, Förderung von Rechtsstaatlichkeit und Krisenfrüherkennung \r\n(insgesamt 16 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "28.05.2018 - BT-Drucksache 19/2353",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902353.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Liebich",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Kathrin",
-          "NACHNAME": "Vogler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "28.05.2018 - BT-Drucksache 19/2353",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902353.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Liebich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "20.06.2018 - BT-Drucksache 19/2882"
+      }
+    ]
   }
 }

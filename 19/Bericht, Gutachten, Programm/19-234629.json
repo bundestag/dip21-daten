@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901764.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "968",
-      "PLPR_SEITEN": "181A - 181D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.181"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "181A - 181D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.181"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/40",
+        "PLPR_SEITEN": "4030C - 4031A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19040.pdf#P.4030"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Europapolitik und Europäische Union",
     "SCHLAGWORT": [
@@ -114,6 +123,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "08.06.2018 - BR-Drucksache 129/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0129-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "15.06.2018 - BT-Plenarprotokoll 19/40, S. 4030C - 4031A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19040.pdf#P.4030",
+        "VP_ABSTRAKT": "S. 4030D - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

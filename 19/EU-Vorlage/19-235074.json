@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die Ermöglichung der digitalen Umgestaltung der Gesundheitsversorgung und Pflege im digitalen Binnenmarkt, die aufgeklärte Mitwirkung der Bürger und den Aufbau einer gesünderen Gesellschaft\r\nKOM(2018) 233 endg.",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die Ermöglichung der digitalen Umgestaltung der Gesundheitsversorgung und Pflege im digitalen Binnenmarkt, die aufgeklärte Mitwirkung der Bürger und den Aufbau einer gesünderen Gesellschaft \r\nKOM(2018) 233 endg.; Ratsdok. 6451/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "157/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0157-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "157/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0157-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2623",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
@@ -75,6 +83,27 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "08.06.2018 - BR-Drucksache 157/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0157-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2623, Nr. A.24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
       }
     ]
   }

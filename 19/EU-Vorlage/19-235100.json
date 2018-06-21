@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Künstliche Intelligenz für Europa\r\nKOM(2018) 237 endg.",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nKünstliche Intelligenz für Europa \r\nKOM(2018) 237 endg.; Ratsdok. 8507/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "158/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0158-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "158/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0158-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2623",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
@@ -89,6 +97,30 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "08.06.2018 - BR-Drucksache 158/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0158-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2623, Nr. A.19",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
       }
     ]
   }

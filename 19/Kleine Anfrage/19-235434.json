@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bundeswehrmandat Sea Guardian",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2153",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/021/1902153.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2153",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/021/1902153.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2860",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -42,27 +49,34 @@
     "ABSTRAKT": "Berichterstattung zu Tätigkeiten der NATO-geführten Maritimen Sicherheitsoperation, Verhaltenskodex beteiligter Personen, geopolitisches Interesse, Operationsgebiet, Zahlenangaben zum Einsatz 2016-2018: Schiffsdurchsuchungen, terrorismusverdächtige Vorfälle, Verhaftung von Schleppern und Waffenschmugglern, Sicherstellung von Waffen, Teilnahme an Seenotrettungseinsätzen; Kooperation mit EU-Missionen bzw. EU-Agenturen, Zusammenarbeit mit Libyen, Seenotrettung durch die libysche Küstenwache, Beachtung des Prinzips der Nicht-Zurückweisung (Refoulement-Verbot), Umgang mit zivilen Seenotrettungsorganisationen, Position zum mandatsbezogenen Erfolg des Einsatzes, Mandatsende \r\n(insgesamt 38 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "16.05.2018 - BT-Drucksache 19/2153",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/021/1902153.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Michel",
-          "NACHNAME": "Brandt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Zaklin",
-          "NACHNAME": "Nastic",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "16.05.2018 - BT-Drucksache 19/2153",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/021/1902153.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michel",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Zaklin",
+            "NACHNAME": "Nastic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "19.06.2018 - BT-Drucksache 19/2860"
+      }
+    ]
   }
 }

@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Rates zur Festlegung des Mehrjährigen Finanzrahmens für die Jahre 2021 bis 2027\r\nKOM(2018) 322 endg.",
+    "TITEL": "Vorschlag für eine Verordnung des Rates zur Festlegung des Mehrjährigen Finanzrahmens für die Jahre 2021 bis 2027 \r\nKOM(2018) 322 endg.; Ratsdok. 8354/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "167/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "167/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2623",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
+      }
+    ],
     "EU_DOK_NR": "Kom. (2018) 322 endg.",
     "SCHLAGWORT": [
       "EU-Haushalt",
@@ -23,26 +31,49 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-      "FUNDSTELLE": "03.05.2018 - BR-Drucksache 167/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "03.05.2018 - BR-Drucksache 167/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2623, Nr. A.27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

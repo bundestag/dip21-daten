@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "966",
-      "PLPR_SEITEN": "92A - 93D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.92"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "92A - 93D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.92"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/40",
+        "PLPR_SEITEN": "4031A - 4031D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19040.pdf#P.4031"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 16018/17, Kom. (2017) 797 endg.",
     "SCHLAGWORT": [
       "Arbeitsbedingungen",
@@ -129,6 +138,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "23.03.2018 - BR-Drucksache 777/17(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0777-17B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.06.2018 - BT-Plenarprotokoll 19/40, S. 4031A - 4031D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19040.pdf#P.4031",
+        "VP_ABSTRAKT": "S. 4031A - Kenntnisnahme"
       }
     ]
   }

@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Globaler Pakt für Migration (Nachfrage zu der Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/1751)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2385",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902385.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2385",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902385.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2883",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -31,18 +38,25 @@
     "ABSTRAKT": "Nachfragen zum Entschließungsantrag des Europäischen Parlaments betr. Fortschritt beim globalen Pakt für Migration (GCM - Global Compact for Safe, Orderly and Regular Migration): Umsetzung des GCM auf nationaler Ebene, gesellschaftlicher Nutzen von Migration in Zielländern; Kosten des GCM, Unterschied zum Resettlement- und Relocation-Programm, Behandlung des Relocation-Programms im Deutschen Bundestag, Haushaltsmittel, Verhinderung einer Neuansiedlung von Flüchtlingen aus anderen EU-Staaten nach Deutschland \r\n(insgesamt 15 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "30.05.2018 - BT-Drucksache 19/2385",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902385.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Martin",
-        "NACHNAME": "Hebner",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "30.05.2018 - BT-Drucksache 19/2385",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902385.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Martin",
+          "NACHNAME": "Hebner",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "20.06.2018 - BT-Drucksache 19/2883"
       }
-    }
+    ]
   }
 }
