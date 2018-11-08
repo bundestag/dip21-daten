@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Realistische Zielvorgaben zur Einführung der Telematikinfrastruktur",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -16,32 +16,65 @@
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
-    "SCHLAGWORT": "Gesundheitstelematik",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Arzthonorar",
+      "Arztpraxis",
+      "Bericht der Bundesregierung",
+      "Datenaustausch",
+      "Elektronische Gesundheitskarte",
+      "Gesundheitstelematik",
+      "Medizinische Einrichtung"
+    ],
+    "ABSTRAKT": "Fristverlängerung zur Einführung vom BSI zertifizierter Kartenlesegeräte und Konnektoren mindestens bis zum 1. Juli 2019, Rücknahme der Vergütungskürzungen bei verspäteter Einführung für Ärzte, Einrichtungen und Zahnärzte, stattdessen angemessene Sanktionierung bei dauerhaft verweigerter Teilnahme, Berichterstattung bis 31. Oktober 2018"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "12.06.2018 - BT-Drucksache 19/2692",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902692.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Wieland",
-          "NACHNAME": "Schinnenburg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "13.06.2018 - BT-Drucksache 19/2692",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902692.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Grigorios",
+            "NACHNAME": "Aggelidis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "27.09.2018 - BT-Plenarprotokoll 19/52, S. 5462A - 5464C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5462",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5464C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/2692"
         },
-        {
-          "VORNAME": "Grigorios",
-          "NACHNAME": "Aggelidis",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

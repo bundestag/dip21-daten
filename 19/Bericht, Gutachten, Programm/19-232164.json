@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
-    "TITEL": "Jahresbericht 2017 (59. Bericht) des Wehrbeauftragten",
+    "TITEL": "Jahresbericht 2017 (59. Bericht)",
     "INITIATIVE": "Wehrbeauftr. des Deutschen Bundestages",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/700",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900700.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/700",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/007/1900700.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5126",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/051/1905126.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -48,7 +56,7 @@
       "Wehrmaterial",
       "Wehrtechnik"
     ],
-    "ABSTRAKT": "Innere Führung auf dem Prüfstand, Traditionspflege, Ausstattungslage der Bundeswehr, Soldatenalltag, Frauen in der Bundeswehr, Auslandseinsätze, Rechtsverstöße und Rechtspflege, Vereinbarkeit von Privatleben und Dienst, Sanitätsdienst und Gesundheit, Statistik"
+    "ABSTRAKT": "Innere Führung auf dem Prüfstand, Traditionspflege, Ausstattungslage der Bundeswehr, Soldatenalltag, Frauen in der Bundeswehr, Auslandseinsätze, Rechtsverstöße und Rechtspflege, Vereinbarkeit von Privatleben und Dienst, Sanitätsdienst und Gesundheit, Statistik \r\n \r\n Beschlussempfehlung des Ausschusses:  Kenntnisnahme der Vorlage; Annahme einer Entschließung: Prüfung und Beachtung der Empfehlungen des Wehrbeauftragten, Weitergabe an die Truppe, Berichterstattung an den Verteidigungsausschuss des Deutschen Bundestages über Ergebnisse und vollzogene Maßnahmen bis zum 19. März 2019"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -235,6 +243,60 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Verteidigungsausschuss ",
+        "FUNDSTELLE": "18.10.2018 - BT-Drucksache 19/5126",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/051/1905126.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Berengar",
+            "NACHNAME": "Elsner von Gronow",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Josip",
+            "NACHNAME": "Juratovic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Anita",
+            "NACHNAME": "Schäfer",
+            "WAHLKREISZUSATZ": "Saalstadt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
       }
     ]
   }

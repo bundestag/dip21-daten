@@ -3,31 +3,59 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Einsatz der Bundeswehr im Inland",
+    "TITEL": "Einsatz der Bundeswehr im Inland\r\n(Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/2556)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2853",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2853",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902853.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3277",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/032/1903277.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Innere Sicherheit"
+    ],
+    "SCHLAGWORT": [
+      "Bundesministerium der Verteidigung",
+      "Bundeswehreinsatz im Inland",
+      "Islamismus",
+      "Studie"
+    ],
+    "ABSTRAKT": "Nachfrage zu BT-Drs 19/2556; Beteiligung des BMVg an Erarbeitung von Studien zum Thema Islamismus bzw. Dschihadismus in Deutschland \r\n(insgesamt 1 Einzelfrage)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "19.06.2018 - BT-Drucksache 19/2853",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Gerold",
-        "NACHNAME": "Otten",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "19.06.2018 - BT-Drucksache 19/2853",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902853.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Gerold",
+          "NACHNAME": "Otten",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "05.07.2018 - BT-Drucksache 19/3277",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/032/1903277.pdf"
       }
-    }
+    ]
   }
 }

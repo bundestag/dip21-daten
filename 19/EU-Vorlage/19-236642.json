@@ -20,10 +20,14 @@
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": {
       "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung: Keine Ausschussüberweisung,  Urheber : Bundestag ",
+      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
       "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2623, Nr. A.16",
       "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf",
       "ZUWEISUNG": [
+        {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        },
         {
           "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
         },
@@ -32,9 +36,6 @@
         },
         {
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
         }
       ]
     }

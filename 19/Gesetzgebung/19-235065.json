@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Abkommen vom 7. Dezember 2017 zwischen der Regierung der Bundesrepublik Deutschland und dem Europäischen Forstinstitut über die Errichtung eines Büros des Europäischen Forstinstituts in der Bundesrepublik Deutschland",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XF001",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 146/18)",
@@ -21,15 +21,37 @@
         "DRS_NUMMER": "19/2858",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902858.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4591",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/045/1904591.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "968",
-      "PLPR_SEITEN": "170A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "170A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/42",
+        "PLPR_SEITEN": "4178A - 4178D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19042.pdf#P.4178"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung und Schlussabstimmung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/55",
+        "PLPR_SEITEN": "5938B - 5938C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5938"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -67,6 +89,7 @@
         "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 16, S. 170A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "170A",
           "BESCHLUSSTENOR": "keine Einwendungen",
           "BEZUGSDOKUMENT": "146/18",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -83,6 +106,103 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
         "FUNDSTELLE": "19.06.2018 - BT-Drucksache 19/2858",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902858.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "28.06.2018 - BT-Plenarprotokoll 19/42, S. 4178A - 4178D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19042.pdf#P.4178",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4178D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/2858"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "27.09.2018 - BT-Drucksache 19/4591",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/045/1904591.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karlheinz",
+            "NACHNAME": "Busen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Felser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Alois",
+            "NACHNAME": "Gerig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Wiese",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung und Schlussabstimmung",
+        "FUNDSTELLE": "11.10.2018 - BT-Plenarprotokoll 19/55, S. 5938B - 5938C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5938",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Kirsten",
+          "NACHNAME": "Tackmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "SEITE": "6140A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5938C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/2858"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.11.2018 - BR-Drucksache 537/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0537-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
       }
     ]
   }

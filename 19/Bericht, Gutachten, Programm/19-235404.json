@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "18/13001",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/130/1813001.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "18/13001",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/130/1813001.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2427",
+        "DRS_TYP": "Beschlussempfehlung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902427.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "Beratung",
@@ -126,6 +134,13 @@
         "PLPR_NUMMER": "19/34",
         "PLPR_SEITEN": "3232D - 3256C",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19034.pdf#P.3232"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/46",
+        "PLPR_SEITEN": "4912C - 4912D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19046.pdf#P.4912"
       }
     ],
     "EU_DOK_NR": "",
@@ -2589,10 +2604,29 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Beratung",
+        "URHEBER": "Nachtrag: Beratung",
         "FUNDSTELLE": "06.06.2018 - BT-Plenarprotokoll 19/35, S. 3317C - 3318D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19035.pdf#P.3317",
-        "VP_ABSTRAKT": "Neudruck des Redebeitrags der Abg Malsack-Winkemann (AfD) (PlPr 19/34 S. 3222Cf)"
+        "VP_ABSTRAKT": "Neudruck des Redebeitrags der Abg Malsack-Winkemann (AfD) (PlPr 19/34, S. 3222C)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "30.06.2018 - BT-Drucksache 19/2427",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902427.pdf",
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.07.2018 - BT-Plenarprotokoll 19/46, S. 4912C - 4912D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19046.pdf#P.4912",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4912D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "18/13001",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
       }
     ]
   }

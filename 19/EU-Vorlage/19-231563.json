@@ -40,13 +40,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902673.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "127B - 128D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.127"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "127B - 128D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.127"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/53",
+        "PLPR_SEITEN": "5804D - 5805C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 14217/17, Kom. (2017) 676 endg.",
     "SACHGEBIET": [
       "Umwelt",
@@ -170,7 +179,7 @@
             "AKTIVITAETSART": "Antrag"
           }
         ],
-        "VP_ABSTRAKT": "Antrag der Fraktion B90/GR \"CO2-Vorgaben für neue Pkw und leichte Nutzfahrzeuge am Pariser Klimaabkommen ausrichten - Deutschlands Klimaziele im Verkehrsbereich einhalten\" - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/2110 (Typ Antrag)"
+        "VP_ABSTRAKT": "Antrag der Fraktion B90/GR \"CO2-Vorgaben für neue Pkw und leichte Nutzfahrzeuge am Pariser Klimaabkommen ausrichten - Deutschlands Klimaziele im Verkehrsbereich einhalten\" (abgelehnt am 27.09.2018, PlPr 19/52, S. 5465D) - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/2110 (Typ Antrag)"
       },
       {
         "ZUORDNUNG": "BT",
@@ -194,7 +203,7 @@
             "AKTIVITAETSART": "Antrag"
           }
         ],
-        "VP_ABSTRAKT": "Antrag der Fraktion FDP \"CO2-Grenzwerte für neue Pkw abschaffen, Klimaziele durch Emissionshandel erreichen\" - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/2673 (Typ Antrag)"
+        "VP_ABSTRAKT": "Antrag der Fraktion FDP \"CO2-Grenzwerte für neue Pkw abschaffen, Klimaziele durch Emissionshandel erreichen\" (abgelehnt am 27.09.2018, PlPr 19/52, S. 5465D) - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/2673 (Typ Antrag)"
       },
       {
         "ZUORDNUNG": "BR",
@@ -229,6 +238,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "27.04.2018 - BR-Drucksache 28/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0028-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "28.09.2018 - BT-Plenarprotokoll 19/53, S. 5804D - 5805C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804",
+        "VP_ABSTRAKT": "S. 5804D - Kenntnisnahme"
       }
     ]
   }

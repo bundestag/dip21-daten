@@ -14,19 +14,54 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0200-18.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "969",
+      "PLPR_SEITEN": "209C - 209D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "VERKUENDUNG": "Verordnung vom 26.07.2018 - Bundesgesetzblatt Teil I 2018 Nr.2910.08.2018 S. 1270 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl118s1270.pdf']",
+    "SACHGEBIET": "Verkehr",
+    "SCHLAGWORT": [
+      "Bundeseisenbahngebührenverordnung",
+      "Eisenbahn-Inbetriebnahmegenehmigungsverordnung",
+      "Eisenbahnrecht",
+      "Eisenbahnverkehrsverwaltung"
+    ],
+    "ABSTRAKT": "Erlass einer Verordnung über die Erteilung von Inbetriebnahmegenehmigungen für das Eisenbahnsystem (Eisenbahn-Inbetriebnahmegenehmigungsverordnung - EIGV), Änderung der Bundeseisenbahngebührenverordnung; \r\nUmbenennung der Transeuropäische-Eisenbahn-Interoperabilitätsverordnung in Eisenbahn-Inbetriebnahmegenehmigungsverordnung, Zusammenführung von Verfahrensvorschriften im Eisenbahnwesen für die Bereiche Infrastruktur und Fahrzeuge, Umsetzung EU-rechtlicher Vorschriften, Beschleunigung von Genehmigungsverfahren, Regelung von Verantwortlichkeiten"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
-      "FUNDSTELLE": "23.05.2018 - BR-Drucksache 200/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0200-18.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "23.05.2018 - BR-Drucksache 200/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0200-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.07.2018 - BR-Plenarprotokoll 969, TOP 42, S. 209C - 209D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "209D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "200/18",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.07.2018 - BR-Drucksache 200/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0200-18B.pdf"
       }
-    }
+    ]
   }
 }

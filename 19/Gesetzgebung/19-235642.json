@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Strafgesetzbuches - Verbesserung des strafrechtlichen Schutzes bei Rauschtaten",
     "INITIATIVE": "Sachsen",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Einbringung abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C028",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 204/18)",
@@ -15,13 +15,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "968",
-      "PLPR_SEITEN": "165D - 166C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.165"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "165D - 166C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.165"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "214C - 215B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.214"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -66,9 +75,43 @@
           "SEITE": "165D"
         },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "166C",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "204/18"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "22.06.2018 - BR-Drucksache 204/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-1-18.pdf",
+        "VP_ABSTRAKT": "Einbringung - R: zus. Bestellung eines Beauftragten"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.07.2018 - BR-Plenarprotokoll 969, TOP 7, S. 214C - 215B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.214",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Sebastian",
+          "NACHNAME": "Gemkow",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Staatsminister der Justiz",
+          "BUNDESLAND": "Sachsen",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "214D"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "215B",
+          "BESCHLUSSTENOR": "Ablehnung der Einbringung",
+          "BEZUGSDOKUMENT": "204/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.07.2018 - BR-Drucksache 204/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0204-18B.pdf"
       }
     ]
   }

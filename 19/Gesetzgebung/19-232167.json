@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über Vorrechte, Immunitäten, Befreiungen und Erleichterungen in der Bundesrepublik Deutschland als Gaststaat internationaler Einrichtungen (Gaststaatgesetz)",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "A002",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 49/18)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901719.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "965",
-      "PLPR_SEITEN": "52A - 52B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.52"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "965",
+        "PLPR_SEITEN": "52A - 52B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/965.pdf#P.52"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/52",
+        "PLPR_SEITEN": "5462A - 5464C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5462"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -71,6 +80,35 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
         "FUNDSTELLE": "18.04.2018 - BT-Drucksache 19/1719\nAnl. Stellungnahme der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901719.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "27.09.2018 - BT-Plenarprotokoll 19/52, S. 5462A - 5464C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5462",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5464C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/1719"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
       }
     ]
   }

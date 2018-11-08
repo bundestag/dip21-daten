@@ -5,14 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Italien und die Maastrichtkriterien zum Euro",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2831",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2831",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902831.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3012",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903012.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -22,22 +31,33 @@
     "SCHLAGWORT": [
       "Europäische Wirtschafts- und Währungsunion",
       "Italien",
+      "Öffentliche Schulden",
+      "Schuldenerlass",
       "Vertrag über die Europäische Union"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Auswirkungen des nach Presseberichten zu erwartenden Austritts Italiens hinsichtlich weiterer Stabilität und Zukunft der Eurozone, Ablehnung italienischer Forderungen bezgl. Schuldenschnitt, Schuldenvergemeinschaftung und damit einer Transferunion \r\n(insgesamt 2 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "18.06.2018 - BT-Drucksache 19/2831",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Armin-Paulus",
-        "NACHNAME": "Hampel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.06.2018 - BT-Drucksache 19/2831",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902831.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Armin-Paulus",
+          "NACHNAME": "Hampel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "27.06.2018 - BT-Drucksache 19/3012",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903012.pdf"
       }
-    }
+    ]
   }
 }

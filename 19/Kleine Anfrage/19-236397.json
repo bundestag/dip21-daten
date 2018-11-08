@@ -5,53 +5,73 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Umgang der Bundesregierung mit steigender Mikroplastik-Belastung in deutschen Gewässern",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2627",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902627.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2627",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902627.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3007",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903007.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
+      "Abfall",
+      "Abwasseraufbereitung",
       "Bioabfall",
       "Datenerhebung",
       "Gewässerschutz",
+      "Kläranlage",
       "Klärschlamm",
       "Kunststoff",
       "Kunststoffprodukt",
       "Kunststoffverpackung",
       "Mikroplastik",
+      "Technischer Fortschritt",
       "Wasserverunreinigung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Datenlage zur anfallenden Mikroplastikmenge, Gewässerbelastung bzw. Kartierungen und Ergebnisse, Vergleich zu früheren Erhebungen, Belastung in anderen europäischen Ländern, Hauptbelastungsquellen, Gegenmaßnahmen, Daten über in Bioabfällen und Klärschlamm befindliche Mikroplastikmengen, mögliche technische (z. B. Klär-) Maßnahmen gegen die Gewässerbelastung sowie Kosten für kommunale Klärwerke, bisherige und geplante Maßnahmen \r\n(insgesamt 11 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2627",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902627.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Christoph",
-          "NACHNAME": "Hoffmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Karlheinz",
-          "NACHNAME": "Busen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "08.06.2018 - BT-Drucksache 19/2627",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902627.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christoph",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Karlheinz",
+            "NACHNAME": "Busen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
+        "FUNDSTELLE": "27.06.2018 - BT-Drucksache 19/3007",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903007.pdf"
+      }
+    ]
   }
 }

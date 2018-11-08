@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "964",
-      "PLPR_SEITEN": "20D - 24C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.20"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "964",
+        "PLPR_SEITEN": "20D - 24C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/964.pdf#P.20"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/43",
+        "PLPR_SEITEN": "4528D - 4529D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19043.pdf#P.4528"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 14977/17, Kom. (2017) 713 endg.",
     "SCHLAGWORT": [
       "Ernährung",
@@ -138,6 +147,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz, Bau und Reaktorsicherheit"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "29.06.2018 - BT-Plenarprotokoll 19/43, S. 4528D - 4529D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19043.pdf#P.4528",
+        "VP_ABSTRAKT": "S. 4528D - Kenntnisnahme"
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Fluggäste bei Insolvenz der Fluggesellschaft besser schützen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -31,28 +31,53 @@
     "ABSTRAKT": "Fehlender Insolvenzschutz für Flugreisende außerhalb von Pauschalreisen: Einrichtung eines staatlichen Entschädigungsfonds für Air-Berlin-Reisende, Einbringung eines Gesetzentwurfs zur Ausweitung der Insolvenzabsicherungspflicht für Reiseveranstalter auf Luftfahrtunternehmen mit Einrichtung eines von ihnen finanzierten Fonds zur Insolvenzrückabsicherung; Hinwirken auf europaweite Versicherungspflicht für Fluggesellschaften gegen Insolvenz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "01.03.2018 - BT-Drucksache 19/1036",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901036.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Amira",
-          "NACHNAME": "Mohamed Ali",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "01.03.2018 - BT-Drucksache 19/1036",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/010/1901036.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Amira",
+            "NACHNAME": "Mohamed Ali",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "11.10.2018 - BT-Plenarprotokoll 19/55, S. 5935D - 5937D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5935",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "5937D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/1036"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gesine",
-          "NACHNAME": "Lötzsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Wohnungsbau entbürokratisieren - Kostenexplosion eindämmen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/1692",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/016/1901692.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1692",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/016/1901692.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3111",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903111.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "Beratung",
@@ -23,7 +31,7 @@
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19026.pdf#P.2331"
       },
       {
-        "PLPR_KLARTEXT": "Ausschussüberweisung",
+        "PLPR_KLARTEXT": "Beratung",
         "PLPR_HERAUSGEBER": "BT",
         "PLPR_NUMMER": "19/29",
         "PLPR_SEITEN": "2620C",
@@ -191,11 +199,11 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Ausschussüberweisung",
+        "URHEBER": "Beratung",
         "FUNDSTELLE": "26.04.2018 - BT-Plenarprotokoll 19/29, S. 2620C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2620",
         "BESCHLUSS": {
-          "BESCHLUSSSEITE": "2620C",
+          "BESCHLUSSSEITE": "2621D",
           "BESCHLUSSTENOR": "Überweisung",
           "BEZUGSDOKUMENT": "19/1692",
           "ABSTIMMUNG_BEMERKUNG": "Änderung der Ausschussüberweisung"
@@ -204,6 +212,59 @@
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen ",
+        "FUNDSTELLE": "02.07.2018 - BT-Drucksache 19/3111",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903111.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Daniel",
+            "NACHNAME": "Föst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Udo Theodor",
+            "NACHNAME": "Hemmelgarn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Tübingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Tausend",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Volkmar",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Kleinsaara",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }

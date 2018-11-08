@@ -8,10 +8,13 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Verabschiedet",
-    "SIGNATUR": "",
+    "AKTUELLER_STAND": "Verkündet",
+    "SIGNATUR": "XIX/7",
     "GESTA_ORDNUNGSNUMMER": "B018",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/2509)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 19/2509)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BT",
@@ -47,9 +50,18 @@
         "PLPR_NUMMER": "19/40",
         "PLPR_SEITEN": "3926D - 3927A",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19040.pdf#P.3926"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "209C - 209D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209"
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 10.07.2018 - Bundesgesetzblatt Teil I 2018 Nr.2513.07.2018 S. 1116 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl118s1116.pdf']",
+    "INKRAFTTRETEN": "14.07.2018",
     "SACHGEBIET": "Politisches Leben, Parteien",
     "SCHLAGWORT": [
       "Bundeswahlgesetz",
@@ -58,7 +70,7 @@
       "Parteiengesetz",
       "Wählervereinigung"
     ],
-    "ABSTRAKT": "Zur Sicherstellung der verfassungsgebotenen Aufgabenerfüllung bei Zunahme der Kosten insbes. Digitalisierung der Kommunikationswege und Medien, neuer innerparteilicher Partizipationsinstrumente und erhöhter Transparenzanforderungen und Rechenschaftsanforderungen Anhebung der absoluten Obergrenze für die staatliche Teilfinanzierung der Parteien von 165 Mio Euro auf 190 Mio im Jahre 2019; einmalige Anhebung der Staatsleistungen für Einzelbewerber und sog. politische Vereinigungen (Europawahl) und Koppelung an die Entwicklung der Parteienfinanzierung; \r\nÄnderung § 18 Parteiengesetz, § 49b Bundeswahlgesetz sowie § 28 Europawahlgesetz"
+    "ABSTRAKT": "Zur Sicherstellung der verfassungsgebotenen Aufgabenerfüllung bei Zunahme der Kosten insbes. durch Digitalisierung der Medien und Kommunikationswege, neue innerparteiliche Partizipationsinstrumente und erhöhte Transparenzanforderungen und Rechenschaftsanforderungen Anhebung der absoluten Obergrenze für die staatliche Teilfinanzierung der Parteien von 165 Mio Euro auf 190 Mio im Jahre 2019; einmalige Anhebung der Staatsleistungen für Einzelbewerber (Bundestagswahl) und sog. politische Vereinigungen (Europawahl) sowie Koppelung an die Entwicklung der Parteienfinanzierung; \r\nÄnderung § 18 Parteiengesetz, § 49b Bundeswahlgesetz sowie § 28 Europawahlgesetz \r\n \r\n Beschlussempfehlung des Ausschusses:  Klarstellung betr Anhebung im Rahmen der Festsetzung 2019 für das Kalenderjahr 2018 \r\nErneute Änderung § 18 Parteiengesetz"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -128,7 +140,8 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "3562A",
           "BESCHLUSSTENOR": "Annahme Geschäftsordnungsantrag"
-        }
+        },
+        "VP_ABSTRAKT": "Antrag der Fraktionen der CDU/CSU und SPD auf Aufsetzung der 1. Beratung auf die Tagesordnung"
       },
       {
         "ZUORDNUNG": "BT",
@@ -500,6 +513,24 @@
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "06.07.2018 - BR-Plenarprotokoll 969, TOP 2, S. 209C - 209D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "209D",
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+          "BEZUGSDOKUMENT": "266/18",
+          "GRUNDLAGE": "Art. 77 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.07.2018 - BR-Drucksache 266/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0266-18B.pdf"
       }
     ]
   }

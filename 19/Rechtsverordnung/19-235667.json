@@ -14,24 +14,63 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0201-18.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "969",
+      "PLPR_SEITEN": "209C - 209D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "VERKUENDUNG": "Verordnung vom 17.07.2018 - Bundesgesetzblatt Teil II 2018 Nr.1401.08.2018 S. 330 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl218s0330.pdf']",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Verkehr"
+    ],
+    "SCHLAGWORT": [
+      "Abfallrecht",
+      "Binnenschifffahrtsrecht",
+      "Gewässerschutz",
+      "Rhein",
+      "Übereinkommen über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt"
+    ],
+    "ABSTRAKT": "Inkraftsetzung der Beschlüsse der Konferenz der Vertragsparteien (KVP), Korrektur von Abweichungen in den verschiedenen Sprachfassungen, Ergänzung der Anwendungsbestimmungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
-      "FUNDSTELLE": "23.05.2018 - BR-Drucksache 201/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0201-18.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "23.05.2018 - BR-Drucksache 201/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0201-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.07.2018 - BR-Plenarprotokoll 969, TOP 43, S. 209C - 209D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "209D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "201/18",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.07.2018 - BR-Drucksache 201/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0201-18B.pdf"
+      }
+    ]
   }
 }

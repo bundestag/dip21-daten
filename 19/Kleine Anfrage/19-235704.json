@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Zukunft der Archive des Bundes",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2301",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902301.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2301",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902301.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2932",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/029/1902932.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Kultur",
@@ -24,37 +32,52 @@
       "Archivgut",
       "Baufinanzierung",
       "Baukosten",
+      "Baumaßnahme",
       "Bausanierung",
+      "Bauvorhaben",
+      "Behördenstandort",
+      "Bestandserhaltung",
       "Bundesarchiv",
       "Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR",
       "Bundesmittel",
       "Digitalisierung",
-      "Öffentliches Gebäude"
+      "Eingruppierung",
+      "Fachkraft",
+      "Öffentliches Gebäude",
+      "Online-Dienst"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Finanzierung mit Bundesmitteln, Standorte, Gebäudezustand, Erfüllung von Anforderungen betr. dauerhafter Archivgutsicherung, Investitionsbedarf, Modernisierungspläne hinsichtlich Digitalisierung, Kosten einer Volldigitalisierung, Zusammenführung von Standorten, Neubau- oder Modernisierungspläne, Gründe für Überführung der Stasi-Unterlagenbehörde in das Bundesarchiv, mittel- und langfristige Bedeutung, Strategie zur Zusammenführung unter dem Dach einer auf Archivwesen spezialisierten Behörde, Umsetzungsstand der Digitalstrategie und vernetzter Onlineangebote, Personaleingruppierung, Fachkräfteausbildung im Hinblick auf den digitalen Wandel \r\n(insgesamt 19 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "24.05.2018 - BT-Drucksache 19/2301",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902301.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Otto",
-          "NACHNAME": "Fricke",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Thomas",
-          "NACHNAME": "Hacker",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "24.05.2018 - BT-Drucksache 19/2301",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/023/1902301.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Otto",
+            "NACHNAME": "Fricke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Beauftr. der Bundesregierung für Kultur und Medien, Bundesregierung ",
+        "FUNDSTELLE": "22.06.2018 - BT-Drucksache 19/2932",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/029/1902932.pdf"
+      }
+    ]
   }
 }

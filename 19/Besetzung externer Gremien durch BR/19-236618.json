@@ -13,6 +13,13 @@
       "DRS_TYP": "Vorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0288-18(neu).pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "969",
+      "PLPR_SEITEN": "209C - 209D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesanwaltschaft",
@@ -21,15 +28,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
-      "FUNDSTELLE": "15.06.2018 - BR-Drucksache 288/18(neu)",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0288-18(neu).pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "15.06.2018 - BR-Drucksache 288/18(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0288-18(neu).pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.07.2018 - BR-Plenarprotokoll 969, TOP 48, S. 209C - 209D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.209",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "209D",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "288/18(neu)"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.07.2018 - BR-Drucksache 288/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0288-18B.pdf"
       }
-    }
+    ]
   }
 }

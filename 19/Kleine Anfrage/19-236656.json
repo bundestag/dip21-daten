@@ -5,30 +5,58 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Beteiligung der Bundesländer an der Außenpolitik",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2830",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2830",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902830.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3218",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/032/1903218.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
+    "SCHLAGWORT": [
+      "Außenpolitik",
+      "Grundgesetz Art. 24",
+      "Grundgesetz Art. 32",
+      "Hoheitsrecht",
+      "Internationales Abkommen",
+      "Länder der Bundesrepublik Deutschland",
+      "Landespolitik"
+    ],
+    "ABSTRAKT": "Übertragung von Hoheitsrechten durch die Bundesländer auf grenznachbarschaftliche Einrichtungen (Art. 24 Abs. 1a GG), Beteiligung der Bundesländer bei Vertragsabschlüssen mit anderen Staaten (Art. 32 Abs. 3 GG) \r\n(insgesamt 4 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "18.06.2018 - BT-Drucksache 19/2830",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr.",
-        "VORNAME": "Anton ",
-        "NACHNAME": "Friesen",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.06.2018 - BT-Drucksache 19/2830",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/028/1902830.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Anton ",
+          "NACHNAME": "Friesen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "04.07.2018 - BT-Drucksache 19/3218",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/032/1903218.pdf"
       }
-    }
+    ]
   }
 }

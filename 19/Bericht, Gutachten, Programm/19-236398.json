@@ -14,6 +14,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902628.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/56",
+      "PLPR_SEITEN": "6242A - 6243A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19056.pdf#P.6242"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -26,11 +33,41 @@
     "ABSTRAKT": "OECD-Leitsätze zur Förderung verantwortungsbewusster Unternehmensführung; deutsche Nationale Kontaktstelle (NKS): Umstrukturierung im BMWi, Zusammenarbeit mit Ressorts und Stakeholdern, \"Peer Review\" zur Überprüfung der Arbeit; Aktivitäten im Berichtszeitraum: Beschwerdeverfahren, Förderung der Umsetzung der Leitsätze, Zusammenarbeit mit ausländischen NKS, der OECD u.a.; Ausblick"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-      "FUNDSTELLE": "04.06.2018 - BT-Drucksache 19/2628",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902628.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "04.06.2018 - BT-Drucksache 19/2628",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902628.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "29.06.2018 - BT-Drucksache 19/3072",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903072.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "12.10.2018 - BT-Plenarprotokoll 19/56, S. 6242A - 6243A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19056.pdf#P.6242",
+        "VP_ABSTRAKT": "S. 6242A - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

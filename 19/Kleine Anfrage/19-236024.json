@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Abschluss von „Sicherheitspartnerschaften“ zwischen der Europäischen Union und Großbritannien",
+    "TITEL": "Abschluss von \"Sicherheitspartnerschaften\" zwischen der Europäischen Union und Großbritannien",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/2436",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902436.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/2436",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902436.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3396",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/033/1903396.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -31,43 +39,58 @@
       "Frontex",
       "Galileo",
       "Gemeinsame Sicherheits- und Verteidigungspolitik",
+      "Grenze",
+      "Grenzkontrolle",
       "Großbritannien",
       "Haftbefehl",
+      "Informationsaustausch",
       "Informationssicherheit",
       "Informationssystem",
+      "Innerstaatliche Umsetzung von EU-Recht",
       "Internationales Abkommen",
       "Militärische Kooperation",
+      "Nachrichtendienst",
       "Nordirland",
       "Personenbezogene Daten",
+      "PNR-Daten",
       "Polizeiliche Zusammenarbeit",
+      "Richtlinie der EU",
       "Satellitennavigation",
       "Schengener Informationssystem",
       "Zusammenarbeit in den Bereichen Justiz und Inneres"
     ],
-    "ABSTRAKT": "EU-Kooperation mit Großbritannien im Bereich Justiz und Inneres, Festschreibung als Abkommen, Vorschläge Großbritanniens, Zeitpläne, Beteiligung Großbritanniens als Nichtmitglied der Europäischen Union an EU-Agenturen, Strafverfolgung, Justiz-Kooperationen sowie an Maßnahmen im Cyberraum, Kooperationen im Bereich der militärischen Zusammenarbeit, Verbleib in der Zollunion, Behandlung der Grenze zwischen Irland und Nordirland, Gültigkeit von EU-Regelungen in Nordirland (Notfallklausel), Ausschluss britischer Firmen aus sicherheitskritischen EU-Projekten; Umsetzung der Fluggastdaten-Richtlinie innerhalb der EU-Staaten, G6-Treffen der Innenminister 2018 - 2019 \r\n(insgesamt 26 Einzelfragen)"
+    "ABSTRAKT": "Beteiligung Großbritanniens an EU-Maßnahmen im Bereich Justiz und Inneres, Festschreibung als Abkommen, Vorschläge Großbritanniens, Zeitpläne, Teilnahme an EU-Agenturen, Beteiligung an Informationssystemen (SIS II, ECRIS, PNR) und an Maßnahmen im Cyberraum, Austausch von Geheimdienstinformationen, Kooperationen im Bereich der militärischen Zusammenarbeit, Verbleib in der Zollunion, Grenzangelegenheiten zw. Irland und Nordirland, Gültigkeit von EU-Regelungen in Nordirland (Notfallklausel), Ausschluss britischer Firmen aus sicherheitskritischen EU-Projekten; Umsetzung der Fluggastdaten-Richtlinie innerhalb der EU-Staaten, G6-Treffen der Innenminister 2018-2019 \r\n(insgesamt 26 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "01.06.2018 - BT-Drucksache 19/2436",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902436.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Andrej",
-          "NACHNAME": "Hunko",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "01.06.2018 - BT-Drucksache 19/2436",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/024/1902436.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "16.07.2018 - BT-Drucksache 19/3396",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/033/1903396.pdf"
+      }
+    ]
   }
 }

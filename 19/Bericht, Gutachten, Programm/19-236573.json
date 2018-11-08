@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/131/1813180.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/39",
-      "PLPR_SEITEN": "3804A - 3804C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19039.pdf#P.3804"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/39",
+        "PLPR_SEITEN": "3804A - 3804C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19039.pdf#P.3804"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/53",
+        "PLPR_SEITEN": "5804C - 5804D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -68,6 +77,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "28.09.2018 - BT-Plenarprotokoll 19/53, S. 5804C - 5804D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804",
+        "VP_ABSTRAKT": "S. 5804C - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Abkommen vom 24. August 2017 zwischen der Bundesrepublik Deutschland und der Republik Kamerun zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen von Luftfahrtunternehmen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XD001",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 149/18)",
@@ -21,6 +21,12 @@
         "DRS_NUMMER": "19/2629",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902629.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3015",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903015.pdf"
       }
     ],
     "PLENUM": [
@@ -37,6 +43,20 @@
         "PLPR_NUMMER": "19/39",
         "PLPR_SEITEN": "3804A - 3804C",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19039.pdf#P.3804"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung und Schlussabstimmung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/42",
+        "PLPR_SEITEN": "4180A - 4180B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19042.pdf#P.4180"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "267 - 267",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.267"
       }
     ],
     "EU_DOK_NR": "",
@@ -71,6 +91,7 @@
         "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 17, S. 170A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "170A",
           "BESCHLUSSTENOR": "keine Einwendungen",
           "BEZUGSDOKUMENT": "149/18",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -102,6 +123,76 @@
           "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "27.06.2018 - BT-Drucksache 19/3015",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/030/1903015.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Binding",
+            "WAHLKREISZUSATZ": "Heidelberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Feiler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Hessel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung und Schlussabstimmung",
+        "FUNDSTELLE": "28.06.2018 - BT-Plenarprotokoll 19/42, S. 4180A - 4180B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19042.pdf#P.4180",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "4180B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/2629"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "31.08.2018 - BR-Drucksache 410/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0410-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "2. Durchgang",
+        "FUNDSTELLE": "21.09.2018 - BR-Plenarprotokoll 970, TOP 3, S. 267 - 267",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.267",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "267",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "410/18",
+          "GRUNDLAGE": "Art. 105 Abs. 3 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "21.09.2018 - BR-Drucksache 410/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0410-18B.pdf"
       }
     ]
   }

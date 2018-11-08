@@ -20,22 +20,40 @@
         "DRS_NUMMER": "19/910",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3173",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903173.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "961",
-      "PLPR_SEITEN": "435B - 435C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "961",
+        "PLPR_SEITEN": "435B - 435C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/53",
+        "PLPR_SEITEN": "5804D - 5805C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11272/17, Kom. (2017) 375 endg.",
     "SCHLAGWORT": [
       "Einfuhr",
       "Einfuhrbeschränkung",
-      "Handel",
+      "Europäische Union",
+      "EU-Staaten",
       "Kulturgut",
-      "Verbrechensbekämpfung",
+      "Kulturgutschutz",
+      "Kunsthandel",
+      "Stellungnahme des Bundestages in EU-Angelegenheiten",
       "Verordnung der EU"
     ],
     "ABSTRAKT": ""
@@ -108,6 +126,36 @@
             "AUSSCHUSS_KLARTEXT": "Innenausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Zugehöriger Vorgang: Antrag zur Mitwirkung des BT in EU-Angelegenheiten,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "03.07.2018 - BT-Drucksache 19/3173",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903173.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hartmut",
+            "NACHNAME": "Ebbing",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag der Fraktion der FDP \"EU-Verordnung zur Einfuhr von Kulturgütern neu verhandeln - Legalen Kunstmarkt nicht behindern\", - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/3173 (Typ Antrag)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "28.09.2018 - BT-Plenarprotokoll 19/53, S. 5804D - 5805C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19053.pdf#P.5804",
+        "VP_ABSTRAKT": "S. 5804D - Kenntnisnahme"
       }
     ]
   }

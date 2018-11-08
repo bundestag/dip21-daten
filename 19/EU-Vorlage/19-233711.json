@@ -22,20 +22,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901780.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "967",
-      "PLPR_SEITEN": "130C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.130"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "130C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.130"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/43",
+        "PLPR_SEITEN": "4528D - 4529D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19043.pdf#P.4528"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 7470/18, Kom. (2018) 144 endg.",
     "SCHLAGWORT": [
       "Gefahrstoff",
       "Luftreinhaltung",
       "Luftverunreinigung",
       "Persistenter organischer Schadstoff",
-      "POPs-Übereinkommen",
+      "POP-Übereinkommen",
       "Schadstoff",
       "Verordnung der EU"
     ],
@@ -112,6 +121,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "27.04.2018 - BR-Drucksache 95/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0095-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "29.06.2018 - BT-Plenarprotokoll 19/43, S. 4528D - 4529D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19043.pdf#P.4528",
+        "VP_ABSTRAKT": "S. 4528D - Kenntnisnahme"
       }
     ]
   }
