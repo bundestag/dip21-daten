@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/072/1807286.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "944",
-      "PLPR_SEITEN": "170A - 170D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/944.pdf#P.170"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "944",
+        "PLPR_SEITEN": "170A - 170D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/944.pdf#P.170"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "170A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 15252/15, Kom. (2015) 635 endg.",
     "SCHLAGWORT": [
       "Elektronischer Handel",
@@ -123,6 +132,31 @@
         "FUNDSTELLE": "29.08.2016 - BR-Drucksache zu169/16(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2016/0169-16B(zu).pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 169/16 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "28.05.2018 - BR-Drucksache 190/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0190-18.pdf",
+        "VP_ABSTRAKT": "EU, R: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "08.06.2018 - BR-Plenarprotokoll 968, TOP 32, S. 170A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.170",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "170A",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "614/15",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "08.06.2018 - BR-Drucksache 190/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0190-18B.pdf"
       }
     ]
   }

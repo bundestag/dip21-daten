@@ -5,7 +5,7 @@
     "VORGANGSTYP": "EU-Vorlage",
     "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: \r\nNach 2015: Auf dem Weg zu einem umfassenden und integrierten Konzept für die Finanzierung von Armutsbeseitigung und nachhaltiger Entwicklung\r\nKOM(2013) 531 endg.; Ratsdok. 12434/13",
     "INITIATIVE": "Europäische Kommission",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "914",
-      "PLPR_SEITEN": "487B - 488C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.487"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "914",
+        "PLPR_SEITEN": "487B - 488C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.487"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/8",
+        "PLPR_SEITEN": "683C - 684D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 12434/13, Kom. (2013) 531 endg.",
     "SCHLAGWORT": [
       "Armut",
@@ -96,6 +105,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
+        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
       }
     ]
   }

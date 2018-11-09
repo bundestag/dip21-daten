@@ -5,7 +5,7 @@
     "VORGANGSTYP": "EU-Vorlage",
     "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nBesserer Schutz der finanziellen Interessen der Union: Errichtung der Europäischen Staatsanwaltschaft und Reform von Eurojust\r\nKOM(2013) 532 endg.; Ratsdok. 12551/13",
     "INITIATIVE": "Bundestag",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,27 +14,43 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/8",
+      "PLPR_SEITEN": "683C - 684D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
+    },
     "EU_DOK_NR": "Ratsdok. 12551/13, Kom. (2013) 532 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.42",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Innenausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "03.02.2014 - BT-Drucksache 18/419, Nr. A.42",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/004/1800419.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Innenausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
+        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
+      }
+    ]
   }
 }

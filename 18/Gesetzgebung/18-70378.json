@@ -19,13 +19,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2015/0550-15.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "939",
-      "PLPR_SEITEN": "452A - 456B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/939.pdf#P.452"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "939",
+        "PLPR_SEITEN": "452A - 456B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/939.pdf#P.452"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "261 - 261",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.261"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -125,6 +134,24 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "456B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "550/15"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "10.09.2018 - BR-Drucksache 439/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0439-18.pdf",
+        "VP_ABSTRAKT": "Vk, Wi: Ablehnung der Einbringung - G, In, Einbringung - U: Einbringung in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "21.09.2018 - BR-Plenarprotokoll 970, TOP 9, S. 261 - 261",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.261",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "261",
+          "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "550/15"
         }
       }

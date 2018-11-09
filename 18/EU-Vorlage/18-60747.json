@@ -8,20 +8,12 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "18/1393",
-        "DRS_TYP": "Unterrichtung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/013/1801393.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "18/2533",
-        "DRS_TYP": "Unterrichtung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/025/1802533.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "18/2533",
+      "DRS_TYP": "Unterrichtung",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/025/1802533.pdf"
+    },
     "EU_DOK_NR": "Ratsdok. 8485/14, Kom. (2014) 172 endg.",
     "ABSTRAKT": ""
   },
@@ -56,7 +48,8 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
             "UEBERWEISUNGSART": "nachträgliche Überweisung"
           }
-        ]
+        ],
+        "VP_ABSTRAKT": "nachträgliche Überweisung an die Ausschüsse"
       }
     ]
   }

@@ -28,13 +28,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/075/1807542.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "941",
-      "PLPR_SEITEN": "32D - 33A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.32"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "941",
+        "PLPR_SEITEN": "32D - 33A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/941.pdf#P.32"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/8",
+        "PLPR_SEITEN": "683C - 684D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683"
+      }
+    ],
     "EU_DOK_NR": "Kom. (2015) 625 endg.",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -182,6 +191,13 @@
           }
         ],
         "VP_ABSTRAKT": "Antrag der Fraktion DIE LINKE (abgelehnt am 18.02.2016, PlPr 18/155 S. 15249C) -  Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 18/7542 (Typ Antrag)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "19.01.2018 - BT-Plenarprotokoll 19/8, S. 683C - 684D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19008.pdf#P.683",
+        "VP_ABSTRAKT": "S. 683C - Kenntnisnahme"
       }
     ]
   }
