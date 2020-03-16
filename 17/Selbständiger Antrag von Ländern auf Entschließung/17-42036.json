@@ -9,7 +9,7 @@
       "Brandenburg",
       "Hamburg"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -18,17 +18,26 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0063-12.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "892",
-      "PLPR_SEITEN": "24D - 29B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/892.pdf#P.24"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "892",
+        "PLPR_SEITEN": "24D - 29B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/892.pdf#P.24"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Recht",
-      "Bildung und Erziehung"
+      "Bildung und Erziehung",
+      "Recht"
     ],
     "SCHLAGWORT": [
       "Bildungsfinanzierung",
@@ -111,6 +120,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "29B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "63/12"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "63/12"
         }
       }

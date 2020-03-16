@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verordnungsantrag der Länder",
     "TITEL": "Entwurf einer Verordnung zur Änderung der Stromgrundversorgungsverordnung und der Gasgrundversorgungsverordnung",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,22 @@
       "DRS_TYP": "Verordnungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0465-13.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "910",
-      "PLPR_SEITEN": "318A - 318B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.318"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "910",
+        "PLPR_SEITEN": "318A - 318B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.318"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -78,6 +87,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "318B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "465/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "465/13"
         }
       }

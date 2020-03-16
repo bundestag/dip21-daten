@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates - Stärkung der Öffentlichkeitsbeteiligung bei Großvorhaben",
     "INITIATIVE": "Baden-Württemberg",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,17 +14,26 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2011/0135-11.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "881",
-      "PLPR_SEITEN": "116B - 117D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/881.pdf#P.116"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "881",
+        "PLPR_SEITEN": "116B - 117D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/881.pdf#P.116"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Raumordnung, Bau- und Wohnungswesen",
-      "Staat und Verwaltung"
+      "Staat und Verwaltung",
+      "Raumordnung, Bau- und Wohnungswesen"
     ],
     "SCHLAGWORT": [
       "Bürgerbeteiligung",
@@ -79,6 +88,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "117D",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "135/11"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "135/11"
         }
       }

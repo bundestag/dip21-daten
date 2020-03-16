@@ -10,7 +10,7 @@
       "Bremen",
       "Rheinland-Pfalz"
     ],
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "XVII/1096",
     "GESTA_ORDNUNGSNUMMER": "G008",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 877/09)",
@@ -20,13 +20,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2009/0877-09.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "865",
-      "PLPR_SEITEN": "467B - 470C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/865.pdf#P.467"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "865",
+        "PLPR_SEITEN": "467B - 470C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/865.pdf#P.467"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Soziale Sicherung",
@@ -115,6 +124,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "470C",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "877/09"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "877/09"
         }
       }

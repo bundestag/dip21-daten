@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur Verringerung der Anzahl durchgeführter Versorgungsunterbrechungen und zur Abmilderung der Folgen steigender Energiekosten",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,17 +14,26 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0467-13.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "910",
-      "PLPR_SEITEN": "318A - 318B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.318"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "910",
+        "PLPR_SEITEN": "318A - 318B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.318"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Soziale Sicherung",
-      "Wirtschaft"
+      "Wirtschaft",
+      "Soziale Sicherung"
     ],
     "SCHLAGWORT": [
       "Elektrizitätswirtschaft",
@@ -37,7 +46,7 @@
       "Strompreis",
       "Stromverbrauch"
     ],
-    "ABSTRAKT": "   Forderung nach Erlass einer Verordnung auf Grundlage des Energiewirtschaftsgesetzes, Verpflichtung der Energieversorgungsunternehmen zum Hinweis bei Androhung auf Versorgungsunterbrechung auf Schuldnerberatung und auf die Möglichkeit einer Schuldenübernahme als Darlehen für Leistungsberechtigte nach SGB II und SGB XII, Festlegung weiterer Informationspflichten, Ermächtigung der Unternehmen zur Übermittlung von Kundendaten an die Träger der Grundsicherung für Arbeitssuchende oder der Sozialhilfe zum Zweck des Abwendens drohender Versorgungsunterbrechungen, Verpflichtung der Unternehmen zur kostenneutralen und europarechtskonformen Einführung eines linearen Stromtarifs, Regelbedarfstarif für Haushaltsstrom für Bedürftige als nicht ausreichend     "
+    "ABSTRAKT": "Forderung nach Erlass einer Verordnung auf Grundlage des Energiewirtschaftsgesetzes, Verpflichtung der Energieversorgungsunternehmen zum Hinweis bei Androhung auf Versorgungsunterbrechung auf Schuldnerberatung und auf die Möglichkeit einer Schuldenübernahme als Darlehen für Leistungsberechtigte nach SGB II und SGB XII, Festlegung weiterer Informationspflichten, Ermächtigung der Unternehmen zur Übermittlung von Kundendaten an die Träger der Grundsicherung für Arbeitssuchende oder der Sozialhilfe zum Zweck des Abwendens drohender Versorgungsunterbrechungen, Verpflichtung der Unternehmen zur kostenneutralen und europarechtskonformen Einführung eines linearen Stromtarifs, Regelbedarfstarif für Haushaltsstrom für Bedürftige als nicht ausreichend"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -79,6 +88,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "318B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "467/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "467/13"
         }
       }

@@ -8,7 +8,7 @@
       "Brandenburg",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,13 +17,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0151-12.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "895",
-      "PLPR_SEITEN": "134C - 141C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/895.pdf#P.134"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "895",
+        "PLPR_SEITEN": "134C - 141C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/895.pdf#P.134"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -41,7 +50,7 @@
       "Solartechnik",
       "Sonnenenergie"
     ],
-    "ABSTRAKT": "Ausbau der Erneuerbaren Energien, Bemängelung des Fehlens eines Maßnahmeplans der Bundesregierung, Schaffung von Anreizen außerhalb des EEG, Beibehaltung der Anpassung der Vergütungssätze als wesentliches Element des EEG, Streichung der Verordnungsermächtigungen, Absenkung der Einspeisevergütung, Anreizsetzung für kleinere Photovoltaikanlagen, Verbesserung der netztechnischen Integration von hohen Einspeisekapazitäten, Umsetzung eines Vertrauensschutzes in die Förderinstrumente "
+    "ABSTRAKT": "Ausbau der Erneuerbaren Energien, Bemängelung des Fehlens eines Maßnahmeplans der Bundesregierung, Schaffung von Anreizen außerhalb des EEG, Beibehaltung der Anpassung der Vergütungssätze als wesentliches Element des EEG, Streichung der Verordnungsermächtigungen, Absenkung der Einspeisevergütung, Anreizsetzung für kleinere Photovoltaikanlagen, Verbesserung der netztechnischen Integration von hohen Einspeisekapazitäten, Umsetzung eines Vertrauensschutzes in die Förderinstrumente"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -145,6 +154,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "141B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "151/12"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "151/12"
         }
       }

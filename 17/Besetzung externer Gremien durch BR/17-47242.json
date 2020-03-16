@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BR",
     "TITEL": "Benennung von Beauftragten des Bundesrates in Beratungsgremien der Europäischen Union (Arbeitsgruppe der EASO (Unterstützungsbüro für Asylfragen) \"EASO Practical Cooperation-EURASIL\")",
     "INITIATIVE": "Präsident des Bundesrates",
-    "AKTUELLER_STAND": "",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,25 +14,45 @@
       "DRS_TYP": "Mitteilung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0539-12.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": "Europäische Union",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
-      "FUNDSTELLE": "12.09.2012 - BR-Drucksache 539/12",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0539-12.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "12.09.2012 - BR-Drucksache 539/12",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0539-12.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "539/12"
         }
-      ]
-    }
+      }
+    ]
   }
 }

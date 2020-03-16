@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Fortführung des permanenten Lohnsteuer-Jahresausgleichs beim Lohnsteuerabzug für Aushilfskräfte und kurzfristige Beschäftigungen",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D126",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 670/13)",
@@ -15,17 +15,26 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0670-13.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "914",
-      "PLPR_SEITEN": "477B - 477C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.477"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "914",
+        "PLPR_SEITEN": "477B - 477C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/914.pdf#P.477"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Öffentliche Finanzen, Steuern und Abgaben",
-      "Arbeit und Beschäftigung"
+      "Arbeit und Beschäftigung",
+      "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
       "Aushilfskraft",
@@ -63,6 +72,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "477C",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "670/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "670/13"
         }
       }

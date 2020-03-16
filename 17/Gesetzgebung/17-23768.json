@@ -8,7 +8,7 @@
       "Baden-Württemberg",
       "Sachsen"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C020",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 67/10)",
@@ -17,6 +17,13 @@
       "DRS_NUMMER": "67/10",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0067-10.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -45,23 +52,36 @@
       "Wechselgesetz",
       "Zivilprozessordnung"
     ],
-    "ABSTRAKT": "Übertragung von Aufgaben aus dem Bereich der freiwilligen Gerichtsbarkeit auf Notare als justiznahe Amtsträger und als Teil der vorsorgenden Rechtspflege: u.a. Öffnungsklausel für die Bundesländer betr. sämtliche Tätigkeiten des Nachlassgerichtes in erster Instanz, amtliche Aufnahme des Inventars sowie der Nachlassauseinandersetzung und Gesamtgutauseinandersetzung, Erstellung notarieller Vollmachtsbescheinigungen für Grundbuch und öffentliche Register, Gewährung von Grundbucheinsichten; Übernahme der Hauptregister für Testamente und Nichtehelichenregister vom Amtsgericht Schöneberg in Berlin durch die Bundesnotarkammer; \r\nÄnderung, Einfügung und Aufhebung versch. §§ in 13 Gesetzen, Änderung §§ 58, 59 und 60 Personenstandsverordnung \r\n \r\nBezug: Zur Anpassung an zwischenzeitlich erfolgte Gesetzesänderungen rechtsförmlich geänderte Wiedervorlage des Gesetzesantrags auf BR-Drs 109/08 (GESTA 16. WP C145) \r\nDer Gesetzesantrag ist &ndash; bei wenigen rechtsförmlichen Änderungen &ndash; identisch mit dem durch BR-Beschluss neugefassten Gesetzentwurf des BR auf BR-Drs 45/1/10  GESTA C016 \r\nGrundgesetzänderung (Art. 98a), siehe GESTA C021"
+    "ABSTRAKT": "Übertragung von Aufgaben aus dem Bereich der freiwilligen Gerichtsbarkeit auf Notare als justiznahe Amtsträger und als Teil der vorsorgenden Rechtspflege: u.a. Öffnungsklausel für die Bundesländer betr. sämtliche Tätigkeiten des Nachlassgerichtes in erster Instanz, amtliche Aufnahme des Inventars sowie der Nachlassauseinandersetzung und Gesamtgutauseinandersetzung, Erstellung notarieller Vollmachtsbescheinigungen für Grundbuch und öffentliche Register, Gewährung von Grundbucheinsichten; Übernahme der Hauptregister für Testamente und Nichtehelichenregister vom Amtsgericht Schöneberg in Berlin durch die Bundesnotarkammer; \r\nÄnderung, Einfügung und Aufhebung versch. §§ in 13 Gesetzen, Änderung §§ 58, 59 und 60 Personenstandsverordnung \r\n \r\nBezug: Zur Anpassung an zwischenzeitlich erfolgte Gesetzesänderungen rechtsförmlich geänderte Wiedervorlage des Gesetzesantrags auf BR-Drs 109/08 (GESTA 16. WP C145) \r\nDer Gesetzesantrag ist &ndash; bei wenigen rechtsförmlichen Änderungen &ndash; identisch mit dem durch BR-Beschluss neugefassten Gesetzentwurf des BR auf BR-Drs 45/1/10 GESTA C016 \r\nGrundgesetzänderung (Art. 98a), siehe GESTA C021"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Sachsen ",
-      "FUNDSTELLE": "05.02.2010 - BR-Drucksache 67/10",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0067-10.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Sachsen ",
+        "FUNDSTELLE": "05.02.2010 - BR-Drucksache 67/10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0067-10.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "67/10"
         }
-      ]
-    }
+      }
+    ]
   }
 }

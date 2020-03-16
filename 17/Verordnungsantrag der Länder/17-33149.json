@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verordnungsantrag der Länder",
     "TITEL": "Entwurf einer Verordnung zur Änderung der Baunutzungsverordnung",
     "INITIATIVE": "Berlin",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,22 @@
       "DRS_TYP": "Verordnungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2011/0080-11.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "881",
-      "PLPR_SEITEN": "124C - 125B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/881.pdf#P.124"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "881",
+        "PLPR_SEITEN": "124C - 125B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/881.pdf#P.124"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Raumordnung, Bau- und Wohnungswesen",
     "SCHLAGWORT": [
@@ -69,6 +78,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "125B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "80/11"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "80/11"
         }
       }

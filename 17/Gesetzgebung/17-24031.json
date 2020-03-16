@@ -73,9 +73,9 @@
     "VERKUENDUNG": "Gesetz vom 06.10.2010 - Bundesgesetzblatt Teil II 2010 Nr.2713.10.2010 S. 1110 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl210s1110.pdf']",
     "INKRAFTTRETEN": "14.10.2010 (weiteres siehe im BGBl)",
     "SACHGEBIET": [
-      "Medien, Kommunikation und Informationstechnik",
+      "Wirtschaft",
       "Verkehr",
-      "Wirtschaft"
+      "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
       "Internationale Organisation für mobile Satellitenkommunikation",
@@ -162,18 +162,13 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "3807A",
           "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "17/1295"
+          "BEZUGSDOKUMENT": "17/1295",
+          "ABSTIMMUNG_BEMERKUNG": "Mitberatung des Finanzausschusses entfällt"
         },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-            "UEBERWEISUNGSART": "Rücküberweisung"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Innenausschuss",
-            "UEBERWEISUNGSART": "nachträgliche Überweisung"
-          }
-        ]
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Innenausschuss",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
       },
       {
         "ZUORDNUNG": "BT",

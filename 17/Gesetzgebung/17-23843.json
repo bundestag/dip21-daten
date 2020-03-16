@@ -8,7 +8,7 @@
       "Mecklenburg-Vorpommern",
       "Sachsen-Anhalt"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C024",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 71/10)",
@@ -18,13 +18,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0071-10.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "867",
-      "PLPR_SEITEN": "53B - 54B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/867.pdf#P.53"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "867",
+        "PLPR_SEITEN": "53B - 54B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/867.pdf#P.53"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -41,7 +50,7 @@
       "Strafverfolgung",
       "Strafzumessung"
     ],
-    "ABSTRAKT": "Beseitigung von Defiziten im strafrechtlichen Rechtsgüterschutz bei von Vorurteilen und Hass geprägten Straftaten: strafverschärfende Wirkung menschenverachtender, fremdenfeindlicher oder rassistischer Beweggründe oder Zielsetzungen des Täters, Beachtungspflicht auch im Ermittlungsverfahren, Verhängung und Vollstreckung von Freiheitsstrafen auch unter 6 Monaten statt Geldstrafe, keine Strafaussetzung zur Bewährung bei Freiheitsstrafen von mindestens 6 Monaten;  \r\nÄnderung §§ 46, 47 und 56 Strafgesetzbuch \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 572/07 in der Fassung BR-Drs 458/08 (Beschluss) (GESTA 16. WP C124) \r\nSiehe auch GESTA C098/C103"
+    "ABSTRAKT": "Beseitigung von Defiziten im strafrechtlichen Rechtsgüterschutz bei von Vorurteilen und Hass geprägten Straftaten: strafverschärfende Wirkung menschenverachtender, fremdenfeindlicher oder rassistischer Beweggründe oder Zielsetzungen des Täters, Beachtungspflicht auch im Ermittlungsverfahren, Verhängung und Vollstreckung von Freiheitsstrafen auch unter 6 Monaten statt Geldstrafe, keine Strafaussetzung zur Bewährung bei Freiheitsstrafen von mindestens 6 Monaten; \r\nÄnderung §§ 46, 47 und 56 Strafgesetzbuch \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 572/07 in der Fassung BR-Drs 458/08 (Beschluss) (GESTA 16. WP C124) \r\nSiehe auch GESTA C098/C103"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -85,6 +94,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "54A",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "71/10"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "71/10"
         }
       }

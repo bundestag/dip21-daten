@@ -8,7 +8,7 @@
       "Niedersachsen",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,13 +17,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2013/0460-13.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "910",
-      "PLPR_SEITEN": "296D - 301B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.296"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "910",
+        "PLPR_SEITEN": "296D - 301B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/910.pdf#P.296"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Öffentliche Finanzen, Steuern und Abgaben",
@@ -36,7 +45,7 @@
       "KfW-Bankengruppe",
       "Programm der Bundesregierung"
     ],
-    "ABSTRAKT": " Wiedereinführung des Förderprogramms der Kreditanstalt für Wiederaufbau \"Altersgerecht Umbauen\" als Förderung mit Investitionskostenzuschuss und Forderung nach angemessener Ausstattung, Forderung nach Finanzierung der Kredit- und Zuschussprogramme der KfW für die energetische Sanierung des Gebäudebestands, Erreichung einer Sanierungsquote von drei Prozent pro Jahr "
+    "ABSTRAKT": "Wiedereinführung des Förderprogramms der Kreditanstalt für Wiederaufbau \"Altersgerecht Umbauen\" als Förderung mit Investitionskostenzuschuss und Forderung nach angemessener Ausstattung, Forderung nach Finanzierung der Kredit- und Zuschussprogramme der KfW für die energetische Sanierung des Gebäudebestands, Erreichung einer Sanierungsquote von drei Prozent pro Jahr"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -110,6 +119,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "301B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "460/13"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "460/13"
         }
       }

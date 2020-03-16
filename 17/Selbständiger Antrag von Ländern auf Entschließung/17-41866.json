@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zum Bildungsföderalismus",
     "INITIATIVE": "Schleswig-Holstein",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,17 +14,26 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2012/0043-12.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "892",
-      "PLPR_SEITEN": "24D - 29B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/892.pdf#P.24"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "892",
+        "PLPR_SEITEN": "24D - 29B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/892.pdf#P.24"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Recht",
-      "Bildung und Erziehung"
+      "Bildung und Erziehung",
+      "Recht"
     ],
     "SCHLAGWORT": [
       "Bildungspolitik",
@@ -39,7 +48,7 @@
       "Grundgesetz Art. 91b",
       "Kulturhoheit"
     ],
-    "ABSTRAKT": "Forderung nach Grundgesetzänderung, Änderung von Artikel 91b Absatz 1: Ermöglichung der Förderung von 'Einrichtungen', Änderung von Artikel 91b Absatz 2: Ermöglichung der Erarbeitung gemeinsamer Bildungsmindeststandards, Änderung von Artikel 104b: Ermöglichung von Bundesinvestitionen, Änderung von Artikel 143c Absatz 3: Fortschreibung der gruppenspezifischen Zweckbindung der Kompensationsmittel über den 31. Dezember 2013 hinaus"
+    "ABSTRAKT": "Forderung nach Grundgesetzänderung, Änderung von Artikel 91b Absatz 1: Ermöglichung der Förderung von &#39;Einrichtungen&#39;, Änderung von Artikel 91b Absatz 2: Ermöglichung der Erarbeitung gemeinsamer Bildungsmindeststandards, Änderung von Artikel 104b: Ermöglichung von Bundesinvestitionen, Änderung von Artikel 143c Absatz 3: Fortschreibung der gruppenspezifischen Zweckbindung der Kompensationsmittel über den 31. Dezember 2013 hinaus"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -111,6 +120,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "29B",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "43/12"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "43/12"
         }
       }

@@ -8,7 +8,7 @@
       "Baden-Württemberg",
       "Sachsen"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C021",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 66/10)",
@@ -17,6 +17,13 @@
       "DRS_NUMMER": "66/10",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0066-10.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -28,23 +35,36 @@
       "Grundgesetz Art. 98a",
       "Notar"
     ],
-    "ABSTRAKT": "Schaffung der verfassungsrechtlichen Zulässigkeit einer Übertragung von Angelegenheiten der freiwilligen Gerichtsbarkeit auf Notare als justiznahe Amtsträger durch einen Ausnahmetatbestand zum Funktionsvorbehalt des Art. 33 Abs. 4 GG, Verbleib der rechtsprechenden Gewalt bei Richtern (Art. 92 GG); \r\nEinfügung Art. 98a Grundgesetz \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 108/08  (GESTA 16. WP C144)  \r\nDer Gesetzesantrag ist textidentisch mit dem beim BR eingebrachten Gesetzesantrag auf BR-Drs 44/10  GESTA C015 \r\nGesetz zur Übertragung von Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare, siehe GESTA C020 \r\nVgl. auch GESTA C017 (Verwendung des Art. 98a zur Reform des Gerichtsvollzieherwesens)"
+    "ABSTRAKT": "Schaffung der verfassungsrechtlichen Zulässigkeit einer Übertragung von Angelegenheiten der freiwilligen Gerichtsbarkeit auf Notare als justiznahe Amtsträger durch einen Ausnahmetatbestand zum Funktionsvorbehalt des Art. 33 Abs. 4 GG, Verbleib der rechtsprechenden Gewalt bei Richtern (Art. 92 GG); \r\nEinfügung Art. 98a Grundgesetz \r\n \r\nBezug: Wiedervorlage des Gesetzesantrags auf BR-Drs 108/08 (GESTA 16. WP C144) \r\nDer Gesetzesantrag ist textidentisch mit dem beim BR eingebrachten Gesetzesantrag auf BR-Drs 44/10 GESTA C015 \r\nGesetz zur Übertragung von Aufgaben im Bereich der freiwilligen Gerichtsbarkeit auf Notare, siehe GESTA C020 \r\nVgl. auch GESTA C017 (Verwendung des Art. 98a zur Reform des Gerichtsvollzieherwesens)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Sachsen ",
-      "FUNDSTELLE": "05.02.2010 - BR-Drucksache 66/10",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0066-10.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg, Sachsen ",
+        "FUNDSTELLE": "05.02.2010 - BR-Drucksache 66/10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0066-10.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "66/10"
         }
-      ]
-    }
+      }
+    ]
   }
 }

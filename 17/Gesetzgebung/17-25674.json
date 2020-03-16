@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Aufenthaltsgesetzes",
     "INITIATIVE": "Berlin",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B013",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 206/10)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "206/10",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0206-10.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -30,26 +37,39 @@
     "ABSTRAKT": "Unterbindung einer faktischen Schlechterstellung arbeitsfähiger Ausländer bei der Feststellung ausreichender Sicherung des Lebensunterhaltes: Ergänzung des Kataloges nicht anrechnungsfähiger öffentlicher Mittel um Freibeträge des Zweiten Buches Sozialgesetzbuch bei der Einkommensermittlung; \r\nÄnderung § 2 Aufenthaltsgesetz \r\n \r\nDen öffentlichen Haushalten entstehen keine Verwaltungsmehraufwendungen. \r\n \r\n Bezug:  Entscheidung des Bundesverwaltungsgerichtes vom 26. August 2008 u.a. zu Fragen der Sicherung des Lebensunterhalts und der Einkommensberechnung (I C 32.07) sowie &ndash; dem folgend &ndash; Allgemeine Verwaltungsvorschrift zum Aufenthaltsgesetz vom 26. Oktober 2009, Ziffer 2.3.4"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Berlin ",
-      "FUNDSTELLE": "16.04.2010 - BR-Drucksache 206/10",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0206-10.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Berlin ",
+        "FUNDSTELLE": "16.04.2010 - BR-Drucksache 206/10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2010/0206-10.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "206/10"
         }
-      ]
-    }
+      }
+    ]
   }
 }
