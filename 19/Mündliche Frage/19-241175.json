@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Auswirkungen der Vereinbarung mit Griechenland zur Flüchtlingspolitik auf die Verhandlungen mit Italien",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Auswirkungen der Bekanntgabe der Rückführungsvereinbarung mit Griechenland auf die Verhandlungen mit Italien",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6772B - 6772C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6772"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Flüchtlingspolitik",
@@ -16,18 +23,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwieweit soll die Herausgabe der Vereinbarung zwischen Griechenland und Deutschland (http://rsaegean.org/the-administrative-arrangement-between-greece-and-germany/?tbclid=IwAR2Txl3WfxXxRE2-afr4cwelFaEWLWGu6B-8W8o950YKGzD9eP7GIWtPG88) an den Deutschen Bundestag die Verhandlungen mit Italien gefährden (siehe die Antwort der Bundesregierung auf meine Mündliche Frage 49 in der Fragestunde des Deutschen Bundestages am 17. Oktober 2018), und inwieweit sieht die Bundesregierung die Begründung der Ablehnung mit den Vorgaben aus dem EUZBBG als vereinbar an?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 49",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Gökay",
-        "NACHNAME": "Akbulut",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 49",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6772B - 6772C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6772",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6772B"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6772B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

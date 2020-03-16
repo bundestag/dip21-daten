@@ -8,11 +8,26 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/5300",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905300.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5300",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905300.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/11191",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/111/1911191.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/107",
+      "PLPR_SEITEN": "13278B - 13282B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19107.pdf#P.13278"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -22,6 +37,7 @@
     "SCHLAGWORT": [
       "Architektur",
       "Baukulturbericht",
+      "Bauwesen",
       "Bericht",
       "Bundesstiftung Baukultur",
       "Infrastruktur",
@@ -34,11 +50,171 @@
     "ABSTRAKT": "Kernbotschaften, Zukunft gestalten, Erhalten und Weiterbauen: Ausgangslage, Bestand und Erbe, Herausforderungen, gesellschaftliche Wahrnehmung; Fokusthemen zu Bestand und Neubau: \"Gemischte Quartiere weiterbauen\", Umbaukultur etablieren, erfolgreiche Prozesse gestalten; Handlungsempfehlungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-      "FUNDSTELLE": "24.10.2018 - BT-Drucksache 19/5300",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905300.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "24.10.2018 - BT-Drucksache 19/5300",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905300.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.11.2018 - BT-Drucksache 19/5647",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905647.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen ",
+        "FUNDSTELLE": "26.06.2019 - BT-Drucksache 19/11191",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/111/1911191.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Magnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ulli",
+            "NACHNAME": "Nissen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hagen",
+            "NACHNAME": "Reinhold",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Volkmar",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Kleinsaara",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "27.06.2019 - BT-Plenarprotokoll 19/107, S. 13278B - 13282B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19107.pdf#P.13278",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Volkmar",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Kleinsaara",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "13278C"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Magnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "13280A"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "13281C"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Kießling",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "13344D"
+          },
+          {
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Daldrup",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "13345B"
+          },
+          {
+            "VORNAME": "Ulli",
+            "NACHNAME": "Nissen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "13345D"
+          },
+          {
+            "VORNAME": "Hagen",
+            "NACHNAME": "Reinhold",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "13346C"
+          },
+          {
+            "VORNAME": "Heidrun",
+            "NACHNAME": "Bluhm-Förster",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "13347C"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "13282B",
+            "BESCHLUSSTENOR": "Kenntnisnahme",
+            "BEZUGSDOKUMENT": "19/5300"
+          },
+          {
+            "BESCHLUSSSEITE": "13282B",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "19/11191"
+          }
+        ]
+      }
+    ]
   }
 }

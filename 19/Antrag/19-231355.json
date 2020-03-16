@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "BAföG sichern und ausbauen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/033/1903364.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/17",
-      "PLPR_SEITEN": "1488A - 1498A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1488"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/17",
+        "PLPR_SEITEN": "1488A - 1498A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19017.pdf#P.1488"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/104",
+        "PLPR_SEITEN": "12665B - 12665C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19104.pdf#P.12665"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
@@ -235,6 +244,17 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "06.06.2019 - BT-Plenarprotokoll 19/104, S. 12665B - 12665C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19104.pdf#P.12665",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "12665C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/508"
+        }
       }
     ]
   }

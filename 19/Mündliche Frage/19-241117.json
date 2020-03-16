@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Ursache für den Brand in einem ICE auf der Schnellstrecke Köln-Frankfurt im Oktober 2018",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Brandursache in einem ICE auf der Schnellstrecke Köln-Frankfurt im Oktober 2018",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6741D - 6743A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6741"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bahnstrecke",
@@ -18,18 +25,53 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Zwischenergebnisse bezüglich der Untersuchungen über die Brandursache an einem ICE-3-Wagen am 12. Oktober 2018 auf der Strecke zwischen Köln und Frankfurt am Main liegen inzwischen vor, und bis wann ist mit dem Unfallbericht zu rechnen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 22",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Matthias",
-        "NACHNAME": "Gastel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6741D - 6743A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6741",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6741D"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6742A"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "6742C"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "6742D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

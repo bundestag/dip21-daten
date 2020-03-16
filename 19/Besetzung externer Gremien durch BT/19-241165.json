@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,15 +17,40 @@
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905506.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/61",
+      "PLPR_SEITEN": "6872A - 6872B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6872"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Bundesstiftung Magnus Hirschfeld",
+      "Wahl"
+    ],
+    "ABSTRAKT": "Mitglieder: CDU/CSU: Dr. Stefan Kaufmann, Dr. Jan-Marco Luczak, Emmi Zeulner; SPD: Johannes Kahrs, Susann Rüthrich \r\nStellvertreter: CDU/CSU: Elisabeth Winkelmeier-Becker, Matthias Hauer, Alexander Hoffmann; SPD: Dr. Matthias Miersch, Sonja Amalie Steffen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5506",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905506.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5506",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905506.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6872A - 6872B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6872",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6872A",
+          "BESCHLUSSTENOR": "Annahme der Wahlvorschläge",
+          "BEZUGSDOKUMENT": "19/5506",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

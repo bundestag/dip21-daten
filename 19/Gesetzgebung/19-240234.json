@@ -5,23 +5,40 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur steuerlichen Förderung von Forschung und Entwicklung kleinerer und mittlerer Unternehmen (KMU-Forschungsförderungsgesetz)",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D017",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/4827)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/4827",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/048/1904827.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/55",
-      "PLPR_SEITEN": "6060D - 6070B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.6060"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4827",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/048/1904827.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/7958",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/079/1907958.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/55",
+        "PLPR_SEITEN": "6060D - 6070B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.6060"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/124",
+        "PLPR_SEITEN": "15401A - 15410C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19124.pdf#P.15401"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -29,12 +46,19 @@
       "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
+      "Einkommensteuergesetz",
+      "Forschungsfinanzierung",
       "Forschungspolitik",
+      "Innovation",
       "Klein- und Mittelunternehmen",
       "KMU-Forschungsförderungsgesetz",
-      "Steuervergünstigung"
+      "Körperschaftsteuergesetz",
+      "Mittelstandspolitik",
+      "Solidaritätszuschlaggesetz 1995",
+      "Steuervergünstigung",
+      "Unternehmensbesteuerung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Steuerermäßigung von 15% aller FuE-Ausgaben für Unternehmen bis 249 Mitarbeiter; \r\nEinfügung versch. §§ Einkommensteuergesetz und § 26a Körperschaftsteuergesetz sowie Änderung § 3 Solidaritätszuschlaggesetz 1995"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -166,6 +190,129 @@
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "20.02.2019 - BT-Drucksache 19/7958",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/079/1907958.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Danyal",
+            "NACHNAME": "Bayaz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Binding",
+            "WAHLKREISZUSATZ": "Heidelberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Hessel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "07.11.2019 - BT-Plenarprotokoll 19/124, S. 15401A - 15410C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19124.pdf#P.15401",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manja",
+            "NACHNAME": "Schüle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15401C"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Keuter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15402C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Thomas",
+            "NAMENSZUSATZ": "de",
+            "NACHNAME": "Maizière",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15403C"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Hessel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15404C"
+          },
+          {
+            "VORNAME": "Fabio",
+            "NACHNAME": "De Masi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15405B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Danyal",
+            "NACHNAME": "Bayaz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15406B"
+          },
+          {
+            "PERSON_TITEL": "Dr. h. c. (Univ Kyiv)",
+            "VORNAME": "Hans",
+            "NACHNAME": "Michelbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15407B"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Binding",
+            "WAHLKREISZUSATZ": "Heidelberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15408A"
+          },
+          {
+            "VORNAME": "Fritz",
+            "NACHNAME": "Güntzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "15409A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "15410B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/4827"
+        }
       }
     ]
   }

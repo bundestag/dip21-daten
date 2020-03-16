@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Moorbrand in Meppen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/5279",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/052/1905279.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5279",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/052/1905279.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5829",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905829.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -28,6 +36,7 @@
       "Gesundheitsschaden",
       "Luftverunreinigung",
       "Meppen",
+      "Militärische Übung",
       "Moor",
       "Rüstungsaltlast",
       "Rüstungsindustrie",
@@ -39,27 +48,35 @@
     "ABSTRAKT": "Beteiligung der Industrie bei Versuchsdurchführungen; Bewertung des Brandrisikos im Vorfeld der Raketentests, Kosten bei Absage der Tests, Munitionsrückstände auf dem Gelände der WTD 91, Anforderung von unterstützenden Kräften, Inkenntnissetzung des BMVg, Schadstoffmessungen infolge der Rauchentwicklung, ökologische und gesundheitliche Auswirkungen des Moorbrandes, Schadenskompensation, Brandschutzmaßnahmen; Moorflächen auf anderen Übungsplätzen der Bundeswehr \r\n(insgesamt 40 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "25.10.2018 - BT-Drucksache 19/5279",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/052/1905279.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Keul",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Margarete",
-          "NACHNAME": "Bause",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "25.10.2018 - BT-Drucksache 19/5279",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/052/1905279.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Margarete",
+            "NACHNAME": "Bause",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "19.11.2018 - BT-Drucksache 19/5829",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905829.pdf"
+      }
+    ]
   }
 }

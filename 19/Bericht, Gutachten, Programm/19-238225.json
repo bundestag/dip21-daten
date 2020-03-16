@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/036/1903693.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "970",
-      "PLPR_SEITEN": "301 - 301",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.301"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "301 - 301",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.301"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/81",
+        "PLPR_SEITEN": "9558B - 9558D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -120,6 +129,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "21.09.2018 - BR-Drucksache 361/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0361-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "15.02.2019 - BT-Plenarprotokoll 19/81, S. 9558B - 9558D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558",
+        "VP_ABSTRAKT": "S. 9558B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

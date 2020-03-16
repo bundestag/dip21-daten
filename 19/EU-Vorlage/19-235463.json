@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "970",
-      "PLPR_SEITEN": "267 - 267",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.267"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "267 - 267",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.267"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/150",
+        "PLPR_SEITEN": "18713A - 18713B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19150.pdf#P.18713"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8561/18, Kom. (2018) 241 endg.",
     "SCHLAGWORT": [
       "Gesellschaftsrecht",
@@ -113,6 +122,20 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "21.09.2018 - BR-Drucksache 179/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0179-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "23.01.2019 - BR-Drucksache zu179/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0179-18B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 179/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "06.03.2020 - BT-Plenarprotokoll 19/150, S. 18713A - 18713B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19150.pdf#P.18713",
+        "VP_ABSTRAKT": "S. 18825C - Kenntnisnahme"
       }
     ]
   }

@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
-    "TITEL": "Rahmenprogramm der Bundesregierung \"Forschung für die zivile Sicherheit 2018 - 2023\" ",
+    "TITEL": "Rahmenprogramm der Bundesregierung \"Forschung für die zivile Sicherheit 2018 - 2023\"",
     "INITIATIVE": "Bundesregierung",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -14,6 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/029/1902910.pdf"
     },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/78",
+        "PLPR_SEITEN": "9115A - 9129D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19078.pdf#P.9115"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/90",
+        "PLPR_SEITEN": "10806B - 10806C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19090.pdf#P.10806"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Innere Sicherheit",
@@ -35,11 +51,171 @@
     "ABSTRAKT": "Sicherheit als Voraussetzung für Freiheit, Lebensqualität und Wohlstand, Forschung und Innovationen: Schutz und Rettung von Menschen, kritischer Infrastrukturen sowie vor Kriminalität und Terrorismus, Querschnittsthemen der zivilen Sicherheitsforschung, Förderinstrumente und Maßnahmen, Verzahnung mit Fachprogrammen, institutionelle Förderung und Ressortforschung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
-      "FUNDSTELLE": "21.06.2018 - BT-Drucksache 19/2910",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/029/1902910.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "21.06.2018 - BT-Drucksache 19/2910",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/029/1902910.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "01.02.2019 - BT-Plenarprotokoll 19/78, S. 9115A - 9129D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19078.pdf#P.9115",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Karliczek",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Bildung und Forschung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9116A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9117A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl",
+            "NACHNAME": "Lauterbach",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9118A"
+          },
+          {
+            "PERSON_TITEL": "Dr. h. c.",
+            "VORNAME": "Thomas",
+            "NACHNAME": "Sattelberger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9118D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Petra",
+            "NACHNAME": "Sitte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9119D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Anna",
+            "NACHNAME": "Christmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9121A"
+          },
+          {
+            "VORNAME": "Albert",
+            "NACHNAME": "Rupprecht",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9121D"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Reichardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9123C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manja",
+            "NACHNAME": "Schüle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9124B"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Südpfalz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9125A"
+          },
+          {
+            "VORNAME": "Kai",
+            "NACHNAME": "Gehring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9125D"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Mieruch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9126D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Stefan",
+            "NACHNAME": "Kaufmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9127B"
+          },
+          {
+            "VORNAME": "René",
+            "NACHNAME": "Röspel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9128C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "9129D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/2910"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "22.03.2019 - BT-Plenarprotokoll 19/90, S. 10806B - 10806C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19090.pdf#P.10806",
+        "VP_ABSTRAKT": "S. 10806B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

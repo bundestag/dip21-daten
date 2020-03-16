@@ -5,13 +5,14 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Erstes Gesetz zur Änderung des Lebensmittel- und Futtermittelgesetzbuches",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
-    "SIGNATUR": "",
+    "AKTUELLER_STAND": "Verkündet",
+    "SIGNATUR": "XIX/80",
     "GESTA_ORDNUNGSNUMMER": "F008",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": [
       "Nein, laut Gesetzentwurf(Drs 369/18)",
       "Ja, laut Bundesrat(Drs 369/18 (Beschluss))",
-      "Nein, laut Bundesregierung(Drs 19/4726)"
+      "Nein, laut Bundesregierung(Drs 19/4726)",
+      "Nein, laut Verkündung(BGBl I)"
     ],
     "WICHTIGE_DRUCKSACHE": [
       {
@@ -25,6 +26,12 @@
         "DRS_NUMMER": "19/4726",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/047/1904726.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/8349",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/083/1908349.pdf"
       }
     ],
     "PLENUM": [
@@ -48,23 +55,46 @@
         "PLPR_NUMMER": "19/58",
         "PLPR_SEITEN": "6389A - 6390A",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19058.pdf#P.6389"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/86",
+        "PLPR_SEITEN": "10228B - 10229C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10228"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/86",
+        "PLPR_SEITEN": "10228D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10228"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "976",
+        "PLPR_SEITEN": "133 - 134",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/976.pdf#P.133"
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 24.04.2019 - Bundesgesetzblatt Teil I 2019 Nr.1429.04.2019 S. 498 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl119s0498.pdf']",
+    "INKRAFTTRETEN": "30.04.2019",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
+      "Auskunfterteilung",
       "Bundesverfassungsgericht",
       "Datenschutz",
-      "Gerichtsentscheidung",
-      "Lebensmittelrecht",
+      "Datenspeicherung",
+      "Lebensmittelsicherheit",
       "Lebensmittel- und Futtermittelgesetzbuch",
       "Ordnungswidrigkeit",
       "Personenbezogene Daten",
-      "Publikation",
-      "Publizitätspflicht",
-      "Verbraucherinformation"
+      "Verbraucherinformation",
+      "Verbraucherschutz"
     ],
-    "ABSTRAKT": "Ergänzung einer gesetzlichen Löschungsfrist für die Veröffentlichung von Informationen über Verstöße gegen das Lebens- und Futtermittelrecht bis 30. April 2019; \r\nÄnderung § 40 Lebensmittel- und Futtermittelgesetzbuch \r\n \r\nBezug: Entscheidung des Bundesverfassungsgerichts vom 21. März 2018 (1 BvF 1/13) zur Unvereinbarkeit des Fehlens einer zeitlichen Begrenzung der Informationsverbreitung mit dem Grundsatz der Verhältnismäßigkeit"
+    "ABSTRAKT": "Löschung veröffentlichter Informationen über Verstöße von Unternehmen gegen lebensmittel- oder futtermittelrechtliche Vorschriften nach sechs Monaten; \r\nEinfügung § 40a Lebensmittel- und Futtermittelgesetzbuch \r\n \r\nBezug: Entscheidung des Bundesverfassungsgerichts vom 21. März 2018 (1 BvF 1/13) zur Unvereinbarkeit des Fehlens einer zeitlichen Begrenzung der Informationsverbreitung mit dem Grundsatz der Verhältnismäßigkeit \r\n \r\n Beschlussempfehlung des Ausschusses:  Unverzügliche Veröffentlichung lebensmittelrechtlicher Verstöße, Hinweis bei etwaiger Behebung des Mangels, Anforderungen an Laboruntersuchungen, Klarstellungen; Annahme einer Entschließung: Schaffung eines bundesweit einheitlichen Bußgeldkatalogs; \r\nÄnderung § 40 Lebensmittel- und Futtermittelgesetzbuch"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -189,12 +219,15 @@
         ],
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "6240C",
-          "BESCHLUSSTENOR": "Feststellung der Beschlussunfähigkeit in Verbindung mit der Abstimmung über die Überweisung 19/4726"
+          "BESCHLUSSTENOR": "Feststellung der Beschlussunfähigkeit in Verbindung mit der Abstimmung über die Überweisung an die Ausschüsse",
+          "BEZUGSDOKUMENT": "19/4726",
+          "ABSTIMMUNGSART": "Hammelsprung",
+          "ABSTIMMUNG_BEMERKUNG": "154:0:0; Aufhebung der Sitzung"
         }
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "1. Beratung",
+        "URHEBER": "Fortsetzung: 1. Beratung",
         "FUNDSTELLE": "18.10.2018 - BT-Plenarprotokoll 19/58, S. 6389A - 6390A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19058.pdf#P.6389",
         "BESCHLUSS": {
@@ -206,6 +239,193 @@
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "13.03.2019 - BT-Drucksache 19/8349",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/083/1908349.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Bauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Franziska",
+            "NACHNAME": "Gminder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Künast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Amira",
+            "NACHNAME": "Mohamed Ali",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Schulte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hans-Jürgen",
+            "NACHNAME": "Thies",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung und Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "14.03.2019 - BT-Plenarprotokoll 19/86, S. 10228B - 10229C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10228",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Max",
+            "NACHNAME": "Straubinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10264B"
+          },
+          {
+            "VORNAME": "Hans-Jürgen",
+            "NACHNAME": "Thies",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10264D"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Schulte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10265C"
+          },
+          {
+            "VORNAME": "Franziska",
+            "NACHNAME": "Gminder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10266C"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Bauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10267B"
+          },
+          {
+            "VORNAME": "Amira",
+            "NACHNAME": "Mohamed Ali",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10267C"
+          },
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Künast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10268B"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "10228C",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/4726, 19/8349"
+          },
+          {
+            "BESCHLUSSSEITE": "10228D",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "19/8349"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "14.03.2019 - BT-Plenarprotokoll 19/86, S. 10228D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10228",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "10228D",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/4726, 19/8349"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "22.03.2019 - BR-Drucksache 124/19",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0124-19.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT ",
+        "FUNDSTELLE": "22.03.2019 - BR-Drucksache zu124/19",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0124-19(zu).pdf",
+        "VP_ABSTRAKT": "Unterrichtung über Annahme der Entschließung unter Buchstabe b der Drs 19/8349"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "01.04.2019 - BR-Drucksache 124/1/19",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0124-1-19.pdf",
+        "VP_ABSTRAKT": "kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "2. Durchgang",
+        "FUNDSTELLE": "12.04.2019 - BR-Plenarprotokoll 976, TOP 1, S. 133 - 134",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/976.pdf#P.133",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "134",
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung",
+          "BEZUGSDOKUMENT": "124/19",
+          "GRUNDLAGE": "Art. 77 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.04.2019 - BR-Drucksache 124/19(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0124-19B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "03.07.2019 - BR-Drucksache zu124/19(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0124-19B(zu).pdf",
+        "VP_ABSTRAKT": "Antwort der Bundesregierung auf die Entschließung des Bundesrates in Drs 124/19 (Beschluss)"
       }
     ]
   }

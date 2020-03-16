@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Nachfolge für das Amt des Präsidenten des BfV",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6771A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6771"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesamt für Verfassungsschutz",
@@ -18,18 +25,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nAuf die Aussage welcher Vertreterin oder welchen Vertreters des Bundesministeriums des Innern, für Bau und Heimat (BMI) bzw. einer dem BMI nachgeordneten Behörde bezieht sich nach Kenntnis der Bundesregierung das Nachrichtenmagazin FOCUS in seinem Artikel vom 30. Oktober 2018, in dem Thomas Haldenwang als designierter Nachfolger im Amt des Präsidenten des Bundesamts für Verfassungsschutz bezeichnet wird?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 43",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Martina",
-        "NACHNAME": "Renner",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 43",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6771A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6771",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6771A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6771A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

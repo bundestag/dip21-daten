@@ -5,22 +5,39 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Kamerun stabilisieren - Bürgerkrieg verhindern",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/4555",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/045/1904555.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/55",
-      "PLPR_SEITEN": "5998A - 6006A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5998"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4555",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/045/1904555.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/7745",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/077/1907745.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/55",
+        "PLPR_SEITEN": "5998A - 6006A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5998"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/89",
+        "PLPR_SEITEN": "10555B - 10555C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19089.pdf#P.10555"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -40,7 +57,7 @@
       "Separatismus",
       "Zivilgesellschaft"
     ],
-    "ABSTRAKT": "Engagement auf europäischer und internationaler Ebene zur Befriedung des Konflikts, Kopplung der Militärhilfe an die Einhaltung rechtsstaatlicher Prinzipien, Unterstützung des UNHCR im Bereich der Flüchtlingshilfe, Hinwirken auf Aufarbeitung verübter Menschenrechtsverletzungen und rechtsstaatlicher Verfahren für inhaftierte Aktivisten; Engagement in der bilateralen Entwicklungszusammenarbeit: Förderung regierungsferner Maßnahmen, Unterstützung Indigener sowie sexueller Minderheiten, Stärkung zivilgesellschaftlicher Akteure"
+    "ABSTRAKT": "Engagement auf multilateraler Ebene zur Befriedung des Konflikts, Kopplung der Militärhilfe an die Einhaltung rechtsstaatlicher Prinzipien, Unterstützung des UNHCR im Bereich der Flüchtlingshilfe, Hinwirken auf Aufarbeitung verübter Menschenrechtsverletzungen und rechtsstaatlicher Verfahren für inhaftierte Aktivisten; Engagement in der bilateralen Entwicklungszusammenarbeit: Förderung regierungsferner Maßnahmen, Unterstützung von Minderheiten und zivilgesellschaftlichen Akteuren"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -180,6 +197,70 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Auswärtiger Ausschuss ",
+        "FUNDSTELLE": "13.02.2019 - BT-Drucksache 19/7745",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/077/1907745.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Daniela",
+            "NACHNAME": "De Ridder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Waldemar",
+            "NACHNAME": "Herdt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Koob",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Lechte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frithjof",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "21.03.2019 - BT-Plenarprotokoll 19/89, S. 10555B - 10555C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19089.pdf#P.10555",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "10555B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/4555"
+        }
       }
     ]
   }

@@ -5,15 +5,39 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Attraktivität Deutschlands für ausländisches Kapital sichern",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/4216",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/042/1904216.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4216",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/042/1904216.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/9296",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/092/1909296.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/61",
+        "PLPR_SEITEN": "6896C - 6905C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6896"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/95",
+        "PLPR_SEITEN": "11492C - 11496C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19095.pdf#P.11492"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -34,27 +58,217 @@
     "ABSTRAKT": "Änderung der Außenwirtschaftsverordnung zur Einführung einer Meldepflicht für ausländische Direktinvestitionen ab 10 Prozent Stimmrechtsanteil, nach zwei Jahren Vorlage eines Berichts zu Wirksamkeit und ggf. Änderungsbedarf, Verbesserung von Transparenz und Verlässlichkeit des Investitionsprüfungsverfahrens sowie Beschränkung auf \"Schutz der öffentlichen Ordnung und Sicherheit\", Überarbeitung der Definition von kritischer Infrastruktur und kritischer Technologie, gleichberechtigter Kapitalzugang zu aufstrebenden Volkswirtschaften, Investitionsförderungsinitiative, Erhalt und Stärkung innovativer deutscher Unternehmen der Zukunfts- und Schlüsseltechnologien, Schaffung eines EU-Rahmens zur Überprüfung ausländischer Direktinvestitionen, Reform und Stärkung der WTO"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "11.09.2018 - BT-Drucksache 19/4216",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/042/1904216.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "11.09.2018 - BT-Drucksache 19/4216",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/042/1904216.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6896C - 6905C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6896",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6896D"
+          },
+          {
+            "VORNAME": "Mark",
+            "NACHNAME": "Hauptmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6897C"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6898D"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Töns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6899D"
+          },
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Meiser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6901B"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Andreae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6902B"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "6903A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Andreae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "6903B"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Mieruch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6903D"
+          },
+          {
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Loos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "6904B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6905B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/4216"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wirtschaft und Energie ",
+        "FUNDSTELLE": "10.04.2019 - BT-Drucksache 19/9296",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/092/1909296.pdf",
+        "PERSOENLICHER_URHEBER": {
           "VORNAME": "Reinhard",
           "NACHNAME": "Houben",
           "FUNKTION": "MdB",
           "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+          "AKTIVITAETSART": "Berichterstattung"
         },
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "11.04.2019 - BT-Plenarprotokoll 19/95, S. 11492C - 11496C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19095.pdf#P.11492",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andreas G.",
+            "NACHNAME": "Lämmel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11493A"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11493D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11494C"
+          },
+          {
+            "VORNAME": "Katharina",
+            "NACHNAME": "Dröge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "11495B"
+          },
+          {
+            "VORNAME": "Karl",
+            "NACHNAME": "Holmeier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11537D"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Töns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11538B"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Ulrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "11539A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "11496C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/4216"
         }
-      ]
-    }
+      }
+    ]
   }
 }

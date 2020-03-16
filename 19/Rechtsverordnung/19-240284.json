@@ -14,7 +14,15 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0498-18.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "972",
+      "PLPR_SEITEN": "423 - 424",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423"
+    },
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Verordnung vom 16.12.2018 - Bundesgesetzblatt Teil I 2018 Nr.4821.12.2018 S. 2657 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl118s2657.pdf']",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
       "Bundesamt für Verbraucherschutz und Lebensmittelsicherheit",
@@ -26,15 +34,35 @@
     "ABSTRAKT": "Übertragung von Aufgaben auf das Bundesamt für Verbraucherschutz und Lebensmittelsicherheit (BVL), Strafbewehrung und Ordnungswidrigkeiten"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
-      "FUNDSTELLE": "10.10.2018 - BR-Drucksache 498/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0498-18.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "10.10.2018 - BR-Drucksache 498/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0498-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.11.2018 - BR-Plenarprotokoll 972, TOP 47, S. 423 - 424",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "424",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "498/18",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.11.2018 - BR-Drucksache 498/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0498-18B.pdf"
       }
-    }
+    ]
   }
 }

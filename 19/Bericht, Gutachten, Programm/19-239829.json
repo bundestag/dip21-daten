@@ -14,13 +14,22 @@
       "DRS_TYP": "Bericht",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/123/1812306.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/52",
-      "PLPR_SEITEN": "5462A - 5464C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5462"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/52",
+        "PLPR_SEITEN": "5462A - 5464C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5462"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/84",
+        "PLPR_SEITEN": "9970C - 9970D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19084.pdf#P.9970"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -93,6 +102,13 @@
             "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "22.02.2019 - BT-Plenarprotokoll 19/84, S. 9970C - 9970D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19084.pdf#P.9970",
+        "VP_ABSTRAKT": "S. 9970C - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

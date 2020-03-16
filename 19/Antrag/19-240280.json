@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Gedenkort für die Opfer des NS-Vernichtungskrieges in Osteuropa",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/4917",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904917.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/77",
+      "PLPR_SEITEN": "8974C - 8987C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19077.pdf#P.8974"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -25,8 +32,12 @@
       "Gedenken",
       "Gedenkstätte",
       "Kriegsopfer",
+      "Kriegsverbrechen",
+      "Nationalsozialistisches Unrecht",
       "Osteuropa",
       "Ostmitteleuropa",
+      "Polen",
+      "Sowjetunion",
       "Stiftung Denkmal für die ermordeten Juden Europas",
       "Stiftung Topographie des Terrors",
       "Vergangenheitsbewältigung",
@@ -35,28 +46,152 @@
     "ABSTRAKT": "Schaffung eines zentralen Orts in Berlin zur Erinnerung an das Leid der Opfer des NS-Vernichtungskrieges in Ost- und Ostmitteleuropa; Übertragung der inhaltlichen und wissenschaftlichen Begleitung an eine fachlich qualifizierte Institution wie z.B. der Stiftung Denkmal für die ermordeten Juden Europas oder dem Dokumentationszentrum Topografie des Terrors"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "11.10.2018 - BT-Drucksache 19/4917",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904917.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Jan",
-          "NACHNAME": "Korte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "11.10.2018 - BT-Drucksache 19/4917",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904917.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "André",
+            "NACHNAME": "Hahn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "31.01.2019 - BT-Plenarprotokoll 19/77, S. 8974C - 8987C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19077.pdf#P.8974",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8974C"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Motschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8976A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8976D"
+          },
+          {
+            "VORNAME": "Marianne",
+            "NACHNAME": "Schieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8979A"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8980C"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8981B"
+          },
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "8982A"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Selle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8983A"
+          },
+          {
+            "VORNAME": "Helge",
+            "NACHNAME": "Lindh",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8984B"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "8985C"
+          },
+          {
+            "VORNAME": "Helge",
+            "NACHNAME": "Lindh",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "8985C"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8985D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8986C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8987B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/4917"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "André",
-          "NACHNAME": "Hahn",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
-      ]
-    }
+      }
+    ]
   }
 }

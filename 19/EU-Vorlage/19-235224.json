@@ -22,14 +22,30 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "969",
-      "PLPR_SEITEN": "202B - 238C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.202"
-    },
-    "EU_DOK_NR": "Kom. (2018) 322 endg.",
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "202B - 238C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.202"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "974",
+        "PLPR_SEITEN": "14 - 14",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.14"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "976",
+        "PLPR_SEITEN": "155 - 159",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/976.pdf#P.155"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 8354/18, Kom. (2018) 322 endg.",
     "SCHLAGWORT": [
       "EU-Haushalt",
       "EU-Mittel",
@@ -48,6 +64,9 @@
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
             "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
           },
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
@@ -168,6 +187,120 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "06.07.2018 - BR-Drucksache 166/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0166-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "03.01.2019 - BR-Drucksache zu166/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0166-18B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 166/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "04.02.2019 - BR-Drucksache 167/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-1-18.pdf",
+        "VP_ABSTRAKT": "Zu Drsn 167/18 u. 227/18: EU: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "15.02.2019 - BR-Plenarprotokoll 974, TOP 43a, S. 14 - 14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.14",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "14",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "167/18",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "15.02.2019 - BR-Drucksache 167/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "01.04.2019 - BR-Drucksache 167/2/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-2-18.pdf",
+        "VP_ABSTRAKT": "EU, AIS: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.04.2019 - BR-Plenarprotokoll 976, TOP 29, S. 155 - 159",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/976.pdf#P.155",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Klaus",
+            "NACHNAME": "Lederer",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Bürgermeister und Senator für Kultur und Europa",
+            "BUNDESLAND": "Berlin",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "155"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Stephan",
+            "NACHNAME": "Holthoff-Pförtner",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Bundes- und Europaangelegenheiten sowie Internationales im Geschäftsbereich des Ministerpräsidenten",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "156"
+          },
+          {
+            "VORNAME": "Birgit",
+            "NACHNAME": "Honé",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerin für Bundes- und Europaangelegenheiten und Regionale Entwicklung, Bevollmächtigte des Landes Niedersachsen beim Bund",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "157"
+          },
+          {
+            "VORNAME": "Winfried",
+            "NACHNAME": "Hermann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Verkehr",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "158"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Armin",
+            "NACHNAME": "Willingmann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Wissenschaft und Digitalisierung",
+            "BUNDESLAND": "Sachsen-Anhalt",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "158"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "159",
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "167/18",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "12.04.2019 - BR-Drucksache 167/18(B)(2)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0167-18B(2).pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "23.05.2019 - BR-Drucksache 245/19",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0245-19.pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 167/18 (Beschluss)"
       }
     ]
   }

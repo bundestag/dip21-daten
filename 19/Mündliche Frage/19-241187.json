@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Anklage gegen Naturschützer im Iran",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -17,18 +17,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie schätzt die Bundesregierung die in der vergangenen Woche bekannt gewordenen Anklagen gegen sechs Naturschützerinnen und -schützer im Iran ein (www.hrw.org/news/2018/10/26/iran-environmentalists-face-capital-charges), und inwiefern hat sie die Verfolgung der Wissenschaftlerinnen und Wissenschaftler gegenüber der iranischen Regierung thematisiert?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 61",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Omid",
-        "NACHNAME": "Nouripour",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 61",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6776A - 6776B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6776",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Omid",
+            "NACHNAME": "Nouripour",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6776A"
+          },
+          {
+            "VORNAME": "Michelle",
+            "NACHNAME": "Müntefering",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6776A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

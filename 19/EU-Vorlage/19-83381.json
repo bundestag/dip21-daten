@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "961",
-      "PLPR_SEITEN": "435C - 436A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "961",
+        "PLPR_SEITEN": "435C - 436A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/961.pdf#P.435"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/113",
+        "PLPR_SEITEN": "13889C - 13890A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19113.pdf#P.13889"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 10654/17, Kom. (2017) 343 endg.",
     "SCHLAGWORT": [
       "Alterssicherung",
@@ -145,6 +154,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "13.09.2019 - BT-Plenarprotokoll 19/113, S. 13889C - 13890A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19113.pdf#P.13889",
+        "VP_ABSTRAKT": "S. 13889C - Kenntnisnahme"
       }
     ]
   }

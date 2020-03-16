@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Europas fiskalpolitische Regeln stärken - Transferunion verhindern",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/018/1901898.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/11",
-      "PLPR_SEITEN": "822B - 834B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.822"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/11",
+        "PLPR_SEITEN": "822B - 834B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.822"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/86",
+        "PLPR_SEITEN": "10221D - 10228B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10221"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -79,8 +88,7 @@
             "FRAKTION": "FDP",
             "AKTIVITAETSART": "Antrag"
           }
-        ],
-        "VP_ABSTRAKT": "hier: Stellungnahme nach Artikel 23 Absatz 3 des Grundgesetzes"
+        ]
       },
       {
         "ZUORDNUNG": "BT",
@@ -271,6 +279,92 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.03.2019 - BT-Plenarprotokoll 19/86, S. 10221D - 10228B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19086.pdf#P.10221",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10222B"
+          },
+          {
+            "VORNAME": "Eckhardt",
+            "NACHNAME": "Rehberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10223B"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Bruno",
+            "NACHNAME": "Hollnagel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10224C"
+          },
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Ihnen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10225C"
+          },
+          {
+            "VORNAME": "Metin",
+            "NACHNAME": "Hakverdi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10226C"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Radwan",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10227B"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Tillmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10261A"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Kahrs",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10262A"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Ulrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "10263B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "10228B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/583"
+        }
       }
     ]
   }

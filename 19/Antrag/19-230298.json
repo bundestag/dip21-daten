@@ -5,14 +5,29 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Einführung eines Kinderweihnachtsgelds",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/101",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/001/1900101.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/101",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/001/1900101.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/6276",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/062/1906276.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/71",
+      "PLPR_SEITEN": "8236A - 8249D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19071.pdf#P.8236"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -31,28 +46,179 @@
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs: Ergänzung des Einkommensteuergesetzes betr. einmalige pauschalierte Leistung in Höhe von 50 Prozent des monatlichen Kindergelds, Leistungsanspruch für Kinder von Geflüchteten und Asylbewerbern, Nichtberücksichtigung als Einkommen bei einkommensabhängigen Sozialleistungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "22.11.2017 - BT-Drucksache 19/101",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/001/1900101.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Kipping",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "22.11.2017 - BT-Drucksache 19/101",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/001/1900101.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Kipping",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6863C - 6864A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6863",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6863D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/101",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion DIE LINKE (Federführung beim AfArbSoz)"
         },
-        {
-          "VORNAME": "Sabine",
-          "NACHNAME": "Zimmermann",
-          "WAHLKREISZUSATZ": "Zwickau",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "05.12.2018 - BT-Drucksache 19/6276",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/062/1906276.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jörg",
+            "NACHNAME": "Cezanne",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.12.2018 - BT-Plenarprotokoll 19/71, S. 8236A - 8249D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19071.pdf#P.8236",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Schrodi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8236A"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8237C"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Steiniger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8238C"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Herbrand",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8240A"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Kipping",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8241A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Strengmann-Kuhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8242D"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Arndt-Brauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8244A"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Sichert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8245B"
+          },
+          {
+            "VORNAME": "Olav",
+            "NACHNAME": "Gutting",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8246C"
+          },
+          {
+            "VORNAME": "Grigorios",
+            "NACHNAME": "Aggelidis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8247C"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Brehm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8248B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8249D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/101"
         }
-      ]
-    }
+      }
+    ]
   }
 }

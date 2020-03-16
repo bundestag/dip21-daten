@@ -5,48 +5,103 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Flexibilisierung des Zinssatzes bei Steuernachzahlungen und Steuererstattungen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D019",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/5491)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/5491",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905491.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5491",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905491.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/14412",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/144/1914412.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/61",
+      "PLPR_SEITEN": "6862A - 6863C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6862"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
+      "Abgabenordnung",
       "Gesetz zur Flexibilisierung des Zinssatzes bei Steuernachzahlungen und Steuererstattungen",
       "Steuererstattung",
       "Steuernachforderung",
       "Zins"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Entlastung von Bürgern und Wirtschaft durch Koppelung des steuerrechtlichen Zinssatzes an den Basiszinssatz der Deutschen Bundesbank, ergänzt durch einen sachgerechten Aufschlag; \r\nÄnderung § 238 Abgabenordnung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "05.11.2018 - BT-Drucksache 19/5491",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905491.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Brandner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "05.11.2018 - BT-Drucksache 19/5491",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905491.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Kay",
+            "NACHNAME": "Gottschalk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6862A - 6863C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6862",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6863C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/5491"
         },
-        {
-          "VORNAME": "Kay",
-          "NACHNAME": "Gottschalk",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "23.10.2019 - BT-Drucksache 19/14412",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/144/1914412.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Albrecht",
+          "NACHNAME": "Glaser",
           "FUNKTION": "MdB",
           "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      }
+    ]
   }
 }

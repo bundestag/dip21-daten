@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "966",
-      "PLPR_SEITEN": "91D - 92A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.91"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "91D - 92A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.91"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/75",
+        "PLPR_SEITEN": "8855B - 8856C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 15965/17, Kom. (2017) 796 endg.",
     "SCHLAGWORT": [
       "Europäischer Binnenmarkt",
@@ -112,6 +121,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "23.03.2018 - BR-Drucksache 770/17(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2017/0770-17B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "18.01.2019 - BT-Plenarprotokoll 19/75, S. 8855B - 8856C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855",
+        "VP_ABSTRAKT": "S. 8855B - Kenntnisnahme"
       }
     ]
   }

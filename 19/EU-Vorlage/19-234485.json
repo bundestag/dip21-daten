@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über unlautere Handelspraktiken in den Geschäftsbeziehungen zwischen Unternehmen in der Lebensmittelversorgungskette- \r\nKOM(2018) 173 endg.; Ratsdok. 7809/18",
+    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über unlautere Handelspraktiken in den Geschäftsbeziehungen zwischen Unternehmen in der Lebensmittelversorgungskette\r\nKOM(2018) 173 endg.; Ratsdok. 7809/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -20,22 +20,45 @@
         "DRS_NUMMER": "19/2233",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/022/1902233.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5891",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905891.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "968",
-      "PLPR_SEITEN": "178C - 178D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.178"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "178C - 178D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.178"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/81",
+        "PLPR_SEITEN": "9558D - 9559C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 7809/18, Kom. (2018) 173 endg.",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Landwirtschaft und Ernährung",
+      "Europapolitik und Europäische Union"
+    ],
     "SCHLAGWORT": [
+      "Ernährungswirtschaft",
       "Handel",
-      "Lebensmitteleinzelhandel",
+      "Lebensmittelversorgung",
       "Nahrungsmittel",
-      "Nahrungs- und Genussmittelgewerbe",
-      "Richtlinie der EU"
+      "Richtlinie der EU",
+      "Stellungnahme des Bundestages in EU-Angelegenheiten",
+      "Unlauterer Wettbewerb",
+      "Verbraucherschutz"
     ],
     "ABSTRAKT": ""
   },
@@ -90,6 +113,29 @@
         ]
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Zugehöriger Vorgang: Antrag zur Mitwirkung des BT in EU-Angelegenheiten,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "20.11.2018 - BT-Drucksache 19/5891",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905891.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Renate",
+            "NACHNAME": "Künast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag der Fraktion B90/GR \"Kein Verbot besserer Tier- und Umweltschutzstandards im Handel\" (abgelehnt am 22.11.2018, PlPr 19/65, S.7449B) - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/5891 (Typ Antrag)"
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse ",
         "FUNDSTELLE": "28.05.2018 - BR-Drucksache 116/1/18",
@@ -120,6 +166,13 @@
         "FUNDSTELLE": "23.08.2018 - BR-Drucksache zu116/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0116-18B(zu).pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 116/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.02.2019 - BT-Plenarprotokoll 19/81, S. 9558D - 9559C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558",
+        "VP_ABSTRAKT": "S. 9558D - Kenntnisnahme"
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl von Mitgliedern des Kuratoriums der \"Bundesstiftung Magnus Hirschfeld\"",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,39 @@
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905509.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/61",
+      "PLPR_SEITEN": "6872A - 6872B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6872"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Bundesstiftung Magnus Hirschfeld",
+      "Wahl"
+    ],
+    "ABSTRAKT": "Mitglied: Doris Achelwilm \r\nStellvertreter: Dr. Achim Kessler"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5509",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905509.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5509",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905509.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6872A - 6872B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6872",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6872A",
+          "BESCHLUSSTENOR": "Annahme des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/5509"
+        }
+      }
+    ]
   }
 }

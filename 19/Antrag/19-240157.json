@@ -8,22 +8,39 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/4847",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/048/1904847.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/56",
-      "PLPR_SEITEN": "6181C - 6194B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19056.pdf#P.6181"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4847",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/048/1904847.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5644",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905644.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/56",
+        "PLPR_SEITEN": "6181C - 6194B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19056.pdf#P.6181"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/74",
+        "PLPR_SEITEN": "8661D - 8669B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19074.pdf#P.8661"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -204,7 +221,7 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "6194B",
           "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/4837"
+          "BEZUGSDOKUMENT": "19/4847"
         },
         "ZUWEISUNG": [
           {
@@ -236,6 +253,134 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Auswärtiger Ausschuss ",
+        "FUNDSTELLE": "12.11.2018 - BT-Drucksache 19/5644",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905644.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Agnieszka",
+            "NACHNAME": "Brugger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Lechte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Matschie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.01.2019 - BT-Plenarprotokoll 19/74, S. 8661D - 8669B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19074.pdf#P.8661",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Matschie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8662B"
+          },
+          {
+            "VORNAME": "Paul Viktor",
+            "NACHNAME": "Podolay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8663C"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Koob",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8664B"
+          },
+          {
+            "VORNAME": "Olaf",
+            "NACHNAME": "in der Beek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8665B"
+          },
+          {
+            "VORNAME": "Kathrin",
+            "NACHNAME": "Vogler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8666A"
+          },
+          {
+            "VORNAME": "Agnieszka",
+            "NACHNAME": "Brugger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8667A"
+          },
+          {
+            "VORNAME": "Gisela",
+            "NACHNAME": "Manderla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8667D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8668B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "8669A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/4847"
+        }
       }
     ]
   }

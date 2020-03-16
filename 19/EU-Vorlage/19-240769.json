@@ -8,12 +8,36 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "536/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0536-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "536/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0536-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5999",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/059/1905999.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "974",
+        "PLPR_SEITEN": "42 - 43",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.42"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/113",
+        "PLPR_SEITEN": "13889C - 13890A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19113.pdf#P.13889"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 13537/18, Kom. (2018) 490 endg.",
     "SCHLAGWORT": [
       "Bericht",
@@ -27,15 +51,60 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-      "FUNDSTELLE": "23.10.2018 - BR-Drucksache 536/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0536-18.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "23.10.2018 - BR-Drucksache 536/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0536-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.11.2018 - BT-Drucksache 19/5999, Nr. A.18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/059/1905999.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "15.02.2019 - BR-Plenarprotokoll 974, TOP 999b, S. 42 - 43",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.42",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "42",
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "536/18",
+          "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "15.02.2019 - BR-Drucksache 536/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0536-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "13.09.2019 - BT-Plenarprotokoll 19/113, S. 13889C - 13890A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19113.pdf#P.13889",
+        "VP_ABSTRAKT": "S. 13889C - Kenntnisnahme"
       }
-    }
+    ]
   }
 }

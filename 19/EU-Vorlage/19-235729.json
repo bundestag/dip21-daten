@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903112.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "969",
-      "PLPR_SEITEN": "244A - 245C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.244"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "244A - 245C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.244"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/96",
+        "PLPR_SEITEN": "11632B - 11632D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19096.pdf#P.11632"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 9313/18, Kom. (2018) 338 endg.",
     "SCHLAGWORT": [
       "Ermittlungsverfahren",
@@ -96,6 +105,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "06.07.2018 - BR-Drucksache 217/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0217-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "12.04.2019 - BT-Plenarprotokoll 19/96, S. 11632B - 11632D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19096.pdf#P.11632",
+        "VP_ABSTRAKT": "S. 11632B - Kenntnisnahme"
       }
     ]
   }

@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903112.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "971",
-      "PLPR_SEITEN": "384 - 385",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.384"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "971",
+        "PLPR_SEITEN": "384 - 385",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.384"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/75",
+        "PLPR_SEITEN": "8855B - 8856C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 9556/1/18, Kom. (2018) 394 endg./2",
     "SCHLAGWORT": [
       "Agrarprodukt",
@@ -146,6 +155,20 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "19.10.2018 - BR-Drucksache 246/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0246-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "18.01.2019 - BT-Plenarprotokoll 19/75, S. 8855B - 8856C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855",
+        "VP_ABSTRAKT": "S. 8855B - Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "11.02.2019 - BR-Drucksache zu246/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0246-18B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 246/18 (Beschluss)"
       }
     ]
   }

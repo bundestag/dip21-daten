@@ -13,6 +13,13 @@
       "DRS_TYP": "Vorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0489-18.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "972",
+      "PLPR_SEITEN": "423 - 424",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesanwaltschaft",
@@ -21,15 +28,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
-      "FUNDSTELLE": "05.10.2018 - BR-Drucksache 489/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0489-18.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung ",
+        "FUNDSTELLE": "05.10.2018 - BR-Drucksache 489/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0489-18.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.11.2018 - BR-Plenarprotokoll 972, TOP 56, S. 423 - 424",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "424",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "489/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.11.2018 - BR-Drucksache 489/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0489-18B.pdf"
       }
-    }
+    ]
   }
 }

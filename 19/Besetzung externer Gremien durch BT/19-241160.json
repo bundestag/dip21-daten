@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -16,6 +16,13 @@
       "DRS_NUMMER": "19/5501",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905501.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/61",
+      "PLPR_SEITEN": "6871C - 6871D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6871"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -25,11 +32,25 @@
     "ABSTRAKT": "CDU/CSU: Andrea Lindholz, Dr. Mathias Middelberg, Elisabeth Motschmann; SPD: Dr. Eva Högl, Marianne Schieder"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5501",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905501.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "06.11.2018 - BT-Drucksache 19/5501",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905501.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6871C - 6871D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6871",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6871C",
+          "BESCHLUSSTENOR": "Annahme des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/5501",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

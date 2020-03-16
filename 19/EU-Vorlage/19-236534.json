@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Aufstellung des Programms „Digitales Europa“ für den Zeitraum 2021-2027 \r\nKOM(2018) 434 endg.; Ratsdok. 10167/18",
+    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Aufstellung des Programms \"Digitales Europa\" für den Zeitraum 2021-2027 \r\nKOM(2018) 434 endg.; Ratsdok. 10167/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903112.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "970",
-      "PLPR_SEITEN": "307 - 308",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.307"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "307 - 308",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.307"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/78",
+        "PLPR_SEITEN": "9210B - 9210D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19078.pdf#P.9210"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 10167/18, Kom. (2018) 434 endg.",
     "SCHLAGWORT": [
       "Datenverarbeitung",
@@ -126,6 +135,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "21.09.2018 - BR-Drucksache 269/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0269-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "01.02.2019 - BT-Plenarprotokoll 19/78, S. 9210B - 9210D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19078.pdf#P.9210",
+        "VP_ABSTRAKT": "S. 9210B - Kenntnisnahme"
       }
     ]
   }

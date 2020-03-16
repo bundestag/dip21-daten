@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Auszahlung der Renten bzgl. der bei der landwirtschaftlichen Sozialversicherung vorliegenden Rentenanträge",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Rentenauszahlungen bei der landwirtschaftlichen Sozialversicherung nach einem Urteil zur Hofabgabeklausel",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6781A - 6781C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6781"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Alterssicherung der Landwirte",
@@ -19,19 +26,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie ist der aktuelle Stand zur Auszahlung der Renten bezüglich der ca. 4 000 bei der landwirtschaftlichen Sozialversicherung vorliegenden Rentenanträge, die nach dem Urteil des Bundesverfassungsgerichtes zur Hofabgabeklausel nicht bearbeitet wurden (www.topagrar.com/news/Home-top-News-SVLFG-bewilligt-vorlaeufige-Altersrenten-10030062.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 76",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr. ",
-        "VORNAME": "Gero Clemens",
-        "NACHNAME": "Hocker",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 76",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6781A - 6781C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6781",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Gero Clemens",
+            "NACHNAME": "Hocker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6781A"
+          },
+          {
+            "VORNAME": "Anette",
+            "NACHNAME": "Kramme",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6781A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

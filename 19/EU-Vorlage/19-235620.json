@@ -22,23 +22,33 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/027/1902773.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "969",
-      "PLPR_SEITEN": "241B - 241D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.241"
-    },
-    "EU_DOK_NR": "Kom. (2018) 283 endg.",
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "241B - 241D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.241"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/62",
+        "PLPR_SEITEN": "7182B - 7182D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19062.pdf#P.7182"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 9140/18, Kom. (2018) 283 endg.",
     "SCHLAGWORT": [
       "Autonomes Fahrzeug",
-      "Europäische Union",
       "Innovation",
       "Kraftfahrzeugtechnik",
       "Mobilität",
+      "Programm der EU",
       "Straßenverkehr",
       "Technischer Fortschritt",
-      "Verkehrslenkung"
+      "Verkehrsinfrastruktur",
+      "Verkehrspolitik"
     ],
     "ABSTRAKT": ""
   },
@@ -119,6 +129,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "06.07.2018 - BR-Drucksache 185/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0185-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "09.11.2018 - BT-Plenarprotokoll 19/62, S. 7182B - 7182D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19062.pdf#P.7182",
+        "VP_ABSTRAKT": "S. 7182B - Kenntnisnahme"
       }
     ]
   }

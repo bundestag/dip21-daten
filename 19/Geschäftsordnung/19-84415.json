@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Geschäftsordnung",
     "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\r\nhier: Ausschussöffentlichkeit",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905496.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/14",
-      "PLPR_SEITEN": "1165A - 1165C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1165"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/14",
+        "PLPR_SEITEN": "1165A - 1165C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19014.pdf#P.1165"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/77",
+        "PLPR_SEITEN": "9078D - 9084C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19077.pdf#P.9078"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
     "SCHLAGWORT": [
@@ -136,6 +145,85 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "31.01.2019 - BT-Plenarprotokoll 19/77, S. 9078D - 9084C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19077.pdf#P.9078",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Patrick",
+            "NACHNAME": "Schnieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9079A"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Seitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9080A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marco",
+            "NACHNAME": "Buschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9081B"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9082A"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9082D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "9102D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Bartke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "9103B"
+          },
+          {
+            "VORNAME": "Sonja Amalie",
+            "NACHNAME": "Steffen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "9104A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "9083D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/10"
+        }
       }
     ]
   }

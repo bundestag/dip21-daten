@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Bundesmittel für die DITIB im Jahr 2018",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6765C - 6765D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6765"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesmittel",
@@ -16,18 +23,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Zuwendungen des Bundes hat die DITIB (Türkisch-Islamische Union der Anstalt für Religion) im Jahr 2018 erhalten (bitte nach Empfängern der Förderung, Haushaltstiteln, Zweck der Förderung, Zusagen/Inaussichtstellungen und Höhe der bereits ausgezahlten Fördersumme auflisten), und inwieweit sind Zuwendungen des Bundes für die DITIB im Jahr 2019 vorgesehen (bitte nach Empfängern der Förderung, Haushaltstiteln, Zweck der Förderung sowie Zusagen/Inaussichtstellungen der Höhe der Fördersumme auflisten)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 12",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Sevim",
-        "NACHNAME": "Dagdelen",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 12",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6765C - 6765D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6765",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6765C"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Zierke",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6765C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

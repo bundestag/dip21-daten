@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Nicht abgerufene EU-Fördermittel für Deutschland, Griechenland und Kroatien",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6774D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6774"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Deutschland",
@@ -17,18 +24,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nVerfügt die Bundesregierung über Informationen darüber, wie groß das Volumen nicht abgerufener EU-Fördermittel in Bezug auf Deutschland, Griechenland und Kroatien ist (vgl. FAZ.net vom 23. September 2018 &bdquo;EU-Fördermittel. In Brüssel liegen 270 Milliarden, die niemand abruft&ldquo;)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 56",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Klaus-Peter",
-        "NACHNAME": "Willsch",
-        "FUNKTION": "MdB",
-        "FRAKTION": "CDU/CSU",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 56",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6774D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6774",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Klaus-Peter",
+            "NACHNAME": "Willsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6774D"
+          },
+          {
+            "VORNAME": "Michelle",
+            "NACHNAME": "Müntefering",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6774D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

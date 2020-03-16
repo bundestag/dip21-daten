@@ -26,15 +26,30 @@
         "DRS_NUMMER": "19/4214",
         "DRS_TYP": "Antrag",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/042/1904214.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5895",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905895.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "971",
-      "PLPR_SEITEN": "381 - 381",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.381"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "971",
+        "PLPR_SEITEN": "381 - 381",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.381"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/62",
+        "PLPR_SEITEN": "7182B - 7182D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19062.pdf#P.7182"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 10084/18, Kom. (2018) 476 endg.",
     "SACHGEBIET": [
       "Verteidigung",
@@ -138,6 +153,29 @@
         "VP_ABSTRAKT": "Antrag der Fraktion DIE LINKE (abgelehnt am 13.09.2018, PlPr 19/49, S. 5193B) - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/4214 (Typ Antrag)"
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Zugehöriger Vorgang: Antrag zur Mitwirkung des BT in EU-Angelegenheiten,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "20.11.2018 - BT-Drucksache 19/5895",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905895.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Margarete",
+            "NACHNAME": "Bause",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag der Fraktion B90/GR \"Keine Förderung Letaler Autonomer Waffensysteme durch den Europäischen Verteidigungsfonds\" (abgelehnt am 31.01.2020, PlPr 19/144, S. 18049C)  - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/5895 (Typ Antrag)"
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse ",
         "FUNDSTELLE": "08.10.2018 - BR-Drucksache 292/1/18",
@@ -161,6 +199,20 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "19.10.2018 - BR-Drucksache 292/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0292-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "09.11.2018 - BT-Plenarprotokoll 19/62, S. 7182B - 7182D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19062.pdf#P.7182",
+        "VP_ABSTRAKT": "S. 7182B - Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "25.03.2019 - BR-Drucksache zu292/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0292-18B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 292/18 (Beschluss)"
       }
     ]
   }

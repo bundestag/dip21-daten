@@ -5,46 +5,68 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Folgen des Brexits hinsichtlich finanzieller Risiken bei grenzüberschreitenden Finanzgeschäften (insbesondere Euro-Clearing)",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/5561",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5561",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905561.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5953",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/059/1905953.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Wirtschaft",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Europapolitik und Europäische Union"
+    ],
     "SCHLAGWORT": [
       "Brexit",
       "Derivat",
       "Europäische Union",
       "Finanzmarkt",
-      "Großbritannien"
+      "Großbritannien",
+      "Zentralbank"
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "07.11.2018 - BT-Drucksache 19/5561",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bettina",
-          "NACHNAME": "Stark-Watzinger",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Dürr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "07.11.2018 - BT-Drucksache 19/5561",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905561.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Stark-Watzinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Dürr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "22.11.2018 - BT-Drucksache 19/5953",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/059/1905953.pdf"
+      }
+    ]
   }
 }

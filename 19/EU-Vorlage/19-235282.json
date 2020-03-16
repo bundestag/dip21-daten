@@ -22,14 +22,23 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "969",
-      "PLPR_SEITEN": "238D - 239A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.238"
-    },
-    "EU_DOK_NR": "Kom. (2018) 238 endg.",
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "238D - 239A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.238"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/90",
+        "PLPR_SEITEN": "10806C - 10807C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19090.pdf#P.10806"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 8413/18 , Kom. (2018) 238 endg.",
     "SCHLAGWORT": [
       "Elektronischer Handel",
       "Gewerbe",
@@ -115,6 +124,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "06.07.2018 - BR-Drucksache 170/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0170-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "22.03.2019 - BT-Plenarprotokoll 19/90, S. 10806C - 10807C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19090.pdf#P.10806",
+        "VP_ABSTRAKT": "S. 10806C - Kenntnisnahme"
       }
     ]
   }

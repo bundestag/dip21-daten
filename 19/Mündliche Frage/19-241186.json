@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Einflussnahme der US-amerikanischen Regierung auf die Auftragsvergabe für ein Stromnetz im Irak",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Einflussnahme der US-Regierung auf die Auftragsvergabe für ein Stromnetz im Irak",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6775D - 6776A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6775"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Ausschreibung",
@@ -17,18 +24,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwiefern verfügt die Bundesregierung über eigene Erkenntnisse zu den in Medienberichten geschilderten Einflussnahmen der US-amerikanischen Regierung auf die Auftragsvergabe für ein Stromnetz im Irak (vgl. www.ft.com/content/191f62a6-d1a3-11e8-a9f2-7574db66bcd5 und www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article182436644/Siemens-darf-weiter-auf-Milliarden-Auftrag-im-Irak-hoffen.html), und auf welche Weise setzt sie sich bei ihren irakischen Partnern für ein faires und transparentes Verfahren bei dieser Vergabe ein?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 60",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Omid",
-        "NACHNAME": "Nouripour",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 60",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6775D - 6776A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6775",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Omid",
+            "NACHNAME": "Nouripour",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6775D"
+          },
+          {
+            "VORNAME": "Michelle",
+            "NACHNAME": "Müntefering",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6776A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,8 +4,11 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur Neubewertung der rentenrechtlichen Vorgaben für Spätaussiedler",
-    "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "INITIATIVE": [
+      "Bayern",
+      "Hessen"
+    ],
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +17,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0461-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "970",
-      "PLPR_SEITEN": "288 - 288",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.288"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "288 - 288",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.288"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "974",
+        "PLPR_SEITEN": "21 - 22",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.21"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesellschaftspolitik, soziale Gruppen",
@@ -40,7 +52,7 @@
     "VORGANGSPOSITION": [
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Länderantrag,  Urheber : Bayern ",
+        "URHEBER": "Länderantrag,  Urheber : Bayern und Hessen ",
         "FUNDSTELLE": "18.09.2018 - BR-Drucksache 461/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0461-18.pdf",
         "ZUWEISUNG": [
@@ -76,6 +88,51 @@
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "461/18"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "04.02.2019 - BR-Drucksache 461/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0461-1-18.pdf",
+        "VP_ABSTRAKT": "AIS: Annahme in geänderter Fassung - Fz, In: Annahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "15.02.2019 - BR-Plenarprotokoll 974, TOP 10, S. 21 - 22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/974.pdf#P.21",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Georg",
+            "NACHNAME": "Eisenreich",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Staatsminister der Justiz",
+            "BUNDESLAND": "Bayern",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Benjamin-Immanuel",
+            "NACHNAME": "Hoff",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Kultur, Bundes- und Europaangelegenheiten und Chef der Staatskanzlei",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "21"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22",
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "461/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "15.02.2019 - BR-Drucksache 461/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0461-18B.pdf"
       }
     ]
   }

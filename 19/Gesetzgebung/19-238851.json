@@ -8,16 +8,24 @@
       "Bayern",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C041",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 408/18)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "408/18",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0408-18.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "408/18",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0408-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/6287",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/062/1906287.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
@@ -43,10 +51,12 @@
       "Schleier",
       "Strafprozessordnung",
       "Verbot",
+      "Verdeckte Ermittlung",
       "Vermummungsverbot",
+      "Zeugenschutz",
       "Zeugenschutz-Harmonisierungsgesetz"
     ],
-    "ABSTRAKT": "Sicherstellung eines ungestörten Verhandlungsablaufs und Beseitigung von Unsicherheiten bei der Rechtsanwendung: Verbot der vollständigen oder teilweisen Verhüllung des Gesichtes einer an der Verhandlung beteiligten Person, Ausnahmeregelungen für besonders gefährdete Zeugen; \r\nÄnderung § 176 Gerichtsverfassungsgesetz, § 68 Strafprozessordnung und § 10 Zeugenschutz-Harmonisierungsgesetz"
+    "ABSTRAKT": "Sicherstellung eines ungestörten Verhandlungsablaufs und Beseitigung von Unsicherheiten bei der Rechtsanwendung: Verbot der vollständigen oder teilweisen Verhüllung des Gesichtes einer an der Verhandlung beteiligten Person, Ausnahmeregelungen für besonders gefährdete Zeugen; \r\nÄnderung § 176 Gerichtsverfassungsgesetz, § 68 Strafprozessordnung und § 10 Zeugenschutz-Harmonisierungsgesetz \r\n \r\n Änderung durch BR-Beschluss:  Ausweitung der Ausnahmeregelung auf Verdeckte Ermittler, Möglichkeit einzelfallbezogener Ausnahmen bei fehlender Notwendigkeit zur Identitätsfeststellung oder Beweiswürdigung; (Klarstellungen in der Einzelbegründung); \r\nErneute Änderung § 176 Gerichtsverfassungsgesetz und zusätzliche Änderung § 110b Strafprozessordnung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -160,6 +170,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "19.10.2018 - BR-Drucksache 408/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0408-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "05.12.2018 - BT-Drucksache 19/6287\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/062/1906287.pdf"
       }
     ]
   }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Forschungsförderung für den nicht-chemischen Pflanzenschutz seit 2016",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6735D - 6737A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6735"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Agrarwissenschaft",
@@ -18,18 +25,45 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viel Prozent der gesamten Agrarforschungsförderung des Bundes (inkl. Erforschung nachwachsender Rohstoffe und BMBF-Mitteln mit Agrarbezug) sind in den Haushaltsjahren 2016 und 2017 für Ansätze des nichtchemischen Pflanzenschutzes aufgewendet worden?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 8",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Harald",
-        "NACHNAME": "Ebner",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 8",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6735D - 6737A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6735",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6735D"
+          },
+          {
+            "VORNAME": "Hans-Joachim",
+            "NACHNAME": "Fuchtel",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6736A"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Bauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "6736D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

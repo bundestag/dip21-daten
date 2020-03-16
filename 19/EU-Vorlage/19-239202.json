@@ -8,20 +8,47 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "445/18",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0445-18.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "971",
-      "PLPR_SEITEN": "389 - 389",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.389"
-    },
-    "EU_DOK_NR": "Ratsdok. 12321/18, Kom. (2018) 636 endg./2",
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "445/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0445-18.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4978",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904978.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "971",
+        "PLPR_SEITEN": "389 - 389",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.389"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/122",
+        "PLPR_SEITEN": "15224C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19122.pdf#P.15224"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 12321/18, Kom. (2018) 636 endg.",
+    "SCHLAGWORT": [
+      "Datenschutz",
+      "Desinformation",
+      "Europawahl",
+      "Internet",
+      "Parteienwerbung",
+      "Personenbezogene Daten",
+      "Verordnung der EU",
+      "Wahlkampf"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
@@ -48,6 +75,30 @@
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0445-18(zu).pdf"
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "12.10.2018 - BT-Drucksache 19/4978, Nr. A.22",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904978.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "19.10.2018 - BR-Plenarprotokoll 971, TOP 999a, S. 389 - 389",
@@ -64,6 +115,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "19.10.2018 - BR-Drucksache 445/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0445-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "25.10.2019 - BT-Plenarprotokoll 19/122, S. 15224C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19122.pdf#P.15224",
+        "VP_ABSTRAKT": "S. 15224C - Kenntnisnahme"
       }
     ]
   }

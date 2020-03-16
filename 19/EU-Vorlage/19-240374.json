@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nMehr legale Wege nach Europa - unentbehrliche Komponente einer ausgewogenen, umfassenden Migrationspolitik KOM(2018) 635 endg.; Ratsdok. 12193/18",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nMehr legale Wege nach Europa - unentbehrliche Komponente einer ausgewogenen, umfassenden Migrationspolitik\r\nKOM(2018) 635 endg.; Ratsdok. 12193/18",
     "INITIATIVE": "Bundestag",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -14,39 +14,55 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904978.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/84",
+      "PLPR_SEITEN": "9970D - 9971D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19084.pdf#P.9970"
+    },
     "EU_DOK_NR": "Ratsdok. 12193/18, Kom. (2018) 635 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "12.10.2018 - BT-Drucksache 19/4978, Nr. A.9",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904978.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "12.10.2018 - BT-Drucksache 19/4978, Nr. A.9",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904978.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "22.02.2019 - BT-Plenarprotokoll 19/84, S. 9970D - 9971D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19084.pdf#P.9970",
+        "VP_ABSTRAKT": "S. 9970D - Kenntnisnahme"
+      }
+    ]
   }
 }

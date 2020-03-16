@@ -14,7 +14,15 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0496-18.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "972",
+      "PLPR_SEITEN": "423 - 424",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423"
+    },
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Verordnung vom 27.11.2018 - Bundesgesetzblatt Teil I 2018 Nr.4004.12.2018 S. 2024 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl118s2024.pdf']",
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
       "Rentenberechnung",
@@ -24,20 +32,40 @@
     "ABSTRAKT": "Bestimmung der maßgeblichen Rechengrößen der Sozialversicherung entsprechend der gesetzlichen Regelungen, insbesondere für das Versicherungs-, Beitrags- und Leistungsrecht in der Kranken- und Rentenversicherung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-      "FUNDSTELLE": "10.10.2018 - BR-Drucksache 496/18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0496-18.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "10.10.2018 - BR-Drucksache 496/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0496-18.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "23.11.2018 - BR-Plenarprotokoll 972, TOP 45, S. 423 - 424",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "424",
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "496/18",
+          "GRUNDLAGE": "Art. 80 Abs. 2 GG"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "23.11.2018 - BR-Drucksache 496/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0496-18B.pdf"
+      }
+    ]
   }
 }

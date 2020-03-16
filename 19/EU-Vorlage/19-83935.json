@@ -22,14 +22,23 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/009/1900910.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "476D - 478A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.476"
-    },
-    "EU_DOK_NR": "Kom. (2017) 493 endg.",
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "476D - 478A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.476"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/125",
+        "PLPR_SEITEN": "15688C - 15688D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19125.pdf#P.15688"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 12131/17, Kom. (2017) 493 endg.",
     "SCHLAGWORT": [
       "Auslandsinvestition",
       "Internationale Gerichtsbarkeit",
@@ -125,6 +134,13 @@
         "FUNDSTELLE": "07.06.2018 - BR-Drucksache 259/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0259-18.pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 650/17 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "08.11.2019 - BT-Plenarprotokoll 19/125, S. 15688C - 15688D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19125.pdf#P.15688",
+        "VP_ABSTRAKT": "S. 15688C - Kenntnisnahme"
       }
     ]
   }

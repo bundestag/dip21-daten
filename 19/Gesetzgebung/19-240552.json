@@ -15,13 +15,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0518-18.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "971",
-      "PLPR_SEITEN": "388 - 388",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.388"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "971",
+        "PLPR_SEITEN": "388 - 388",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/971.pdf#P.388"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "973",
+        "PLPR_SEITEN": "496 - 496",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/973.pdf#P.496"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -75,6 +84,24 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "388",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "518/18"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.12.2018 - BR-Drucksache 518/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0518-1-18.pdf",
+        "VP_ABSTRAKT": "R: Einbringung in geänderter Fassung - In: Einbringung - FJ: Beratungen noch nicht abgeschlossen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.12.2018 - BR-Plenarprotokoll 973, TOP 44, S. 496 - 496",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/973.pdf#P.496",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "496",
+          "BESCHLUSSTENOR": "Fortsetzung der Ausschussberatungen",
           "BEZUGSDOKUMENT": "518/18"
         }
       }

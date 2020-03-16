@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Keine Rekrutierung Minderjähriger in die Bundeswehr",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901747.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/18",
-      "PLPR_SEITEN": "1547D - 1558D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1547"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/18",
+        "PLPR_SEITEN": "1547D - 1558D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1547"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/80",
+        "PLPR_SEITEN": "9430D - 9439B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9430"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -241,6 +250,86 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.02.2019 - BT-Plenarprotokoll 19/80, S. 9430D - 9439B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9430",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Silberhorn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9431A"
+          },
+          {
+            "VORNAME": "Jan Ralf",
+            "NACHNAME": "Nolte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9432C"
+          },
+          {
+            "VORNAME": "Josip",
+            "NACHNAME": "Juratovic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9433C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9434D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Potsdam",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9435D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9437A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Vieregge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9437D"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9438C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "9439B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/979"
+        }
       }
     ]
   }

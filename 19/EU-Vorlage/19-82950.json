@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/012/1901252.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "963",
-      "PLPR_SEITEN": "468A - 476A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.468"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "963",
+        "PLPR_SEITEN": "468A - 476A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/963.pdf#P.468"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/108",
+        "PLPR_SEITEN": "13502B - 13502D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19108.pdf#P.13502"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11006/17, Kom. (2017) 358 endg.",
     "SCHLAGWORT": "EU-Haushalt",
     "ABSTRAKT": ""
@@ -190,6 +199,13 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "28.06.2019 - BT-Plenarprotokoll 19/108, S. 13502B - 13502D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19108.pdf#P.13502",
+        "VP_ABSTRAKT": "S. 13502B - Kenntnisnahme"
       }
     ]
   }

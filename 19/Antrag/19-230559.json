@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Glyphosathaltige Pflanzenschutzmittel in Deutschland verbieten",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/226",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900226.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/226",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/002/1900226.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/7148",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/071/1907148.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "Beratung",
@@ -25,9 +33,9 @@
       {
         "PLPR_KLARTEXT": "Beratung",
         "PLPR_HERAUSGEBER": "BT",
-        "PLPR_NUMMER": "19/11",
-        "PLPR_SEITEN": "854B - 857A",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854"
+        "PLPR_NUMMER": "19/80",
+        "PLPR_SEITEN": "9439B - 9448D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9439"
       }
     ],
     "EU_DOK_NR": "",
@@ -38,7 +46,6 @@
     ],
     "SCHLAGWORT": [
       "Bodenschutz",
-      "Europäische Kommission",
       "Forschungsprojekt",
       "Futtermittel",
       "Garten",
@@ -53,6 +60,7 @@
       "Ökologische Landwirtschaft",
       "Pflanzenschutz",
       "Pflanzenschutzmittel",
+      "Qualifikationsnachweis",
       "Rückstände in Lebensmitteln",
       "Sachkundenachweis",
       "Umweltschutz",
@@ -251,7 +259,7 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Beratung",
+        "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "01.02.2018 - BT-Plenarprotokoll 19/11, S. 854B - 857A",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19011.pdf#P.854",
         "BESCHLUSS": {
@@ -274,6 +282,143 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "18.01.2019 - BT-Drucksache 19/7148",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/071/1907148.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Färber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Carina",
+            "NACHNAME": "Konrad",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Protschka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Spiering",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.02.2019 - BT-Plenarprotokoll 19/80, S. 9439B - 9448D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9439",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Färber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9439C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Protschka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9440C"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Spiering",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9441C"
+          },
+          {
+            "VORNAME": "Carina",
+            "NACHNAME": "Konrad",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9442C"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Leidig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9443C"
+          },
+          {
+            "VORNAME": "Julia",
+            "NACHNAME": "Klöckner",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9444C"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9445D"
+          },
+          {
+            "VORNAME": "Johann",
+            "NACHNAME": "Saathoff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9446D"
+          },
+          {
+            "VORNAME": "Marlene",
+            "NACHNAME": "Mortler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "9447C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "9448C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/226"
+        }
       }
     ]
   }

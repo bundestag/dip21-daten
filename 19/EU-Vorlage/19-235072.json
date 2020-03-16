@@ -22,14 +22,23 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "968",
-      "PLPR_SEITEN": "176A - 176B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.176"
-    },
-    "EU_DOK_NR": "Kom. (2018) 236 endg.",
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "968",
+        "PLPR_SEITEN": "176A - 176B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/968.pdf#P.176"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/81",
+        "PLPR_SEITEN": "9558D - 9559C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 8578/18, Kom. (2018) 236 endg.",
     "SCHLAGWORT": [
       "Desinformation",
       "Europäische Union",
@@ -126,6 +135,13 @@
         "FUNDSTELLE": "18.10.2018 - BR-Drucksache zu154/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0154-18B(zu).pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 154/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.02.2019 - BT-Plenarprotokoll 19/81, S. 9558D - 9559C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19081.pdf#P.9558",
+        "VP_ABSTRAKT": "S. 9558D - Kenntnisnahme"
       }
     ]
   }

@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Einsatzbedingte psychische Erkrankungen von Bundeswehrsoldaten",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/4968",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904968.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/4968",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904968.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5734",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/057/1905734.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -21,45 +29,53 @@
     ],
     "SCHLAGWORT": [
       "Angst",
-      "Ärztliche Behandlung",
       "Auslandseinsatz der Bundeswehr",
       "Bundeswehrangehöriger",
+      "Bundeswehrkrankenhaus",
       "Depressive Störung",
-      "Medizinische Behandlung",
       "Medizinisches Gutachten",
       "Posttraumatische Belastungsstörung",
       "Psychiatrie",
       "Psychische Störung",
       "Psychisch Kranker",
-      "Soldat",
+      "Psychotherapie",
       "Sucht",
       "Suizid",
+      "Therapie",
       "Wehrdienstbeschädigung"
     ],
-    "ABSTRAKT": "Fallzahlen seit 1999, Dunkelziffer, Chronifizierung psychischer Erkrankungen und diesbzgl. Gegenmaßnahmen, Begriffsdefinition Behandlungskontakte, Soldaten in ärztlicher Behandlung, Suizidversuche, Anträge auf Anerkennung einsatzbedingter psychischer Erkrankungen, Durchführung medizinischer Gutachten, Soldaten in Schutzzeit sowie in einem \"Wehrdienstverhältnis besonderer Art\", Antragstellungen auf Wiedereinstellung, Lotsen für Einsatzgeschädigte, Situation im Fachgebiet Psychiatrie in Bundeswehrkrankenhäusern \r\n(insgesamt 59 Einzelfragen)"
+    "ABSTRAKT": "Psychische Erkrankungen nach Auslandseinsätzen seit 1999, Dunkelziffer, Chronifizierungen von Gesundheitsstörungen, Begriffsdefinition Behandlungskontakte, Soldaten in ärztlicher Behandlung, Suizidversuche, Anträge auf Anerkennung einsatzbedingter psychischer Erkrankungen, Durchführung medizinischer Gutachten, Soldaten in Schutzzeit sowie in einem \"Wehrdienstverhältnis besonderer Art\", Antragstellungen auf Wiedereinstellung, Lotsen für Einsatzgeschädigte, Situation im Fachgebiet Psychiatrie in Bundeswehrkrankenhäusern, Gesundheits- und Traumaversorgung an Bundeswehrstandorten \r\n(insgesamt 59 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "12.10.2018 - BT-Drucksache 19/4968",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904968.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "René",
-          "NACHNAME": "Springer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Ulrike",
-          "NACHNAME": "Schielke-Ziesing",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "12.10.2018 - BT-Drucksache 19/4968",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/049/1904968.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "René",
+            "NACHNAME": "Springer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Ulrike",
+            "NACHNAME": "Schielke-Ziesing",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "12.11.2018 - BT-Drucksache 19/5734",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/057/1905734.pdf"
+      }
+    ]
   }
 }

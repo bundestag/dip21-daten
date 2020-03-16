@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Ressortkoordination in Bezug auf die Umsetzung der Leitlinien \"Krisen verhindern, Konflikte bewältigen, Frieden fördern\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Ressortkoordination bei der Umsetzung der Leitlinien \"Krisen verhindern, Konflikte bewältigen, Frieden fördern\"",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/60",
+      "PLPR_SEITEN": "6776C - 6777A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6776"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Auswärtiges Amt",
@@ -20,19 +27,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelchen Stand hat die Gestaltung der Ressortkoordination zwischen dem Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, dem Auswärtigen Amt, dem Bundesministerium der Verteidigung und dem Bundesministerium des Innern, für Bau und Heimat in Bezug auf die Umsetzung der Leitlinien &bdquo;Krisen verhindern, Konflikte bewältigen, Frieden fördern&ldquo; (Koordinierungskreis), und welche Leitungsebene hat sich in diesem Zusammenhang bisher getroffen (bitte das Datum angeben)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 63",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Ottmar",
-        "NAMENSZUSATZ": "von",
-        "NACHNAME": "Holtz",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5439, Nr. 63",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/054/1905439.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "07.11.2018 - BT-Plenarprotokoll 19/60, S. 6776C - 6777A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19060.pdf#P.6776",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ottmar",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Holtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "6776C"
+          },
+          {
+            "VORNAME": "Michelle",
+            "NACHNAME": "Müntefering",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "6776C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

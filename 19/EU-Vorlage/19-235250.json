@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "970",
-      "PLPR_SEITEN": "301 - 301",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.301"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "970",
+        "PLPR_SEITEN": "301 - 301",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/970.pdf#P.301"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/135",
+        "PLPR_SEITEN": "16938D - 16939C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19135.pdf#P.16938"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8560/18, Kom. (2018) 239 endg.",
     "SCHLAGWORT": [
       "Digitalisierung",
@@ -112,6 +121,20 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "21.09.2018 - BR-Drucksache 163/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0163-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "11.01.2019 - BR-Drucksache zu163/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0163-18B(zu).pdf",
+        "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 163/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "13.12.2019 - BT-Plenarprotokoll 19/135, S. 16938D - 16939C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19135.pdf#P.16938",
+        "VP_ABSTRAKT": "S. 16938D - Kenntnisnahme"
       }
     ]
   }

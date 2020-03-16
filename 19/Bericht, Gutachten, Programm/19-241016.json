@@ -10,16 +10,32 @@
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
       {
-        "DRS_HERAUSGEBER": "BR",
-        "DRS_NUMMER": "553/18",
-        "DRS_TYP": "Unterrichtung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0553-18.pdf"
-      },
-      {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/5350",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905350.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "553/18",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0553-18.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/72",
+        "PLPR_SEITEN": "8521B - 8522A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19072.pdf#P.8521"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "973",
+        "PLPR_SEITEN": "487 - 487",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/973.pdf#P.487"
       }
     ],
     "EU_DOK_NR": "",
@@ -42,6 +58,12 @@
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
+        "FUNDSTELLE": "26.10.2018 - BT-Drucksache 19/5350",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905350.pdf"
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
         "FUNDSTELLE": "30.10.2018 - BR-Drucksache 553/18",
@@ -53,9 +75,43 @@
       },
       {
         "ZUORDNUNG": "BT",
-        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
-        "FUNDSTELLE": "31.10.2018 - BT-Drucksache 19/5350",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905350.pdf"
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.11.2018 - BT-Drucksache 19/5647",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905647.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "14.12.2018 - BT-Plenarprotokoll 19/72, S. 8521B - 8522A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19072.pdf#P.8521",
+        "VP_ABSTRAKT": "S.8521B - Mitteilung über Absehen von Berichterstattung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "14.12.2018 - BR-Plenarprotokoll 973, TOP 32, S. 487 - 487",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/973.pdf#P.487",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "487",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "553/18",
+          "GRUNDLAGE": "§ 164 Abs. 2 Strahlenschutzgesetz"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "14.12.2018 - BR-Drucksache 553/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0553-18B.pdf"
       }
     ]
   }

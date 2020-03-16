@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -25,13 +25,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/019/1901925.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/18",
-      "PLPR_SEITEN": "1513B - 1521D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1513"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/18",
+        "PLPR_SEITEN": "1513B - 1521D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19018.pdf#P.1513"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/61",
+        "PLPR_SEITEN": "6870D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6870"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -41,13 +50,17 @@
       "Abrüstung",
       "Atomare Abrüstung",
       "Atomwaffe",
+      "INF-Vertrag",
       "Internationales Abkommen",
+      "Konfliktverhütung",
+      "Mittelstreckenrakete",
       "Russland",
       "Rüstungskontrolle",
+      "Sicherheitspolitik",
       "USA",
       "Verifikation  "
     ],
-    "ABSTRAKT": "Maßnahmen zur Vermeidung einer neuen nuklearen Aufrüstungsdynamik, Bewahrung des INF-Vertragsregimes, Appell an Russland und die USA zur Nutzung der Special Verification Commission betr. Überprüfung etwaiger Vertragsverletzungen, Erhalt und Stärkung von Abrüstungs- und Rüstungskontrollregimen sowie vertrauensbildenden Maßnahmen in Europa, Initiative für weltweite Abrüstung und Rüstungsbegrenzung"
+    "ABSTRAKT": "Maßnahmen zur Vermeidung einer nuklearen Aufrüstungsdynamik, Erhalt des INF-Vertragsregimes, Hinwirken ggü. Russland und der USA zur Nutzung der Special Verification Commission betr. Überprüfung etwaiger Vertragsverletzungen, Erhalt und Stärkung von Abrüstungs- und Rüstungskontrollregimen sowie vertrauensbildenden Maßnahmen in Europa, Initiative zur weltweiten Abrüstung und Rüstungsbegrenzung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -230,6 +243,17 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.11.2018 - BT-Plenarprotokoll 19/61, S. 6870D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19061.pdf#P.6870",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "6870D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/956"
+        }
       }
     ]
   }

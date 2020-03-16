@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Petition",
     "TITEL": "Sammelübersicht 132 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
     "INITIATIVE": "Petitionsausschuss",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,36 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905573.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/65",
+      "PLPR_SEITEN": "7449B - 7450B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19065.pdf#P.7449"
+    },
     "EU_DOK_NR": "",
+    "SCHLAGWORT": "Petition",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
-      "FUNDSTELLE": "07.11.2018 - BT-Drucksache 19/5573",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905573.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "07.11.2018 - BT-Drucksache 19/5573",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/055/1905573.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.11.2018 - BT-Plenarprotokoll 19/65, S. 7449B - 7450B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19065.pdf#P.7449",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "7450A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/5573"
+        }
+      }
+    ]
   }
 }

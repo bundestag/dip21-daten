@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
-    "TITEL": "Bundesbericht Energieforschung 2018 \r\nForschungsförderung für die Energiewende",
+    "TITEL": "Bundesbericht Energieforschung 2018\r\nForschungsförderung für die Energiewende",
     "INITIATIVE": "Bundesregierung",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,8 +22,18 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/033/1903375.pdf"
       }
     ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/75",
+      "PLPR_SEITEN": "8855A - 8855B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855"
+    },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Energie",
+    "SACHGEBIET": [
+      "Energie",
+      "Wissenschaft, Forschung und Technologie"
+    ],
     "SCHLAGWORT": [
       "Bericht der Bundesregierung",
       "Energieforschung",
@@ -70,6 +80,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "18.01.2019 - BT-Plenarprotokoll 19/75, S. 8855A - 8855B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19075.pdf#P.8855",
+        "VP_ABSTRAKT": "S. 8855A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

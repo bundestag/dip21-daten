@@ -14,6 +14,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905330.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/72",
+      "PLPR_SEITEN": "8521B - 8522A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19072.pdf#P.8521"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -29,11 +36,41 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesrechnungshof ",
-      "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5330",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905330.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesrechnungshof ",
+        "FUNDSTELLE": "02.11.2018 - BT-Drucksache 19/5330",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/053/1905330.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 80 Abs. 3 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.11.2018 - BT-Drucksache 19/5647",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905647.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "14.12.2018 - BT-Plenarprotokoll 19/72, S. 8521B - 8522A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19072.pdf#P.8521",
+        "VP_ABSTRAKT": "S.8521B - Mitteilung über Absehen von Berichterstattung"
+      }
+    ]
   }
 }

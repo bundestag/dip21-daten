@@ -5,14 +5,29 @@
     "VORGANGSTYP": "Große Anfrage",
     "TITEL": "Ökologische, soziale und menschenrechtliche Kriterien in der öffentlichen Beschaffung als Beitrag für eine nachhaltige Entwicklung weltweit",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/3166",
-      "DRS_TYP": "Große Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903166.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/3166",
+        "DRS_TYP": "Große Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903166.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/7567",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/075/1907567.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/89",
+      "PLPR_SEITEN": "10629B - 10637C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19089.pdf#P.10629"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Staat und Verwaltung",
@@ -28,27 +43,118 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Große Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "03.07.2018 - BT-Drucksache 19/3166",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903166.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Uwe",
-          "NACHNAME": "Kekeritz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Große Anfrage"
-        },
-        {
-          "VORNAME": "Katharina",
-          "NACHNAME": "Dröge",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Große Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Große Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "03.07.2018 - BT-Drucksache 19/3166",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/031/1903166.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Kekeritz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Große Anfrage"
+          },
+          {
+            "VORNAME": "Katharina",
+            "NACHNAME": "Dröge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Große Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "07.02.2019 - BT-Drucksache 19/7567",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/075/1907567.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "21.03.2019 - BT-Plenarprotokoll 19/89, S. 10629B - 10637C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19089.pdf#P.10629",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Kekeritz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10629C"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Nicolaisen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10630B"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Frohnmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10631B"
+          },
+          {
+            "VORNAME": "Saskia",
+            "NACHNAME": "Esken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10632C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christoph",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10633B"
+          },
+          {
+            "VORNAME": "Michel",
+            "NACHNAME": "Brandt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10634B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Bleser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10635B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Sascha",
+            "NACHNAME": "Raabe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10635D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "10636D"
+          }
+        ]
+      }
+    ]
   }
 }

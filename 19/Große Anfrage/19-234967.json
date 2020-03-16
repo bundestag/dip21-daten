@@ -5,24 +5,39 @@
     "VORGANGSTYP": "Große Anfrage",
     "TITEL": "Folgen des Brexit für Deutschland und Europa",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/1932",
-      "DRS_TYP": "Große Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/019/1901932.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/1932",
+        "DRS_TYP": "Große Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/019/1901932.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/5892",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905892.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/71",
+      "PLPR_SEITEN": "8190B - 8206B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19071.pdf#P.8190"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Europapolitik und Europäische Union",
     "SCHLAGWORT": [
       "Akademischer Austausch",
+      "Außenbeziehungen der EU",
       "Außenhandelspolitik",
       "Brexit",
       "EU-Agrarpolitik",
       "EU-Haushalt",
-      "Europäische Union",
       "Forschungskooperation",
       "Freizügigkeit",
       "Gemeinsame Sicherheits- und Verteidigungspolitik",
@@ -42,27 +57,162 @@
     "ABSTRAKT": "Austrittsszenarien und -modalitäten, Auswirkungen des EU-Austritts Großbritannien u.a. auf Waren-, Dienstleistungs- und Kapitalverkehr, mögliche Konsequenzen in den Bereichen Personenfreizügigkeit, Familienpolitik, Forschung und Wissenschaft, EU-Haushalt, Steuerpolitik, Bankenwesen, Handelspolitik, Sicherheits- und Verteidigungspolitik, Kulturbeziehungen, Informationssicherheit, Gemeinsame Agrarpolitik, Umweltschutzmaßnahmen sowie Klima- und Verkehrspolitik"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Große Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "27.04.2018 - BT-Drucksache 19/1932",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/019/1901932.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Grigorios",
-          "NACHNAME": "Aggelidis",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Große Anfrage"
-        },
-        {
-          "VORNAME": "Renata",
-          "NACHNAME": "Alt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Große Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Große Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "27.04.2018 - BT-Drucksache 19/1932",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/019/1901932.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Grigorios",
+            "NACHNAME": "Aggelidis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Große Anfrage"
+          },
+          {
+            "VORNAME": "Renata",
+            "NACHNAME": "Alt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Große Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "20.11.2018 - BT-Drucksache 19/5892",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/058/1905892.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.12.2018 - BT-Plenarprotokoll 19/71, S. 8190B - 8206B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19071.pdf#P.8190",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heiko",
+            "NACHNAME": "Maas",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8190C"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Hebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8191D"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "8192C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Katja",
+            "NACHNAME": "Leikert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8193D"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8195A"
+          },
+          {
+            "VORNAME": "Fabio",
+            "NACHNAME": "De Masi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8195D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Franziska",
+            "NACHNAME": "Brantner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8197A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Katarina",
+            "NACHNAME": "Barley",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8198B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Harald",
+            "NACHNAME": "Weyel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8199D"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Hahn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8200C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marco",
+            "NACHNAME": "Buschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8201D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Grosse-Brömer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "8202C"
+          },
+          {
+            "VORNAME": "Detlef",
+            "NACHNAME": "Seif",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8203D"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "8204D"
+          }
+        ]
+      }
+    ]
   }
 }

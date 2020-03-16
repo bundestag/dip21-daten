@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 93/13/EWG des Rates vom 5. April 1993, der Richtlinie 98/6/EG des Europäischen Parlaments und des Rates, der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates sowie der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates zur besseren Durchsetzung und Modernisierung der EU-Verbraucherschutzvorschriften \r\nKOM(2018) 185 endg.; Ratsdok. 7876/18",
+    "TITEL": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 93/13/EWG des Rates vom 5. April 1993, der Richtlinie 98/6/EG des Europäischen Parlaments und des Rates, der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates sowie der Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates zur besseren Durchsetzung und Modernisierung der EU-Verbraucherschutzvorschriften\r\nKOM(2018) 185 endg.; Ratsdok. 7876/18",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -20,15 +20,30 @@
         "DRS_NUMMER": "19/2623",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/026/1902623.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/8563",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/085/1908563.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "969",
-      "PLPR_SEITEN": "239A - 240A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.239"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "969",
+        "PLPR_SEITEN": "239A - 240A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/969.pdf#P.239"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/150",
+        "PLPR_SEITEN": "18825C - 18825D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19150.pdf#P.18825"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 7876/18, Kom. (2018) 185 endg.",
     "SCHLAGWORT": [
       "Europäischer Binnenmarkt",
@@ -92,6 +107,30 @@
         ]
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Zugehöriger Vorgang: Antrag zur Mitwirkung des BT in EU-Angelegenheiten,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "20.03.2019 - BT-Drucksache 19/8563",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/085/1908563.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manuela",
+            "NACHNAME": "Rottmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ],
+        "VP_ABSTRAKT": "Antrag der Fraktion B90/GR \"Mehr Verbraucherschutz in der EU durchsetzen - Kollektiven Rechtsschutz stärken und Transparenz bei Internetplattformen schaffen\" (abgelehnt am 12.04.2019, PlPr 19/96, S. 11610A) - Einzelheiten zum Beratungsverfahren siehe: Vorgang zu Drs 19/8563 (Typ Antrag)"
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse ",
         "FUNDSTELLE": "25.06.2018 - BR-Drucksache 153/1/18",
@@ -132,6 +171,13 @@
         "FUNDSTELLE": "24.10.2018 - BR-Drucksache zu153/18(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0153-18B(zu).pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 153/18 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "06.03.2020 - BT-Plenarprotokoll 19/150, S. 18825C - 18825D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19150.pdf#P.18825",
+        "VP_ABSTRAKT": "S. 18825C - Kenntnisnahme"
       }
     ]
   }
