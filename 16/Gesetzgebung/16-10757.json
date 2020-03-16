@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Verbesserung der Position der Opfer im Strafverfahren (... StPOÄndG)",
     "INITIATIVE": "Schleswig-Holstein",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C133",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 793/07)",
@@ -15,6 +15,13 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2007/0793-07.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -22,18 +29,31 @@
       "Strafbefehl",
       "Strafprozessordnung"
     ],
-    "ABSTRAKT": " Änderung des Strafbefehlsverfahrens zur Stärkung der Opferrechte: Zulässigkeit der Geltendmachung von Entschädigungsansprüchen der Verletzten auch in Strafbefehlsverfahren, Begrenzung auf Ansprüche bis zu 1500 Euro;  Änderung § 407 StPO   Möglicher finanzieller Mehraufwand bei Gerichten und Staatsanwaltschaften lediglich durch vermehrte Anwendung der Strafnorm. "
+    "ABSTRAKT": "Änderung des Strafbefehlsverfahrens zur Stärkung der Opferrechte: Zulässigkeit der Geltendmachung von Entschädigungsansprüchen der Verletzten auch in Strafbefehlsverfahren, Begrenzung auf Ansprüche bis zu 1500 Euro; \r\nÄnderung § 407 StPO \r\n \r\nMöglicher finanzieller Mehraufwand bei Gerichten und Staatsanwaltschaften lediglich durch vermehrte Anwendung der Strafnorm."
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Schleswig-Holstein ",
-      "FUNDSTELLE": "06.11.2007 - BR-Drucksache 793/07",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2007/0793-07.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Schleswig-Holstein ",
+        "FUNDSTELLE": "06.11.2007 - BR-Drucksache 793/07",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2007/0793-07.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "793/07"
+        }
       }
-    }
+    ]
   }
 }

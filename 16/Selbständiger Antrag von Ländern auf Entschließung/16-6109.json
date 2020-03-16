@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur Bekämpfung des Dopings im Sport (G-SIG: 16021307)",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,20 +14,29 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2006/0659-06.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "825",
-      "PLPR_SEITEN": "276D - 278C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/825.pdf#P.276"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "825",
+        "PLPR_SEITEN": "276D - 278C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/825.pdf#P.276"
+      },
+      {
+        "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Sport, Freizeit und Tourismus",
     "SCHLAGWORT": [
       "Betäubungsmittel",
       "Doping"
     ],
-    "ABSTRAKT": "Dokumentationspflichten für bestimmte Arzneimittel; codierte Kennzeichnung; Beschränkung der Einzeleinfuhr; Führung eines Arzneimittelpasses für Leistungssportler; Finanzierung von Dopingbekämpfungsmaßnahmen durch Sponsoren und Sportveranstalter; Doping als Schwerpunkt der deutschen Ratspräsidentschaft der EU 2007  "
+    "ABSTRAKT": "Dokumentationspflichten für bestimmte Arzneimittel; codierte Kennzeichnung; Beschränkung der Einzeleinfuhr; Führung eines Arzneimittelpasses für Leistungssportler; Finanzierung von Dopingbekämpfungsmaßnahmen durch Sponsoren und Sportveranstalter; Doping als Schwerpunkt der deutschen Ratspräsidentschaft der EU 2007"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -73,6 +82,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "278C",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "659/06"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "659/06"
         }
       }

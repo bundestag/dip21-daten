@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen",
     "INITIATIVE": "Hessen",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E040",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 76/08)",
@@ -15,13 +15,22 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2008/0076-08.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "842",
-      "PLPR_SEITEN": "75C - 77D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/842.pdf#P.75"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "842",
+        "PLPR_SEITEN": "75C - 77D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/842.pdf#P.75"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "967",
+        "PLPR_SEITEN": "131C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -31,7 +40,7 @@
       "Kartellrecht",
       "Wettbewerbsbeschränkung"
     ],
-    "ABSTRAKT": " Möglicher Zwang zu Verkauf oder organisatorischer Abtrennung von Vermögensteilen marktbeherrschender Unternehmen als letztes Mittel des Bundeskartellamtes bei verfestigt nichtwettbewerblichen Marktstrukturen;  Änderung und Einfügung versch. §§ Gesetz gegen Wettbewerbsbeschränkungen    Bei Bundeskartellamt und zuständigen Kartellgerichten wird abhängig vom Einzelfall ein im Vorhinein nicht bezifferbarer Mehraufwand an Personal und Sachmitteln entstehen.     Bezug:  Derzeitige Verhinderung von Preiswettbewerb auf dem Strommarkt durch ein Oligopol von vier Unternehmen "
+    "ABSTRAKT": "Möglicher Zwang zu Verkauf oder organisatorischer Abtrennung von Vermögensteilen marktbeherrschender Unternehmen als letztes Mittel des Bundeskartellamtes bei verfestigt nichtwettbewerblichen Marktstrukturen; \r\nÄnderung und Einfügung versch. §§ Gesetz gegen Wettbewerbsbeschränkungen \r\n \r\nBei Bundeskartellamt und zuständigen Kartellgerichten wird abhängig vom Einzelfall ein im Vorhinein nicht bezifferbarer Mehraufwand an Personal und Sachmitteln entstehen. \r\n \r\n Bezug:  Derzeitige Verhinderung von Preiswettbewerb auf dem Strommarkt durch ein Oligopol von vier Unternehmen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -82,6 +91,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "77D",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "76/08"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
           "BEZUGSDOKUMENT": "76/08"
         }
       }
