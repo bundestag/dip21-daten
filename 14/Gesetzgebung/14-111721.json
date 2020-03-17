@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Verbesserung des strafprozessualen Adhäsionsverfahrens und des beschleunigten Verfahrens (G-SIG: 14019709)",
     "INITIATIVE": "Brandenburg",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C168",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein",
@@ -13,6 +13,13 @@
       "DRS_HERAUSGEBER": "BR",
       "DRS_NUMMER": "618/01",
       "DRS_TYP": "Gesetzesantrag"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "921",
+      "PLPR_SEITEN": "105A - 105C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -22,22 +29,35 @@
       "Strafrecht",
       "Täter-Opfer-Ausgleich"
     ],
-    "ABSTRAKT": " Bezug:  Eckpunktepapier der Bundesregierung zur Reform der Strafprozessordnung    Inhalt:  Änderung versch. §§ Strafprozessordnung (§§ 403 ff): Vereinfachungen bei der Durchführung von Adhäsionsverfahren und Ermöglichung eines beschleunigten Schadensausgleichs durch den Richter im Hauptverfahren zur besseren Berücksichtigung von Opferinteressen. Eventuelle Mehrkosten durch erhöhten Vollzugsaufwand können nicht beziffert werden.    Nebenschlagwörter:  Adhäsionsverfahren/Vereinfachung von Adhäsionsverfahren * Täter- Opfer-Ausgleich/Beschleunigter Schadensausgleich im Hauptverfahren "
+    "ABSTRAKT": " Bezug:  Eckpunktepapier der Bundesregierung zur Reform der Strafprozessordnung \r\n \r\n Inhalt:  Änderung versch. §§ Strafprozessordnung (§§ 403 ff): Vereinfachungen bei der Durchführung von Adhäsionsverfahren und Ermöglichung eines beschleunigten Schadensausgleichs durch den Richter im Hauptverfahren zur besseren Berücksichtigung von Opferinteressen. Eventuelle Mehrkosten durch erhöhten Vollzugsaufwand können nicht beziffert werden. \r\n \r\n Nebenschlagwörter:  Adhäsionsverfahren/Vereinfachung von Adhäsionsverfahren * Täter- Opfer-Ausgleich/Beschleunigter Schadensausgleich im Hauptverfahren"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Brandenburg ",
-      "FUNDSTELLE": "03.08.2001 - BR-Drucksache 618/01",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "03.08.2001 - BR-Drucksache 618/01",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, S. 105A - 105C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "105A",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "618/01"
         }
-      ]
-    }
+      }
+    ]
   }
 }

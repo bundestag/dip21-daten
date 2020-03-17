@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zum Abschluss von mehrjährig geltenden Bund-Länder-Verwaltungsvereinbarungen in der Städtebau- und sozialen Wohnraumförderung (G-SIG: 15021593)",
     "INITIATIVE": "Sachsen-Anhalt",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,6 +14,13 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0421-04.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Rücknahme/Erledigung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Finanzhilfe",
@@ -21,29 +28,42 @@
       "Stadtsanierung",
       "Wohnungsbauförderung"
     ],
-    "ABSTRAKT": "Forderung nach kalkulierbaren Bundesfinanzhilfen "
+    "ABSTRAKT": "Forderung nach kalkulierbaren Bundesfinanzhilfen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Sachsen-Anhalt ",
-      "FUNDSTELLE": "24.05.2004 - BR-Drucksache 421/04",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0421-04.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Sachsen-Anhalt ",
+        "FUNDSTELLE": "24.05.2004 - BR-Drucksache 421/04",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0421-04.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Rücknahme/Erledigung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "421/04"
         }
-      ]
-    }
+      }
+    ]
   }
 }

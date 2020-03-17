@@ -8,7 +8,7 @@
       "Hessen",
       "Niedersachsen"
     ],
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E048",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -17,6 +17,13 @@
       "DRS_NUMMER": "18/04",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0018-04.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Medien, Kommunikation und Informationstechnik",
@@ -29,18 +36,31 @@
       "Post-Universaldienstleistungsverordnung",
       "Regulierungsbehörde für Telekommunikation und Post"
     ],
-    "ABSTRAKT": " Inhalt:  Gleichbehandlung von unselbständigen und selbständigen Gemeinden bei der Verpflichtung zur Einrichtung einer Postfiliale, Sicherstellung qualitativer Standards für Beschäftigte in Postfilialen, Festschreibung der jetzigen Zahl der Briefkästen, frühzeitige Information der Kommunen bei Veränderungen im Postfilialnetz, bessere Eingriffs- und Sanktionsmöglichkeiten für die Regulierungsbehörde für Telekommunikation und Post zur Überwachung und Durchsetzung der gesetzlichen Vorschriften; Änderung versch. §§ Post-Universaldienstleistungsverordnung sowie der §§ 11 und 49 Postgesetz. Den öffentlichen Haushalten entstehen keine Kosten.    Nebenschlagwörter:  Postfiliale/Sicherstellung einer flächendeckenden Versorgung mit Postfilialen * Postbediensteter/Qualitative Standards für Beschäftigte in Postfilialen * Briefkasten/Festschreibung der jetzigen Zahl der Briefkästen * Regulierungsbehörde für Telekommunikation und Post/Bessere Sanktionsmöglichkeiten der Regulierungsbehörde gegenüber der Deutschen Post * Post- Universaldienstleistungsverordnung/Änderung versch. §§ PUDLV betr. Postfilialen "
+    "ABSTRAKT": " Inhalt:  Gleichbehandlung von unselbständigen und selbständigen Gemeinden bei der Verpflichtung zur Einrichtung einer Postfiliale, Sicherstellung qualitativer Standards für Beschäftigte in Postfilialen, Festschreibung der jetzigen Zahl der Briefkästen, frühzeitige Information der Kommunen bei Veränderungen im Postfilialnetz, bessere Eingriffs- und Sanktionsmöglichkeiten für die Regulierungsbehörde für Telekommunikation und Post zur Überwachung und Durchsetzung der gesetzlichen Vorschriften; Änderung versch. §§ Post-Universaldienstleistungsverordnung sowie der §§ 11 und 49 Postgesetz. Den öffentlichen Haushalten entstehen keine Kosten. \r\n \r\n Nebenschlagwörter:  Postfiliale/Sicherstellung einer flächendeckenden Versorgung mit Postfilialen * Postbediensteter/Qualitative Standards für Beschäftigte in Postfilialen * Briefkasten/Festschreibung der jetzigen Zahl der Briefkästen * Regulierungsbehörde für Telekommunikation und Post/Bessere Sanktionsmöglichkeiten der Regulierungsbehörde gegenüber der Deutschen Post * Post- Universaldienstleistungsverordnung/Änderung versch. §§ PUDLV betr. Postfilialen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Hessen, Niedersachsen ",
-      "FUNDSTELLE": "05.01.2004 - BR-Drucksache 18/04",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0018-04.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Hessen, Niedersachsen ",
+        "FUNDSTELLE": "05.01.2004 - BR-Drucksache 18/04",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0018-04.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "18/04"
+        }
       }
-    }
+    ]
   }
 }

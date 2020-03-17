@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Gesetzes zur Förderung eines freiwilligen ökologischen Jahres und des Gesetzes zur Förderung eines freiwilligen sozialen Jahres (G-SIG: 14019760)",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I013",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -14,10 +14,17 @@
       "DRS_NUMMER": "716/01",
       "DRS_TYP": "Gesetzesantrag"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Staat und Verwaltung",
-      "Gesellschaftspolitik, soziale Gruppen"
+      "Gesellschaftspolitik, soziale Gruppen",
+      "Staat und Verwaltung"
     ],
     "SCHLAGWORT": [
       "Freiwilliges ökologisches Jahr",
@@ -25,28 +32,41 @@
       "Jugend",
       "Öffentlicher Dienst"
     ],
-    "ABSTRAKT": " Bezug:  Siehe auch I007 und I017    Inhalt:  Verweis auf das Arbeitsplatzschutzgesetz im Hinblick auf die Verzögerung einer Bewerbung um Einstellung in den öffentlichen Dienst nach Ableistung eines freiwilligen ökologischen Jahres bzw. eines freiwilligen sozialen Jahres, damit Gleichstellung mit der Ableistung von Wehr- und Zivildienst; Änderung § 2 Gesetz zur Förderung eines freiwilligen ökologischen Jahres und § 1 Gesetz zur Förderung eines freiwilligen sozialen Jahres. Den öffentlichen Haushalten entstehen keine Kosten.    Nebenschlagwörter:  Freiwilliges soziales Jahr/Änderung § 1 FSJG betr. Bewerbung für den öffentlichen Dienst * Öffentlicher Dienst/Bewerber für den öffentlichen Dienst nach Ableistung eines freiwilligen ökologischen bzw. sozialen Jahres "
+    "ABSTRAKT": " Bezug:  Siehe auch I007 und I017 \r\n \r\n Inhalt:  Verweis auf das Arbeitsplatzschutzgesetz im Hinblick auf die Verzögerung einer Bewerbung um Einstellung in den öffentlichen Dienst nach Ableistung eines freiwilligen ökologischen Jahres bzw. eines freiwilligen sozialen Jahres, damit Gleichstellung mit der Ableistung von Wehr- und Zivildienst; Änderung § 2 Gesetz zur Förderung eines freiwilligen ökologischen Jahres und § 1 Gesetz zur Förderung eines freiwilligen sozialen Jahres. Den öffentlichen Haushalten entstehen keine Kosten. \r\n \r\n Nebenschlagwörter:  Freiwilliges soziales Jahr/Änderung § 1 FSJG betr. Bewerbung für den öffentlichen Dienst * Öffentlicher Dienst/Bewerber für den öffentlichen Dienst nach Ableistung eines freiwilligen ökologischen bzw. sozialen Jahres"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
-      "FUNDSTELLE": "11.09.2001 - BR-Drucksache 716/01",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
+        "FUNDSTELLE": "11.09.2001 - BR-Drucksache 716/01",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "716/01"
         }
-      ]
-    }
+      }
+    ]
   }
 }

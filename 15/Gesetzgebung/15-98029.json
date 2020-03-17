@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Saatgutverkehrsgesetzes (G-SIG: 15019607)",
     "INITIATIVE": "Baden-Württemberg",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F033",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -15,6 +15,13 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2005/0075-05.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "921",
+      "PLPR_SEITEN": "105A - 105C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -22,18 +29,31 @@
       "Landwirtschaft",
       "Saatgutverkehrsgesetz"
     ],
-    "ABSTRAKT": " Bezug:  Siehe auch F035    Europäische Impulse:  Zentrale Anerkennungsstellen für Saatgut in Österreich, Holland, Frankreich und anderen EU-Mitgliedern    Inhalt:  Änderung § 2 Saatgutverkehrsgesetz: Bestimmung des Bundessortenamtes als zentrale Anerkennungsstelle für die Saatgutwirtschaft an Stelle der zur Zeit 17 eigenständig operierenden amtlichen Anerkennungsstellen. Beim Bund entstehen höhere Kosten, die jedoch durch entsprechende Festsetzung der Gebühren gedeckt werden können.    Nebenschlagwörter:  Bundessortenamt/BSA als zentrale Anerkennungsstelle für Saatgut "
+    "ABSTRAKT": " Bezug:  Siehe auch F035 \r\n \r\n Europäische Impulse:  Zentrale Anerkennungsstellen für Saatgut in Österreich, Holland, Frankreich und anderen EU-Mitgliedern \r\n \r\n Inhalt:  Änderung § 2 Saatgutverkehrsgesetz: Bestimmung des Bundessortenamtes als zentrale Anerkennungsstelle für die Saatgutwirtschaft an Stelle der zur Zeit 17 eigenständig operierenden amtlichen Anerkennungsstellen. Beim Bund entstehen höhere Kosten, die jedoch durch entsprechende Festsetzung der Gebühren gedeckt werden können. \r\n \r\n Nebenschlagwörter:  Bundessortenamt/BSA als zentrale Anerkennungsstelle für Saatgut"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg ",
-      "FUNDSTELLE": "26.01.2005 - BR-Drucksache 75/05",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2005/0075-05.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Agrarausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Baden-Württemberg ",
+        "FUNDSTELLE": "26.01.2005 - BR-Drucksache 75/05",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2005/0075-05.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Agrarausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "11.04.2014 - BR-Plenarprotokoll 921, S. 105A - 105C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/921.pdf#P.105",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "105A",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "75/05"
+        }
       }
-    }
+    ]
   }
 }

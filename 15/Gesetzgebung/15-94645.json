@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Neuordnung der Zuständigkeiten der Unfallversicherungsträger (G-SIG: 15019303)",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G029",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "820/03",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0820-03.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -29,26 +36,39 @@
       "Sozialgesetzbuch VII",
       "Sozialversicherung"
     ],
-    "ABSTRAKT": " Inhalt:  Reduzierung von Mehrfachzuständigkeiten der Berufsgenossenschaften im Bereich des Arbeitsschutzes und als Unfallversicherungsträger unter Betonung der Präventionsaufgabe der Berufsgenossenschaften, Überführung geltender Unfallverhütungsvorschriften in Rechtsverordnungen nach Prüfung ihrer Notwendigkeit, Betriebsbesichtigungen nur durch staatliche Aufsichtsbehörden; Änderung und Ergänzung versch. §§ 7. Buch Sozialgesetzbuch, der §§ 2 und 21 Arbeitsschutzgesetz sowie der §§ 12 und 14 Arbeitssicherheitsgesetz. Es ergeben sich erhebliche Kosteneinsparungen.    Nebenschlagwörter:  Sozialgesetzbuch VII/Änderung und Ergänzung versch. §§ SGB VII betr. gesetzliche Unfallversicherung * Arbeitsschutzgesetz/Änderung §§ 2 und 21 ArbSchG betr. gesetzliche Unfallversicherung * Arbeitssicherheitsgesetz/Änderung §§ 12 und 14 ASiG betr. gesetzliche Unfallversicherung * Berufsgenossenschaft/Neudefinition der Rolle der Berufsgenossenschaften im Arbeitsschutz "
+    "ABSTRAKT": " Inhalt:  Reduzierung von Mehrfachzuständigkeiten der Berufsgenossenschaften im Bereich des Arbeitsschutzes und als Unfallversicherungsträger unter Betonung der Präventionsaufgabe der Berufsgenossenschaften, Überführung geltender Unfallverhütungsvorschriften in Rechtsverordnungen nach Prüfung ihrer Notwendigkeit, Betriebsbesichtigungen nur durch staatliche Aufsichtsbehörden; Änderung und Ergänzung versch. §§ 7. Buch Sozialgesetzbuch, der §§ 2 und 21 Arbeitsschutzgesetz sowie der §§ 12 und 14 Arbeitssicherheitsgesetz. Es ergeben sich erhebliche Kosteneinsparungen. \r\n \r\n Nebenschlagwörter:  Sozialgesetzbuch VII/Änderung und Ergänzung versch. §§ SGB VII betr. gesetzliche Unfallversicherung * Arbeitsschutzgesetz/Änderung §§ 2 und 21 ArbSchG betr. gesetzliche Unfallversicherung * Arbeitssicherheitsgesetz/Änderung §§ 12 und 14 ASiG betr. gesetzliche Unfallversicherung * Berufsgenossenschaft/Neudefinition der Rolle der Berufsgenossenschaften im Arbeitsschutz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
-      "FUNDSTELLE": "04.11.2003 - BR-Drucksache 820/03",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0820-03.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
+        "FUNDSTELLE": "04.11.2003 - BR-Drucksache 820/03",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0820-03.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "820/03"
         }
-      ]
-    }
+      }
+    ]
   }
 }

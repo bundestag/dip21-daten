@@ -21,13 +21,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/12/063/1206315.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "12/202",
-      "PLPR_SEITEN": "17478A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/12/12202.pdf#P.17478"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "12/202",
+        "PLPR_SEITEN": "17478A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/12/12202.pdf#P.17478"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "866",
+        "PLPR_SEITEN": "28C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8096/93, Kom. (93) 246 endg.",
     "SCHLAGWORT": [
       "Straßenverkehr",
@@ -100,6 +109,17 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "17478C",
           "BESCHLUSSTENOR": "Annahme Drs 12/6315"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "584/93"
         }
       }
     ]

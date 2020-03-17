@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verordnungsantrag der Länder",
     "TITEL": "Entwurf einer Verordnung zur Änderung der Gebührenordnung für Ärzte und der Gebührenordnung für Zahnärzte (G-SIG: 13021988)",
     "INITIATIVE": "Schleswig-Holstein",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,31 +13,51 @@
       "DRS_NUMMER": "876/97",
       "DRS_TYP": "Verordnungsantrag"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Empfehlungen der Ausschüsse",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Gebührenordnung für Ärzte",
       "Gebührenordnung für Zahnärzte",
       "Private Krankenversicherung"
     ],
-    "ABSTRAKT": "Senkung der jeweiligen Gebührenhöchstsätze; Verschärfung der Pflicht zur Begründung des Überschreitens des Schwellenwertes "
+    "ABSTRAKT": "Senkung der jeweiligen Gebührenhöchstsätze; Verschärfung der Pflicht zur Begründung des Überschreitens des Schwellenwertes"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnungsantrag,  Urheber : Schleswig-Holstein ",
-      "FUNDSTELLE": "05.11.1997 - BR-Drucksache 876/97",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnungsantrag,  Urheber : Schleswig-Holstein ",
+        "FUNDSTELLE": "05.11.1997 - BR-Drucksache 876/97",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "876/97"
         }
-      ]
-    }
+      }
+    ]
   }
 }

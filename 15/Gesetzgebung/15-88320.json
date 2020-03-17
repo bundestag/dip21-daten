@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Ausweitung der Besteuerung nach vereinnahmten Entgelten bei der Umsatzsteuer (G-SIG: 15019115)",
     "INITIATIVE": "Sachsen-Anhalt",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D023",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -15,10 +15,17 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0202-03.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Öffentliche Finanzen, Steuern und Abgaben",
-      "Wirtschaft"
+      "Wirtschaft",
+      "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
       "Gewerbliche Wirtschaft",
@@ -29,23 +36,36 @@
       "Unternehmensbesteuerung",
       "Zahlungsverzug"
     ],
-    "ABSTRAKT": " Bezug:  Siehe auch C014    Europäische Impulse:  Sechste Richtlinie 77/388/EWG vom 17. Mai 1977 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Umsatzsteuern (ABl. EG Nr. L 145, 13.06.1977, S. 1)    Inhalt:  Änderung § 20 Umsatzsteuergesetz: Anhebung der Umsatzgrenze, bis zu der Umsätze des Unternehmens nach den vereinnahmten - anstelle wie bisher nach den vereinbarten - Entgelten versteuert werden dürfen, insbesondere zur Entlastung kleiner und mittlerer Unternehmen von Problemen durch Zahlungsverzug. Temporäre Mindereinnahmen können nicht geschätzt werden, dürften jedoch unter einer Mrd. Euro liegen.    Nebenschlagwörter:  Kleine und mittlere Unternehmen/Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung) * Unternehmensbesteuerung/ Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung) * Zahlungsverzug/Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung) "
+    "ABSTRAKT": " Bezug:  Siehe auch C014 \r\n \r\n Europäische Impulse:  Sechste Richtlinie 77/388/EWG vom 17. Mai 1977 zur Harmonisierung der Rechtsvorschriften der Mitgliedstaaten über die Umsatzsteuern (ABl. EG Nr. L 145, 13.06.1977, S. 1) \r\n \r\n Inhalt:  Änderung § 20 Umsatzsteuergesetz: Anhebung der Umsatzgrenze, bis zu der Umsätze des Unternehmens nach den vereinnahmten - anstelle wie bisher nach den vereinbarten - Entgelten versteuert werden dürfen, insbesondere zur Entlastung kleiner und mittlerer Unternehmen von Problemen durch Zahlungsverzug. Temporäre Mindereinnahmen können nicht geschätzt werden, dürften jedoch unter einer Mrd. Euro liegen. \r\n \r\n Nebenschlagwörter:  Kleine und mittlere Unternehmen/Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung) * Unternehmensbesteuerung/ Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung) * Zahlungsverzug/Umsatzbesteuerung nach vereinnahmten Entgelten bei KMU (Istbesteuerung)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Sachsen-Anhalt ",
-      "FUNDSTELLE": "02.04.2003 - BR-Drucksache 202/03",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0202-03.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Sachsen-Anhalt ",
+        "FUNDSTELLE": "02.04.2003 - BR-Drucksache 202/03",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2003/0202-03.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "202/03"
         }
-      ]
-    }
+      }
+    ]
   }
 }

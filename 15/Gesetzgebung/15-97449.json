@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Strafrechtsänderungsgesetz - Wahldelikte - (... StrÄndG) (G-SIG: 15019577)",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C120",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "910/04",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0910-04.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "967",
+      "PLPR_SEITEN": "131C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -24,23 +31,36 @@
       "Strafrechtsänderungsgesetz",
       "Wahl"
     ],
-    "ABSTRAKT": " Inhalt:  Änderung § 108d Strafgesetzbuch: Ausdehnung der Strafbarkeit des Versprechens geldwerter Vorteile auf die Eintragung in Unterstützungslisten für neue Wahlvorschlagsträger oder das Unterschreiben von Bürgerbegehrenslisten. Es entstehen keine wesentlichen Kosten.    Nebenschlagwörter:  Wahl/Änderung § 108d StGB betr. Wahldelikte * Strafgesetzbuch/ Änderung § 108d StGB betr. Wahldelikte "
+    "ABSTRAKT": " Inhalt:  Änderung § 108d Strafgesetzbuch: Ausdehnung der Strafbarkeit des Versprechens geldwerter Vorteile auf die Eintragung in Unterstützungslisten für neue Wahlvorschlagsträger oder das Unterschreiben von Bürgerbegehrenslisten. Es entstehen keine wesentlichen Kosten. \r\n \r\n Nebenschlagwörter:  Wahl/Änderung § 108d StGB betr. Wahldelikte * Strafgesetzbuch/ Änderung § 108d StGB betr. Wahldelikte"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
-      "FUNDSTELLE": "15.11.2004 - BR-Drucksache 910/04",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0910-04.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Bayern ",
+        "FUNDSTELLE": "15.11.2004 - BR-Drucksache 910/04",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0910-04.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.04.2018 - BR-Plenarprotokoll 967, S. 131C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/967.pdf#P.131",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "131C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "910/04"
         }
-      ]
-    }
+      }
+    ]
   }
 }

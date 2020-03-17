@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur steuerlichen Förderung von umweltschützenden Maßnahmen (G-SIG: 12020010)",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D011",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -14,17 +14,33 @@
       "DRS_NUMMER": "353/90",
       "DRS_TYP": "Gesetzesantrag"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "631",
-      "PLPR_SEITEN": "209D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/631.pdf#P.209"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "615",
+        "PLPR_SEITEN": "364B - 364C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/615.pdf#P.364"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "630",
+        "PLPR_SEITEN": "179A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/630.pdf#P.179"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "631",
+        "PLPR_SEITEN": "209D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/631.pdf#P.209"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Öffentliche Finanzen, Steuern und Abgaben",
-      "Umwelt"
+      "Umwelt",
+      "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
       "Einkommensteuergesetz",
@@ -33,7 +49,7 @@
       "Steuervergünstigung",
       "Umweltschutz"
     ],
-    "ABSTRAKT": " Bezug:  Die Vorlage wurde bereits in der 11.WP eingebracht (s. GESTA 11.WP D62, Abschlußband S. 1197) Siehe auch D12    Inhalt:  Einführung eines neuen § 6e Einkommensteuergesetz: Bildung befristeter gewinnmindernder Rücklagen für die Beseitigung von Umweltbelastungen auf Grund und Boden und bei Gebäuden; Aufhebung der Befristung des Begünstigungszeitraums in § 7d Einkommensteuergesetz (31.12.1990) für Wirtschaftsgüter, die zu mehr als 70 v.H. dem Umweltschutz dienen. Eine Quantifizierung der Kosten aus § 6e EStG ist nicht möglich. Aus der Aufhebung der Befristung in § 7d EStG entstehen keine zusätzlichen Kosten.    Nebenschlagwörter:  Einkommensteuergesetz/Einfügung § 6e, Änderung § 7d EStG betr. Förderung umweltschützender Maßnahmen * Rücklage/Rücklagenbildung für umweltschützende Maßnahmen * Steuervergünstigung/Bildung gewinnmindernder Rücklagen für Umweltschutzmaßnahmen "
+    "ABSTRAKT": " Bezug:  Die Vorlage wurde bereits in der 11.WP eingebracht (s. GESTA 11.WP D62, Abschlußband S. 1197) Siehe auch D12 \r\n \r\n Inhalt:  Einführung eines neuen § 6e Einkommensteuergesetz: Bildung befristeter gewinnmindernder Rücklagen für die Beseitigung von Umweltbelastungen auf Grund und Boden und bei Gebäuden; Aufhebung der Befristung des Begünstigungszeitraums in § 7d Einkommensteuergesetz (31.12.1990) für Wirtschaftsgüter, die zu mehr als 70 v.H. dem Umweltschutz dienen. Eine Quantifizierung der Kosten aus § 6e EStG ist nicht möglich. Aus der Aufhebung der Befristung in § 7d EStG entstehen keine zusätzlichen Kosten. \r\n \r\n Nebenschlagwörter:  Einkommensteuergesetz/Einfügung § 6e, Änderung § 7d EStG betr. Förderung umweltschützender Maßnahmen * Rücklage/Rücklagenbildung für umweltschützende Maßnahmen * Steuervergünstigung/Bildung gewinnmindernder Rücklagen für Umweltschutzmaßnahmen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -87,6 +103,17 @@
         "URHEBER": "Empfehlungen der Ausschüsse,  Urheber : Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit, Finanzausschuss, Wirtschaftsausschuss ",
         "FUNDSTELLE": "07.05.1991 - BR-Drucksache 270/91",
         "VP_ABSTRAKT": "FinanzA: Vertagung - AfUmwelt, WirtschA: Einbringung; (ersetzt durch Drs 270/1/91)"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "17.05.1991 - BR-Plenarprotokoll 630, S. 179A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/630.pdf#P.179",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "179A",
+          "BESCHLUSSTENOR": "Absetzung von TO; Rückverweisung an den FinanzA",
+          "BEZUGSDOKUMENT": "353/90"
+        }
       },
       {
         "ZUORDNUNG": "BR",

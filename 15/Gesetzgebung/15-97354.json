@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Beamtenrechtsrahmengesetzes (G-SIG: 15019388)",
     "INITIATIVE": "Berlin",
-    "AKTUELLER_STAND": "Nicht abgeschlossen - Einzelheiten siehe Vorgangsablauf",
+    "AKTUELLER_STAND": "Für erledigt erklärt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B029",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Antrag",
@@ -15,6 +15,13 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0230-04.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "866",
+      "PLPR_SEITEN": "28C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Staat und Verwaltung",
     "SCHLAGWORT": [
@@ -23,26 +30,39 @@
       "Öffentlicher Dienst",
       "Vorbereitungsdienst"
     ],
-    "ABSTRAKT": " Bezug:  12. Gesetz zur Änderung des Lehrerbildungsgesetzes des Landes Berlin    Inhalt:  Änderung § 14 Beamtenrechtsrahmengesetz: Reduzierung des Vorbereitungsdienstes im höheren Dienst von bislang mindestens zwei Jahren auf mindestens ein Jahr. Es entstehen keine Kosten.    Nebenschlagwörter:  Vorbereitungsdienst/Verkürzung des Vorbereitungsdienstes für den höheren Dienst * Höherer Dienst/Verkürzung des Vorbereitungsdienstes für den höheren Dienst "
+    "ABSTRAKT": " Bezug:  12. Gesetz zur Änderung des Lehrerbildungsgesetzes des Landes Berlin \r\n \r\n Inhalt:  Änderung § 14 Beamtenrechtsrahmengesetz: Reduzierung des Vorbereitungsdienstes im höheren Dienst von bislang mindestens zwei Jahren auf mindestens ein Jahr. Es entstehen keine Kosten. \r\n \r\n Nebenschlagwörter:  Vorbereitungsdienst/Verkürzung des Vorbereitungsdienstes für den höheren Dienst * Höherer Dienst/Verkürzung des Vorbereitungsdienstes für den höheren Dienst"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Berlin ",
-      "FUNDSTELLE": "24.03.2004 - BR-Drucksache 230/04",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0230-04.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Berlin ",
+        "FUNDSTELLE": "24.03.2004 - BR-Drucksache 230/04",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2004/0230-04.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "12.02.2010 - BR-Plenarprotokoll 866, S. 28C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/866.pdf#P.28",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28C",
+          "BESCHLUSSTENOR": "für erledigt erklärt",
+          "BEZUGSDOKUMENT": "230/04"
         }
-      ]
-    }
+      }
+    ]
   }
 }
