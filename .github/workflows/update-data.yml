@@ -1,9 +1,8 @@
 name: Update DIP21 Daten
 
 on:
-  # schedule:
-  #   - cron: "0 5 * * *"
-  [push] # do it on push for testing
+  schedule:
+    - cron: "0 5 * * *"
 
 jobs:
   scrape:
@@ -17,7 +16,7 @@ jobs:
           node-version: 12.x
 
       - name: Scrape Data
-        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods 19 --operationtypes 100 --quiet --out .
+        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods Alle --operationtypes Alle --quiet --out .
         env:
           SCRAPER_USER_AGEND: UpdateGithubData-(github.com/bundestag/dip21-daten)
 
@@ -25,4 +24,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4.1.2
         with:
-          commit_message: Action – Update DIP21 Data
+          commit_message: Action – Daily Update DIP21 Data
