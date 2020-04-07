@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Viertes Gesetz zur Änderung des Aufstiegsfortbildungsförderungsgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "K005",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 467/19)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Ja, laut Gesetzentwurf(Drs 467/19)",
+      "Ja, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -61,18 +64,27 @@
       {
         "PLPR_KLARTEXT": "2. Durchgang",
         "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "986"
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 19.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1531.03.2020 S. 600 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0600.pdf']",
+    "INKRAFTTRETEN": "01.08.2020",
     "SACHGEBIET": [
       "Bildung und Erziehung",
       "Arbeit und Beschäftigung"
     ],
     "SCHLAGWORT": [
       "Alleinerziehender",
-      "Aufstiegsfortbildung",
-      "Aufstiegsfortbildungsförderungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Aufstiegsfortbildung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Aufstiegsfortbildungsförderungsgesetz"
+      },
       "Ausbildungskosten",
       "Berufliche Qualifikation",
       "Berufliche Weiterbildung",
@@ -609,6 +621,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 3",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Zustimmung",
           "BEZUGSDOKUMENT": "76/20"

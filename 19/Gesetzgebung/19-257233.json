@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Gesetzes über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder und des Kinderbetreuungsfinanzierungsgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Verabschiedet",
+    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I011",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 3/20)",
@@ -57,6 +57,12 @@
         "PLPR_NUMMER": "19/152",
         "PLPR_SEITEN": "18981D - 18982A",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18981"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -66,9 +72,15 @@
       "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
-      "Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz über Finanzhilfen des Bundes zum Ausbau der Tagesbetreuung für Kinder"
+      },
       "Kinderbetreuung",
-      "Kinderbetreuungsfinanzierungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kinderbetreuungsfinanzierungsgesetz"
+      },
       "Kindertagespflege",
       "Kindertagesstätte",
       "Öffentliche Investition",
@@ -225,7 +237,7 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "18981D",
           "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
-          "BEZUGSDOKUMENT": "19/17818, 19/17818"
+          "BEZUGSDOKUMENT": "19/17293, 19/17818"
         }
       },
       {
@@ -238,6 +250,40 @@
           "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
           "BEZUGSDOKUMENT": "19/17293, 19/17818"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "13.03.2020 - BR-Drucksache 120/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0120-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "2. Durchgang",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "120/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2020 - BR-Drucksache 120/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0120-20B.pdf"
       }
     ]
   }

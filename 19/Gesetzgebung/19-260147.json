@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Erstes Gesetz zur Änderung des Wasserhaushaltsgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "N019",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 131/20)",
@@ -15,24 +15,68 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0131-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Durchgang",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "988",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
+    "SCHLAGWORT": [
+      "Europäischer Gerichtshof",
+      "Gewässerschutz",
+      "Innerstaatliche Umsetzung von EU-Recht",
+      "Landwirtschaft",
+      "Nitrate",
+      "Richtlinie der EU",
+      "Wasserrahmenrichtlinie"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
-      "FUNDSTELLE": "12.03.2020 - BR-Drucksache 131/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0131-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
+        "FUNDSTELLE": "12.03.2020 - BR-Drucksache 131/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0131-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 131/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0131-1-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge - U: zus. Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Stellungnahme: Änderungsvorschläge",
+          "BEZUGSDOKUMENT": "131/20"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2020 - BR-Drucksache 131/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0131-20B.pdf"
+      }
+    ]
   }
 }

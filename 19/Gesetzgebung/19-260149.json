@@ -8,34 +8,61 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G037",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/17893)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 19/17893)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": {
       "DRS_HERAUSGEBER": "BT",
       "DRS_NUMMER": "19/17893",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917893.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1., 2. und 3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/153",
+        "PLPR_SEITEN": "19028C - 19042B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19028"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Arbeit und Beschäftigung",
+    "VERKUENDUNG": "Gesetz vom 13.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1214.03.2020 S. 493b https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0493b.pdf']",
+    "INKRAFTTRETEN": "15.03.2020",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Gesundheit",
+      "Arbeit und Beschäftigung"
+    ],
     "SCHLAGWORT": [
       "Arbeitnehmerüberlassungsgesetz",
-      "Arbeitszeit",
-      "Coronavirus",
+      "Arbeitsmarkt",
+      "COVID-19",
       "Epidemie",
-      "Gesetz zur befristeten krisenbedingten Verbesserung der Regelungen für das Kurzarbeitergeld",
-      "Infektionskrankheit",
-      "Kurzarbeitergeld",
-      "Sozialgesetzbuch III"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur befristeten krisenbedingten Verbesserung der Regelungen für das Kurzarbeitergeld"
+      },
+      "Kurzarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kurzarbeitergeld"
+      },
+      "Leiharbeit",
+      "Sozialgesetzbuch III",
+      "Wirtschaftliche Stabilität"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Angesichts der durch die Verbreitung des Coronavirus COVID19 bestehenden Krisensituation und zunehmender Auswirkungen auf Wirtschaft und Beschäftigung: Aufnahme bis 2021 befristeter Verordnungsermächtigungen zur Erleichterung des Zugangs zu Kurzarbeitergeld und zur Entlastung der Betriebe sowie zur Ermöglichung des Bezugs von Kurzarbeitergeld für Leiharbeitnehmer; \r\nÄnderung § 109 SGB III sowie § 11 und Einfügung § 11a Arbeitnehmerüberlassungsgesetz; Verordnungsermächtigungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -97,6 +124,129 @@
         ]
       },
       {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1., 2. und 3. Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19028C - 19042B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19028",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Olaf",
+            "NACHNAME": "Scholz",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19028D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Kleinwächter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19029D"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Gröhe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19032A"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Olpe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19033B"
+          },
+          {
+            "VORNAME": "Susanne",
+            "NACHNAME": "Ferschl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19034A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Strengmann-Kuhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19035A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Tack",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19036B"
+          },
+          {
+            "VORNAME": "Carl-Julius",
+            "NACHNAME": "Cronenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19037B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Weiß",
+            "WAHLKREISZUSATZ": "Emmendingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19038A"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19039A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Stracke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19039C"
+          },
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Rützel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19040C"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Zimmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19041C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19042B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/17893",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      },
+      {
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
         "FUNDSTELLE": "13.03.2020 - BR-Drucksache 138/20",
@@ -106,6 +256,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Durchgang",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 53",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
           "BEZUGSDOKUMENT": "138/20"

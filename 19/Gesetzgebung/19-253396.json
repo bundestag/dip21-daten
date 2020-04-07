@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Einführung von Sondervorschriften für die Sanierung und Abwicklung von zentralen Gegenparteien und zur Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs- und Nachweispflichten nach den Artikeln 4a und 10 der Verordnung (EU) Nr. 648/2012",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D046",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 465/19)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 465/19)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -61,21 +64,30 @@
       {
         "PLPR_KLARTEXT": "2. Durchgang",
         "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "986"
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 19.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1427.03.2020 S. 529 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0529.pdf']",
+    "INKRAFTTRETEN": "28.03.2020 (weiteres siehe im BGBl)",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
       "Aufsichtsbehörde",
       "Bank",
-      "Bankrecht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankrecht"
+      },
       "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Derivat",
       "Financial Stability Board",
       "Finanzdienstleistungsaufsicht",
       "Gegenpartei-Prüfbescheinigungsverordnung",
-      "Gesetz zur Einführung von Sondervorschriften für die Sanierung und Abwicklung von zentralen Gegenparteien und zur Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs- und Nachweispflichten nach den Artikeln 4a und 10 der Verordnung (EU) Nr. 648/2012",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Einführung von Sondervorschriften für die Sanierung und Abwicklung von zentralen Gegenparteien und zur Anpassung des Wertpapierhandelsgesetzes an die Unterrichtungs- und Nachweispflichten nach den Artikeln 4a und 10 der Verordnung (EU) Nr. 648/2012"
+      },
       "Innerstaatliche Umsetzung von EU-Recht",
       "Kapitalanlagegesetzbuch",
       "Kapitalanlage-Prüfungsberichte-Verordnung",
@@ -90,7 +102,10 @@
       "Versicherungsaufsichtsgesetz",
       "Versicherungsteuergesetz",
       "Wertpapiererwerbs- und Übernahmegesetz",
-      "Wertpapierhandel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wertpapierhandel"
+      },
       "Wertpapierhandelsgesetz"
     ],
     "ABSTRAKT": "Schaffung eines wirksamen Sanierungs- und Abwicklungsrahmens für zentrale Gegenparteien (Central Counterparty, CCP) als Beitrag für ein reibungsloses Funktionieren der Finanzmärkte, Bewahrung der Finanzstabilität und Minimierung der Kosten für den Steuerzahler; Maßnahmen zur Überwindung finanzieller Notlagen sowie zur Aufrechterhaltung der kritischen Funktionen einer ausfallenden oder ausfallbedrohten CCP, Schaffung entsprechender Befugnisse der Aufsichts- und Abwicklungsbehörden; Änderung nationaler Ausführungsgesetze nach Änderung der EU-Verordnung 648/2012 (EMIR) durch die EU-Verordnung 2019/834 (EMIR REFIT) \r\nÄnderung von 6 Gesetzen und 5 Rechtsverordnungen; Verordnungsermächtigungen \r\n \r\nBezug: Empfehlungen des Financial Stability Board (FSB) zur Implementierung von Abwicklungsregime für CCPs von 2014 \r\nVorschlag über einen Rahmen für die Sanierung und Abwicklung von CCPs und zur Änderung der Verordnungen (EU) Nr. 1095/2010, (EU) Nr. 648/2012 und (EU) 2015/2365 vom 28.11.2016, COM(2016), 856 final, S. 2 ; Verordnung (EU) 2019/834 vom 20. Mai 2019 zur Änderung der Verordnung (EU) Nr. 648/2012 in Bezug auf die Clearingpflicht, die Aussetzung der Clearingpflicht, die Meldepflichten, die Risikominderungstechniken für nicht durch eine zentrale Gegenpartei geclearte OTC-Derivatekontrakte, die Registrierung und Beaufsichtigung von Transaktionsregistern und die Anforderungen an Transaktionsregister (ABl. L 141, 28.05.2019, S. 42) \r\n \r\n Beschlussempfehlung des Ausschusses:  Änderungen"
@@ -299,6 +314,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "2. Durchgang",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
           "BEZUGSDOKUMENT": "74/20"

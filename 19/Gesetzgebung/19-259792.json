@@ -15,48 +15,80 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "988",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Energie",
+      "Umwelt",
       "Verkehr",
-      "Raumordnung, Bau- und Wohnungswesen"
+      "Raumordnung, Bau- und Wohnungswesen",
+      "Energie"
     ],
     "SCHLAGWORT": [
-      "Elektrofahrzeug",
-      "Gebäude-Elektromobilitätsinfrastruktur-Gesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektrofahrzeug"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gebäude-Elektromobilitätsinfrastruktur-Gesetz"
+      },
       "Parkfläche",
       "Stromnetz",
       "Verkehrsinfrastruktur"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verbesserung der Lademöglichkeiten für Elektrofahrzeuge zu Hause, am Arbeitsplatz und bei alltäglichen Besorgungen durch vorbereitende Ladeinfrastruktur und Ladepunkte bei Wohn- und Nichtwohngebäuden mit größeren Parkplätzen; Umsetzung der EU-Gebäuderichtlinie betr. Pkw und Lieferfahrzeuge \r\n \r\nBezug: Richtlinie (EU) 2018/844 vom 30. Mai 2018 zur Änderung der Richtlinie 2010/31/EU über die Gesamtenergieeffizienz von Gebäuden und der Richtlinie 2012/27/EU über Energieeffizienz (ABl. L 156, 19.06.2018, S. 75)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
-      "FUNDSTELLE": "05.03.2020 - BR-Drucksache 111/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "05.03.2020 - BR-Drucksache 111/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 111/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-1-20.pdf",
+        "VP_ABSTRAKT": "Wi, U, Vk, Wo: Stellungnahme - Wi, U: zus. Änderungsvorschläge - In, R: keine Einwendungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "111/20"
         }
-      ]
-    }
+      }
+    ]
   }
 }

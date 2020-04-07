@@ -42,13 +42,22 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Fortpflanzung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fortpflanzung"
+      },
       "Gesetzliche Krankenversicherung",
       "Kostenerstattung",
       "Medizinische Behandlung",
       "Onkologie",
-      "Sozialgesetzbuch V",
-      "Tumorerkrankung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialgesetzbuch V"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tumorerkrankung"
+      }
     ],
     "ABSTRAKT": "Kostenerstattung der gesetzlichen Krankenversicherung für fruchtbarkeitserhaltende Maßnahmen für Krebspatienten; \r\nÄnderung § 27 Fünftes Buch Sozialgesetzbuch"
   },

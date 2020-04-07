@@ -8,10 +8,13 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I010",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/14336)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 19/14336)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BT",
@@ -57,6 +60,8 @@
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 25.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1601.04.2020 S. 712 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0712.pdf']",
+    "INKRAFTTRETEN": "02.04.2020",
     "SACHGEBIET": [
       "Gesellschaftspolitik, soziale Gruppen",
       "Staat und Verwaltung"
@@ -64,13 +69,22 @@
     "SCHLAGWORT": [
       "Beratung",
       "Bericht der Bundesregierung",
-      "Bürgerschaftliches Engagement",
-      "Deutsche Stiftung für Engagement und Ehrenamt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bürgerschaftliches Engagement"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Stiftung für Engagement und Ehrenamt"
+      },
       "Digitalisierung",
       "Ehrenamtliche Tätigkeit",
       "Forschungsprojekt",
       "Gesetzesfolgenabschätzung",
-      "Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Errichtung der Deutschen Stiftung für Engagement und Ehrenamt"
+      },
       "Ländlicher Raum",
       "Strukturschwaches Gebiet",
       "Verein"
