@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur neuen Wohngemeinnützigkeit (Neues Wohngemeinnützigkeitsgesetz - NWohnGG)",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "P009",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/17307)",
@@ -15,39 +15,85 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917307.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/153",
+      "PLPR_SEITEN": "19072A - 19072B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19072"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Raumordnung, Bau- und Wohnungswesen",
     "SCHLAGWORT": [
-      "Gemeinnützigkeit",
-      "Neues Wohngemeinnützigkeitsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gemeinnützigkeit"
+      },
+      "Gesetz über Finanzhilfen des Bundes zum Ausbau des sozialen Wohnungsbaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Neues Wohngemeinnützigkeitsgesetz"
+      },
+      "Soziale Wohnraumförderung",
       "Wohngemeinnützigkeitsgesetz",
-      "Wohnungswirtschaft"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wohnungswirtschaft"
+      }
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "20.02.2020 - BT-Drucksache 19/17307",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917307.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Kühn",
-          "WAHLKREISZUSATZ": "Tübingen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "20.02.2020 - BT-Drucksache 19/17307",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917307.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Tübingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Paus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19072A - 19072B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19072",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19072B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17307"
         },
-        {
-          "VORNAME": "Lisa",
-          "NACHNAME": "Paus",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

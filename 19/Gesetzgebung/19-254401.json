@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Umsetzung der technischen Säule des vierten Eisenbahnpakets der Europäischen Union",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J018",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 522/19)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Ja, laut Gesetzentwurf(Drs 522/19)",
+      "Ja, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -67,14 +70,22 @@
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 16.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1319.03.2020 S. 501 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0501.pdf']",
+    "INKRAFTTRETEN": "16.06.2020 (weiteres siehe im BGBl)",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Allgemeines Eisenbahngesetz",
       "Bahntechnik",
       "Bundeseisenbahnverkehrsverwaltungsgesetz",
       "Eisenbahnrecht",
-      "Gesetz zur Umsetzung der technischen Säule des vierten Eisenbahnpakets der Europäischen Union",
-      "Grenzüberschreitender Verkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Umsetzung der technischen Säule des vierten Eisenbahnpakets der Europäischen Union"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Grenzüberschreitender Verkehr"
+      },
       "Innerstaatliche Umsetzung von EU-Recht",
       "Richtlinie der EU",
       "Schienenfahrzeug",

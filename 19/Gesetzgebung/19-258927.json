@@ -23,13 +23,25 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19146.pdf#P.18260"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
+    "SACHGEBIET": [
+      "Gesellschaftspolitik, soziale Gruppen",
+      "Soziale Sicherung"
+    ],
     "SCHLAGWORT": [
+      "Erwerbstätigkeit",
       "Heimerziehung",
-      "Kinder- und Jugendhilfe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kinder- und Jugendhilfe"
+      },
+      "Lebenshaltungskosten",
       "Pflegefamilie",
       "Pflegekind",
-      "Sozialgesetzbuch VIII"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialgesetzbuch VIII"
+      },
+      "Vergütung"
     ],
     "ABSTRAKT": ""
   },

@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes (EEG)",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E032",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 631/19)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "631/19",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0631-19.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "631/19",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0631-19.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18091",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918091.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
@@ -38,15 +46,24 @@
       "Energie"
     ],
     "SCHLAGWORT": [
-      "Ausschreibung",
-      "Erneuerbare-Energien-Gesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ausschreibung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Erneuerbare-Energien-Gesetz"
+      },
       "Gerichtsverfahren",
       "Planung",
       "Prozessrecht",
       "Rechtsmittel",
       "Vertragsstrafe",
       "Windenergie",
-      "Windenergieanlage",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Windenergieanlage"
+      },
       "Wirtschaftlichkeit"
     ],
     "ABSTRAKT": "Sicherstellung der für den Ausbau Erneuerbarer Energien notwendigen finanziellen Planungssicherheit für Projektierer von Windenergieanlagen: Verlängerung von Fristen für Bieter bis zur Fälligkeit von Pönalen bei Einlegung von Rechtsmitteln mit aufschiebender Wirkung gegen das bezuschlagte Projekt bis zur rechtskräftigen Entscheidung oder anderweitigen Beendigung des eingeleiteten Verfahrens sowie bis zum Beginn des Zeitraums des Zahlungsanspruchs um die Dauer gerichtlicher Verfahren; \r\nÄnderung §§ 36i und 55 Erneuerbare-Energien-Gesetz"
@@ -96,6 +113,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "14.02.2020 - BR-Drucksache 631/19(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0631-19B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "23.03.2020 - BT-Drucksache 19/18091",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918091.pdf"
       }
     ]
   }

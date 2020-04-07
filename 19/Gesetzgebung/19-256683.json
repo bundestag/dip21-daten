@@ -3,23 +3,31 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
-    "TITEL": "... Gesetz zur Änderung des Bundeszentralregistergesetzes - Zeitlich unbegrenzte Aufnahme von Verurteilungen wegen sexuellen Missbrauchs von Kindern u. a. in das erweiterte Führungszeugnis",
+    "TITEL": "... Gesetz zur Änderung des Bundeszentralregistergesetzes - Zeitlich unbegrenzte Aufnahme von Verurteilungen wegen sexuellen Missbrauchs von Kindern und anderem in das erweiterte Führungszeugnis",
     "INITIATIVE": [
       "Baden-Württemberg",
       "Bayern",
       "Nordrhein-Westfalen",
       "Saarland"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C121",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 645/19)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "645/19",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0645-19.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "645/19",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0645-19.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18019",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918019.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
@@ -43,14 +51,20 @@
     ],
     "SCHLAGWORT": [
       "Bundeszentralregister",
-      "Bundeszentralregistergesetz",
-      "Führungszeugnis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeszentralregistergesetz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Führungszeugnis"
+      },
       "Kinderpornografie",
       "Kinderschutz",
       "Kindesmisshandlung",
       "Sexueller Missbrauch"
     ],
-    "ABSTRAKT": "Verbesserung des Schutzes von Kindern vor sexuellem Missbrauch durch einschlägig vorbestrafte Personen: Dauerhafter Ausschluss vom beruflichen und ehrenamtlichen Umgang mit Kindern und Jugendlichen durch zeitlich unbegrenzte Aufnahme von einschlägigen Straftaten in das erweiterte Führungszeugnis, Anpassung der Tilgungsfristen im Bundeszentralregister; \r\nÄnderung §§ 33, 34 38, 41 45 und 48 Bundeszentralregistergesetz"
+    "ABSTRAKT": "Verbesserung des Schutzes von Kindern vor sexuellem Missbrauch durch einschlägig vorbestrafte Personen: Dauerhafter Ausschluss vom beruflichen und ehrenamtlichen Umgang mit Kindern und Jugendlichen durch zeitlich unbegrenzte Aufnahme von einschlägigen Straftaten in das erweiterte Führungszeugnis, Anpassung der Tilgungsfristen im Bundeszentralregister; \r\nÄnderung §§ 33, 34 38, 41 45 und 48 Bundeszentralregistergesetz \r\n \r\n Änderungen durch BR-Beschluss "
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -107,6 +121,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "14.02.2020 - BR-Drucksache 645/19(B)(neu)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0645-19B(neu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "18.03.2020 - BT-Drucksache 19/18019\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918019.pdf"
       }
     ]
   }

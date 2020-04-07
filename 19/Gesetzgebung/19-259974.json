@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G035",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/17740)",
@@ -18,13 +18,23 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917740.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/153",
+      "PLPR_SEITEN": "19028C - 19042B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19028"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": [
       "Akkreditierungs- und Zulassungsverordnung Arbeitsförderung",
       "Arbeitgeberanteil",
       "Arbeitnehmerüberlassungsgesetz",
-      "Arbeitsförderung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arbeitsförderung"
+      },
       "Arbeitsmarktpolitik",
       "Assistierte Ausbildung",
       "Aufenthaltsgesetz",
@@ -32,24 +42,176 @@
       "Ausbildungsförderung",
       "Berufliche Qualifikation",
       "Beruflicher Bildungsabschluss",
-      "Berufliche Weiterbildung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berufliche Weiterbildung"
+      },
       "Berufsausbildung",
       "Deutschsprachförderverordnung",
-      "Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Förderung der beruflichen Weiterbildung im Strukturwandel und zur Weiterentwicklung der Ausbildungsförderung"
+      },
       "Kurzarbeitergeld",
       "Sozialgesetzbuch II",
       "Sozialgesetzbuch III",
-      "Strukturwandel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strukturwandel"
+      },
       "Ungelernter Arbeitnehmer"
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "10.03.2020 - BT-Drucksache 19/17740",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917740.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "10.03.2020 - BT-Drucksache 19/17740",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917740.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19028C - 19042B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19028",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Olaf",
+            "NACHNAME": "Scholz",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19028D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Kleinwächter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19029D"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Gröhe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19032A"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Olpe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19033B"
+          },
+          {
+            "VORNAME": "Susanne",
+            "NACHNAME": "Ferschl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19034A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Strengmann-Kuhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19035A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Tack",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19036B"
+          },
+          {
+            "VORNAME": "Carl-Julius",
+            "NACHNAME": "Cronenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19037B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Weiß",
+            "WAHLKREISZUSATZ": "Emmendingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19038A"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19039A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Stracke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19039C"
+          },
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Rützel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19040C"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Zimmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19041C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19042B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17740"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

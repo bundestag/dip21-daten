@@ -15,6 +15,12 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0086-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "988",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -22,8 +28,14 @@
       "Geriatrie",
       "Gesundheitskosten",
       "Häusliche Pflege",
-      "Intensivpflege",
-      "Intensivpflege- und Rehabilitationsstärkungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Intensivpflege"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Intensivpflege- und Rehabilitationsstärkungsgesetz"
+      },
       "Krankenhausbehandlung",
       "Krankenhausentgeltgesetz",
       "Krankenhausfinanzierung",
@@ -31,7 +43,10 @@
       "Nachsorge",
       "Pflegekosten",
       "Pflegeversicherung",
-      "Rehabilitation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rehabilitation"
+      },
       "Rehabilitationseinrichtung",
       "Selbstbeteiligung im Gesundheitswesen",
       "Sozialgesetzbuch V",
@@ -41,23 +56,42 @@
     "ABSTRAKT": "Möglichkeit von Vergütungsanpassungen bei erforderlichen Mehrausgaben von Rehabilitationseinrichtungen, d.h. Abweichung vom Grundsatz der Beitragssatzstabilität, Verfahrenserleichterung beim Zugang zu geriatrischer Rehabilitation durch vertragsärztliche Verordnung, Stärkung des Wahlrechts der Versicherten bei der Auswahl der Rehabilitationseinrichtung, neuer Leistungsanspruch auf außerklinische Intensivpflege, erhebliche Reduzierung von Eigenanteilen, besondere Anforderungen an die Leistungserbringer, Rahmenempfehlungen zwischen Krankenkassen und Leistungserbringern zu Versorgungs- und Vergütungsverträgen u.a., Regelungen betr. Entlassmanagement von Krankenhäusern, besonderer ärztlicher Anschlussbehandlung und stationärer Beatmungsentwöhnung; \r\nÄnderung und Einfügung versch. §§ Fünftes Buch Sozialgesetzbuch, Änderung versch. §§ Elftes Buch Sozialgesetzbuch sowie Änderung §§ 5, 6 und 9 Krankenhausentgeltgesetz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
-      "FUNDSTELLE": "21.02.2020 - BR-Drucksache 86/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0086-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "21.02.2020 - BR-Drucksache 86/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0086-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 86/1/20(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0086-1-20(neu).pdf",
+        "VP_ABSTRAKT": "G: u.a. Änderungsvorschläge - AIS, FS: keine Einwendungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "86/20"
         }
-      ]
-    }
+      }
+    ]
   }
 }

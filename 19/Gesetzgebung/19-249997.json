@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Wiedereinführung der Länderöffnungsklausel zur Vorgabe von Mindestabständen zwischen Windenergieanlagen und zulässigen Nutzungen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "P004",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/11094)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/11094",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/110/1911094.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/11094",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/110/1911094.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18062",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918062.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -33,11 +41,17 @@
       "Baugesetzbuch",
       "Bauplanung",
       "Energiewende",
-      "Gesetz zur Wiedereinführung der Länderöffnungsklausel zur Vorgabe von Mindestabständen zwischen Windenergieanlagen und zulässigen Nutzungen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Wiedereinführung der Länderöffnungsklausel zur Vorgabe von Mindestabständen zwischen Windenergieanlagen und zulässigen Nutzungen"
+      },
       "Immobilien",
       "Landesgesetz",
       "Windenergie",
-      "Windenergieanlage",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Windenergieanlage"
+      },
       "Wohngebiet",
       "Wohnimmobilien"
     ],
@@ -251,6 +265,57 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen ",
+        "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18062",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918062.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marc",
+            "NACHNAME": "Bernhard",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Mindrup",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hagen",
+            "NACHNAME": "Reinhold",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Schweiger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }

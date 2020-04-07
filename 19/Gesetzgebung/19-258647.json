@@ -5,20 +5,29 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Haftung bei Unfällen mit Anhängern und Gespannen im Straßenverkehr",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C128",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 49/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "49/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0049-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "49/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0049-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17964",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917964.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Durchgang",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
+      "PLPR_NUMMER": "986",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -28,7 +37,10 @@
     "SCHLAGWORT": [
       "Fahrzeuganhänger",
       "Gefährdungshaftung",
-      "Gesetz zur Haftung bei Unfällen mit Anhängern und Gespannen im Straßenverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Haftung bei Unfällen mit Anhängern und Gespannen im Straßenverkehr"
+      },
       "Haftung",
       "Kraftfahrzeughaftpflichtversicherung",
       "Straßenverkehr",
@@ -64,6 +76,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "keine Einwendungen",
           "BEZUGSDOKUMENT": "49/20"
@@ -74,6 +87,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "13.03.2020 - BR-Drucksache 49/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0049-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "16.03.2020 - BT-Drucksache 19/17964",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917964.pdf"
       }
     ]
   }
