@@ -15,35 +15,80 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0089-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "988",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+    },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Wirtschaft",
-    "SCHLAGWORT": [
-      "Verdienststatistik",
-      "Verdienststatistikgesetz"
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Arbeit und Beschäftigung"
     ],
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Bericht",
+      "Datenerhebung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Einkommensentwicklung"
+      },
+      "Einkommensverteilung",
+      "Gleichberechtigung von Mann und Frau",
+      "Mindestlohn",
+      "Mindestlohnkommission",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verdienststatistik"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verdienststatistikgesetz"
+      },
+      "Vergütung"
+    ],
+    "ABSTRAKT": "Verzahnung von Verdienst- und Verdienststrukturerhebungen zur Verbesserung der Datenlage betr. Verteilung der Bruttoverdienste für den Bericht der Mindestlohnkommission und ggf. Anpassung des Mindestlohns sowie zum Verdienstabstand zwischen Frauen und Männern (Gender Pay Gap): monatliche, für die Wirtschaft möglichst belastungsarme digitale Verdiensterhebung bei Ausrichtung auf im betrieblichen Rechnungswesen ohnehin digital verfügbare Angaben und automatisierte Datenlieferung, monatliche Erhebung nicht über andere Quellen verfügbarer Daten, beschränkte Erhebung von Vergütungsvereinbarungen im Fünf-Jahres-Turnus, Bildung eines Beschäftigtenpanels für individuelle und betriebsspezifische Verdienstentwicklungen; \r\nÄnderung und Aufhebung versch. §§ Verdienststatistikgesetz; Bekanntmachungserlaubnis"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-      "FUNDSTELLE": "21.02.2020 - BR-Drucksache 89/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0089-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "21.02.2020 - BR-Drucksache 89/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0089-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 89/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0089-1-20.pdf",
+        "VP_ABSTRAKT": "Wi: Stellungnahme - AIS: Änderungsvorschläge - Fz, In: keine Einwendungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 17",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "89/20"
         }
-      ]
-    }
+      }
+    ]
   }
 }

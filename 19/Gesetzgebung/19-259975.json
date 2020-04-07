@@ -28,6 +28,7 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
+      "Innere Sicherheit",
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
@@ -35,16 +36,28 @@
       "Bundeskriminalamt",
       "Bundeskriminalamtgesetz",
       "Bundesmeldegesetz",
-      "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität"
+      },
       "Grundgesetz Art. 10",
-      "Hasskriminalität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hasskriminalität"
+      },
       "Internet",
       "Kinderpornografie",
       "Meldepflicht",
       "Netzwerkdurchsetzungsgesetz",
       "Politische Kultur",
-      "Rechtsextremismus",
-      "Soziale Medien",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rechtsextremismus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Soziale Medien"
+      },
       "Strafgesetzbuch",
       "Strafprozessordnung",
       "Telemediengesetz"
@@ -195,7 +208,7 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
           },
           {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Technologie"
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           },
           {
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"

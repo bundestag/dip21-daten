@@ -5,20 +5,29 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Vertrag vom 20. Dezember 2019 zwischen der Bundesrepublik Deutschland und dem Zentralrat der Juden in Deutschland - Körperschaft des Öffentlichen Rechts - zur Regelung der jüdischen Militärseelsorge (Gesetz über die jüdische Militärseelsorge - JüdMilSeelsG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "H003",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 50/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "50/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0050-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "50/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0050-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18074",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918074.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Durchgang",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
+      "PLPR_NUMMER": "986",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -28,9 +37,15 @@
     "SCHLAGWORT": [
       "Gesetz über die jüdische Militärseelsorge",
       "Juden",
-      "Militärseelsorge",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Militärseelsorge"
+      },
       "Staatsvertrag",
-      "Zentralrat der Juden in Deutschland"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zentralrat der Juden in Deutschland"
+      }
     ],
     "ABSTRAKT": "Zustimmung zu dem am 20. Dezember 2019 in Berlin unterzeichneten Vertrag zwischen dem Bund und dem Zentralrat der Juden in Deutschland: Einrichtung einer jüdischen Militärseelsorge in der Bundeswehr"
   },
@@ -50,6 +65,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "keine Einwendungen",
           "BEZUGSDOKUMENT": "50/20"
@@ -60,6 +76,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "13.03.2020 - BR-Drucksache 50/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0050-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18074",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918074.pdf"
       }
     ]
   }

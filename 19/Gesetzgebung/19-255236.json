@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Fünftes Gesetz zur Änderung des Regionalisierungsgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J020",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 580/19 (bes.eilbed.))",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Ja, laut Gesetzentwurf(Drs 580/19 (bes.eilbed.))",
+      "Ja, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -67,6 +70,8 @@
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 06.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1112.03.2020 S. 445 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0445.pdf']",
+    "INKRAFTTRETEN": "01.01.2020",
     "SACHGEBIET": [
       "Verkehr",
       "Öffentliche Finanzen, Steuern und Abgaben"
@@ -78,8 +83,14 @@
       "Finanzzuweisung",
       "Klimaschutz",
       "Länder der Bundesrepublik Deutschland",
-      "Öffentlicher Personennahverkehr",
-      "Regionalisierungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Öffentlicher Personennahverkehr"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Regionalisierungsgesetz"
+      },
       "Regulierung",
       "Schienenpersonennahverkehr",
       "Stationspreis",

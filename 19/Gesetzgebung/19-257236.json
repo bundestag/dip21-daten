@@ -45,10 +45,19 @@
       "Raumordnung, Bau- und Wohnungswesen"
     ],
     "SCHLAGWORT": [
-      "Heizkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Heizkosten"
+      },
       "Niedrigeinkommen",
-      "Wohngeld",
-      "Wohngeld-CO2-Bepreisungsentlastungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wohngeld"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wohngeld-CO2-Bepreisungsentlastungsgesetz"
+      },
       "Wohngeldgesetz"
     ],
     "ABSTRAKT": ""
@@ -114,7 +123,31 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "12.03.2020 - BT-Plenarprotokoll 19/152, S. 18980B - 18981C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18980"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18981C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17588"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          }
+        ]
       }
     ]
   }

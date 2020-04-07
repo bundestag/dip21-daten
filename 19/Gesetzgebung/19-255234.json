@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Vorbereitung der Schaffung von Baurecht durch Maßnahmengesetz im Verkehrsbereich (Maßnahmengesetzvorbereitungsgesetz - MgvG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J019",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 579/19 (bes.eilbed.))",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 579/19 (bes.eilbed.))",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -67,6 +70,8 @@
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 22.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1531.03.2020 S. 640 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0640.pdf']",
+    "INKRAFTTRETEN": "01.04.2020",
     "SACHGEBIET": [
       "Recht",
       "Verkehr"
@@ -76,10 +81,16 @@
       "Bürgerbeteiligung",
       "Gewässerausbau",
       "Klimaschutz",
-      "Maßnahmengesetzvorbereitungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Maßnahmengesetzvorbereitungsgesetz"
+      },
       "Planfeststellung",
       "Streckenbau",
-      "Verkehrsinfrastruktur",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsinfrastruktur"
+      },
       "Verkehrsplanung",
       "Verkehrswegebau"
     ],

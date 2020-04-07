@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Anpassung des Medizinprodukterechts an die Verordnung (EU) 2017/745 und die Verordnung (EU) 2017/746 (Medizinprodukte-EU-Anpassungsgesetz - MPEUAnpG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Verabschiedet",
+    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M030",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 594/19 (bes.eilbed.))",
@@ -57,6 +57,12 @@
         "PLPR_NUMMER": "19/149",
         "PLPR_SEITEN": "18656C",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19149.pdf#P.18656"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -84,10 +90,19 @@
       "Krankenhausfinanzierungsgesetz",
       "Lebensmittel- und Futtermittelgesetzbuch",
       "Medizinische Untersuchung",
-      "Medizinprodukt",
-      "Medizinprodukte-EU-Anpassungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinprodukt"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinprodukte-EU-Anpassungsgesetz"
+      },
       "Medizinproduktegesetz",
-      "Medizinprodukterecht-Durchführungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinprodukterecht-Durchführungsgesetz"
+      },
       "Medizinprodukte-Sicherheitsplanverordnung",
       "Meldepflicht",
       "Mess- und Eichverordnung",
@@ -414,6 +429,39 @@
           "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
           "BEZUGSDOKUMENT": "19/15620, 19/17589"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "13.03.2020 - BR-Drucksache 121/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0121-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 121/1/20(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0121-1-20(neu).pdf",
+        "VP_ABSTRAKT": "Zustimmung; Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "2. Durchgang",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 3",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "121/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.03.2020 - BR-Drucksache 121/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0121-20B.pdf"
       }
     ]
   }

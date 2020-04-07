@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Zweites Gesetz zur Änderung des Konsulargesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
+    "AKTUELLER_STAND": "Verkündet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "A006",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 348/19)",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 348/19)",
+      "Nein, laut Verkündung(BGBl I)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -67,6 +70,8 @@
       }
     ],
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Gesetz vom 25.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1601.04.2020 S. 673 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0673.pdf']",
+    "INKRAFTTRETEN": "02.04.2020 (weiteres siehe im BGBl I)",
     "SACHGEBIET": [
       "Staat und Verwaltung",
       "Außenpolitik und internationale Beziehungen"
@@ -74,8 +79,14 @@
     "SCHLAGWORT": [
       "Diplomatische Vertretung",
       "Ehrenbeamter",
-      "Gebühr",
-      "Konsulargesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gebühr"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Konsulargesetz"
+      },
       "Verwaltungskosten"
     ],
     "ABSTRAKT": "Erhebung von Gebühren durch Honorarkonsularbeamte für konsularische Tätigkeiten im Bereich des Pass- und Personalausweisverfahrens; \r\nÄnderung §§ 25, 30 und 31 Konsulargesetz"

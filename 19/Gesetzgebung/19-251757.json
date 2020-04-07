@@ -76,7 +76,10 @@
       }
     ],
     "EU_DOK_NR": "",
-    "VERKUENDUNG": "Gesetz vom 12.12.2019 - Bundesgesetzblatt Teil I 2019 Nr.4817.12.2019 S. 2451 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl119s2451.pdf']",
+    "VERKUENDUNG": [
+      "Gesetz vom 12.12.2019 - Bundesgesetzblatt Teil I 2019 Nr.4817.12.2019 S. 2451 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl119s2451.pdf']",
+      "Bekanntmachung vom 18.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1427.03.2020 S. 597 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0597.pdf']"
+    ],
     "INKRAFTTRETEN": "18.12.2019 (weiteres siehe im BGBl)",
     "SACHGEBIET": [
       "Umwelt",
@@ -93,14 +96,20 @@
       "Einführungsgesetz zur Abgabenordnung",
       "Einkommensteuer",
       "Einkommensteuergesetz",
-      "Elektrofahrzeug",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektrofahrzeug"
+      },
       "Europäischer Gerichtshof",
       "Finanzkonten-Informationsaustauschgesetz",
       "Finanzverwaltungsgesetz",
       "Gerichtsentscheidung",
       "Gesetz über Steuerstatistiken",
       "Gesetz zum Erlass und zur Änderung marktordnungsrechtlicher Vorschriften sowie zur Änderung des Einkommensteuergesetzes",
-      "Gesetz zur weiteren steuerlichen Förderung der Elektromobilität und zur Änderung weiterer steuerlicher Vorschriften",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur weiteren steuerlichen Förderung der Elektromobilität und zur Änderung weiterer steuerlicher Vorschriften"
+      },
       "Gewerbesteuer-Durchführungsverordnung",
       "Gewerbesteuergesetz",
       "Hybridfahrzeug",
@@ -114,7 +123,10 @@
       "Steueraufkommen",
       "Steuerbefreiung",
       "Steuerberatungsgesetz",
-      "Steuerrecht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Steuerrecht"
+      },
       "Steuersenkung",
       "Steuerumgehung",
       "Umsatzsteuer",

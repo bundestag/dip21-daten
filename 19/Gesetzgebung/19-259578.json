@@ -15,18 +15,36 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0106-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
       "Brief-, Post- und Fernmeldegeheimnis",
-      "Gesetz zur Verbesserung der Strafverfolgung hinsichtlich des Handels mit inkriminierten Gütern unter Nutzung von Postdienstleistern",
-      "Illegaler Handel",
-      "Postbeförderung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Verbesserung der Strafverfolgung hinsichtlich des Handels mit inkriminierten Gütern unter Nutzung von Postdienstleistern"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Illegaler Handel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Postbeförderung"
+      },
       "Postgesetz",
       "Strafverfolgung"
     ],
@@ -56,8 +74,26 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 9",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "106/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 106/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0106-1-20.pdf",
+        "VP_ABSTRAKT": "Wi, In: Einbringung - R: Einbringung in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 8",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "106/20"
         }
       }
