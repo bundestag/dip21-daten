@@ -17,7 +17,7 @@ jobs:
           node-version: 12.x
 
       - name: Scrape Data
-        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods 19 --operationtypes 100
+        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods 19 --operationtypes 100 --out .
         env:
           SCRAPER_USER_AGEND: UpdateGithubData-(github.com/bundestag/dip21-daten)
 
