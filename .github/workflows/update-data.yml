@@ -2,7 +2,7 @@ name: Update DIP21 Daten
 
 on:
   schedule:
-    - cron: "47 * * * *"
+    - cron: "22 0 * * *"
 
 jobs:
   scrape:
@@ -10,6 +10,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.TOKEN }}
       - name: Use Node.js 12
         uses: actions/setup-node@v1
         with:
