@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Inanspruchnahme von Mitteln für Planung und Bau für das Projekt \"Stuttgart 21\"",
+    "TITEL": "Inanspruchnahme von Mitteln für das Projekt \"Stuttgart 21\"",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -15,11 +15,17 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Baukosten",
       "Bundesmittel",
       "Deutsche Bahn",
-      "Stuttgart"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      }
     ],
     "ABSTRAKT": ""
   },

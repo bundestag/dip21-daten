@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Antibiotikum",
-      "Bakterien",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Antibiotikum"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bakterien"
+      },
       "Hygiene",
       "Krankenhaus",
       "Krankenhausbehandlung"

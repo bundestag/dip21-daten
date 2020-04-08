@@ -25,10 +25,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Behinderter",
-      "Geistig Behinderter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Behinderter"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geistig Behinderter"
+      },
       "Medizinische Behandlung",
-      "Medizinische Einrichtung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Einrichtung"
+      },
       "Personalausstattung"
     ],
     "ABSTRAKT": "(insgesamt 10 Einzelfragen)"

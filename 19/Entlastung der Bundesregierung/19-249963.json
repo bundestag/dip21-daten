@@ -32,6 +32,12 @@
         "DRS_NUMMER": "654/19",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0654-19.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18300",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918300.pdf"
       }
     ],
     "PLENUM": {
@@ -45,7 +51,10 @@
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
       "Bericht der Bundesregierung",
-      "Entlastung der Bundesregierung: Haushaltsjahr 2018"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entlastung der Bundesregierung: Haushaltsjahr 2018"
+      }
     ],
     "ABSTRAKT": "Jahresrechnungen beim Bundesrat als Sonderdrucke verteilt"
   },
@@ -130,6 +139,13 @@
           }
         ],
         "VP_ABSTRAKT": "Überweisung der Bemerkungen des BRH"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Bemerkungen des Bundesrechnungshofes,  Urheber : Bundesrechnungshof ",
+        "FUNDSTELLE": "02.04.2020 - BT-Drucksache 19/18300",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918300.pdf",
+        "VP_ABSTRAKT": "Bemerkungen des Bundesrechnungshofes 2019 zur Haushalts- und Wirtschaftsführung des Bundes - Ergänzungsband -"
       }
     ]
   }

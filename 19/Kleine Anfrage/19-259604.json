@@ -5,23 +5,36 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Inhalte der AlphaDekade",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17507",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/175/1917507.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17507",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/175/1917507.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18395",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
       "Gesellschaftspolitik, soziale Gruppen"
     ],
     "SCHLAGWORT": [
-      "Allgemeinbildung",
-      "Analphabetismus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Allgemeinbildung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Analphabetismus"
+      },
       "Beratung",
       "Bildungsniveau",
       "Bildungspolitik",
@@ -34,27 +47,34 @@
     "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "03.03.2020 - BT-Drucksache 19/17507",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/175/1917507.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Britta Katharina",
-          "NACHNAME": "Dassler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "03.03.2020 - BT-Drucksache 19/17507",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/175/1917507.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Britta Katharina",
+            "NACHNAME": "Dassler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18395"
+      }
+    ]
   }
 }

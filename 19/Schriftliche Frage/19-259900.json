@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Meldungen von Todesfälle und Geburts- oder\r\nFolgeschäden nach Verwendung wehenauslösender Medikamente",
+    "TITEL": "Meldungen von Todesfälle und Geburts- oder Folgeschäden nach Verwendung wehenauslösender Medikamente",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -15,10 +15,16 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Bundesinstitut für Arzneimittel und Medizinprodukte",
       "Geburtshilfe",
-      "Gesundheitsrisiko",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsrisiko"
+      },
       "Paul-Ehrlich-Institut"
     ],
     "ABSTRAKT": ""

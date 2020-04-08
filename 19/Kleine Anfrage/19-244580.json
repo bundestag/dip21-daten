@@ -26,8 +26,14 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gera",
-      "Impfung",
-      "Infektionskrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Impfung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Infektionskrankheit"
+      },
       "Meldepflicht",
       "Thüringen",
       "Todesfall"

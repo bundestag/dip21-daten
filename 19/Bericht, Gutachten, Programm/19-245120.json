@@ -22,6 +22,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/084/1908493.pdf"
       }
     ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/153",
+      "PLPR_SEITEN": "19115B - 19115D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19115"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Entwicklungspolitik",
@@ -29,14 +36,20 @@
     ],
     "SCHLAGWORT": [
       "Bericht der Bundesregierung",
-      "Gemeinsamer Fonds für Rohstoffe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gemeinsamer Fonds für Rohstoffe"
+      },
       "Internationale Getreide-Übereinkunft",
       "Internationales Kaffee-Übereinkommen",
       "Internationales Kakao-Übereinkommen",
       "Internationales Olivenöl-Übereinkommen",
       "Internationales Tropenholz-Übereinkommen",
       "Internationales Zucker-Übereinkommen",
-      "Rohstoffabkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rohstoffabkommen"
+      },
       "Rohstoffwirtschaft"
     ],
     "ABSTRAKT": "Finanzierung, Aktivitäten und Projekte des GF, der einzelnen Rohstoff-Übereinkommen und internationaler Studiengruppen in den Jahren 2016 bis 2018"
@@ -69,6 +82,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19115B - 19115D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19115",
+        "VP_ABSTRAKT": "S. 19115B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

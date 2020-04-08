@@ -30,8 +30,14 @@
     ],
     "SCHLAGWORT": [
       "Aufsichtsbehörde",
-      "Computerspiel",
-      "Glücksspiel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Computerspiel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Glücksspiel"
+      },
       "Glücksspielstaatsvertrag",
       "Jugendschutz",
       "Konzession",
@@ -40,7 +46,10 @@
       "Suchtprävention",
       "Verbraucherschutz",
       "Werbung",
-      "Wette"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wette"
+      }
     ],
     "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },

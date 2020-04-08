@@ -41,7 +41,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Ärztliche Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ärztliche Versorgung"
+      },
       "Facharzt",
       "Freizügigkeit",
       "Gesetzgebung",

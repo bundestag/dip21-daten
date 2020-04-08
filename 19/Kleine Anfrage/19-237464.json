@@ -26,9 +26,15 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Ambulante Behandlung",
-      "Geistig Behinderter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geistig Behinderter"
+      },
       "Medizinische Einrichtung",
-      "Medizinische Versorgung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      }
     ],
     "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },

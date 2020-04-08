@@ -41,9 +41,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Ambulante Behandlung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ambulante Behandlung"
+      },
       "Arzthonorar",
-      "Ärztliche Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ärztliche Versorgung"
+      },
       "Bericht",
       "Bürokratie",
       "Facharzt",

@@ -51,8 +51,14 @@
       "Pflege",
       "Pflegeeinrichtung",
       "Pflegepersonal",
-      "Pflegeversicherung",
-      "Sozialversicherungsbeitrag",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegeversicherung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialversicherungsbeitrag"
+      },
       "Sozialversicherungsfinanzierung",
       "Tariflohn"
     ],

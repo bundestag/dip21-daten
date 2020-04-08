@@ -16,9 +16,15 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arzneimittel",
-      "Cannabis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cannabis"
+      },
       "Gesetzliche Krankenversicherung",
-      "Kostenerstattung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kostenerstattung"
+      }
     ],
     "ABSTRAKT": ""
   },

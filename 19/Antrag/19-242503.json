@@ -42,9 +42,15 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Apotheke",
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Arzneimittelsicherheit",
-      "Einfuhr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Einfuhr"
+      },
       "Gesetzgebung"
     ],
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs zur Aufhebung der Verpflichtung von Apothekern zur Abgabe von Importarzneimitteln, damit Unwirksamkeit anderslautender Vereinbarungen im Rahmenvertrag zwischen GKV-Spitzenverband und Apothekerverband"

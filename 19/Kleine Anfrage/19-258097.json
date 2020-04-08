@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      "Brandstiftung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Brandstiftung"
+      },
       "Fahndung",
-      "Holzwirtschaft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Holzwirtschaft"
+      },
       "Personenschaden",
       "Polizeigebäude",
       "Sachschaden"

@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Verteilung der Mauteinnahmen aufdie Städte und Kommunen",
+    "TITEL": "Verteilung der Mauteinnahmen auf die Städte und Kommunen",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -16,7 +16,10 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Kommunale Gebietskörperschaft",
-      "Lkw-Maut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lkw-Maut"
+      },
       "Stadt"
     ],
     "ABSTRAKT": ""

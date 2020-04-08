@@ -16,11 +16,20 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundeswehrangehöriger",
-      "Deutsche Bahn",
-      "NATO-Truppen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Bahn"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "NATO-Truppen"
+      },
       "Öffentlicher Personenverkehr",
       "Stationierungsstreitkräfte",
-      "Unentgeltliche Beförderung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unentgeltliche Beförderung"
+      }
     ],
     "ABSTRAKT": ""
   },

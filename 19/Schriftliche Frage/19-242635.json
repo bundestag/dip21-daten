@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arzt",
-      "Behandlungsfehler",
-      "Beweislast",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Behandlungsfehler"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Beweislast"
+      },
       "Gerichtsverfahren",
       "Gesetzgebung",
       "Patient"

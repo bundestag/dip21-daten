@@ -26,8 +26,14 @@
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
       "Bundesamt für den Militärischen Abschirmdienst",
-      "Bundeswehr",
-      "Extremismus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Extremismus"
+      },
       "Internationale Zusammenarbeit",
       "Linksextremismus",
       "Nachrichtendienst",
@@ -38,7 +44,10 @@
       "Rechtsextremismus",
       "Reichsbürgerbewegung",
       "Schweiz",
-      "Sicherheitsbehörde",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sicherheitsbehörde"
+      },
       "Verfassungsschutz"
     ],
     "ABSTRAKT": "(insgesamt 22 Einzelfragen)"

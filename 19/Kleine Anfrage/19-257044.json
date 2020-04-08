@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verteidigung",
     "SCHLAGWORT": [
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Kriegswaffe",
-      "Munition",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Munition"
+      },
       "NATO",
       "Rüstungsindustrie",
       "Waffenhandel",

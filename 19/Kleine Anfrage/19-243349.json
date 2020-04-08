@@ -39,8 +39,14 @@
       "NE-Metallindustrie",
       "Papiergewerbe",
       "Stahlindustrie",
-      "Strompreis",
-      "Stromverbrauch",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strompreis"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stromverbrauch"
+      },
       "Unternehmensstandort",
       "Zementindustrie"
     ],

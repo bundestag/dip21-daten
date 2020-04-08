@@ -27,10 +27,19 @@
     "SCHLAGWORT": [
       "Bericht",
       "Gesundheitskosten",
-      "Krankenhaus",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Personalausstattung",
-      "Qualitätssicherung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Qualitätssicherung"
+      }
     ],
     "ABSTRAKT": "(insgesamt 6 Einzelfragen)"
   },

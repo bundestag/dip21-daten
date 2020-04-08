@@ -5,37 +5,57 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Forschungsvorhaben zu geschlechtsspezifischer Lebenserwartung",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17825",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17825",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917825.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18402",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wissenschaft, Forschung und Technologie",
     "SCHLAGWORT": [
+      "Forschung",
       "Forschungsprojekt",
       "Frau",
-      "Lebenserwartung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lebenserwartung"
+      },
       "Mann"
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17825",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr.",
-        "VORNAME": "Marc",
-        "NACHNAME": "Jongen",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17825",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917825.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Marc",
+          "NACHNAME": "Jongen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18402"
       }
-    }
+    ]
   }
 }

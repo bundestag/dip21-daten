@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Krankengeld",
-      "Krankenkasse",
-      "Provision"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenkasse"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Provision"
+      }
     ],
     "ABSTRAKT": ""
   },

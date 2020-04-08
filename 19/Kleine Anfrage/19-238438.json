@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Ausschreibung",
-      "Cannabis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cannabis"
+      },
       "Einfuhr",
       "Öffentlicher Auftrag",
       "Pflanzenbau"

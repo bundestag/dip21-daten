@@ -17,10 +17,19 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Altenheim",
-      "Altenpflege",
-      "Nahrungsmittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Altenpflege"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nahrungsmittel"
+      },
       "Sozialleistung",
-      "Umsatzsteuer"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Umsatzsteuer"
+      }
     ],
     "ABSTRAKT": ""
   },

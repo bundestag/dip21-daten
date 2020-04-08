@@ -33,8 +33,14 @@
       "Bundeswehrangehöriger",
       "Deutsches Zentrum für Luft- und Raumfahrt",
       "Forschungseinrichtung",
-      "Forschungsfinanzierung",
-      "Forschungskooperation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungsfinanzierung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungskooperation"
+      },
       "Forschungsprojekt",
       "Hochschule",
       "Hochschulforschung",
@@ -42,7 +48,10 @@
       "Hochschullehrer",
       "Öffentlicher Auftrag",
       "Ressortforschung",
-      "Rüstungsforschung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rüstungsforschung"
+      },
       "Soldat",
       "Studienplatz",
       "USA"

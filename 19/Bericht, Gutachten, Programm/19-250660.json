@@ -36,11 +36,17 @@
     ],
     "SCHLAGWORT": [
       "Bericht der Bundesregierung",
-      "Entgelttransparenzgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entgelttransparenzgesetz"
+      },
       "Geschlechterdiskriminierung",
       "Gesetzesfolgenabschätzung",
       "Gleichberechtigung von Mann und Frau",
-      "Lohngleichheit"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lohngleichheit"
+      }
     ],
     "ABSTRAKT": "Auftrag zur Evaluation, Stellungnahme der Bundesregierung zu den Evaluationsergebnissen und Handlungsempfehlungen, Evaluationsgutachten Kienbaum, Stellungnahmen der Sozialpartner"
   },
@@ -64,9 +70,22 @@
         "FUNDSTELLE": "12.03.2020 - BT-Plenarprotokoll 19/152, S. 18980B - 18981C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18980",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18981C",
           "BESCHLUSSTENOR": "Überweisung",
           "BEZUGSDOKUMENT": "19/11470"
-        }
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
       }
     ]
   }

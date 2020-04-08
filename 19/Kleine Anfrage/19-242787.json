@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Entwicklungspolitik",
     "SCHLAGWORT": [
-      "Afrika",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Afrika"
+      },
       "Akademischer Austausch",
       "Auslandsaufenthalt",
       "Auslandsstudium",
@@ -33,13 +36,19 @@
       "Bildungshilfe",
       "Bildungspolitik",
       "Bildungswesen",
-      "Bundesministerium für Bildung und Forschung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesministerium für Bildung und Forschung"
+      },
       "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
       "Bundesministerium für Wirtschaft und Energie",
       "Bundesmittel",
       "Diplomatische Vertretung",
       "Entwicklungspolitik",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Forschungseinrichtung",
       "Forschungsfinanzierung",
       "Forschungskooperation",

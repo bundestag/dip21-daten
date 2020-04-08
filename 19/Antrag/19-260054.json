@@ -28,7 +28,10 @@
     ],
     "SCHLAGWORT": [
       "Arbeitsschutz",
-      "Berufskrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berufskrankheit"
+      },
       "Bundesanstalt für Arbeitsschutz und Arbeitsmedizin",
       "Gesetzgebung",
       "Gesundheitsschutz",
@@ -134,7 +137,7 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "18992D",
           "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/17787"
+          "BEZUGSDOKUMENT": "19/17769"
         },
         "ZUWEISUNG": [
           {
@@ -142,10 +145,10 @@
             "FEDERFUEHRUNG": "federf&uuml;hrend"
           },
           {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
           },
           {
-            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
       }

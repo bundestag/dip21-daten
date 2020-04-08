@@ -26,8 +26,14 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Agrarpolitik",
-      "Artenschutz",
-      "Insekt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Insekt"
+      },
       "Naturschutzgebiet",
       "Pflanzenschutzmittel",
       "Programm der Bundesregierung"

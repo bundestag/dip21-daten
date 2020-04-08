@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Cannabis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cannabis"
+      },
       "Drogenkonsum",
       "Drogenpolitik",
       "Gerichtsverfahren",
@@ -34,13 +37,19 @@
       "Gesundheitspolitik",
       "Jugendlicher",
       "Jugendschutz",
-      "Kinder- und Jugendmedizin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kinder- und Jugendmedizin"
+      },
       "Kostenerstattung",
       "Medizinische Behandlung",
       "Medizinischer Dienst der Krankenversicherung",
       "Medizinische Versorgung",
       "Sucht",
-      "Suchttherapie"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Suchttherapie"
+      }
     ],
     "ABSTRAKT": "(insgesamt 34 Einzelfragen mit zahlreichen Unterfragen)"
   },

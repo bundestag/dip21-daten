@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Elektronische Gesundheitskarte",
-      "gematik",
-      "Gesundheitstelematik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "gematik"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitstelematik"
+      },
       "Kosten",
       "Terminservice- und Versorgungsgesetz"
     ],

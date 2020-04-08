@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "AIDS",
+      {
+        "_fundstelle": "true",
+        "__cdata": "AIDS"
+      },
       "Gesundheitsfinanzierung",
-      "Gesundheitsvorsorge"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsvorsorge"
+      }
     ],
     "ABSTRAKT": "(insgesamt 10 Einzelfragen)"
   },

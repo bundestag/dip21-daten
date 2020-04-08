@@ -20,7 +20,8 @@
     "PLENUM": {
       "PLPR_KLARTEXT": "Ausschusszuweisung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
+      "PLPR_NUMMER": "986",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
     },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
@@ -32,15 +33,21 @@
         "URHEBER": "Länderantrag,  Urheber : Bremen, Berlin ",
         "FUNDSTELLE": "05.03.2020 - BR-Drucksache 114/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0114-20.pdf",
-        "ZUWEISUNG": {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Ausschusszuweisung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 43",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "114/20"

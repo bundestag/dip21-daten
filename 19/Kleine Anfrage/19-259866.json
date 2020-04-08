@@ -5,40 +5,67 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Auffinden gefälschter Dokumente durch den Zoll",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17694",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917694.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17694",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917694.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18363",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Recht",
+      "Außenwirtschaft"
+    ],
+    "SCHLAGWORT": [
+      "Einfuhr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pass"
+      },
+      "Urkundendelikt",
+      "Zollverwaltung"
+    ],
+    "ABSTRAKT": "(insgesamt 5 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "09.03.2020 - BT-Drucksache 19/17694",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917694.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Kay",
-          "NACHNAME": "Gottschalk",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Keuter",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "09.03.2020 - BT-Drucksache 19/17694",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917694.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Kay",
+            "NACHNAME": "Gottschalk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Keuter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "25.03.2020 - BT-Drucksache 19/18363"
+      }
+    ]
   }
 }

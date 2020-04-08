@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Orthopädie",
-      "Zahnärztliche Behandlung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zahnärztliche Behandlung"
+      },
       "Zahnmedizin"
     ],
     "ABSTRAKT": "(insgesamt 18 Einzelfragen)"

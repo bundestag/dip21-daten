@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      "Amri, Anis",
-      "Antiterrordatei",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Amri, Anis"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Antiterrordatei"
+      },
       "Attentat",
       "Berlin",
       "Datenspeicherung",
@@ -38,7 +44,10 @@
       "Polizeiliche Zusammenarbeit",
       "Sicherheitsbehörde",
       "Terrorismus",
-      "Terrorismusbekämpfung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Terrorismusbekämpfung"
+      },
       "Terrorist"
     ],
     "ABSTRAKT": "(insgesamt 14 Einzelfragen)"

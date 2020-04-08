@@ -26,7 +26,10 @@
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
       "Bundesministerium der Finanzen",
-      "Dienstleistungswirtschaft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Dienstleistungswirtschaft"
+      },
       "Externe Beratung",
       "Kartellrecht",
       "Öffentlicher Auftrag",
@@ -34,9 +37,15 @@
       "Politikberatung",
       "Regulierung",
       "Steuerumgehung",
-      "Unternehmensberatung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unternehmensberatung"
+      },
       "Wettbewerbsrecht",
-      "Wirtschaftsprüfung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wirtschaftsprüfung"
+      }
     ],
     "ABSTRAKT": "(insgesamt 32 Einzelfragen)"
   },

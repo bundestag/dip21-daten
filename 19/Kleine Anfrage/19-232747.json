@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Alkoholkonsum",
-      "Alkoholkrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Alkoholkonsum"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Alkoholkrankheit"
+      },
       "Fetus",
       "Gesundheitskosten",
       "Gesundheitsschaden",

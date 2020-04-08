@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Ausbildungskosten eines Offizieranwärters im Truppendienst",
+    "TITEL": "Ausbildungskosten eines Offiziersanwärters im Truppendienst",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -15,10 +15,16 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Ausbildungskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ausbildungskosten"
+      },
       "Bundeswehr",
       "Militärische Ausbildung",
-      "Offizieranwärter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Offizieranwärter"
+      },
       "Studium"
     ],
     "ABSTRAKT": ""

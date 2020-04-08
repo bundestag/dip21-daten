@@ -25,7 +25,8 @@
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
         "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "986"
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -33,7 +34,10 @@
     "SCHLAGWORT": [
       "Kinderbetreuungskosten",
       "Rehabilitation",
-      "Sozialgesetzbuch IX"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialgesetzbuch IX"
+      }
     ],
     "ABSTRAKT": "Mitnahme von Kindern in die Reha-Einrichtung und Übernahme der Kosten, Anhebung der Altersgrenze auf 15 Jahre"
   },
@@ -79,8 +83,9 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 11",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
-          "BESCHLUSSTENOR": "Annahme",
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
           "BEZUGSDOKUMENT": "71/20"
         }
       },

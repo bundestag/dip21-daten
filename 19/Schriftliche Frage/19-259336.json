@@ -16,10 +16,19 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Deutscher Staatsangehöriger",
-      "EU-Institution",
+      {
+        "_fundstelle": "true",
+        "__cdata": "EU-Institution"
+      },
       "EU-Personal",
-      "Internationale Organisation",
-      "Personalausstattung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Internationale Organisation"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalausstattung"
+      }
     ],
     "ABSTRAKT": ""
   },

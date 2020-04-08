@@ -19,18 +19,29 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0056-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "985",
-      "PLPR_SEITEN": "22 - 24",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/985.pdf#P.22"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "985",
+        "PLPR_SEITEN": "22 - 24",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/985.pdf#P.22"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
       "Elektrizitätserzeugung",
-      "Energiewirtschaft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Energiewirtschaft"
+      },
       "Klimaschutz",
       "Wettbewerb",
       "Wirtschaftsstruktur"
@@ -82,6 +93,23 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "24",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "56/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 56/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0056-1-20.pdf",
+        "VP_ABSTRAKT": "Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 10",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "56/20"
         }
       }

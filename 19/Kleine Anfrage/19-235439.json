@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Ambulante Behandlung",
-      "Arzthonorar",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzthonorar"
+      },
       "Ärztliche Behandlung",
       "Hausarzt",
       "Ländlicher Raum"

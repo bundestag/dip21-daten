@@ -17,10 +17,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Genetisch bedingte Krankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Genetisch bedingte Krankheit"
+      },
       "Gesetzliche Krankenversicherung",
       "Kostenerstattung",
-      "Pränataldiagnostik"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pränataldiagnostik"
+      }
     ],
     "ABSTRAKT": ""
   },

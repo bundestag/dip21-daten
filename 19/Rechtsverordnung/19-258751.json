@@ -17,13 +17,18 @@
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
+      "PLPR_NUMMER": "986",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
     },
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Verordnung vom 13.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1427.03.2020 S. 593 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0593.pdf']",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
       "Umsatzsteuer",
-      "Vertikaler Finanzausgleich"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Vertikaler Finanzausgleich"
+      }
     ],
     "ABSTRAKT": "Regelung des vorläufigen Vollzugs der Umsatzsteuerverteilung und des Finanzausgleichs im Ausgleichsjahr 2020"
   },
@@ -43,6 +48,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 34",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Zustimmung",
           "BEZUGSDOKUMENT": "62/20"
