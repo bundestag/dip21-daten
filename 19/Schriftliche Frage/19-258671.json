@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Apotheke",
-      "Arzneimittel",
-      "Arzneimittelsicherheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelsicherheit"
+      },
       "Gesundheitsschädlicher Stoff",
       "Pharmazeutische Industrie",
       "Valsartan"

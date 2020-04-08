@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Allergologie",
-      "Arzneimittelzulassung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Allergologie"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelzulassung"
+      },
       "Therapieallergene-Verordnung"
     ],
     "ABSTRAKT": "(insgesamt 8 Einzelfragen)"

@@ -26,14 +26,23 @@
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
       "Bank",
-      "Bankenaufsicht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankenaufsicht"
+      },
       "Betriebsvermögen",
       "Bruttoinlandsprodukt",
       "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Konjunktur",
       "Kredit",
-      "Kreditgeschäft",
-      "Schulden"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kreditgeschäft"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schulden"
+      }
     ],
     "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },

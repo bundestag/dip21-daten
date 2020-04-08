@@ -26,7 +26,10 @@
     "SACHGEBIET": "Außenwirtschaft",
     "SCHLAGWORT": [
       "Auslandsinvestition",
-      "Außenhandelspolitik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Außenhandelspolitik"
+      },
       "China",
       "Dienstleistungswirtschaft",
       "Elektronischer Handel",
@@ -38,8 +41,14 @@
       "Technologietransfer",
       "Unternehmenskooperation",
       "USA",
-      "Welthandel",
-      "Welthandelsorganisation"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Welthandel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Welthandelsorganisation"
+      }
     ],
     "ABSTRAKT": "(insgesamt 14 Einzelfragen mit zahlreichen Unterfragen)"
   },

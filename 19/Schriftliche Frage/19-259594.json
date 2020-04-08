@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Herausgabe von Listen mit geeigneten Kandidaten zur Vermeidung künftiger\r\nKomplikationen bei Wahlen",
+    "TITEL": "Herausgabe von Listen mit geeigneten Kandidaten zur Vermeidung künftiger Komplikationen bei Wahlen",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -16,7 +16,10 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Kandidatur",
-      "Wahl"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wahl"
+      }
     ],
     "ABSTRAKT": ""
   },

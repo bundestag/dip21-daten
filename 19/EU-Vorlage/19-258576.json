@@ -25,12 +25,16 @@
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
+      "PLPR_NUMMER": "986",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
     },
     "EU_DOK_NR": "Ratsdok. 5652/20, Kom. (2020) 37 endg.",
     "SCHLAGWORT": [
       "Europäische Integration",
-      "Europäische Kommission",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Europäische Kommission"
+      },
       "Legislativ- und Arbeitsprogramm der EU-Kommission",
       "Programm der EU"
     ],
@@ -133,6 +137,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 999a",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
           "BEZUGSDOKUMENT": "46/20"

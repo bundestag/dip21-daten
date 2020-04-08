@@ -8,33 +8,60 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17801",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917801.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17801",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917801.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "133/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0133-20.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
       "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
-      "Atemwegserkrankung",
-      "Coronavirus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
-      "Infektionskrankheit",
-      "Seuchenbekämpfung",
-      "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2020"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seuchenbekämpfung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2020"
+      }
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
-      "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17801",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917801.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17801",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917801.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "12.03.2020 - BR-Drucksache 133/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0133-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

@@ -43,8 +43,14 @@
     "SCHLAGWORT": [
       "Apotheke",
       "Arzneimittel",
-      "Arzneimittelkosten",
-      "Arzneimittelsicherheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelsicherheit"
+      },
       "Arzneimittelversorgung",
       "Einfuhr",
       "Gesetz für mehr Sicherheit in der Arzneimittelversorgung",

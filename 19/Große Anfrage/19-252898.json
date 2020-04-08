@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Große Anfrage",
     "TITEL": "Teilweise Erhaltung des Solidaritätszuschlages",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/13171",
-      "DRS_TYP": "Große Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/131/1913171.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/13171",
+        "DRS_TYP": "Große Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/131/1913171.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17962",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917962.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Neue Bundesländer / innerdeutsche Beziehungen",
@@ -26,27 +34,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Große Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "12.09.2019 - BT-Drucksache 19/13171",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/131/1913171.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Keuter",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Große Anfrage"
-        },
-        {
-          "VORNAME": "Albrecht",
-          "NACHNAME": "Glaser",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Große Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Große Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "12.09.2019 - BT-Drucksache 19/13171",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/131/1913171.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Keuter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Große Anfrage"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Große Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "13.03.2020 - BT-Drucksache 19/17962",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917962.pdf"
+      }
+    ]
   }
 }

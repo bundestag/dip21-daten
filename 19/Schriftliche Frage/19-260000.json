@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Beschaffung von kleineren Booten für Marine und Bundeswehr Spezialkräfte bis 2030",
+    "TITEL": "Beschaffung von kleineren Booten für Spezialkräfte der Marine und Bundeswehr ",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Beschaffung",
-      "Boot",
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Boot"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Deutsche",
       "Marine",
       "Militärische Spezialeinheit"

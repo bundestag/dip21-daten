@@ -18,7 +18,11 @@
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
       "Haft",
-      "Strafgefangener"
+      "Strafgefangener",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strafverfolgungsentschädigung"
+      }
     ],
     "ABSTRAKT": ""
   },
@@ -51,7 +55,15 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "12.03.2020 - BT-Plenarprotokoll 19/152, S. 18980B - 18981C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18980"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18980",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18981C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17744"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+        }
       }
     ]
   }

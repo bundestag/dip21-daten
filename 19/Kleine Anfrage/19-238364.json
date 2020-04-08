@@ -32,11 +32,17 @@
       "Krankenhausfinanzierung",
       "Medizinische Versorgung",
       "Personalausstattung",
-      "Psychiatrie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Psychiatrie"
+      },
       "Psychiatrie-Personalverordnung",
       "Psychiatrische Einrichtung",
       "Psychotherapeut",
-      "Psychotherapie"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Psychotherapie"
+      }
     ],
     "ABSTRAKT": "(insgesamt 26 Einzelfragen)"
   },

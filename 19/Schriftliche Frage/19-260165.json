@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Kenntnisse über sogenannte umgekehrte Lieferketten im Bereich des illegalen Inverkehrbringens von Medikamenten\r\naus Polen",
+    "TITEL": "Kenntnisse über sogenannte umgekehrte Lieferketten im Bereich des illegalen Inverkehrbringens von Medikamenten aus Polen",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -15,10 +15,16 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Arzneimittelrecht",
       "Handel",
-      "Polen"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Polen"
+      }
     ],
     "ABSTRAKT": ""
   },

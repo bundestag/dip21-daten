@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Gentherapie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gentherapie"
+      },
       "Medizinische Ethik",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Tumorerkrankung"
     ],
     "ABSTRAKT": "(insgesamt 11 Einzelfragen)"

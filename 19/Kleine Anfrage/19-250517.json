@@ -28,7 +28,10 @@
       "Gesundheit"
     ],
     "SCHLAGWORT": [
-      "Arzneimittelkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
       "Auskunfterteilung",
       "Auskunftspflicht",
       "Ausländisches Unternehmen",
@@ -43,7 +46,10 @@
       "Rabatt",
       "Sekundäres EU-Recht",
       "Verbot",
-      "Versandapotheke",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Versandapotheke"
+      },
       "Verschreibungspflicht",
       "Wirtschaftsaufsicht",
       "Zuständigkeit"

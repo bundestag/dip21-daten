@@ -18,7 +18,8 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/17849",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917849.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -26,9 +27,15 @@
     "SCHLAGWORT": [
       "Ärztliche Behandlung",
       "Diagnose",
-      "Krankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankheit"
+      },
       "Medizinische Einrichtung",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Patient",
       "Patientenberatung",
       "Selbsthilfe",
@@ -65,7 +72,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
-        "FUNDSTELLE": "12.03.2020 - BT-Drucksache 19/17849"
+        "FUNDSTELLE": "12.03.2020 - BT-Drucksache 19/17849",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917849.pdf"
       }
     ]
   }

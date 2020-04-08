@@ -25,11 +25,17 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Flughafen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
       "Infrastruktur",
       "Luftraum",
       "Luftverkehr",
-      "Nachtflug",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nachtflug"
+      },
       "Planfeststellung",
       "Studie",
       "Verbot",

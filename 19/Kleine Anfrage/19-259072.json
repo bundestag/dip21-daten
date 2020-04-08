@@ -32,10 +32,16 @@
       "Ertragsteuer",
       "Gewinn",
       "Steueraufkommen",
-      "Umsatzsteuer",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Umsatzsteuer"
+      },
       "Verbrauch",
       "Verbraucherpreis",
-      "Verbrauchsteuer",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verbrauchsteuer"
+      },
       "Verkauf"
     ],
     "ABSTRAKT": "(insgesamt 10 Einzelfragen mit zahlreichen Unterfragen)"

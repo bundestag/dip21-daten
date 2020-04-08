@@ -28,7 +28,10 @@
       "Öffentliche Finanzen, Steuern und Abgaben"
     ],
     "SCHLAGWORT": [
-      "Aktie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Aktie"
+      },
       "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Cum/Ex-Geschäft",
       "Cum-Fake-Geschäft",
@@ -36,10 +39,16 @@
       "Finanzdienstleistungsaufsicht",
       "Finanzverwaltung",
       "Kapitalertragsteuer",
-      "Steuerdelikt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Steuerdelikt"
+      },
       "Steuererstattung",
       "Steuerumgehung",
-      "Wertpapierhandel"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wertpapierhandel"
+      }
     ],
     "ABSTRAKT": "(insgesamt 32 Einzelfragen)"
   },

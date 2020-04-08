@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Artenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
       "Biodiversität",
-      "Insekt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Insekt"
+      },
       "Umweltbelastung",
       "Umweltmonitoring"
     ],

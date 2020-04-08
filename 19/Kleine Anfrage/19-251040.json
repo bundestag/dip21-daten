@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Bergbau",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bergbau"
+      },
       "Gesetzgebung",
       "Internationales Abkommen",
       "Internationales Recht",
@@ -33,8 +36,14 @@
       "Politikberatung",
       "Privatunternehmen",
       "Rohstoffgewinnung",
-      "Rohstoffressourcen",
-      "Weltraum"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rohstoffressourcen"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Weltraum"
+      }
     ],
     "ABSTRAKT": "(insgesamt 31 Einzelfragen)"
   },

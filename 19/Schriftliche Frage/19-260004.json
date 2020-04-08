@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Herstellung von Transparenz bei deutschen Messstellennetzen zur Nitratbelastung des Grundwassers",
+    "TITEL": "Transparenz bei Messstellennetzen zur Nitratbelastung des Grundwassers",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -17,10 +17,16 @@
     "SCHLAGWORT": [
       "Düngeverordnung",
       "Düngung",
-      "Grundwasserbelastung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Grundwasserbelastung"
+      },
       "Landwirtschaft",
       "Messwesen",
-      "Nitrate"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nitrate"
+      }
     ],
     "ABSTRAKT": ""
   },

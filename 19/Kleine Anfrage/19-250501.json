@@ -26,11 +26,20 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Deich",
-      "Hochwasser",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hochwasser"
+      },
       "Hochwasserschutz",
       "Küste",
-      "Küstenschutz",
-      "Meer",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Küstenschutz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Meer"
+      },
       "Sturm"
     ],
     "ABSTRAKT": "(insgesamt 16 Einzelfragen)"

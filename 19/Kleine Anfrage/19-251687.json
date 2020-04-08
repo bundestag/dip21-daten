@@ -25,13 +25,22 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Aktie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Aktie"
+      },
       "Ausländisches Unternehmen",
       "Börse",
       "EU-Staaten",
       "Handelsabkommen",
-      "Schweiz",
-      "Wertpapierhandel"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schweiz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wertpapierhandel"
+      }
     ],
     "ABSTRAKT": "(insgesamt 10 Einzelfragen mit zahlreichen Unterfragen)"
   },

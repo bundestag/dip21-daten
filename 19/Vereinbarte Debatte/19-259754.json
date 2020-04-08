@@ -17,7 +17,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      "Attentat",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Attentat"
+      },
       "Gefahrenabwehr",
       "Hanau",
       "Hasskriminalität",
@@ -26,8 +29,14 @@
       "Mord",
       "Politische Gewalt",
       "Politische Straftat",
-      "Rassismus",
-      "Rechtsextremismus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rassismus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rechtsextremismus"
+      },
       "Terrorismus",
       "Terrorismusbekämpfung"
     ],

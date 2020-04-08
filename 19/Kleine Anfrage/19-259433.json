@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Korrekturbitten des Auswärtigen Amts (AA) gegenüber Medien im August 2019 - (Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/7472)",
+    "TITEL": "Korrekturbitten des Auswärtigen Amts gegenüber Medien im August 2019\r\n(Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/7472)",
     "INITIATIVE": "Fraktion der AfD",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
@@ -18,7 +18,8 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/17802",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917802.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -27,10 +28,16 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "Auswärtiges Amt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Auswärtiges Amt"
+      },
       "Falschmeldung",
       "Medienberichterstattung",
-      "Medienrecht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medienrecht"
+      },
       "Rechtsdienstleistung"
     ],
     "ABSTRAKT": "(insgesamt 2 Einzelfragen)"
@@ -62,7 +69,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17802"
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17802",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917802.pdf"
       }
     ]
   }

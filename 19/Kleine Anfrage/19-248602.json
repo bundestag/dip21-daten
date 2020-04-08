@@ -26,8 +26,14 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Artenschutz",
-      "Binnengewässer",
-      "Biodiversität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Binnengewässer"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Biodiversität"
+      },
       "Gewässergüte",
       "Gewässerschutz",
       "Wassertier"

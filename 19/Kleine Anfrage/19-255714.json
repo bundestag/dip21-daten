@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      "Antisemitismus",
-      "Attentat",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Antisemitismus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Attentat"
+      },
       "Bundesmittel",
       "Bundesprogramm Demokratie leben!",
       "Disziplinarverfahren",
@@ -44,7 +50,10 @@
       "Politische Straftat",
       "Programm der Bundesregierung",
       "Rassismus",
-      "Rechtsextremismus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rechtsextremismus"
+      },
       "Rechtsextremistische Organisation",
       "Schusswaffe",
       "Synagoge",

@@ -32,10 +32,16 @@
       "Aktie",
       "Cum/Ex-Geschäft",
       "Dividende",
-      "Kapitalertragsteuer",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kapitalertragsteuer"
+      },
       "Steuererstattung",
       "Steuerrecht",
-      "Steuerumgehung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Steuerumgehung"
+      },
       "Strafanzeige",
       "Strafrecht",
       "Wertpapierhandel"

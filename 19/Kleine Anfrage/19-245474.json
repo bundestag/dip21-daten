@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Ärztliche Versorgung",
-      "Hausarzt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hausarzt"
+      },
       "Hausarztvertrag",
       "Medizinische Versorgung",
       "Vertrag",

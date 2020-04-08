@@ -5,22 +5,32 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Regierungsverhandlungen über die entwicklungspolitische Zusammenarbeit im Jahr 2019",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17311",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917311.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17311",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917311.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18400",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Entwicklungspolitik",
     "SCHLAGWORT": [
       "Ägypten",
       "Bundesmittel",
       "Drittstaat",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Indien",
       "Indonesien",
       "Kapitalhilfe",
@@ -32,27 +42,34 @@
     "ABSTRAKT": "(insgesamt 24 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "21.02.2020 - BT-Drucksache 19/17311",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917311.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Markus",
-          "NACHNAME": "Frohnmaier",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Ulrich",
-          "NACHNAME": "Oehme",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "21.02.2020 - BT-Drucksache 19/17311",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917311.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Frohnmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Oehme",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
+        "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18400"
+      }
+    ]
   }
 }

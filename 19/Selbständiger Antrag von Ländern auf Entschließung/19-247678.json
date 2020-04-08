@@ -38,7 +38,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesundheitswesen",
-      "Patient",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Patient"
+      },
       "Patientenberatung",
       "Patientenrechte"
     ],

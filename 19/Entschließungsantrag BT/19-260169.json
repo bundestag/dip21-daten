@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Antrag betr. Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,45 +14,155 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917895.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/153",
+      "PLPR_SEITEN": "19055C - 19064A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19055"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
       "Außenpolitik und internationale Beziehungen"
     ],
     "SCHLAGWORT": [
-      "Afghanistan",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Afghanistan"
+      },
       "Auslandseinsatz der Bundeswehr",
       "Auslandseinsatz der Polizei",
       "Entwicklungszusammenarbeit",
       "Evaluation",
+      "Krisenbewältigung",
       "NATO",
       "Resolute Support Mission"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Unterstützung des Friedensprozesses in Afghanistan, Fortentwicklung der gesamtstaatlichen Afghanistan-Strategie, Evaluation der Wirkung des deutschen Engagements in Afghanistan, diesbzgl. Konzeptentwicklung und Vorlage an den Deutschen Bundestag, Strategieentwicklung für einen Truppenabzug aus Afghanistan auf NATO-Ebene"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "13.03.2020 - BT-Drucksache 19/17895",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917895.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bijan",
-          "NACHNAME": "Djir-Sarai",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Marie-Agnes",
-          "NACHNAME": "Strack-Zimmermann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "13.03.2020 - BT-Drucksache 19/17895",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917895.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bijan",
+            "NACHNAME": "Djir-Sarai",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19055C - 19064A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19055",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Aydan",
+            "NACHNAME": "Özoguz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19056A"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Kestner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19056D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Johann David",
+            "NACHNAME": "Wadephul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19058A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marcus",
+            "NACHNAME": "Faber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19059D"
+          },
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Pflüger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19060B"
+          },
+          {
+            "VORNAME": "Omid",
+            "NACHNAME": "Nouripour",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19061A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Fritz",
+            "NACHNAME": "Felgentreu",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19061D"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "19062C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Fritz",
+            "NACHNAME": "Felgentreu",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "19062D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19063A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19064A",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/17895"
         }
-      ]
-    }
+      }
+    ]
   }
 }

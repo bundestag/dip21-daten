@@ -18,21 +18,26 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/17805",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917805.pdf"
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
-      "Düngeverordnung",
-      "Düngung",
-      "Gesetzgebung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Düngeverordnung"
+      },
+      "Grundwasser",
       "Grundwasserbelastung",
       "Landwirtschaft",
       "Landwirtschaftsfläche",
       "Messwesen",
-      "Nitrate",
-      "Verstoß gegen EU-Recht"
+      "Nitrate"
     ],
     "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
@@ -63,7 +68,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
-        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17805"
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17805",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917805.pdf"
       }
     ]
   }

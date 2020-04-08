@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Medizinisches Versorgungszentrum",
-      "Zahnarzt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zahnarzt"
+      },
       "Zahnärztliche Behandlung",
       "Zahnmedizin"
     ],

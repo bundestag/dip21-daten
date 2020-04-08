@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Apotheke",
-      "Grippe",
-      "Impfstoff",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Grippe"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Impfstoff"
+      },
       "Krankenkasse",
       "Medizinische Versorgung",
       "Vertrag"

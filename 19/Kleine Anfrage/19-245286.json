@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Barrierefreiheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Barrierefreiheit"
+      },
       "Behinderter",
       "Evakuierung",
       "Fahrgast",
@@ -34,7 +37,10 @@
       "Körperbehinderter",
       "Notfallvorsorge",
       "Schienenfahrzeugbau",
-      "Schienenverkehrsunfall"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schienenverkehrsunfall"
+      }
     ],
     "ABSTRAKT": "(insgesamt 6 Einzelfragen)"
   },

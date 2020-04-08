@@ -25,7 +25,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Apotheke",
-      "Arzneimittelversorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelversorgung"
+      },
       "Ärztliche Verordnung",
       "Elektronischer Handel",
       "Gesetzgebung",

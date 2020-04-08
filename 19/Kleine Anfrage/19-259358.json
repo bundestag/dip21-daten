@@ -5,21 +5,38 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Übertragung der Aufsicht über Finanzanlagenvermittler auf die Bundesanstalt für Finanzdienstleistungsaufsicht",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17375",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917375.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17375",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917375.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18217",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/182/1918217.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Anlageberatung",
-      "Bundesanstalt für Finanzdienstleistungsaufsicht",
-      "Finanzdienstleistungsaufsicht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Anlageberatung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesanstalt für Finanzdienstleistungsaufsicht"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Finanzdienstleistungsaufsicht"
+      },
       "Finanzierung",
       "Genehmigung",
       "Personalausstattung",
@@ -30,27 +47,35 @@
     "ABSTRAKT": "(insgesamt 15 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "25.02.2020 - BT-Drucksache 19/17375",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917375.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Schäffler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Dürr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "25.02.2020 - BT-Drucksache 19/17375",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/173/1917375.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schäffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Dürr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "16.03.2020 - BT-Drucksache 19/18217",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/182/1918217.pdf"
+      }
+    ]
   }
 }

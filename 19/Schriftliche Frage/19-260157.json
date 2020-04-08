@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Möglicher unbefugter Zugriff auf \"Lawful Interception\"-Schnittstellen der Aachener\r\nFirma Utimaco durch Mobilfunknetzbetreiber",
+    "TITEL": "Möglicher unbefugter Zugriff auf \"Lawful Interception\"-Schnittstellen der Aachener Firma Utimaco durch Mobilfunknetzbetreiber",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Hardware",
-      "Informationssicherheit",
-      "Mobilfunk",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationssicherheit"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Mobilfunk"
+      },
       "Software",
       "Spionage",
       "Telekommunikationsdienst",

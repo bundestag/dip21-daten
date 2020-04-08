@@ -25,8 +25,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Biodiversität",
-      "Boden",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Biodiversität"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Boden"
+      },
       "Bodenschutz",
       "Flächennutzung",
       "Flächenverbrauch"

@@ -46,10 +46,16 @@
       "Polizeiliche Maßnahme",
       "Psychotherapie",
       "Sicherungsverwahrung",
-      "Strafgefangener",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strafgefangener"
+      },
       "Strafvollzug",
       "Suizid",
-      "Todesfall",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Todesfall"
+      },
       "Tötungsdelikt",
       "Unfall",
       "Untersuchungshaft",

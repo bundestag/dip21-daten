@@ -26,8 +26,14 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Abfallbeseitigung",
-      "Abfallsammlung",
-      "Elektronikschrott",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abfallsammlung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektronikschrott"
+      },
       "Elektro- und Elektronikgerätegesetz",
       "Gesetzgebung"
     ],

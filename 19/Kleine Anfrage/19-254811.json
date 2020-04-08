@@ -25,10 +25,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Abgasreinigung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abgasreinigung"
+      },
       "Fahrzeugtechnik",
       "Kraftfahrzeugindustrie",
-      "Kraftrad",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kraftrad"
+      },
       "Software",
       "Straßenverkehrslärm",
       "Straßenverkehrszulassung",

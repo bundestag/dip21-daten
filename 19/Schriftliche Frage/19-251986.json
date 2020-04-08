@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Apothekenpflicht",
-      "Arzneimittel",
-      "Elektronischer Handel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektronischer Handel"
+      },
       "Gesundheitsschutz",
       "Verbraucherschutz",
       "Verschreibungspflicht"

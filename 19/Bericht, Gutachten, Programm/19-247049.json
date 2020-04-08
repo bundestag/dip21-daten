@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/178/1917817.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/131",
-      "PLPR_SEITEN": "16425D - 16426D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19131.pdf#P.16425"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/131",
+        "PLPR_SEITEN": "16425D - 16426D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19131.pdf#P.16425"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/153",
+        "PLPR_SEITEN": "19094A - 19103A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19094"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
@@ -130,6 +139,86 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19094A - 19103A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19094",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marian",
+            "NACHNAME": "Wendt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19094D"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Hess",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19095C"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Hartmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19096D"
+          },
+          {
+            "VORNAME": "Sandra",
+            "NACHNAME": "Bubendorfer-Licht",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19098B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "André",
+            "NACHNAME": "Hahn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19099A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Irene",
+            "NACHNAME": "Mihalic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19099D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Kuffer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19100C"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Bernstiel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19101C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19102D",
+          "BESCHLUSSTENOR": "Kenntnisnahme",
+          "BEZUGSDOKUMENT": "19/9520",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
       }
     ]
   }

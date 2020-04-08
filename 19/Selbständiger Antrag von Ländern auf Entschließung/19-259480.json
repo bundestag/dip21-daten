@@ -21,11 +21,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0105-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -39,7 +48,10 @@
       "Gesetzgebung",
       "Hilfsmittel",
       "Pflegebedürftigkeit",
-      "Pflegeversicherung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegeversicherung"
+      }
     ],
     "ABSTRAKT": "Schaffung einheitlicher gesetzlicher Voraussetzungen für alle Pflegekassen zur Genehmigung und Finanzierung digitaler altersgerechter Assistenzsysteme (AAL), Standardisierung des Anerkennungsverfahrens, Infrastruktur zur Beratung und Bereitstellung anerkannter technischer Lösungen, Berücksichtigung des Verbraucherschutzes"
   },
@@ -49,14 +61,37 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Länderantrag,  Urheber : Berlin, Brandenburg, Hamburg, Mecklenburg-Vorpommern, Thüringen und Rheinland-Pfalz ",
         "FUNDSTELLE": "28.02.2020 - BR-Drucksache 105/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0105-20.pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0105-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Ausschusszuweisung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "105/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 9",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "105/20"
         }
       }

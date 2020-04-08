@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Verbleib der im Februar 2020 als vermisst gemeldeten lybischen Flüchtlinge",
+    "TITEL": "Verbleib der im Februar 2020 als vermisst gemeldeten libyschen Flüchtlinge",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -19,8 +19,14 @@
       "Flüchtlingshilfe",
       "Hilfsorganisation",
       "Krisengebiet",
-      "Libyen",
-      "Seenotrettung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Libyen"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seenotrettung"
+      }
     ],
     "ABSTRAKT": ""
   },

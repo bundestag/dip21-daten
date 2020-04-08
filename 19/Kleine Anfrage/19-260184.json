@@ -5,38 +5,67 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Entwicklungen im Landwirtschaftssektor in Niedersachsen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17900",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17900",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917900.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18382",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Agrarstruktur"
+      },
+      "Agrarsubvention",
+      "Landwirtschaft",
+      "Landwirtschaftsbetrieb",
+      "Landwirtschaftsfläche",
+      "Niedersachsen",
+      "Viehwirtschaft"
+    ],
+    "ABSTRAKT": "(insgesamt 10 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "13.03.2020 - BT-Drucksache 19/17900",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sven-Christian",
-          "NACHNAME": "Kindler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Friedrich",
-          "NACHNAME": "Ostendorff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "13.03.2020 - BT-Drucksache 19/17900",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917900.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Ostendorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18382"
+      }
+    ]
   }
 }

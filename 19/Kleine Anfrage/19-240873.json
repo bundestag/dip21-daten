@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Alterskrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Alterskrankheit"
+      },
       "Diagnose",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Orthopädie",
       "Osteoporose",
       "Therapie"

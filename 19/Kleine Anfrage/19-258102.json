@@ -23,15 +23,30 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Bildung und Erziehung"
+    ],
     "SCHLAGWORT": [
+      "Ausbildungsabbruch",
       "Ausbildungseinrichtung der Bundeswehr",
-      "Bundeswehr",
+      "Berufsausbildung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Bundeswehrangehöriger",
       "Hochschule der Bundeswehr",
-      "Militärische Ausbildung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Militärische Ausbildung"
+      },
       "Personalbeschaffung",
-      "Personalentwicklung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalentwicklung"
+      },
+      "Studienabbruch"
     ],
     "ABSTRAKT": "(insgesamt 38 Einzelfragen)"
   },

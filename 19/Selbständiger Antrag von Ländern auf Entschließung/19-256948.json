@@ -28,7 +28,8 @@
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
         "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "986"
+        "PLPR_NUMMER": "986",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -37,7 +38,10 @@
       "Europapolitik und Europäische Union"
     ],
     "SCHLAGWORT": [
-      "Bank",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bank"
+      },
       "Basel III",
       "Klein- und Mittelunternehmen",
       "Kreditgeschäft"
@@ -105,6 +109,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
           "BEZUGSDOKUMENT": "661/19"

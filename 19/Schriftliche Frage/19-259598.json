@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Erleichterung digitaler Wirtschaftsgüter",
+    "TITEL": "Besteuerung digitaler Wirtschaftsgüter",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -17,10 +17,16 @@
     "SCHLAGWORT": [
       "Abschreibung",
       "Besteuerungsverfahren",
-      "Digitalisierung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Digitalisierung"
+      },
       "Personengesellschaft",
       "Unternehmensbesteuerung",
-      "Wirtschaftsgut"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wirtschaftsgut"
+      }
     ],
     "ABSTRAKT": ""
   },

@@ -29,10 +29,16 @@
       "Datenerhebung",
       "Fachkraft",
       "Krankenhaus",
-      "Personalbedarf",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalbedarf"
+      },
       "Pflegebedürftigkeit",
       "Pflegeheim",
-      "Pflegepersonal",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegepersonal"
+      },
       "Rehabilitationseinrichtung"
     ],
     "ABSTRAKT": "(insgesamt 20 Einzelfragen)"

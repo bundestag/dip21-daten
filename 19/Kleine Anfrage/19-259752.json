@@ -5,42 +5,70 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Leiharbeit - Struktur und Entlohnung im Jahr 2019",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/17643",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917643.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/17643",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917643.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18333",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
-    "SCHLAGWORT": "Leiharbeit",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Altersstruktur",
+      "Arbeitnehmerüberlassungsgesetz",
+      "Berufliche Qualifikation",
+      "Fachkraft",
+      "Gesetzesfolgenabschätzung",
+      "Hochqualifizierte Arbeitskraft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Leiharbeit"
+      },
+      "Lohngleichheit",
+      "Ungelernter Arbeitnehmer",
+      "Vergütung"
+    ],
+    "ABSTRAKT": "(insgesamt 10 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "06.03.2020 - BT-Drucksache 19/17643",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917643.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Beate",
-          "NACHNAME": "Müller-Gemmeke",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Markus",
-          "NACHNAME": "Kurth",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "06.03.2020 - BT-Drucksache 19/17643",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917643.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Beate",
+            "NACHNAME": "Müller-Gemmeke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Kurth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "24.03.2020 - BT-Drucksache 19/18333"
+      }
+    ]
   }
 }

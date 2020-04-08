@@ -19,7 +19,10 @@
       "Abwasser",
       "Gesundheitsrisiko",
       "Patient",
-      "Radiologie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Radiologie"
+      },
       "Therapie",
       "Umweltbelastung"
     ],

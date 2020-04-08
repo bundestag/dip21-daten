@@ -26,7 +26,10 @@
     "SACHGEBIET": "Verteidigung",
     "SCHLAGWORT": [
       "Beschaffung",
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Eurofighter",
       "Kampfflugzeug",
       "Militärhubschrauber",
@@ -35,7 +38,10 @@
       "Rüstungsindustrie",
       "Transportflugzeug",
       "Verteidigungsausgaben",
-      "Wehrmaterial"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wehrmaterial"
+      }
     ],
     "ABSTRAKT": "(insgesamt 28 Einzelfragen)"
   },

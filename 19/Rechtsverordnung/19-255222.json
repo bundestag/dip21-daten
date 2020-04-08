@@ -22,13 +22,22 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/984.pdf#P.666"
     },
     "EU_DOK_NR": "",
-    "VERKUENDUNG": "Verordnung vom 23.12.2019 - Bundesgesetzblatt Teil I 2019 Nr.5230.12.2019 S. 2937 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl119s2937.pdf']",
+    "VERKUENDUNG": [
+      "Verordnung vom 23.12.2019 - Bundesgesetzblatt Teil I 2019 Nr.5230.12.2019 S. 2937 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl119s2937.pdf']",
+      "Berichtigung vom 09.03.2020 - Bundesgesetzblatt Teil I 2020 Nr.1319.03.2020 S. 525 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s0525.pdf']"
+    ],
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Fahrerlaubnis",
-      "Fahrerlaubnis-Verordnung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fahrerlaubnis-Verordnung"
+      },
       "Gebührenordnung",
-      "Gebührenordnung für Maßnahmen im Straßenverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gebührenordnung für Maßnahmen im Straßenverkehr"
+      },
       "Straßenverkehrsrecht"
     ],
     "ABSTRAKT": "Änderung der Fahrerlaubnis-Verordnung, Änderung der Gebührenordnung für Maßnahmen im Straßenverkehr; \r\nVoraussetzungen des Führens von Krafträdern der Klasse A1, Aktualisierung der Anlage 11 der Fahrerlaubnis-Verordnung, Festlegung von Anforderungen an Prüfungsfahrzeuge und an die praktische Fahrerlaubnisprüfung"

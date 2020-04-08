@@ -15,19 +15,41 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0063-20.pdf"
     },
     "EU_DOK_NR": "",
-    "SCHLAGWORT": "Europäische Union",
+    "SCHLAGWORT": {
+      "_fundstelle": "true",
+      "__cdata": "Europäische Union"
+    },
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
-      "FUNDSTELLE": "05.02.2020 - BR-Drucksache 63/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0063-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Vorschlag / Vorlage / Mitteilung,  Urheber : Präsident des Bundesrates ",
+        "FUNDSTELLE": "05.02.2020 - BR-Drucksache 63/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0063-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.03.2020 - BR-Drucksache 63/1/20(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0063-1-20(neu).pdf",
+        "VP_ABSTRAKT": "Benennungen"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 24b",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "63/20"
+        }
       }
-    }
+    ]
   }
 }

@@ -41,7 +41,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Altenpflege",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Altenpflege"
+      },
       "Bundesmittel",
       "Gesetzgebung",
       "Häusliche Pflege",
@@ -49,7 +52,10 @@
       "Öffentliche Investition",
       "Personalbedarf",
       "Pflegeeinrichtung",
-      "Pflegepersonal",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegepersonal"
+      },
       "Tariflohn"
     ],
     "ABSTRAKT": "Vorlage gesetzlicher Regelungsvorschläge: vollständige Refinanzierung tariflicher Bezahlung in der häuslichen Krankenpflege sowie der Kosten der medizinischen Behandlungspflege in stationären Einrichtungen der Altenpflege und der Behindertenhilfe, verbindliche Personalbemessung für die stationäre Altenpflege, umfassende Finanzierung der Pflegeleistungen, Investitionsoffensive Altenpflege"

@@ -29,11 +29,17 @@
       "Betriebsstörung",
       "Fahrgast",
       "Fernverkehr",
-      "Flughafen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
       "Güterbahnhof",
       "Schienengüterverkehr",
       "Schienenpersonenverkehr",
-      "Schienenverkehr"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schienenverkehr"
+      }
     ],
     "ABSTRAKT": "(insgesamt 17 Einzelfragen)"
   },

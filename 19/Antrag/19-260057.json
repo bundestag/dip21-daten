@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Presse- und Meinungsfreiheit schützen - EU-Aktionsplan zurückweisen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,42 +14,159 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917781.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/153",
+      "PLPR_SEITEN": "19079D - 19091C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19079"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Recht",
-      "Europapolitik und Europäische Union"
+      "Europapolitik und Europäische Union",
+      "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "Desinformation",
-      "Europäische Union",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Desinformation"
+      },
+      "Informationsfreiheit",
       "Meinungsfreiheit",
-      "Pressefreiheit"
+      "Politische Willensbildung",
+      "Pressefreiheit",
+      "Programm der EU",
+      "Soziale Medien"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Ablehnung des EU-Aktionsplans gegen Desinformation und Entsagung der im Aktionsplan skizzierten Maßnahmen im Umgang mit Desinformation"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17781",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917781.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Thomas",
-          "NACHNAME": "Ehrhorn",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17781",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917781.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Ehrhorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "13.03.2020 - BT-Plenarprotokoll 19/153, S. 19079D - 19091C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19153.pdf#P.19079",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Ehrhorn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19079D"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Groden-Kranich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19081A"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19084D"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Schraps",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19085C"
+          },
+          {
+            "VORNAME": "Doris",
+            "NACHNAME": "Achelwilm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19087C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Konstantin",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Notz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19088B"
+          },
+          {
+            "VORNAME": "Gisela",
+            "NACHNAME": "Manderla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19089B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19090C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19091C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17781",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim AfKult)"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Marc",
-          "NACHNAME": "Jongen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      }
+    ]
   }
 }

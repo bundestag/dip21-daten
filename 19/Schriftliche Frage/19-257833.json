@@ -16,10 +16,19 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bahnstrecke",
-      "Berlin",
-      "Dresden",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Dresden"
+      },
       "Fernverkehr",
-      "Schienenpersonenverkehr"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schienenpersonenverkehr"
+      }
     ],
     "ABSTRAKT": ""
   },

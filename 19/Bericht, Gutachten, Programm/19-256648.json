@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/156/1915630.pdf"
       }
     ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "988",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
       "Alterssicherung",
       "Bericht der Bundesregierung",
       "Erwerbsminderungsrente",
-      "Gesetzliche Rentenversicherung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetzliche Rentenversicherung"
+      },
       "Gutachten",
       "Kindererziehungszeit",
       "Knappschaftsversicherung",
@@ -40,7 +49,10 @@
       "Renteneintrittsalter",
       "Rentenniveau",
       "Rentenversicherungsbeitrag",
-      "Rentenversicherungsbericht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rentenversicherungsbericht"
+      },
       "Rentner",
       "Sozialbeirat für die gesetzliche Rentenversicherung",
       "Westdeutsche Länder",
@@ -70,6 +82,22 @@
         "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
         "FUNDSTELLE": "03.12.2019 - BT-Drucksache 19/15630",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/156/1915630.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.03.2020 - BR-Plenarprotokoll 988, TOP 999a",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Kenntnisnahme gem. § 35 GO BR",
+          "BEZUGSDOKUMENT": "673/19"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Überweisung ",
+        "FUNDSTELLE": "27.03.2020 - BR-Drucksache 673/19(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0673-19B.pdf"
       }
     ]
   }

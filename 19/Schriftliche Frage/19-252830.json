@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesmittel",
-      "Forschungsreaktor",
-      "Garching b. München",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungsreaktor"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Garching b. München"
+      },
       "Kernbrennstoff",
       "Kernforschung"
     ],

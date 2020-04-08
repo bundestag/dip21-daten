@@ -5,9 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Datenerhebung zum Verbrauch von Tragetaschen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/18285",
+      "DRS_TYP": "Antwort",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/182/1918285.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
@@ -21,27 +27,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "27.02.2020 - BT-Drucksache 19/17420",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/174/1917420.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Judith",
-          "NACHNAME": "Skudelny",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "27.02.2020 - BT-Drucksache 19/17420",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/174/1917420.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Judith",
+            "NACHNAME": "Skudelny",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
+        "FUNDSTELLE": "20.03.2020 - BT-Drucksache 19/18285",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/182/1918285.pdf"
+      }
+    ]
   }
 }

@@ -32,10 +32,16 @@
       "Investmentfonds",
       "Kapitalanlage",
       "Sparen",
-      "Vermögen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Vermögen"
+      },
       "Vermögenswirksame Leistung",
       "Wohneigentum",
-      "Zins"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zins"
+      }
     ],
     "ABSTRAKT": "(insgesamt 16 Einzelfragen mit zahlreichen Unterfragen)"
   },
