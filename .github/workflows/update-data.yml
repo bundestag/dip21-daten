@@ -2,7 +2,7 @@ name: Update DIP21 Daten
 
 on:
   schedule:
-    - cron: "35 * * * *"
+    - cron: "47 * * * *"
 
 jobs:
   scrape:
@@ -16,7 +16,7 @@ jobs:
           node-version: 12.x
 
       - name: Scrape Data
-        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods 19 --operationtypes 100 --quiet --out .
+        run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods 19 --operationtypes Alle --quiet --out .
         env:
           SCRAPER_USER_AGEND: UpdateGithubData-(github.com/bundestag/dip21-daten)
 
