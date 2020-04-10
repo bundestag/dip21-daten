@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Liegenschaftspolitik der Bundesanstalt für Immobilienaufgaben (BImA)",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18011",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918011.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18011",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918011.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18487",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -26,28 +33,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "18.03.2020 - BT-Drucksache 19/18011",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918011.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Caren",
-          "NACHNAME": "Lay",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gesine",
-          "NACHNAME": "Lötzsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "18.03.2020 - BT-Drucksache 19/18011",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918011.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "03.04.2020 - BT-Drucksache 19/18487"
+      }
+    ]
   }
 }
