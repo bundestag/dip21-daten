@@ -33,7 +33,10 @@
       "Krankenhauspflege",
       "Krankenversorgung",
       "Patient",
-      "Pflegebedürftiger",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegebedürftiger"
+      },
       "Pflegeversicherung"
     ],
     "ABSTRAKT": "Versorgungsumfang, Kosten, Leistungsumfang der Krankenkassen, Qualität der Versorgung "

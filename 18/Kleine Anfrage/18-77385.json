@@ -30,8 +30,14 @@
     "SCHLAGWORT": [
       "Aktie",
       "Gesundheitsfonds",
-      "Kapitalanlage",
-      "Krankenkasse",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kapitalanlage"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenkasse"
+      },
       "Rücklage",
       "Wirtschaftsethik",
       "Zins"

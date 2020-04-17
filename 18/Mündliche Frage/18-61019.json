@@ -17,8 +17,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Datenschutz",
-      "Gesundheitstelematik",
-      "Krankenunterlagen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitstelematik"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenunterlagen"
+      },
       "Patient",
       "Personenbezogene Daten",
       "Sozialgesetzbuch V",

@@ -42,7 +42,10 @@
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Alkohol am Steuer",
-      "Blutalkoholgehalt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Blutalkoholgehalt"
+      },
       "Straßenverkehr",
       "Straßenverkehrsgesetz"
     ],

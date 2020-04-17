@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Hochgeschwindigkeitsverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hochgeschwindigkeitsverkehr"
+      },
       "Technische Sicherheit",
-      "Verkehrssicherheit"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrssicherheit"
+      }
     ],
     "ABSTRAKT": "Verfahren zur Eignungsprüfung von Werkstoffen für ICE-Achsen, Tests und Testergebnisse"
   },

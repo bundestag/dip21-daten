@@ -15,10 +15,19 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Patient",
-      "Pflege",
-      "Pflegepersonal",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflege"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegepersonal"
+      },
       "Studie"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Konsequenzen zieht die Bundesregierung aus den Ergebnissen des &bdquo;Pflege-Thermometer 2009&ldquo;, wonach sich die angespannte Personalsituation in deutschen Kliniken bereits negativ auf die Versorgung der Patienten auswirkt?"

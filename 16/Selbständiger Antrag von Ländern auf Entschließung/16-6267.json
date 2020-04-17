@@ -52,7 +52,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Gesundheitsvorsorge",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsvorsorge"
+      },
       "Kind",
       "Kindesmisshandlung",
       "Kindeswohlgefährdung"

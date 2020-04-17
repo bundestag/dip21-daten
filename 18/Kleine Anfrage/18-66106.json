@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Antikoagulation",
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Arzneimittelkosten",
       "Arzneimittelzulassung",
       "Ärztliche Verordnung",

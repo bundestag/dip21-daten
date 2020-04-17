@@ -31,7 +31,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittelpreis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelpreis"
+      },
       "Bericht der Bundesregierung",
       "Gesundheit",
       "Sozialgesetzbuch"

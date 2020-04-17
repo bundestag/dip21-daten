@@ -25,12 +25,21 @@
     "VERKUENDUNG": "Verordnung vom 21.04.2015 - Bundesgesetzblatt Teil I 2015 Nr.1627.04.2015 S. 615 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl115s0615.pdf']",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
-      "BSE",
-      "BSE-Monitoringverordnung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "BSE"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "BSE-Monitoringverordnung"
+      },
       "BSE-Untersuchungsverordnung",
       "Fleischhygiene",
       "TSE",
-      "TSE-Überwachungsverordnung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "TSE-Überwachungsverordnung"
+      }
     ],
     "ABSTRAKT": "Erlass einer Verordnung zur Durchführung eines Monitorings zur atypischen BSE (BSE-Monitoringverordnung - BSEMonitV), Änderung der TSE-Überwachungsverordnung, Aufhebung der BSE-Untersuchungsverordnung; \r\n \r\nEinstellung der systematischen Untersuchungen der über 96 Monate alten gesundgeschlachteten Rnder, Einführung eines Monitorings der über 132 Monate alten Rinder zur Gewährleistung eines Überblicks über das Auftreten atypischer BSE-Fälle"
   },

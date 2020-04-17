@@ -33,9 +33,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
-      "Energieversorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Energieversorgung"
+      },
       "Erdgas",
-      "Erdgasvorkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Erdgasvorkommen"
+      },
       "Gaspipeline",
       "Gaspreis",
       "Gaswirtschaft"

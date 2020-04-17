@@ -41,7 +41,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Ärztliche Behandlung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ärztliche Behandlung"
+      },
       "Bericht",
       "Gemeinsamer Bundesausschuss",
       "Gesetzgebung",

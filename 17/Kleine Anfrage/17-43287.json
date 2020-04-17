@@ -26,8 +26,14 @@
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Bedarfsplan Schiene",
-      "Flughafen",
-      "Frankfurt am Main",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Frankfurt am Main"
+      },
       "Luftfrachtverkehr",
       "Passagierluftverkehr",
       "Schienenpersonenverkehr"

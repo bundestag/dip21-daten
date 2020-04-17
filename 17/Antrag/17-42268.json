@@ -46,7 +46,10 @@
     "SCHLAGWORT": [
       "Elektrizitätseinspeisung",
       "Emissionshandel",
-      "Energiepolitik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Energiepolitik"
+      },
       "Energiepreis",
       "Energiesteuer",
       "Energie- und Klimafonds",
@@ -57,8 +60,14 @@
       "Ökosteuer",
       "Strompreis",
       "Stromsteuer",
-      "Stromverbrauch",
-      "Subvention",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stromverbrauch"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Subvention"
+      },
       "Umlageverfahren",
       "Verbraucher",
       "Versteigerung",

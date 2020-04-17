@@ -32,9 +32,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Kultur",
     "SCHLAGWORT": [
-      "Berlin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
       "Berliner Mauer",
-      "Gedenkstätte",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gedenkstätte"
+      },
       "Kulturdenkmal",
       "Parlament der Bäume"
     ],

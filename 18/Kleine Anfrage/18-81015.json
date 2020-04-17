@@ -34,12 +34,21 @@
       "Depressive Störung",
       "Krankenstand",
       "Planstelle",
-      "Polizeibeamter",
-      "Suizid",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Polizeibeamter"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Suizid"
+      },
       "Therapie",
       "Waffengebrauch",
       "Zoll",
-      "Zollbeamter"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zollbeamter"
+      }
     ],
     "ABSTRAKT": "Planstellen zwischen 2007 und 2015 bei Zoll und Bundespolizei, Krankenstand, depressive Erkrankungen, Selbsttötungsfälle, Behandlung von Depressionserkrankungen, Betreuung sowie Einsatzmöglichkeiten nach Suizidversuch, Entzug der Dienstwaffe \r\n(insgesamt 15 Einzelfragen)"
   },

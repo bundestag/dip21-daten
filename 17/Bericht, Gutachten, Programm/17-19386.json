@@ -41,9 +41,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Bericht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bericht"
+      },
       "Gesetzliche Krankenversicherung",
-      "GKV-Wettbewerbsstärkungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "GKV-Wettbewerbsstärkungsgesetz"
+      },
       "Kostenerstattung",
       "Sozialgesetzbuch V"
     ],

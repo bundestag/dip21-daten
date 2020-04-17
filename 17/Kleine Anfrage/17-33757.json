@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      "Fluggastkontrolle",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fluggastkontrolle"
+      },
       "Flughafen",
-      "Hamburg",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hamburg"
+      },
       "Körperscanner",
       "Modellprojekt",
       "Software"

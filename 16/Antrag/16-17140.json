@@ -29,8 +29,14 @@
     "SACHGEBIET": "Kultur",
     "SCHLAGWORT": [
       "Berlin",
-      "Denkmal",
-      "Deutsche Einheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Denkmal"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Einheit"
+      },
       "Freiheits- und Einheitsdenkmal",
       "Leipzig",
       "Sachsen"

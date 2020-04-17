@@ -70,7 +70,10 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Anlagensicherheit",
-      "Störfall",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Störfall"
+      },
       "Umweltgefährdung",
       "Umweltschutz",
       "Verursacherprinzip"

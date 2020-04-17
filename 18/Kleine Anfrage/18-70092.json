@@ -28,7 +28,10 @@
       "Arzthonorar",
       "Fonds",
       "Gesundheits- und Krankenpfleger",
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Krankenhausfinanzierung",
       "Krankenkasse",
       "Personalbedarf",

@@ -44,9 +44,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verteidigung",
     "SCHLAGWORT": [
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Bundeswehrangehöriger",
-      "Innere Führung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Innere Führung"
+      },
       "Militärische Ausbildung",
       "Politische Bildung",
       "Teilzeitarbeit",

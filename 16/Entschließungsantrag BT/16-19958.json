@@ -29,8 +29,14 @@
     "SCHLAGWORT": [
       "Alleinerziehender",
       "Armut",
-      "Jugendlicher",
-      "Kind",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Jugendlicher"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kind"
+      },
       "Kinderbetreuung",
       "Kindergeld",
       "Kindertagespflege",
@@ -39,7 +45,10 @@
       "Mindestlohn",
       "Sozialgesetzbuch II",
       "Sozialgesetzbuch XII",
-      "Sozialleistung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialleistung"
+      },
       "Übereinkommen über die Rechte des Kindes",
       "Unterhaltsvorschuss"
     ],

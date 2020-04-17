@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Binnenwasserstraße",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Binnenwasserstraße"
+      },
       "Brücke",
-      "Main",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Main"
+      },
       "Verkehrsaufkommen",
       "Verkehrsinfrastruktur"
     ],

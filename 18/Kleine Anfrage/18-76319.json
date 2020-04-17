@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Artenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
       "Ausfuhr",
       "Einfuhr",
       "Elefant",
@@ -35,7 +38,10 @@
       "Konferenz",
       "Löwe",
       "Tierisches Produkt",
-      "Washingtoner Artenschutzübereinkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Washingtoner Artenschutzübereinkommen"
+      },
       "Wilderei",
       "Wildtier"
     ],

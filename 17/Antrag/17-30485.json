@@ -41,9 +41,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Gesetzliche Krankenversicherung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetzliche Krankenversicherung"
+      },
       "Gesundheitskosten",
-      "Kostenerstattung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kostenerstattung"
+      }
     ],
     "ABSTRAKT": "Verzicht auf Ausweitung der Kostenerstattung in der gesetzlichen Krankenversicherung, Festhalten am Sachleistungsprinzip"
   },

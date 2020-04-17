@@ -33,7 +33,10 @@
       "Krankenbehandlungskosten",
       "Personenschaden",
       "Schmerzensgeld",
-      "Straßenverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Straßenverkehr"
+      },
       "Straßenverkehrsunfall"
     ],
     "ABSTRAKT": "Anzahl der Unfälle 1986 bzw. 1987, Personenschaden, stationäre bzw. ambulante Behandlung, Behandlungskosten, Folgekosten, Schmerzensgeldzahlungen "

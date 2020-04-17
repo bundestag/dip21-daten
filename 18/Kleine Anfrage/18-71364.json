@@ -32,15 +32,27 @@
       "Berufsausbildung",
       "Betriebskosten",
       "Einkommen",
-      "Ergotherapeut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ergotherapeut"
+      },
       "Gesetzliche Krankenversicherung",
       "Gesundheitskosten",
       "Heilmittel",
       "Honorar",
       "Krankenkasse",
-      "Logopäde",
-      "Physiotherapeut",
-      "Podologe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Logopäde"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Physiotherapeut"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Podologe"
+      },
       "Private Krankenversicherung",
       "Selbständiger"
     ],

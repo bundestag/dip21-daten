@@ -26,12 +26,21 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "AIDS",
-      "Blutkonserve",
-      "Blutkrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Blutkonserve"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Blutkrankheit"
+      },
       "Bundesgesundheitsamt",
       "Gesundheitsschaden",
       "Gleichbehandlungsgrundsatz",
-      "Hepatitis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hepatitis"
+      },
       "Infektionskrankheit",
       "Soziale Entschädigung"
     ],

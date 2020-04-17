@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Artenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
       "Bundesmittel",
       "Einfuhr",
       "Einfuhrbeschränkung",
@@ -39,7 +42,10 @@
       "Tansania",
       "Tierhandel",
       "Tierisches Produkt",
-      "Tierschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierschutz"
+      },
       "Verordnung der EU",
       "Washingtoner Artenschutzübereinkommen",
       "Wildtier"

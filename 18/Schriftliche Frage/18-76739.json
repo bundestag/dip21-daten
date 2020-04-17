@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bank",
-      "Bankgebühr",
-      "Bankkonto",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankgebühr"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankkonto"
+      },
       "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Verbraucherverband"
     ],

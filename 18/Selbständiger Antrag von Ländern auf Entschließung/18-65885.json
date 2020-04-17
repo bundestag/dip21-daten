@@ -36,7 +36,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Gesundheitskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitskosten"
+      },
       "Infektionskrankheit",
       "Krankenhaus",
       "Krankenhausfinanzierung",

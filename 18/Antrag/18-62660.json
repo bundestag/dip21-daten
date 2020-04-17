@@ -44,12 +44,21 @@
       "Recht"
     ],
     "SCHLAGWORT": [
-      "Bankkonto",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankkonto"
+      },
       "Dispositionskredit",
       "Gesetzgebung",
-      "Kredit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kredit"
+      },
       "Überziehungskredit",
-      "Zins"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zins"
+      }
     ],
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs zu Begrenzung der Zinssätze auf maximal 5 Prozentpunkte über dem Leitzinssatz der EZB, Veröffentlichungspflichten, Kündigungsfrist von mindestens vier Wochen"
   },

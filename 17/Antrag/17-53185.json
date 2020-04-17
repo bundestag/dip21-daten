@@ -44,7 +44,10 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "Ausfuhr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ausfuhr"
+      },
       "Außenhandelsförderung",
       "Außenpolitik",
       "Außenwirtschaftspolitik",
@@ -52,8 +55,14 @@
       "Dual-Use-Technologie",
       "Internet",
       "Rechtsstaat",
-      "Sicherheitstechnik",
-      "Telekommunikationsüberwachung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sicherheitstechnik"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Telekommunikationsüberwachung"
+      },
       "Waffenhandel",
       "Zensur  "
     ],

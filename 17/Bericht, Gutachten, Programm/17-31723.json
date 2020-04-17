@@ -32,7 +32,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzthonorar",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzthonorar"
+      },
       "Bericht",
       "Statistik",
       "Vertragsarzt"

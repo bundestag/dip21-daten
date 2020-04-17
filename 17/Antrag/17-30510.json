@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Arzneimittelforschung",
-      "Epidemie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Epidemie"
+      },
       "Grippe",
       "Impfstoff",
       "Impfung",

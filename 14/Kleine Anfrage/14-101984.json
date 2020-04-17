@@ -26,7 +26,10 @@
     "SACHGEBIET": "Wissenschaft, Forschung und Technologie",
     "SCHLAGWORT": [
       "Deutsche Forschungsgemeinschaft",
-      "Forschungseinrichtung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungseinrichtung"
+      },
       "Forschung und Technologie",
       "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung",
       "Max-Planck-Gesellschaft zur Förderung der Wissenschaften"

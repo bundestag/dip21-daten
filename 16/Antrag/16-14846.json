@@ -44,10 +44,16 @@
       "Gesundheit"
     ],
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Arzneimittelversorgung",
       "Gesetzgebung",
-      "Versandhandel"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Versandhandel"
+      }
     ],
     "ABSTRAKT": "Rechtliche Regelungen zur Begrenzung des Versandhandels auf nicht verschreibungspflichtige Arzneimittel"
   },

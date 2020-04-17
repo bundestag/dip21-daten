@@ -25,10 +25,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Brustkrebs",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Brustkrebs"
+      },
       "Evaluation",
       "Patientenberatung",
-      "Screeninguntersuchung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Screeninguntersuchung"
+      },
       "Sterblichkeit",
       "Studie"
     ],

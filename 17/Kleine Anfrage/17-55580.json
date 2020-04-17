@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Apotheke",
-      "Ärztliche Verordnung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ärztliche Verordnung"
+      },
       "Bundesministerium für Gesundheit",
       "Datenaustausch",
       "Datenhandel",

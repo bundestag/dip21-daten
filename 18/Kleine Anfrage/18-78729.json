@@ -28,7 +28,10 @@
       "Benzin",
       "Dienstfahrzeug",
       "Dieselkraftstoff",
-      "Dieselmotor",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Dieselmotor"
+      },
       "Einfuhr",
       "Erdöl",
       "Kfz-Abgas",
@@ -36,8 +39,14 @@
       "Kraftstoffverbrauch",
       "Marktanteil",
       "Motor",
-      "Nutzfahrzeug",
-      "Personenkraftwagen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nutzfahrzeug"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personenkraftwagen"
+      },
       "Straßenverkehrszulassung",
       "Treibhausgas",
       "Umweltbilanz"

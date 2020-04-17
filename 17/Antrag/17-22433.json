@@ -32,7 +32,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Bahnstrecke",
       "Bauvorhaben",
       "Fils",
@@ -42,7 +45,10 @@
       "Moratorium",
       "Schienengüterverkehr",
       "Schienenpersonenverkehr",
-      "Stuttgart",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      },
       "Wendlingen am Neckar",
       "Wirtschaftlichkeit"
     ],

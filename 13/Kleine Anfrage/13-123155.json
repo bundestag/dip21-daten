@@ -24,7 +24,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "EHEC",
+      {
+        "_fundstelle": "true",
+        "__cdata": "EHEC"
+      },
       "Gesundheit",
       "Gesundheitsgefährdung",
       "Krankheitserreger"

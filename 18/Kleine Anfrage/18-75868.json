@@ -25,13 +25,22 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Asphalt",
-      "Braunkohle",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Asphalt"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Braunkohle"
+      },
       "Bürgerbeteiligung",
       "Genehmigung",
       "Klimaschutz",
       "Luftreinhaltung",
-      "Luftverunreinigung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Luftverunreinigung"
+      },
       "Messwesen",
       "Schadstoff",
       "Straßenbau",

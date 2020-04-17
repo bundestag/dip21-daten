@@ -28,7 +28,10 @@
       "Bad Bank",
       "Bank",
       "Finanzinstrument",
-      "Finanzmarkt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Finanzmarkt"
+      },
       "Unternehmensbilanz",
       "Wertpapier"
     ],

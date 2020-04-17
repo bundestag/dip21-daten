@@ -31,10 +31,19 @@
       "Abgas",
       "Fluggast",
       "Flugpersonal",
-      "Gesundheitsrisiko",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsrisiko"
+      },
       "Kerosin",
-      "Luftverunreinigung",
-      "Verkehrsflugzeug"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Luftverunreinigung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsflugzeug"
+      }
     ],
     "ABSTRAKT": "Erkenntnisse der Bundesregierung über Gefährdung von Flugpersonal und Passagieren durch das Einatmen erhitzter Triebwerksöldämpfe"
   },

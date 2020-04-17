@@ -42,9 +42,15 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesundheits- und Krankenpfleger",
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Krankenpflege",
-      "Personalausstattung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalausstattung"
+      }
     ],
     "ABSTRAKT": "Schaffung von Regelungen zur Mindestpersonalbemessung in der stationären Krankenpflege mit entsprechender Kostenregelung und Sanktionsmöglichkeiten bei Nichterfüllung der Mindeststandards"
   },

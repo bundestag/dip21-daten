@@ -30,11 +30,20 @@
     ],
     "SCHLAGWORT": [
       "Bank",
-      "Börse",
-      "Energiewirtschaft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Börse"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Energiewirtschaft"
+      },
       "Finanzdienstleistungsaufsicht",
       "Finanzmarkt",
-      "Fossiler Energieträger",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fossiler Energieträger"
+      },
       "Klimaschutz",
       "Kohlendioxid",
       "Luftreinhaltung",

@@ -41,8 +41,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittel",
-      "Arzneimittelkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
       "Arzneimittelrecht",
       "Arzneimittelversorgung",
       "Gesetzgebung",

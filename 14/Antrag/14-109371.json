@@ -47,7 +47,10 @@
       "Ärztliche Behandlung",
       "Gesundheit",
       "Information",
-      "Krankenbehandlungskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenbehandlungskosten"
+      },
       "Krankenversicherung",
       "Patientenberatung"
     ],

@@ -25,10 +25,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Autobahn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Autobahn"
+      },
       "Baumaßnahme",
       "Straßenbau",
-      "Verkehrsstau"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsstau"
+      }
     ],
     "ABSTRAKT": "Maßnahmen zur Reduzierung von Bauzeiten und Staus an Autobahnbaustellen"
   },

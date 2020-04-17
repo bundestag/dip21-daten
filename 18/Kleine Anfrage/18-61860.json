@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Bahnstrecke",
       "Baufinanzierung",
       "Baukosten",
@@ -40,7 +43,10 @@
       "Gutachten",
       "Kosten-Nutzen-Analyse",
       "Planfeststellung",
-      "Stuttgart",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      },
       "Verkehrsinvestition",
       "Wirtschaftlichkeit"
     ],

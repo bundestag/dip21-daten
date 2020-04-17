@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Artenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
       "ASCOBANS-Abkommen",
       "Chemie",
       "Emission",
@@ -35,7 +38,10 @@
       "Seefischerei",
       "Sonderabfall",
       "Studie",
-      "Wal"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wal"
+      }
     ],
     "ABSTRAKT": "Aktivitäten der Bundesregierung im Rahmen des ASCOBANS-Abkommens, Beeinträchtigung von Kleinwalen durch akustische Belastungen, Maßnahmen gegen Beifang im Zusammenhang mit Fischerei, Definition von Schutzgebieten, Beseitigung chemischer Schadstoffquellen, Förderung von Studien zur Walpopulation, Umsetzung des Erholungsplans für Schweinswale in der Ostsee (Jastarnia-Plan) und Nordsee \r\n(insgesamt 40 Einzelfragen)"
   },

@@ -50,10 +50,16 @@
       "Gesundheitsrisiko",
       "Ionisierende Strahlung",
       "Mobilfunk",
-      "Radioaktivität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Radioaktivität"
+      },
       "Radiologie",
       "Röntgenstrahlung",
-      "Strahlenbelastung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strahlenbelastung"
+      },
       "Tschernobyl",
       "UV-Strahlung"
     ],

@@ -41,10 +41,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Güterverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Güterverkehr"
+      },
       "Lang-Lkw",
       "Lkw-Maut",
-      "Logistik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Logistik"
+      },
       "Programm der Bundesregierung",
       "Verkehrsplanung"
     ],

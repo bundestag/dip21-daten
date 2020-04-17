@@ -25,10 +25,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Autobahn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Autobahn"
+      },
       "Bundesfernstraße",
-      "Verkehrsplanung",
-      "Verkehrsstau"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsplanung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsstau"
+      }
     ],
     "ABSTRAKT": "Berücksichtigung besonders staugefährdeter Autobahnabschnitte im aktuellen Bedarfsplan für die Bundesfernstraßen"
   },

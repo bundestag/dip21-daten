@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Arzneimittel",
-      "Arzneimittelkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
       "Arzneimittelmarktneuordnungsgesetz",
       "Arzneimittelrecht",
       "Arzneimittelversorgung",

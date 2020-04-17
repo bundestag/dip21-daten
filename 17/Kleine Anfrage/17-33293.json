@@ -25,11 +25,17 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wissenschaft, Forschung und Technologie",
     "SCHLAGWORT": [
-      "Forschung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschung"
+      },
       "Forschungseinrichtung",
       "Forschungspolitik",
       "Forschungsprogramm",
-      "Verbraucherpolitik"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verbraucherpolitik"
+      }
     ],
     "ABSTRAKT": "Entwicklung der Praxis der finanziellen und strukturellen Förderung der Verbraucherforschung seit 2001, Forschungsvorhaben, Forschungseinrichtungen, Koordinierung der Vorhaben, Forschungsprogramme, Studien zum Konsumverhalten, zur Politikfeldforschung und zu Wirkungsanalysen \r\n(insgesamt 22 Einzelfragen)"
   },

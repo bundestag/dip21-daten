@@ -32,7 +32,10 @@
       "Krankheit",
       "Medizinische Behandlung",
       "Medizinische Forschung",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Patient",
       "Therapie"
     ],

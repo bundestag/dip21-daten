@@ -17,11 +17,17 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Bericht der Bundesregierung",
       "Gesetzesvollzug",
       "Krankenhausbehandlung",
-      "Therapie"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Therapie"
+      }
     ],
     "ABSTRAKT": "Inhalt, Umsetzung und Bewertung der gesetzlichen Neuregelung zur Verbesserung der Wirtschaftlichkeit der Arzneimittelversorgung in der poststationären Therapie"
   },

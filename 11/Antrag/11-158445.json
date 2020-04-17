@@ -33,7 +33,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesundheit",
-      "Radioaktivität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Radioaktivität"
+      },
       "Reaktorunfall",
       "Rückstände in Lebensmitteln",
       "Trinkwasser",

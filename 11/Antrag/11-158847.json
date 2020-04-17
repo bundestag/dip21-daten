@@ -47,7 +47,10 @@
       "Ausfuhrverbot",
       "Außenwirtschaft",
       "Kernenergie",
-      "Kerntechnische Anlage",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kerntechnische Anlage"
+      },
       "Technologietransfer"
     ],
     "ABSTRAKT": "Unterbindung des Exports atomarer Anlagen (Waren der internationalen Kernenergieliste), Unterrichtung des Bundestages über alle bisher erteilten Ausfuhrgenehmigungen "

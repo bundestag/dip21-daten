@@ -17,8 +17,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bank",
-      "KfW-Bankengruppe",
-      "Lehman Brothers Bankhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "KfW-Bankengruppe"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lehman Brothers Bankhaus"
+      },
       "USA",
       "Zahlungsverkehr"
     ],

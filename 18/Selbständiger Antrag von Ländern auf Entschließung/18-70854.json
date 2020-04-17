@@ -24,7 +24,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Bundesinstitut für Arzneimittel und Medizinprodukte",
       "Packungsbeilage",
       "Patientenberatung",

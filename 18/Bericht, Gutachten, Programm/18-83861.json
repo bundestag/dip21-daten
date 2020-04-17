@@ -21,8 +21,14 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "Automation",
-      "Autonomes Fahrzeug",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Automation"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Autonomes Fahrzeug"
+      },
       "Bericht",
       "Computer",
       "Datenschutz",
@@ -30,7 +36,10 @@
       "Ethikkommission",
       "Fahrerassistenzsystem",
       "Informationssicherheit",
-      "Kraftfahrzeugtechnik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kraftfahrzeugtechnik"
+      },
       "Straßenverkehrszulassung"
     ],
     "ABSTRAKT": "Bericht der Ethik-Kommission betr. Zulassung automatisierter Fahrsysteme als Risikoentscheidung, IT-Sicherheit und Datenschutz, offene Fragen; geplante Maßnahmen der Bundesregierung"

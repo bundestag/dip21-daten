@@ -74,8 +74,14 @@
     "INKRAFTTRETEN": "06.11.2015 (weiteres siehe im BGBl)",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Abwicklungsmechanismusgesetz",
-      "Bank",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abwicklungsmechanismusgesetz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bank"
+      },
       "Bankenabgabe",
       "Bankenaufsicht",
       "Bankrecht",
@@ -91,7 +97,10 @@
       "Innerstaatliche Umsetzung von EU-Recht",
       "Kreditinstitute-Reorganisationsgesetz",
       "Kreditwesengesetz",
-      "Liquidation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Liquidation"
+      },
       "Pfandbriefgesetz",
       "Prüfungsberichtsverordnung",
       "Restrukturierungsfonds für Kreditinstitute",

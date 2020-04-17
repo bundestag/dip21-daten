@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "BSE",
+      {
+        "_fundstelle": "true",
+        "__cdata": "BSE"
+      },
       "Creutzfeldt-Jakob-Krankheit",
       "Gesundheit",
       "Gesundheitsvorsorge"

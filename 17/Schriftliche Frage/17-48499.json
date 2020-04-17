@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Nahrungsmittel",
-      "Spende",
-      "Steuerdelikt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Spende"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Steuerdelikt"
+      },
       "Steuerrecht",
       "Umsatzsteuer"
     ],

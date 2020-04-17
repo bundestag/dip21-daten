@@ -32,10 +32,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Autobahn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Autobahn"
+      },
       "Bahnstrecke",
       "Barrierefreiheit",
-      "Berlin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
       "Brandenburg",
       "Flughafen",
       "Lärmschutz",

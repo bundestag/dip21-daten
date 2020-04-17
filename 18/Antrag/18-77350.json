@@ -17,7 +17,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Bahnstrecke",
       "Baufinanzierung",
       "Baukosten",
@@ -30,7 +33,10 @@
       "Bundesmittel",
       "Deutsche Bahn",
       "Moratorium",
-      "Stuttgart"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      }
     ],
     "ABSTRAKT": "Sofortiger Stopp der Baumaßnahmen sowie Umstieg beim Ausbau des Bahnknotens: Entwicklung eines Alternativkonzepts, Zurückstellung sämtlicher Finanzmittel des Bundes bis zur Vorlage eines Konzepts zum Umbau des existierenden Bahnhofs, übersichtliche und vollständige Veranschlagung der Mittel an einer Stelle sowie jährliche Berichterstattung an den Bundestag zu den Haushaltsberatungen; personelle Konsequenzen im Bundesministerium für Verkehr und digitale Infrastruktur und an der Spitze der Deutschen Bahn"
   },

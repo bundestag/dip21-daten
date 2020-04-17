@@ -42,8 +42,14 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Ärztliche Versorgung",
-      "Hausarzt",
-      "Praxisgebühr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hausarzt"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Praxisgebühr"
+      },
       "Sozialgesetzbuch V"
     ],
     "ABSTRAKT": "Ersatzlose Streichung der Praxisgebühr gemäß § 28 SGB V und Wiederherstellung des Rechtszustands vor dem 22. September 2010 bezüglich der hausarztzentrierten Versorgung gemäß § 73b SGB V"

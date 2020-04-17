@@ -34,7 +34,10 @@
       "Jugend",
       "Kind",
       "Kinderkrankheit",
-      "Krankenbehandlungskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenbehandlungskosten"
+      },
       "Krankenversicherung"
     ],
     "ABSTRAKT": "Anwendbarkeit der DRG's (Diagnosis Related Groups) auf die Behandlung von Kindern, Verbesserung der Kostengleichheit zwischen den einzelnen Kinderkliniken "

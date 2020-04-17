@@ -41,10 +41,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnstrecke",
-      "Berlin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnstrecke"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
       "Brandenburg",
-      "Flughafen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
       "S-Bahn",
       "Streckenbau",
       "Verkehrsinvestition"
