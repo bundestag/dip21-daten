@@ -15,15 +15,18 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918471.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Umwelt",
-      "Verkehr"
-    ],
+    "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Lärmschutz",
-      "Straßenverkehrslärm",
-      "Verkehrslärm",
-      "Verkehrslärmschutzverordnung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Straßenverkehrslärm"
+      },
+      "Technische Überwachung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrslärmschutzverordnung"
+      }
     ],
     "ABSTRAKT": ""
   },
