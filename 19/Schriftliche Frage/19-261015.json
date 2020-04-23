@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Schriftliche Frage",
-    "TITEL": "Bau neuer Haftanstalten für undokumentierte Migranten in Indien \r\n",
+    "TITEL": "Bau neuer Haftanstalten für unregistrierte Migranten in Indien",
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -17,17 +17,15 @@
     "SCHLAGWORT": [
       "Ausländer",
       "Gefängnis",
-      "Illegale Einwanderung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Illegale Einwanderung"
+      },
       {
         "_fundstelle": "true",
         "__cdata": "Indien"
       },
-      {
-        "_fundstelle": "true",
-        "__cdata": "Justizvollzugsanstalt"
-      },
-      "Migrant",
-      "Neubau"
+      "Migrant"
     ],
     "ABSTRAKT": ""
   },
