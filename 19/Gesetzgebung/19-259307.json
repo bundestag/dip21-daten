@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C132",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 87/20)",
@@ -23,12 +23,21 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918470.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "988",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/156",
+        "PLPR_SEITEN": "19346D - 19349B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -125,6 +134,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "08.04.2020 - BT-Drucksache 19/18470\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918470.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "23.04.2020 - BT-Plenarprotokoll 19/156, S. 19346D - 19349B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346"
       }
     ]
   }

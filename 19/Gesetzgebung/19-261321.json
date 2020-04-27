@@ -12,7 +12,7 @@
       "Fraktion der SPD",
       "Fraktion DIE LINKE"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B083",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18701)",
@@ -21,6 +21,13 @@
       "DRS_NUMMER": "19/18701",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918701.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/156",
+      "PLPR_SEITEN": "19346D - 19349B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -51,11 +58,19 @@
     "ABSTRAKT": "Grundsätzliche Beibehaltung des Verfahrens zur jährlichen Anpassung der Abgeordnetenentschädigung und der Bemessungsbeträge für die Alterssicherung zum 1. Juli auf Grundlage des Ende März durch das statistische Bundesamt übermittelten Nominallohnindexes, Aussetzung der Anpassung im Jahr 2020 wegen fehlender Berücksichtigungsmöglichkeit der wirtschaftlichen Auswirkungen der COVID-19-Pandemie bei der aktuellen Ermittlung des Nominallohnindexes zum 30. März; Rechtsbereinigung und Übernahme der zuletzt festgestellten Höhe der Abgeordnetenentschädigung in das Gesetz; \r\nGesetz zur Aussetzung des Anpassungsverfahrens gemäß §11 Absatz 4 des Abgeordnetengesetzes für das Jahr 2020 als Art. 1 der Vorlage sowie Änderung § 11 Abgeordnetengesetz \r\n \r\nBezug: Bekanntmachung der Anpassung der Abgeordnetenentschädigung und der fiktiven Bemessungssätze zum 1. Juli 2019 auf BT-Drs 19/10014"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der AfD, Fraktion der CDU/CSU, Fraktion der FDP, Fraktion der SPD ",
-      "FUNDSTELLE": "21.04.2020 - BT-Drucksache 19/18701",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918701.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der AfD, Fraktion der CDU/CSU, Fraktion der FDP, Fraktion der SPD ",
+        "FUNDSTELLE": "21.04.2020 - BT-Drucksache 19/18701",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918701.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "23.04.2020 - BT-Plenarprotokoll 19/156, S. 19346D - 19349B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346"
+      }
+    ]
   }
 }

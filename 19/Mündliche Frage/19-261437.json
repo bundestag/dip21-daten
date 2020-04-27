@@ -7,6 +7,13 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/155",
+      "PLPR_SEITEN": "19291B - 19291C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19291"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Parlamentsausschuss",
@@ -22,11 +29,38 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "17.04.2020 - BT-Drucksache 19/18575, Nr. 71",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918575.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "17.04.2020 - BT-Drucksache 19/18575, Nr. 71",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918575.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "22.04.2020 - BT-Plenarprotokoll 19/155, S. 19291B - 19291C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19291",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Filiz",
+            "NACHNAME": "Polat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19291B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19291C"
+          }
+        ]
+      }
+    ]
   }
 }
