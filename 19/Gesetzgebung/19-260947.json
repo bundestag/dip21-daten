@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Übertragung der Aufsicht über Finanzanlagenvermittler und Honorar-Finanzanlagenberater auf die Bundesanstalt für Finanzdienstleistungsaufsicht",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D056",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 163/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "163/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0163-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "163/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0163-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18794",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918794.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -46,20 +54,28 @@
     "ABSTRAKT": "Überwindung der bisherigen länderspezifisch zersplitterten Aufsichtsstruktur mit Industrie- und Handelskammern und Gewerbeämtern, Gewährleistung einer spezialisierten und wirksamen Aufsicht sowie des Anlegerschutzes durch Angleichung an die vergleichbare Aufsicht über Wertpapierdienstleistungsunternehmen; Übergangsvorschriften; \r\nÄnderung und Einfügung versch. §§ Wertpapierhandelsgesetz und Finanzdienstleistungsaufsichtsgesetz, Änderung und Aufhebung versch. §§ Gewerbeordnung, Änderung §§ 37 und 44c Kreditwesengesetz, Änderung Anlage (Gebührenverzeichnis) Verordnung über die Erhebung von Gebühren und die Umlegung von Kosten nach dem Finanzdienstleistungsaufsichtsgesetz, Folgeänderungen in 1 Gesetz und 3 Rechtsverordnungen sowie Aufhebung Finanzanlagenvermittlungsverordnung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
-      "FUNDSTELLE": "03.04.2020 - BR-Drucksache 163/20\nAnl. Stellungnahme der BRg zur Stellungnahme des Nationalen Normenkontrollrates",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0163-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "03.04.2020 - BR-Drucksache 163/20\nAnl. Stellungnahme der BRg zur Stellungnahme des Nationalen Normenkontrollrates",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0163-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "27.04.2020 - BT-Drucksache 19/18794\nAnl. Stellungnahme der BRg zur Stellungnahme des Nationalen Normenkontrollrates",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918794.pdf"
+      }
+    ]
   }
 }

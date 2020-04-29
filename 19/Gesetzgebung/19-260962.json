@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zum Schutz elektronischer Patientendaten in der Telematikinfrastruktur (Patientendaten-Schutz-Gesetz - PDSG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M039",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 164/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "164/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0164-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "164/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0164-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18793",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918793.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -59,26 +67,34 @@
       "Transplantationsgesetz",
       "Verschreibungspflicht"
     ],
-    "ABSTRAKT": "Umfassende Neustrukturierung der Regelungen zur Telematikinfrastruktur und ihrer Anwendungen betr. innovative digitale medizinische Anwendungen (elektronische Arzneimittelverordnung (E-Rezept), auch über mobile Endgeräte (E-Rezept-App), elektronische Empfehlung nicht verschreibungspflichtiger Arzneimittel (Grünes Rezept), digitaler Überweisungsschein), Weiterentwicklung der elektronischen  Patientenakte (Patientensouveränität betr. Nutzung sowie Datenspeicherung, -zugriff und -löschung, Unterstützung von Versichertenansprüchen gegen Leistungserbringer und Krankenkassen, freiwillige Datenbereitstellung zu Forschungszwecken, einrichtungs- und sektorenübergreifende Interoperabilität, zusätzliche Vergütung für Ärzte, Apotheker und Krankenhäuser, Zugriff für alle Versicherte mit und ohne geeignete mobile Endgeräte, Anreize und Fristen zur Einführung, Bußgeldtatbestände), zentrale Zuständigkeit der Gesellschaft für Telematik, differenzierte Zugriffsberechtigungen, Anbindungsmöglichkeit weiterer Vorsorge- und Rehabilitationseinrichtungen; \r\nÄnderung von 7 Gesetzen und 1 Rechtsverordnung; Verordnungsermächtigungen"
+    "ABSTRAKT": "Umfassende Neustrukturierung der Regelungen zur Telematikinfrastruktur und ihrer Anwendungen betr. innovative digitale medizinische Anwendungen (elektronische Arzneimittelverordnung (E-Rezept), auch über mobile Endgeräte (E-Rezept-App), elektronische Empfehlung nicht verschreibungspflichtiger Arzneimittel (Grünes Rezept), digitaler Überweisungsschein), Weiterentwicklung der elektronischen Patientenakte (Patientensouveränität betr. Nutzung sowie Datenspeicherung, -zugriff und -löschung, Unterstützung von Versichertenansprüchen gegen Leistungserbringer und Krankenkassen, freiwillige Datenbereitstellung zu Forschungszwecken, einrichtungs- und sektorenübergreifende Interoperabilität, zusätzliche Vergütung für Ärzte, Apotheker und Krankenhäuser, Zugriff für alle Versicherte mit und ohne geeignete mobile Endgeräte, Anreize und Fristen zur Einführung, Bußgeldtatbestände), zentrale Zuständigkeit der Gesellschaft für Telematik, differenzierte Zugriffsberechtigungen, Anbindungsmöglichkeit weiterer Vorsorge- und Rehabilitationseinrichtungen; \r\nÄnderung von 7 Gesetzen und 1 Rechtsverordnung; Verordnungsermächtigungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
-      "FUNDSTELLE": "03.04.2020 - BR-Drucksache 164/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0164-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "03.04.2020 - BR-Drucksache 164/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0164-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "27.04.2020 - BT-Drucksache 19/18793",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918793.pdf"
+      }
+    ]
   }
 }
