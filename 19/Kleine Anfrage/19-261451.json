@@ -15,11 +15,19 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918761.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Medien, Kommunikation und Informationstechnik",
-    "SCHLAGWORT": {
-      "_fundstelle": "true",
-      "__cdata": "Computerspiel"
-    },
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Kultur",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
+    "SCHLAGWORT": [
+      "Bundesmittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Computerspiel"
+      },
+      "Wirtschaftsförderung"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
