@@ -14,8 +14,20 @@
       "DRS_TYP": "Kleine Anfrage"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Arbeit und Beschäftigung",
-    "SCHLAGWORT": "Telearbeit",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Staat und Verwaltung",
+      "Arbeit und Beschäftigung"
+    ],
+    "SCHLAGWORT": [
+      "Bundesministerium",
+      "Bundesverwaltung",
+      "Privatunternehmen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Telearbeit"
+      }
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {

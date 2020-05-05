@@ -31,13 +31,19 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Recht",
+    "SACHGEBIET": [
+      "Recht",
+      "Innere Sicherheit",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
     "SCHLAGWORT": [
       "Brief-, Post- und Fernmeldegeheimnis",
+      "Ermittlungsverfahren",
       {
         "_fundstelle": "true",
         "__cdata": "Gesetz zur Verbesserung der Strafverfolgung hinsichtlich des Handels mit inkriminierten Gütern unter Nutzung von Postdienstleistern"
       },
+      "Grundgesetz Art. 10",
       {
         "_fundstelle": "true",
         "__cdata": "Illegaler Handel"
@@ -47,9 +53,10 @@
         "__cdata": "Postbeförderung"
       },
       "Postgesetz",
+      "Strafanzeige",
       "Strafverfolgung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Einführung einer strafbewehrten Verpflichtung von Postdienstleistern zur Vorlage von Postsendungen bei den Strafverfolgungsbehörden bei im Rahmen von Adressermittlungen oder Sicherung beschädigter Sendungen festgestellten Verdachtsfällen in den Bereichen Betäubungs-, Sucht- und Dopingmittel sowie Waffen und Sprengstoff; Einschränkung von Grundrechten betr. Brief- und Postgeheimnis; \r\nÄnderung §§ 39 und 49 Postgesetz"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -77,6 +84,7 @@
         "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 9, S. 64 - 64",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf#P.64",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "64",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "106/20"
         }
