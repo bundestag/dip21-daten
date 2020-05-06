@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/16423",
-      "DRS_TYP": "Schriftliche Fragen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/164/1916423.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/16423",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/164/1916423.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18467",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918467.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -26,31 +34,39 @@
         "__cdata": "Sachbeschädigung"
       }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIn welcher Höhe sind in den Jahren 2017 bis 2019 der Deutschen Bahn AG in Hamburg jeweils Kosten durch Vandalismus entstanden, und welche fünf Deliktarten haben hierbei die höchsten Kosten verursacht?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
-      "FUNDSTELLE": "10.01.2020 - BT-Drucksache 19/16423, Nr. 109",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/164/1916423.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Wieland",
-          "NACHNAME": "Schinnenburg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Frage"
-        },
-        {
-          "VORNAME": "Enak",
-          "NACHNAME": "Ferlemann",
-          "FUNKTION": "Parl. Staatssekr.",
-          "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
-          "AKTIVITAETSART": "Antwort"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+        "FUNDSTELLE": "10.01.2020 - BT-Drucksache 19/16423, Nr. 109",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/164/1916423.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ergänzende schriftliche Antwort ",
+        "FUNDSTELLE": "09.04.2020 - BT-Drucksache 19/18467, S. 71",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918467.pdf#P.71"
+      }
+    ]
   }
 }

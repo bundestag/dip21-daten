@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Bahnsteig",
       "Bauvorhaben",
       "Eisenbahn-Bundesamt",
@@ -34,7 +37,10 @@
       "Fußgänger",
       "Gehweg",
       "Schienenpersonenverkehr",
-      "Stuttgart",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      },
       "Unterführung",
       "Verkehrsaufkommen"
     ],

@@ -32,7 +32,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Artenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Artenschutz"
+      },
       "Einfuhrverbot",
       "Elefant",
       "Elfenbein",
@@ -45,13 +48,22 @@
       "Schmuggel",
       "Strafverfolgung",
       "Tierfang",
-      "Tierhandel",
-      "Tierisches Produkt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierhandel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierisches Produkt"
+      },
       "Tierschutz",
       "Waldschutz",
       "Washingtoner Artenschutzübereinkommen",
       "Wilderei",
-      "Wildtier"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wildtier"
+      }
     ],
     "ABSTRAKT": "Beschlagnahmung und Zerstörung in Deutschland gelagerter Wildtierprodukte, Aufdeckung des Schmuggels, Kontrolle und Bekämpfung illegalen Wildtierhandels, Koordinierungsmechanismen, Verbesserungen im Washingtoner Artenschutzübereinkommen (CITES) sowie Zusammenarbeit mit Europol und INTERPOL beim Vollzug, Schließung von Elfenbeinmärkten, Zusammenarbeit zw. Herkunftsstaaten und Abnehmerländern, Maßnahmen gegen illegalen Handel in Ursprungs-, Transit- oder Abnehmerländern, Wald- und Naturschutzprojekte, vernetzte, artgerechte Lebensräume geschützter Arten, Elfenbein- und Elefantenschutz"
   },

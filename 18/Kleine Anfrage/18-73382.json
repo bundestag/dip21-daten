@@ -35,8 +35,14 @@
       "Deutsches Zentrum für Luft- und Raumfahrt",
       "Drittmittel",
       "Forschungseinrichtung",
-      "Forschungsfinanzierung",
-      "Forschungskooperation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungsfinanzierung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungskooperation"
+      },
       "Forschungsprogramm der Bundesregierung",
       "Forschungsprojekt",
       "Hochschule",
@@ -46,7 +52,10 @@
       "Öffentlicher Auftrag",
       "Privatunternehmen",
       "Ressortforschung",
-      "Rüstungsforschung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rüstungsforschung"
+      },
       "Rüstungsindustrie",
       "Soldat",
       "Studienplatz",

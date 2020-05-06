@@ -26,11 +26,17 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Arzneimittel",
-      "Arzneimittelkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
       "Ärztliche Behandlung",
       "Aufsichtsbehörde",
       "Bundesversicherungsamt",
-      "Cannabis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cannabis"
+      },
       "Gesetz zur Änderung betäubungsmittelrechtlicher und anderer Vorschriften",
       "Kostenerstattung",
       "Patient"

@@ -37,7 +37,10 @@
     "SCHLAGWORT": [
       "Arzt",
       "Ärztliche Behandlung",
-      "Behandlungsfehler",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Behandlungsfehler"
+      },
       "Berufshaftpflichtversicherung",
       "Fonds",
       "Gesetzgebung",
@@ -46,7 +49,10 @@
       "Landgericht",
       "Mediation",
       "Medizinische Behandlung",
-      "Patient",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Patient"
+      },
       "Patientenberatung",
       "Patientenrechte",
       "Verbraucherschutz",

@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bad Bank",
-      "Deutsche Bank",
-      "IKB Deutsche Industriebank",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Bank"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "IKB Deutsche Industriebank"
+      },
       "KfW-Bankengruppe",
       "Schadensersatz"
     ],

@@ -40,7 +40,10 @@
     "EU_DOK_NR": "Ratsdok. 8365/93, Kom. (93) 363 endg.",
     "SCHLAGWORT": [
       "Investmentfonds",
-      "Kreditinstitut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kreditinstitut"
+      },
       "Lebensversicherung",
       "Schadenversicherung",
       "Wertpapier"

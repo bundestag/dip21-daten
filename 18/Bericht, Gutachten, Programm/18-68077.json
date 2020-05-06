@@ -48,9 +48,15 @@
       "Elektromagnetische Strahlung",
       "Gesundheitsrisiko",
       "Ionisierende Strahlung",
-      "Radioaktivität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Radioaktivität"
+      },
       "Röntgenstrahlung",
-      "Strahlenbelastung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strahlenbelastung"
+      },
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition, Nichtionisierende Strahlung: Elektromagnetische Felder, optische Strahlung (UV-Strahlung)"

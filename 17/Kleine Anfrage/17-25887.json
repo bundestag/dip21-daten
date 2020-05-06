@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": [
-      "Arbeitslosigkeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arbeitslosigkeit"
+      },
       "Arbeitsmarkt",
-      "Personalbedarf"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalbedarf"
+      }
     ],
     "ABSTRAKT": "Anzahl der offiziell registrierten Arbeitslosen ab 2005, Anzahl der nicht als offiziell registrierten Arbeitslosen im Rechtskreis des SGB II und III, Anzahl der der Bundesagentur für Arbeit gemeldeten offenen Stellen"
   },

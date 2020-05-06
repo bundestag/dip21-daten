@@ -31,9 +31,15 @@
       "Beschwerde",
       "Kind",
       "Rechtsmittel",
-      "Sozialgeld",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialgeld"
+      },
       "Sozialgesetzbuch II",
-      "Sozialhilfeempfänger"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialhilfeempfänger"
+      }
     ],
     "ABSTRAKT": "Anteil von Kindern bis 15 Jahre unter den Sozialgeldbeziehern, weitere Personengruppen, Anzahl und Gründe ausgesprochener Sanktionen nach § 32 SGB II bzw. befristeter Wegfall des Anspruchs, Anzahl der eingelegten Beschwerden und Rechtsmittel, Möglichkeit der ersatzlosen Streichung des § 32 SGB II"
   },

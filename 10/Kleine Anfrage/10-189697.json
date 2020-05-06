@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Apotheke",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Apotheke"
+      },
       "Arzneimittel",
       "Gesundheit",
       "Makler"

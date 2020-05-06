@@ -5,50 +5,87 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Corona digital bekämpfen - Deutsches Elektronisches Melde- und Informationssystem für den Infektionsschutz (DEMIS) zur Dokumentation und Überwachung von Infektionskrankheiten",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18506",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18506",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918506.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18831",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918831.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "COVID-19",
-      "Dokumentationseinrichtung",
+      "Bundesmittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Datenerhebung",
+      "Datenverarbeitung",
+      "Digitalisierung",
       "Epidemie",
+      "Gesundheitstelematik",
+      "Gesundheitsvorsorge",
       "Infektionskrankheit",
-      "Informationssystem",
-      "Seuchenbekämpfung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationssystem"
+      },
+      "Meldewesen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Öffentlicher Gesundheitsdienst"
+      },
+      "Programm der Bundesregierung",
+      "Robert Koch-Institut",
+      "Seuchenbekämpfung",
+      "Website"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 30 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "09.04.2020 - BT-Drucksache 19/18506",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Joana",
-          "NACHNAME": "Cotar",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Uwe",
-          "NACHNAME": "Schulz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "09.04.2020 - BT-Drucksache 19/18506",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918506.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Joana",
+            "NACHNAME": "Cotar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Schulz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "28.04.2020 - BT-Drucksache 19/18831",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918831.pdf"
+      }
+    ]
   }
 }

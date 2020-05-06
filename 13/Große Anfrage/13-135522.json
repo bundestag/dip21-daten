@@ -30,7 +30,10 @@
     "SCHLAGWORT": [
       "Ärztliche Behandlung",
       "Gesundheit",
-      "Patient",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Patient"
+      },
       "Recht",
       "Selbstbestimmungsrecht"
     ],

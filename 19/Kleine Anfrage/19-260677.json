@@ -3,59 +3,74 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Aktivitäten der US-amerikanischen RAND corporation in Deutschland, EU und Russland \r\n(Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/16222)",
+    "TITEL": "Auswirkungen der Aktivitäten der US-amerikanischen RAND Corporation auf Deutschland, die Europäische Union und Russland \r\n(Nachfrage zur Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/16324)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18177",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918177.pdf"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Außenpolitik und internationale Beziehungen",
-      "Europapolitik und Europäische Union"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18177",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918177.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18552",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918552.pdf"
+      }
     ],
+    "EU_DOK_NR": "",
+    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
-      "Außenpolitik",
-      "Europäische Union",
       "Gaspipeline",
-      "Internationale Beziehungen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Internationale Beziehungen"
+      },
       "Internationale Wirtschaftsbeziehungen",
       "Politikberatung",
-      "Russland",
-      "Sicherheitspolitik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Russland"
+      },
       "Studie",
-      "USA",
-      "Wirtschaftssanktion"
+      "USA"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 4 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18177",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918177.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Steffen",
-          "NACHNAME": "Kotre",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Tino",
-          "NACHNAME": "Chrupalla",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "26.03.2020 - BT-Drucksache 19/18177",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918177.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Tino",
+            "NACHNAME": "Chrupalla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "09.04.2020 - BT-Drucksache 19/18552",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/185/1918552.pdf"
+      }
+    ]
   }
 }

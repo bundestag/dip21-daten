@@ -18,7 +18,10 @@
       "Allgemeine Ortskrankenkasse",
       "Apotheke",
       "Arzneimittel",
-      "Arzneimittelkosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelkosten"
+      },
       "Baden-Württemberg",
       "Gesetzliche Krankenversicherung",
       "Rabatt"

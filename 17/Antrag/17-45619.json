@@ -41,7 +41,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Gesetz gegen Wettbewerbsbeschränkungen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz gegen Wettbewerbsbeschränkungen"
+      },
       "Kartellrecht",
       "Krankenkasse",
       "Ministererlaubnis",
@@ -49,9 +52,15 @@
       "Parlamentarische Kontrolle",
       "Presse",
       "Presserecht",
-      "Verbraucherschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verbraucherschutz"
+      },
       "Vertrieb",
-      "Wettbewerbsrecht"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wettbewerbsrecht"
+      }
     ],
     "ABSTRAKT": "Verankerung im Rahmen der GWB-Novelle; Berücksichtigung der Externalisierung von Kosten, stärkere Verhaltenssteuerung und effizientere Kartellverfolgung, Ergänzung der Ministererlaubnis durch Stellungnahme des Bundestages, gesetzliche Regelungen zum Presse-Grosso, Regelung der \"Presserechenklausel\" zur Umsatzberechnung, Verzicht auf die Einbeziehung der gesetzlichen Krankenversicherung, Verwendung von Kartellstrafen zur Stärkung des Verbraucherschutzes"
   },

@@ -15,8 +15,14 @@
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
-      "Gesetzliche Krankenversicherung",
-      "Gesundheitskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetzliche Krankenversicherung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitskosten"
+      },
       "Gleichbehandlungsgrundsatz",
       "Grundgesetz Art. 3",
       "Körperschmuck",
@@ -24,7 +30,10 @@
       "Krankheit",
       "Plastische Chirurgie",
       "Rauchen",
-      "Selbstbeteiligung im Gesundheitswesen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Selbstbeteiligung im Gesundheitswesen"
+      },
       "Sozialgesetzbuch V",
       "Straßenverkehrsgefährdung",
       "Übergewicht"

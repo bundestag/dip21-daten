@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Haftung bei Unfällen mit Anhängern und Gespannen im Straßenverkehr",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C128",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 49/20)",
@@ -23,19 +23,32 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917964.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "986",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "986",
+        "PLPR_SEITEN": "63 - 63",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf#P.63"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/156",
+        "PLPR_SEITEN": "19346D - 19349B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
       "Verkehr"
     ],
     "SCHLAGWORT": [
-      "Fahrzeuganhänger",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fahrzeuganhänger"
+      },
       "Gefährdungshaftung",
       {
         "_fundstelle": "true",
@@ -45,12 +58,11 @@
       "Kraftfahrzeughaftpflichtversicherung",
       "Straßenverkehr",
       "Straßenverkehrsgesetz",
-      "Straßenverkehrsrecht",
       "Verkehrsunfall",
       "Versicherungsrecht",
       "Versicherungsvertragsgesetz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Zusammenführung und Klarstellungen betr. Regelungen zur Haftung bei Unfällen mit Anhängern oder Gespannen unter Zurückweisung der Rechtsfortbildung durch den BGH: Haftung der Halter und Führer von Anhänger und Zugfahrzeug im Verhältnis zueinander und zu Dritten, Regelfall und gefahrerhöhende Wirkung des Anhängers; entsprechende Regelung für den Ausgleich zwischen beteiligten Versicherern; \r\nÄnderung §§ 7, 8, 12, 17, 18 und 65 sowie Einfügung § 19 und 19a Straßenverkehrsgesetz und Änderung §§ 78 und 87 Versicherungsvertragsgesetz \r\n \r\nBezug: Entscheidung des Bundesgerichtshofs vom 27. Oktober 2010 zum Innenausgleich zwischen dem Haftpflichtversicherer des Zugfahrzeuges und dem Haftpflichtversicherer des mit diesem verbundenen Anhängers nach einem durch das Gespann verursachten Schaden (BGHZ 187, 211)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -75,11 +87,13 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 24",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
+        "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 24, S. 63 - 63",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf#P.63",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "63",
           "BESCHLUSSTENOR": "keine Einwendungen",
-          "BEZUGSDOKUMENT": "49/20"
+          "BEZUGSDOKUMENT": "49/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -93,6 +107,26 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "16.03.2020 - BT-Drucksache 19/17964",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/179/1917964.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "23.04.2020 - BT-Plenarprotokoll 19/156, S. 19346D - 19349B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19349B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17964"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          }
+        ]
       }
     ]
   }

@@ -26,13 +26,19 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Arzthonorar",
-      "Geburtshilfe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geburtshilfe"
+      },
       "Gesetzliche Krankenversicherung",
       "Gesundheitskosten",
       "Haftpflichtversicherung",
       "Kostenerstattung",
       "Krankenhaus",
-      "Krankenhausarzt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhausarzt"
+      },
       "Krankenkasse",
       "Private Krankenversicherung",
       "Versicherungsbeitrag"

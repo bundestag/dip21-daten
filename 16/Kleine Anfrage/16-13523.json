@@ -26,8 +26,14 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Arzneimittel",
-      "Arzneimittelprüfung",
-      "Gemeinsamer Bundesausschuss",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelprüfung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gemeinsamer Bundesausschuss"
+      },
       "Institut für Qualität und Wirtschaftlichkeit im Gesundheitswesen",
       "Therapie"
     ],

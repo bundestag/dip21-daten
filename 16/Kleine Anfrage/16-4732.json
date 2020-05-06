@@ -26,7 +26,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Bakterien",
-      "Infektionskrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Infektionskrankheit"
+      },
       "Krankenhaus",
       "MRSA"
     ],

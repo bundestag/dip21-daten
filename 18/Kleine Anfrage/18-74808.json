@@ -25,10 +25,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittelversorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelversorgung"
+      },
       "Ärztliche Verordnung",
       "Berufliche Weiterbildung",
-      "Cannabis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cannabis"
+      },
       "Datenerhebung",
       "Datenschutz",
       "Fahrerlaubnis",

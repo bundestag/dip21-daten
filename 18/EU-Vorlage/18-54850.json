@@ -43,10 +43,16 @@
     },
     "EU_DOK_NR": "Ratsdok. 12315/13, Kom. (2013) 520 endg.",
     "SCHLAGWORT": [
-      "Bank",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bank"
+      },
       "Europäische Bankenunion",
       "Fonds der EU",
-      "Liquidation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Liquidation"
+      },
       "Stellungnahme des Bundestages in EU-Angelegenheiten",
       "Verordnung der EU",
       "Wertpapier"

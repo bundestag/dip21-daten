@@ -17,8 +17,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundeswehr",
-      "Krankenhaus",
-      "Nonprofit-Organisation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nonprofit-Organisation"
+      },
       "Personalbeschaffung",
       "Werbung"
     ],

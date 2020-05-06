@@ -34,7 +34,10 @@
     "SACHGEBIET": "Wissenschaft, Forschung und Technologie",
     "SCHLAGWORT": [
       "Bericht",
-      "Biologie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Biologie"
+      },
       "Biologische Sicherheit",
       "Biotechnologie",
       "Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag",
@@ -42,7 +45,10 @@
       "Forschungsprojekt",
       "Gentechnik",
       "Synthetische Biologie",
-      "Technikfolgenabschätzung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Technikfolgenabschätzung"
+      }
     ],
     "ABSTRAKT": "Bericht zu der durch das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag durchgeführten Untersuchung: Begriffsklärung, Stand von Forschung, Entwicklung und Anwendung, Biosafety, Biosecurity, Synbio und Öffentlichkeit, Begleitforschung, DIY-Biotechnologie, Resümee und Handlungsfelder"
   },

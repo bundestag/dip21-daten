@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Augen",
       "Augenkrankheit",
       "Gesundheit"

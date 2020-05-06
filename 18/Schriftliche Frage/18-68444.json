@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesagentur für Arbeit",
-      "Investmentfonds",
-      "Sondervermögen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Investmentfonds"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sondervermögen"
+      },
       "Versorgungsrücklage",
       "Versorgungsrücklage des Bundes"
     ],

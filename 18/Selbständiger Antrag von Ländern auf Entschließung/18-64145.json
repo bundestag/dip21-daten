@@ -27,12 +27,21 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Behinderteneinrichtung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Behinderteneinrichtung"
+      },
       "Eingliederungshilfe für Behinderte",
       "Gesetzliche Krankenversicherung",
       "Häusliche Pflege",
-      "Kostenerstattung",
-      "Krankenpflege",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kostenerstattung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenpflege"
+      },
       "Sozialgesetzbuch V",
       "Sozialgesetzbuch XII"
     ],

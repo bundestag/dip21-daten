@@ -42,7 +42,10 @@
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Berlin",
-      "Deutsche Bahn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Bahn"
+      },
       "Eisenbahn-Bundesamt",
       "S-Bahn",
       "Schienenverkehr"

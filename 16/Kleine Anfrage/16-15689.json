@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Autobahn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Autobahn"
+      },
       "Frankfurt (Oder)",
       "Grenzübergang",
       "Güterverkehr",
@@ -33,7 +36,10 @@
       "Schienengüterverkehr",
       "Straßenbau",
       "Straßengüterverkehr",
-      "Verkehrsplanung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsplanung"
+      }
     ],
     "ABSTRAKT": "Erhebliche Beeinträchtigung insbesondere des Güterverkehrs auf der BAB 12 von und nach Polen durch lang anhaltende Bauarbeiten, mögliche Vorteile einer Verlagerung des Güterverkehrs auf die Schiene (\"Rollende Landstraße\")"
   },

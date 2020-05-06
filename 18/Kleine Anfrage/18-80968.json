@@ -25,11 +25,20 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Arktis",
-      "Eis",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arktis"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Eis"
+      },
       "Erdölgewinnung",
       "Gasgewinnung",
-      "Klimawandel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Klimawandel"
+      },
       "Meeresforschung",
       "Militärische Übung",
       "Militärstandort",

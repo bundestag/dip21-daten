@@ -5,27 +5,44 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Illegale Kleinwaffen auf dem Westbalkan",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18026",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918026.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18026",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918026.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18839",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918839.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
       "Albanien",
+      "Ausfuhrbeschränkung",
       "Bosnien und Herzegowina",
       "Illegaler Handel",
+      "Kampfmittelbeseitigung",
       "Kosovo",
       "Montenegro",
       "Munition",
-      "Munitionsdepot",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Munitionsdepot"
+      },
       "Nordmazedonien",
-      "Rüstungskontrolle",
+      "Rüstungsgut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rüstungskontrolle"
+      },
       "Serbien",
       {
         "_fundstelle": "true",
@@ -34,31 +51,39 @@
       "Waffe",
       "Waffenhandel"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 16 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18026",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918026.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Renata",
-          "NACHNAME": "Alt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Alexander",
-          "NAMENSZUSATZ": "Graf",
-          "NACHNAME": "Lambsdorff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18026",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918026.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Renata",
+            "NACHNAME": "Alt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "24.04.2020 - BT-Drucksache 19/18839",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918839.pdf"
+      }
+    ]
   }
 }

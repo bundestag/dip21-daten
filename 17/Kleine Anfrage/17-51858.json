@@ -26,8 +26,14 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Belgien",
-      "Kernkraftwerk",
-      "Nukleare Sicherheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kernkraftwerk"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nukleare Sicherheit"
+      },
       "Störfall",
       "Technische Sicherheit"
     ],

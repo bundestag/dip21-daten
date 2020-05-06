@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Kultur",
     "SCHLAGWORT": [
-      "Berlin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
       "Berliner Stadtschloss",
       "Bibliothek",
       "Bundesmittel",
@@ -38,7 +41,10 @@
       "Kunstwerk",
       "Museum",
       "Satzung",
-      "Schloss",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Schloss"
+      },
       "Stiftung Berliner Schloss - Humboldtforum",
       "Wissenschaftliche Kooperation"
     ],

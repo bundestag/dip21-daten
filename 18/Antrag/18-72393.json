@@ -41,7 +41,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bahnhof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bahnhof"
+      },
       "Baufinanzierung",
       "Baukosten",
       "Baumaßnahme",
@@ -53,7 +56,10 @@
       "Eisenbahninfrastruktur",
       "Gutachten",
       "Leistungs- und Finanzierungsvereinbarung",
-      "Stuttgart"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Stuttgart"
+      }
     ],
     "ABSTRAKT": "Sofortiger Stopp und Ausstieg aus dem Projekt, Einfrieren der Finanzmittel des Bundes bis zur Vorlage eines alternativen Konzepts für den Umbau des existierenden Bahnhofs, schnelle Zugänglichmachung des Gutachtens des Bundesrechnungshofes zur Kostenentwicklung, keine Mehrkostenfinanzierung aus der Leistungs- und Finanzierungsvereinbarung II (LuFV II), Bürgerbeteiligungsprozess zum Umgang mit bisherigen Bauleistungen"
   },

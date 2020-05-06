@@ -26,8 +26,14 @@
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Bahnstrecke",
-      "Deutsche Bahn",
-      "Eisenbahninfrastruktur",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Bahn"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Eisenbahninfrastruktur"
+      },
       "Hafen",
       "Hinterlandanbindung",
       "Konjunkturpolitik",

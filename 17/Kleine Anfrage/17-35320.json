@@ -26,10 +26,16 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Fallpauschalensystem",
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Medizinischer Dienst der Krankenversicherung",
       "Pflegesatz",
-      "Rechnung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rechnung"
+      }
     ],
     "ABSTRAKT": "Umfang der vom Medizinischen Dienst der Krankenversicherungen seit Einführung der Fallpauschalen ermittelten Falschabrechnungen, Dunkelziffer, Wirksamkeit von Stichproben, durchschnittliche Fehlbeträge, Möglichkeiten zur Verringerung von Falschabrechnungen, Komplexität des Systems als Fehlerquelle \r\n(insgesamt 26 Einzelfragen)"
   },

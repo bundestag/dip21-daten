@@ -35,7 +35,8 @@
         "PLPR_KLARTEXT": "1. Durchgang",
         "PLPR_HERAUSGEBER": "BR",
         "PLPR_NUMMER": "986",
-        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf"
+        "PLPR_SEITEN": "52 - 68",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf#P.52"
       }
     ],
     "EU_DOK_NR": "",
@@ -221,18 +222,8 @@
             "NACHNAME": "Freese",
             "FUNKTION": "MdB",
             "FRAKTION": "SPD",
-            "AKTIVITAETSART": "Kurzintervention",
+            "AKTIVITAETSART": "Zwischenfrage",
             "SEITE": "18752B"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Reiner",
-            "NACHNAME": "Haseloff",
-            "FUNKTION": "MdBR",
-            "FUNKTIONSZUSATZ": "Ministerpräsident",
-            "BUNDESLAND": "Sachsen-Anhalt",
-            "AKTIVITAETSART": "Erwiderung",
-            "SEITE": "18752C"
           },
           {
             "VORNAME": "Sandra",
@@ -330,11 +321,69 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 25",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf",
+        "FUNDSTELLE": "13.03.2020 - BR-Plenarprotokoll 986, TOP 25, S. 52 - 68",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/986.pdf#P.52",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Reiner",
+            "NACHNAME": "Haseloff",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsident",
+            "BUNDESLAND": "Sachsen-Anhalt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "52"
+          },
+          {
+            "VORNAME": "Armin",
+            "NACHNAME": "Laschet",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsident",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "54"
+          },
+          {
+            "VORNAME": "Bodo",
+            "NACHNAME": "Ramelow",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsident",
+            "BUNDESLAND": "Thüringen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "55"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Kretschmer",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Ministerpräsident",
+            "BUNDESLAND": "Sachsen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "57"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "58"
+          },
+          {
+            "VORNAME": "Henrik",
+            "NACHNAME": "Eitel",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Staatssekretär, Chef der Staatskanzlei und Bevollmächtigter des Saarlandes beim Bund",
+            "BUNDESLAND": "Saarland",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "59"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "68",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
-          "BEZUGSDOKUMENT": "51/20"
+          "BEZUGSDOKUMENT": "51/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -348,6 +397,37 @@
         "URHEBER": "Unterrichtung über Stellungnahme des BR und Gegenäußerung der BRg,  Urheber : Bundesregierung ",
         "FUNDSTELLE": "08.04.2020 - BT-Drucksache 19/18472",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918472.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Nachträgliche Überweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "24.04.2020 - BT-Drucksache 19/18779",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918779.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ],
+        "VP_ABSTRAKT": "Nachträgliche Überweisung der Stellungnahme BR und Gegenäußerung der BRg gem. § 80 Abs. 3 Geschäftsordnung BT"
       }
     ]
   }

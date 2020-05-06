@@ -26,8 +26,14 @@
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
       "Evakuierung",
-      "Katastrophenschutz",
-      "Nuklearer Unfall",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Katastrophenschutz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nuklearer Unfall"
+      },
       "Tschernobyl"
     ],
     "ABSTRAKT": "Freisetzung von Radioaktivitätsmengen im Falle eines Reaktorunfalls in deutschen Kernkraftanlagen, Erkenntnisse aus der Reaktorkatastrophe von Tschernobyl und Berücksichtigung neuerer Untersuchungen in den Katastrophen- und Evakuierungsplänen"

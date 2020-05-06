@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Alkoholkonsum",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Alkoholkonsum"
+      },
       "Alkoholkrankheit",
       "Alkoholsteuer",
       "Europäische Union",
@@ -38,7 +41,10 @@
       "Minderjähriger",
       "Sponsoring",
       "Straftat",
-      "Suchtprävention",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Suchtprävention"
+      },
       "Verbraucherschutz",
       "Verkehrsunfall",
       "Werbung"

@@ -32,10 +32,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Carsharing",
-      "Elektrofahrzeug",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Carsharing"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektrofahrzeug"
+      },
       "Ladesäule",
-      "Parkfläche",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Parkfläche"
+      },
       "Straßenverkehrsgesetz",
       "Straßenverkehrs-Ordnung",
       "Tankstelle"

@@ -25,11 +25,20 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "Bank",
-      "Bankenaufsicht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bank"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bankenaufsicht"
+      },
       "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Geldwäsche",
-      "Internationaler Zahlungsverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Internationaler Zahlungsverkehr"
+      },
       "Korrespondenzbank",
       "Steuerdelikt",
       "Terrorismus",

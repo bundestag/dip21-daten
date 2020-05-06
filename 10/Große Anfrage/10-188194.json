@@ -32,7 +32,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Boden",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Boden"
+      },
       "Bodenerosion",
       "Bodennutzung",
       "Düngemittel",

@@ -60,7 +60,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Grenzüberschreitende Zusammenarbeit",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Patient",
       "Patientenrechte",
       "Pflegeversicherung",

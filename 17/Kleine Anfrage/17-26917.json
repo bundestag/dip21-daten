@@ -33,13 +33,19 @@
       "Fallpauschalensystem",
       "Förderprogramm",
       "GKV-Spitzenverband",
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Krankenhausbehandlung",
       "Krankenhausentgeltgesetz",
       "Personalabbau",
       "Personalbedarf",
       "Personalkosten",
-      "Pflegepersonal"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegepersonal"
+      }
     ],
     "ABSTRAKT": "Personalsituation, Stellenabbau, Zunahme der Behandlungsfälle, vermehrter Pflegebedarf, Zeitpunkt der Veröffentlichung des Berichts des GKV-Spitzenverbandes zum Verlauf des Pflegepersonalstellen-Förderprogramms gemäß Krankenhausentgeltgesetz, Wirksamkeit des Programms und Umfang der abgerufenen Fördermittel, Zuordnung der Fördermittel im Rahmen des DRG-(Diagnosis Related Groups) Systems"
   },

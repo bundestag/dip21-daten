@@ -44,9 +44,15 @@
       "Gesundheit"
     ],
     "SCHLAGWORT": [
-      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittel"
+      },
       "Gesetzgebung",
-      "Versandhandel"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Versandhandel"
+      }
     ],
     "ABSTRAKT": "Einbringung eines Gesetzentwurfs zur Unterbindung der Abgabe von Arzneimitteln über Abholstellen (wie z.B. in Drogeriemärkten)"
   },

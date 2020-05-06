@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
-      "Atomkraftwerk",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Atomkraftwerk"
+      },
       "Emission",
       "Frankreich",
       "Kernenergie",

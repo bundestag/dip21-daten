@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Arzneimittelschaden",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelschaden"
+      },
       "Bundesgesundheitsamt",
       "Krankheit",
       "Pharmazeutische Industrie"

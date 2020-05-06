@@ -25,11 +25,20 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Gesetzliche Krankenversicherung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetzliche Krankenversicherung"
+      },
       "Jugendlicher",
       "Kind",
-      "Kostenerstattung",
-      "Psychotherapie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kostenerstattung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Psychotherapie"
+      },
       "Statistik"
     ],
     "ABSTRAKT": "Ausgaben der Krankenkassen für Kostenerstattung für Psychotherapie: Statistische Erfassung, Höhe der Ausgaben und Anzahl der Fälle seit 2004, diesbzgl. Angaben zur psychotherapeutischen Behandlung von Kindern und Jugendlichen, angenommene, abgelehnte bzw. nicht bearbeitete Anträge, Bearbeitungsdauer, Kostenerstattungsverfahren \r\n(insgesamt 7 Einzelfragen)"

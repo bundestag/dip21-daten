@@ -26,8 +26,14 @@
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
       "Amtshilfe",
-      "Bundespolizei",
-      "Demonstration",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundespolizei"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Demonstration"
+      },
       "Frankfurt am Main",
       "Polizeieinsatz",
       "Polizeiliche Maßnahme",

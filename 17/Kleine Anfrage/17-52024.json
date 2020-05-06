@@ -32,7 +32,10 @@
       "Krankenkasse",
       "Medizinische Einrichtung",
       "Medizinisches Versorgungszentrum",
-      "Medizinische Versorgung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Versorgung"
+      },
       "Patient",
       "Patientenrechte",
       "Rechtsbehelf",

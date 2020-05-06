@@ -26,8 +26,14 @@
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
       "Betrug",
-      "Debitkarte",
-      "Geldautomat",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Debitkarte"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geldautomat"
+      },
       "Informationssicherheit",
       "Kreditkarte",
       "Kriminalprävention",

@@ -17,8 +17,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Elektrizitätseinspeisung",
-      "Elektrizitätserzeugung",
-      "Erneuerbare Energie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektrizitätserzeugung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Erneuerbare Energie"
+      },
       "Erneuerbare-Energien-Gesetz",
       "Managementprämie"
     ],

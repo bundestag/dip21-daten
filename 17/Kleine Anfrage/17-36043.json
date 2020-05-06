@@ -26,11 +26,20 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesetzgebung",
-      "Gesundheitsschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsschutz"
+      },
       "Hygiene",
       "Kennzeichnungspflicht",
-      "Medizinprodukt",
-      "Patient",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinprodukt"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Patient"
+      },
       "Sicherheit",
       "Warenkennzeichnung"
     ],

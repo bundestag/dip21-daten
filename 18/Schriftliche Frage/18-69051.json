@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Krankenhaus",
-      "Krankheitserreger",
-      "Landstuhl",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankheitserreger"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Landstuhl"
+      },
       "Militärische Übung",
       "NATO",
       "USA"

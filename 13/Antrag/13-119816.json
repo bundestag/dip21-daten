@@ -39,7 +39,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesundheit",
-      "Organtransplantation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Organtransplantation"
+      },
       "Tod",
       "Transplantationsgesetz"
     ],

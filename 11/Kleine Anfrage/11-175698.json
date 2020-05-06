@@ -25,7 +25,10 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
-      "Atomenergie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Atomenergie"
+      },
       "Brennstoffkreislauf",
       "Energiepolitik",
       "Kernenergie",

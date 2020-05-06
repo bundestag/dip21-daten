@@ -50,9 +50,15 @@
       "Gesundheitsrisiko",
       "Ionisierende Strahlung",
       "Mobilfunk",
-      "Radioaktivität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Radioaktivität"
+      },
       "Röntgenstrahlung",
-      "Strahlenbelastung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strahlenbelastung"
+      },
       "UV-Strahlung"
     ],
     "ABSTRAKT": "Natürliche, zivilisatorische, berufliche und medizinische Strahlenexposition; nichtionisierende Strahlung: elektromagnetische Felder (u.a. Mobilfunk), optische Strahlung"

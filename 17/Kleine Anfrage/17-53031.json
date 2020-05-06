@@ -25,10 +25,16 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Alkoholkrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Alkoholkrankheit"
+      },
       "Berufliche Weiterbildung",
       "Hausarzt",
-      "Medizinische Ausbildung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizinische Ausbildung"
+      },
       "Medizinische Versorgung",
       "Suchtkrankenhilfe",
       "Suchttherapie"

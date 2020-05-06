@@ -42,7 +42,10 @@
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Gesundheit",
-      "Gesundheitsgefährdung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsgefährdung"
+      },
       "Kosmetisches Mittel",
       "Verbraucherschutz",
       "Warenkennzeichnung",

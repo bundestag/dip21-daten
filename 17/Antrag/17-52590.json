@@ -33,8 +33,14 @@
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
       "Arbeitsförderung",
-      "Arbeitslosengeld",
-      "Erwerbsminderungsrente",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arbeitslosengeld"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Erwerbsminderungsrente"
+      },
       "Gesetzgebung",
       "Rentenversicherungsrecht",
       "Sozialgesetzbuch III",

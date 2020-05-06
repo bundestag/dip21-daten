@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Krankenhaus",
-      "Krankheitserreger",
-      "Landstuhl",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankheitserreger"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Landstuhl"
+      },
       "USA"
     ],
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nKann die Bundesregierung eine Gefährdung der Zivilbevölkerung durch lebende Anthrax-Sporen im Forschungslabor des Krankenhauses der US-Army in Landstuhl (Rheinland-Pfalz) ausschließen?"

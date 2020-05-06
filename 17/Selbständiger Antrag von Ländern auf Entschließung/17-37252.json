@@ -34,8 +34,14 @@
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
       "Fundrecht",
-      "Kosten",
-      "Tier",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kosten"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tier"
+      },
       "Tierheim",
       "Tierschutzgesetz"
     ],

@@ -16,8 +16,14 @@
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Antibiotika-Resistenz",
-      "Hygiene",
-      "Krankenhaus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hygiene"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenhaus"
+      },
       "Krankheitserreger",
       "MRSA"
     ],

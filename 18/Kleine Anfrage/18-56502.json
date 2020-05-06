@@ -31,8 +31,14 @@
       "Auskunftspflicht",
       "Außerhochschulische Forschung",
       "Forschungseinrichtung",
-      "Forschungsfinanzierung",
-      "Forschungskooperation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungsfinanzierung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Forschungskooperation"
+      },
       "Forschungsprojekt",
       "Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung",
       "Genehmigung",
@@ -42,7 +48,10 @@
       "Ministerium",
       "Öffentlicher Auftrag",
       "Publizitätspflicht",
-      "Rüstungsforschung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rüstungsforschung"
+      },
       "Stiftung Alfred-Wegener-Institut für Polar- und Meeresforschung",
       "USA",
       "Wissenschaftsgemeinschaft Gottfried Wilhelm Leibniz"

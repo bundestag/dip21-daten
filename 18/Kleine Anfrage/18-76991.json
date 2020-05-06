@@ -25,9 +25,15 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
-      "Baden-Württemberg",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Baden-Württemberg"
+      },
       "Binnengewässer",
-      "Gewässergüte",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gewässergüte"
+      },
       "Gewässerschutz",
       "Grenzwert",
       "Grundwasser",

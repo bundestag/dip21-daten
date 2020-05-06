@@ -54,7 +54,10 @@
       "Krankenversicherungsrecht",
       "Medizin",
       "Medizinische Behandlung",
-      "Patient",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Patient"
+      },
       "Patientenberatung",
       "Patientenrechte",
       "Schadensersatz",
