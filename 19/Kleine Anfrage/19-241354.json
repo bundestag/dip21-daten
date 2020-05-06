@@ -25,12 +25,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Geburt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geburt"
+      },
       "Geburtshilfe",
-      "Gesundheitsschaden",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheitsschaden"
+      },
+      "Gesundheitsvorsorge",
       "Gynäkologie"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 34 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
