@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Reduzierung der Mitarbeiteranzahl an Auslandsvertretungen aufgrund der Corona-Pandemie",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19528B - 19528C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19528"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,18 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nAn wie vielen Auslandsvertretungen des Auswärtigen Amts in Asien und Afrika wurden bedingt durch die Corona-Pandemie der Mitarbeiteranzahl reduziert bzw. wurden Familienangehörige von Mitarbeitern vorsorglich abgezogen, und wie lange soll die Reduzierung nach derzeitigem Stand anhalten?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 76",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Armin-Paulus",
-        "NACHNAME": "Hampel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 76",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19528B - 19528C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19528",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19528B"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19528B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Illegale Transportdurchführungen im Straßengüterverkehr",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19517C - 19517D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19517"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Grenzüberschreitender Verkehr",
@@ -21,18 +28,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie bewertet die Bundesregierung das aktuelle Problem illegaler Transportdurchführungen im Straßengüterverkehr, und wie plant die Bundesregierung, neben vereinzelten Straßenkontrollen, flächendeckend dagegen vorzugehen (\"Jeder vierte ausländische Lkw wurde beanstandet\" vom 23. April 2020, abrufbar unter www.bgl-ev.de/web/medien/presse/article_archiv.htm&news=3420&year=2020)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 41",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Christian",
-        "NACHNAME": "Jung",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 41",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19517C - 19517D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19517",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19517C"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19517C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

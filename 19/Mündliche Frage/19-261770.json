@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Anrechnung eines Betrages für den eigenen Lebensunterhalt in den Soforthilfen für Soloselbständige",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19508B - 19508C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19508"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "COVID-19",
@@ -25,18 +32,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Gründe sprechen aus Sicht des Bundesministers für Wirtschaft und Energie für und wider die Anrechnung eines Betrages für den eigenen Lebensunterhalt in den Soforthilfen für Soloselbstständige, wie es z. B. Baden-Württemberg mit der Anrechnung des Pfändungsfreibetrages von 1180 Euro für den eigenen Lebensunterhalt möglich gemacht hat, und von welchen Einsparungen für den Bundeshaushalt geht die Bundesregierung durch die Nichtanrechnung eines Betrages für den eigenen Lebensunterhalt bei den Soforthilfen für Soloselbstständige und Kleinstunternehmen aus?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 7",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Claudia",
-        "NACHNAME": "Müller",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 7",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19508B - 19508C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19508",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19508B"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Wanderwitz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19508B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

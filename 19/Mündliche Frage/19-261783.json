@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Zeitplan für die Reform des Bauträgerrechts",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19510A - 19510B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19510"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -21,19 +28,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie ist der genaue Zeitplan des Bundesministeriums der Justiz und für Verbraucherschutz (BMJV) für das Bauträgerrecht, und wenn es keinen gibt, warum nicht?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Stephan",
-        "NACHNAME": "Kühn",
-        "WAHLKREISZUSATZ": "Dresden",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19510A - 19510B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19510",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Dresden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19510A"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19510A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Mögliches Rettungsprogramm für Öffentliche Gerichte im Rahmen der Corona-Pandemie",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19509C - 19509D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19509"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -24,18 +31,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIst angedacht, aufgrund der gesundheitlichen und organisatorischen Beeinträchtigungen von öffentlichen Gerichten im Rahmen der Corona-Krise auch für diese ein Rettungsprogramm aufzulegen, welches unter anderem zu Stellenaufwüchsen führt (FAZ vom 19. März 2020, https://faz.net/aktuell/rhein-main/gerichte-in-zeiten-der-corona-krise-16685935.html, zuletzt abgerufen am 28. April 2020)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 18",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Tobias Matthias",
-        "NACHNAME": "Peterka",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19509C - 19509D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19509",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19509C"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19509C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

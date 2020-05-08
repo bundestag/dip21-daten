@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Mögliche Spaltung des Jemens durch den \"Südübergangsrat\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19528C - 19529A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19528"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -24,18 +31,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nSieht die Bundesregierung eine Gefahr der Spaltung des Jemen angesichts der vom separatistischen \"Südübergangsrat\" (Southern Transitional Council, STC) im Süden des Jemen ausgerufenen Selbstverwaltung, die u. a. von mehreren südlichen Gouvernements abgelehnt wird, und wie bewertet die Bundesregierung die laufenden Verhandlungen für einen landesweiten Waffenstillstand in dem Land, der zwischen dem von Saudi-Arabien angeführten und durch Waffenlieferungen durch die Bundesregierung unterstützten Militärbündnis und den Anasrollah (\"Huthis\") verhandelt wird, auch angesichts der anhaltenden Autonomiebestrebungen (Deutsche Welle, Im Jemen wächst die Angst vor einer weiteren Spaltung, 28. April 2020: www.dw.com/de/im-jemen-w%C3%A4chst-die-angst-vor-einer-weiteren-spaltung/a-53271926, sowie: Junge Welt, Vom Frieden entfernt, 28. April 2020: www.jungewelt.de/artikel/377330.jemen-vom-frieden-entfernt.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 77",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Heike",
-        "NACHNAME": "Hänsel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 77",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19528C - 19529A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19528",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19528C"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19528C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

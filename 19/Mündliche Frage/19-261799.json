@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Entwicklung der Anzahl der Intensivbetten in Krankenhäusern in Sachsen in den letzten drei Monaten",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19516C - 19516D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19516"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "COVID-19",
@@ -28,18 +35,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie hat sich die Zahl der Intensivbetten in den Krankenhäusern des Freistaates Sachsen nach Kenntnis der Bundesregierung in den vergangenen drei Monaten entwickelt, und welcher Anteil dieser Intensivbetten war in den Kalenderwochen 10 bis 18 des Jahres 2020 jeweils durchschnittlich mit Covid-19-Patienten belegt (bitte durchschnittliche Belegung pro Kalenderwoche einzeln angeben)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 38",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Torsten",
-        "NACHNAME": "Herbst",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 38",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19516C - 19516D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19516",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Herbst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19516C"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Weiss",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19516C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

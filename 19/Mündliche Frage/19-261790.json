@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Gesellschaftliche Debatte über die Bewaffnung von Drohnen der Bundeswehr",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19512D - 19513B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19512"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundeswehr",
@@ -20,18 +27,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nTreffen Hinweise zu (www.abgeordnetenwatch.de/profile/canan-bayram/fragen-antworten/509113), dass die Bundesregierung die geplante breite gesellschaftliche Debatte über die Bewaffnung von Drohnen der Bundeswehr durch Veranstaltungen im Bundesverteidigungsministerium ersetzen will, obwohl im Koalitionsvertrag zwischen CDU, CSU und SPD steht, dass über eine mögliche Bewaffnung von Drohnen erst nach \"ausführlicher völkerrechtlicher, verfassungsrechtlicher und ethischer Würdigung\" entschieden wird (www.morgenpost.de/politik/article227979335/Angst-vor-Killerkommandos-AKK-will-bewaffnete-Drohnen.html), und warum kann die Bundeswehr nicht alle Pläne, Drohnen zu bewaffnen, bis nach der Beendigung der Corona-Krise stornieren, um diese gesellschaftliche Debatte zu ermöglichen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 28",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Canan",
-        "NACHNAME": "Bayram",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 28",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19512D - 19513B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19512",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19512D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Silberhorn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19513B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Derzeitige Vorgaben für Lenk- und Ruhezeiten sowie Aufhebung der Fahrverbote an Sonn- und Feiertagen für LKW-Fahrer",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19517D - 19518A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19517"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Berufskraftfahrer",
@@ -26,18 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Vorgaben und Empfehlungen gibt die Bundesregierung aktuell zu den Aufhebungen der Lenk- und Ruhezeiten sowie der Fahrverbote an Sonn- und Feiertagen für Lkw-Fahrer heraus, und mit welcher Begründung wurde eine Rückkehr zu den normalen Regelungen für die Lenk- und Ruhezeiten abgelehnt (\"Scheuer verlängert Ausnahmen bei Lenk- und Ruhezeiten\" vom 17. April 2020, abrufbar unter www.verkehrsrundschau.de/nachrichten/scheuer-verlaengert-ausnahmen-bei-lenk-und-ruhezeiten-2593477.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 42",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Christian",
-        "NACHNAME": "Jung",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 42",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19517D - 19518A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19517",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19517D"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19517D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Strafgesetzbuches - Verbesserung des Persönlichkeitsschutzes bei Bildaufnahmen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C122",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 8/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917795.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "985",
-      "PLPR_SEITEN": "30 - 31",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/985.pdf#P.30"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "985",
+        "PLPR_SEITEN": "30 - 31",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/985.pdf#P.30"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/157",
+        "PLPR_SEITEN": "19454B - 19460C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19454"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -112,6 +121,96 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17795\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917795.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19454B - 19460C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19454",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19454C"
+          },
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19455B"
+          },
+          {
+            "VORNAME": "Ingmar",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19456A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19457B"
+          },
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19457C"
+          },
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19458C"
+          },
+          {
+            "VORNAME": "Esther",
+            "NACHNAME": "Dilcher",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19459A"
+          },
+          {
+            "VORNAME": "Paul",
+            "NACHNAME": "Lehrieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19459C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19460C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/17795"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
       }
     ]
   }

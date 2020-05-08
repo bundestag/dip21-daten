@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Kriterien für einen Impfstoff gegen Covid-19",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19515B - 19515C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19515"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,18 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Kriterien (beispielsweise bezüglich Patentierung, Produktion, Preistransparenz, Verfügbarmachung von Forschungsdaten und Studien, globale Verteilung etc.) müssen aus Sicht der Bundesregierung erfüllt sein, damit ein Impfstoff gegen Covid-19 als \"globales, öffentliches Gut\" (Bundeskanzlerin Dr. Angela Merkel am 24. April 2020, www.bundesregierung.de/breg-de/aktuelles/allianz-gegen-covid-19-1746976) bezeichnet werden kann, und welche internationale Organisation wäre aus Sicht der Bundesregierung dafür geeignet, die Einhaltung dieser Kriterien sicherzustellen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 35",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Kai",
-        "NACHNAME": "Gehring",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 35",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19515B - 19515C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19515",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Kai",
+            "NACHNAME": "Gehring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19515B"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Weiss",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19515B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

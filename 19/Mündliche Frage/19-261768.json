@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Förderung von Schutzmasken herstellenden Unternehmen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/157",
+      "PLPR_SEITEN": "19440D - 19442D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19440"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,19 +30,64 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Unternehmen haben seit Anfang April 2020 Förderung zur Vliesherstellung für Schutzmasken beantragt, und wie viele Mittel wurden bereits ausgezahlt (www.tagesschau.de/investigativ/ndr-wdr/masken-vliesstoff-101.html)? \r\n \r\nWie fördert die Bundesregierung deutsche Unternehmen, die ihre Produktion auf die Herstellung von FFP-Schutzmasken oder sogenannte Volksmasken temporär umstellen, und schließt dies eine garantierte Mindestabnahme durch die Bundesregierung ein?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 3,4",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr.",
-        "VORNAME": "Christoph",
-        "NACHNAME": "Hoffmann",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.04.2020 - BT-Drucksache 19/18880, Nr. 3,4",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918880.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "06.05.2020 - BT-Plenarprotokoll 19/157, S. 19440D - 19442D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19157.pdf#P.19440",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christoph",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19440D"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Wanderwitz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19440D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "19441C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "19442B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Martin",
+            "NACHNAME": "Neumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "19442C"
+          }
+        ]
       }
-    }
+    ]
   }
 }
