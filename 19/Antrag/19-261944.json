@@ -15,16 +15,25 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918999.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Recht"
+    ],
     "SCHLAGWORT": [
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
       "Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite",
       "Grundrecht",
-      "Grundrechtsbeschränkung",
-      "Zweites Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Grundrechtsbeschränkung"
+      },
+      "Infektionsschutzgesetz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Fehlende Voraussetzungen zum Vorliegen einer epidemischen Lage von nationaler Tragweite: Aufhebung der Feststellung einer nationalen Epidemie, sofortige Beendigung sämtlicher Grundrechtseinschränkungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": {
