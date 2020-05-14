@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
-    "TITEL": "Achtes Gesetz zur Änderung des Bundesfernstraßengesetzes (8. FStrÄndG)",
+    "TITEL": "Achtes Gesetz zur Änderung des Bundesfernstraßengesetzes (8. FStrÄndG) und zur Änderung weiterer Vorschriften",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J024",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 11/20)",
@@ -21,6 +21,12 @@
         "DRS_NUMMER": "19/17290",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/172/1917290.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19132",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/191/1919132.pdf"
       }
     ],
     "PLENUM": [
@@ -48,14 +54,20 @@
         "_fundstelle": "true",
         "__cdata": "Bundesfernstraßengesetz"
       },
+      "Bundesfernstraßenmautgesetz",
+      "Fahrzeug-Zulassungsverordnung",
+      "Fernstraßen-Bundesamt-Errichtungsgesetz",
+      "Gebührenordnung für Maßnahmen im Straßenverkehr",
+      "Infrastrukturgesellschaftserrichtungsgesetz",
       "Radverkehr",
       {
         "_fundstelle": "true",
         "__cdata": "Radweg"
       },
-      "Straßenbau"
+      "Straßenbau",
+      "Straßenverkehrsgesetz"
     ],
-    "ABSTRAKT": "Ermöglichung des Radverkehrs durch Bau von Betriebswegen auf Brücken von Bundesautobahnen und Bundesstraßen zur Verknüpfung kommunaler Radverkehrsnetze; \r\nÄnderung § 3 Bundesfernstraßengesetz"
+    "ABSTRAKT": "Ermöglichung des Radverkehrs durch Bau von Betriebswegen auf Brücken von Bundesautobahnen und Bundesstraßen zur Verknüpfung kommunaler Radverkehrsnetze; \r\nÄnderung § 3 Bundesfernstraßengesetz \r\n \r\n Beschlussempfehlung des Ausschusses : Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -131,6 +143,70 @@
           {
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
             "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "12.05.2020 - BT-Drucksache 19/19132",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/191/1919132.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Gelbhaar",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung; Titeländerung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "12.05.2020 - BT-Drucksache 19/19133",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/191/1919133.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marcus",
+            "NACHNAME": "Bühl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Jurk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Kruse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Meyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Victor",
+            "NACHNAME": "Perli",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
           }
         ]
       }

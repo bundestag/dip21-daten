@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B085",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18698)",
@@ -18,27 +18,64 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918968.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19597D - 19600C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
+      "Bundestag",
       "Staat und Verwaltung",
-      "Bundestag"
+      "Politisches Leben, Parteien"
     ],
     "SCHLAGWORT": [
+      "Bericht",
       "Bundestagswahl",
-      "Bundeswahlgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswahlgesetz"
+      },
+      "Kostenerstattung",
       "Preisindex",
       "Statistisches Bundesamt",
-      "Wahlkampffinanzierung",
       "Wahlkreis"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Anpassung von Wahlkreiszuschnitten und Wahlkreisbeschreibungen an Bevölkerungsveränderungen sowie an Gebiets- und Verwaltungsreformen; Änderung des Anhebungsverfahrens für die den Ländern zu erstattenden festen Kosten für die Durchführung der Bundestagswahl (Änderung Kraft Gesetz auf Grundlage der jährlichen Unterrichtung des BMI durch das Statistische Bundesamt über die Entwicklung eines Wahlkostenindexes, Veröffentlichung im Bundesanzeiger); Bekanntmachung künftiger Namensänderungen in der Beschreibung von Wahlkreisen durch das BMI im BGBl; \r\nÄnderung §§ 2 und 5 sowie Einfügung Anlage 1 [Wahlkosten] und Neufassung Anlage 2 [Wahlkreise] Bundeswahlgesetz; Bekanntmachungserlaubnis \r\n \r\nBezug: Entscheidung des Bundesverfassungsgerichts vom 31. Januar 2012 zu Grundsätzen für die Einteilung des Wahlgebiets in Wahlkreise (2 BvC 3/11) \r\nBericht der Wahlkreiskommission für die 19. Wahlperiode des Deutschen Bundestages gemäß § 3 des Bundeswahlgesetzes, BT-Drs 19/7500"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18968",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918968.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18968",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918968.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19597D - 19600C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19599D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18968"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

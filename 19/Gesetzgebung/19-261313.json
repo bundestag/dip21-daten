@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "K007",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18699)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919040.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/155",
-      "PLPR_SEITEN": "19266C - 19273D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19266"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/155",
+        "PLPR_SEITEN": "19266C - 19273D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19266"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19533B - 19541D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19533"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19541C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19541"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -319,6 +335,137 @@
             "AKTIVITAETSART": "Änderungsantrag"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19533B - 19541D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19533",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Stefan",
+            "NACHNAME": "Kaufmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19534A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19535A"
+          },
+          {
+            "VORNAME": "Bärbel",
+            "NACHNAME": "Bas",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19536A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jens",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Rhein-Neckar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19536D"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Gohlke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19537C"
+          },
+          {
+            "VORNAME": "Kai",
+            "NACHNAME": "Gehring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19538B"
+          },
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Staffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19539B"
+          },
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Kaczmarek",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19540A"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "19541A",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/19041"
+          },
+          {
+            "BESCHLUSSSEITE": "19541B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/19042"
+          },
+          {
+            "BESCHLUSSSEITE": "19541B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/19043"
+          },
+          {
+            "BESCHLUSSSEITE": "19541B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/19044"
+          },
+          {
+            "BESCHLUSSSEITE": "19541B",
+            "BESCHLUSSTENOR": "Annahme der Vorlage",
+            "BEZUGSDOKUMENT": "19/18699"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19541C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19541",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19541C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/18699"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "07.05.2020 - BR-Drucksache 220/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0220-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "12.05.2020 - BR-Drucksache 220/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0220-1-20.pdf",
+        "VP_ABSTRAKT": "kein Antrag auf Einberufung des Vermittlungsausschusses; Entschließung"
       }
     ]
   }

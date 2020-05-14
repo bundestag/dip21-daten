@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Wirtschaftliche Belebung mit marktwirtschaftlichen Prinzipien",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,42 +14,76 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918949.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19630B - 19639B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19630"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
       "Gesundheit"
     ],
     "SCHLAGWORT": [
-      "COVID-19",
+      "Arbeitsmarktpolitik",
+      "Auslandsinvestition",
+      "Bundesbeteiligung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
-      "Marktwirtschaft",
+      "Gesetzliche Rentenversicherung",
+      "Klimaschutz",
+      "Lohnpolitik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Marktwirtschaft"
+      },
+      "Öffentliche Ausgaben",
+      "Private Altersversorgung",
       "Wettbewerb",
-      "Wirtschaftsförderung"
+      "Wirtschaftliche Stabilität",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wirtschaftsförderung"
+      },
+      "Wirtschaftsstabilisierungsfonds"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Bewältigung der Corona-Krise mit marktwirtschaftlichen Instrumenten: Auflösung des Wirtschaftsstabilisierungsfonds (WSF) nach 2021, WSF-Unternehmensbeteiligungen nur ohne Stimmrecht, Beschränkung auf zielgerichtete, unbedingt notwendige Unterstützungsmaßnahmen ohne Wettbewerbsverzerrungen, keine Begrenzungen für ausländische Direktinvestitionen, Reduzierung staatlicher Beteiligungen, keine zusätzlichen konsumtiven Ausgaben, Effizienz im Klimaschutz, Stabilisierung der Rentenversicherung und Ausbau privater Altersvorsorge, chancenorientierte Arbeitsmarktpolitik ohne Behinderung von Neueinstellungen, keine parteipolitischen Eingriffe bei der Lohnfindung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18949",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918949.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Reinhard",
-          "NACHNAME": "Houben",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18949",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918949.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19630B - 19639B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19630"
+      }
+    ]
   }
 }

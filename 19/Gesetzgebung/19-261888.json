@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M040",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/18967)",
@@ -18,15 +18,21 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918967.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19567A - 19583C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19567"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
       "Approbationsordnung für Zahnärzte",
-      "Bluttransfusion",
+      "Ärztliche Verordnung",
+      "Berufsausbildung",
       "COVID-19",
-      "Datenaustausch",
       "Diagnose",
-      "Entgeltersatzleistung",
       "Epidemie",
       "Ergotherapeutengesetz",
       "Gesetz für mehr Sicherheit in der Arzneimittelversorgung",
@@ -34,27 +40,38 @@
       "Gesetz über den Beruf des Logopäden",
       "Gesetz über die Ausbildung zur Anästhesietechnischen Assistentin und zum Anästhesietechnischen Assistenten und über die Ausbildung zur Operationstechnischen Assistentin und zum Operationstechnischen Assistenten",
       "Gesetz über die Ausübung der Zahnheilkunde",
+      "Gesundheitsberuf",
       "Gesundheitsschutz",
-      "Häusliche Pflege",
+      "Gesundheitstelematik",
+      "Grippe",
       "Infektionsschutzgesetz",
+      "Intensivmedizin",
       "Krankenhausfinanzierung",
       "Krankenhausfinanzierungsgesetz",
-      "Kurzzeitpflege",
-      "Lohnzuschlag",
       "Medizinische Untersuchung",
       "Medizinprodukte-EU-Anpassungsgesetz",
-      "Meldewesen",
+      "Medizinprodukte-Gebührenverordnung",
+      "Medizinproduktegesetz",
+      "Meldepflicht",
+      "Öffentlicher Gesundheitsdienst",
+      "Pflege",
+      "Pflegebedürftigkeit",
       "Pflegeberufe-Ausbildungs- und -Prüfungsverordnung",
       "Pflegeberufegesetz",
+      "Pflegeeinrichtung",
       "Pflegegeld",
       "Pflegepersonal",
       "Pflegeversicherung",
+      "Prämie",
+      "Private Krankenversicherung",
       "Psychotherapeutengesetz",
+      "Seuchenbekämpfung",
       "Sozialgesetzbuch V",
       "Sozialgesetzbuch XI",
       "Test",
       "Transfusionsgesetz",
       "Transplantationsgesetz",
+      "Verordnung zur Neuregelung der zahnärztlichen Ausbildung",
       "Versicherungsvertragsgesetz",
       {
         "_fundstelle": "true",
@@ -64,11 +81,183 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18967",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918967.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18967",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918967.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19567A - 19583C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19567",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Spahn",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19568B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manuela",
+            "NACHNAME": "Rottmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19569B"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19570A"
+          },
+          {
+            "VORNAME": "Bärbel",
+            "NACHNAME": "Bas",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19571D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Andrew",
+            "NACHNAME": "Ullmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19572D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Achim",
+            "NACHNAME": "Kessler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19573D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Andrew",
+            "NACHNAME": "Ullmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19574D"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19576A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Georg",
+            "NACHNAME": "Nüßlein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19577B"
+          },
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "19577D"
+          },
+          {
+            "VORNAME": "Hilde",
+            "NACHNAME": "Mattheis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19579D"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Westig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19580C"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Henke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19581B"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Baehrens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19582C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19583B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18967"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      }
+    ]
   }
 }

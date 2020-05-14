@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I014",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18698)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919038.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/155",
-      "PLPR_SEITEN": "19234B - 19241D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19234"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/155",
+        "PLPR_SEITEN": "19234B - 19241D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19234"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19541D - 19551A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19541"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19550C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19550"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -216,6 +232,119 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19541D - 19551A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19541",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sönke",
+            "NACHNAME": "Rix",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19542C"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Reichardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19543C"
+          },
+          {
+            "VORNAME": "Nadine",
+            "NACHNAME": "Schön",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19544C"
+          },
+          {
+            "VORNAME": "Grigorios",
+            "NACHNAME": "Aggelidis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19545D"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19546C"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Dörner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19547B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Silke",
+            "NACHNAME": "Launert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19548B"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hitschler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19549A"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Nicolaisen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "19549D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19550B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/18698"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19550C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19550",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19550C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/18698"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "07.05.2020 - BR-Drucksache 217/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0217-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          }
+        ]
       }
     ]
   }

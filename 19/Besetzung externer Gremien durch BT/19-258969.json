@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl vom Deutschen Bundestag zu benennender Mitglieder des Kuratoriums des Deutschen Instituts für Menschenrechte gemäß § 6 Absatz 2 Nummer 4 und 5 des Gesetzes über die Rechtsstellung und Aufgaben des Deutschen Instituts für Menschenrechte (DIMRG)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/17117",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/171/1917117.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19603C - 19603D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19603"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -25,11 +32,24 @@
     "ABSTRAKT": "Mitglied der Zivilgesellschaft: Vera Lengsfeld"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "12.03.2020 - BT-Drucksache 19/17117",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/171/1917117.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "12.03.2020 - BT-Drucksache 19/17117",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/171/1917117.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19603C - 19603D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19603",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19603C",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/17117"
+        }
+      }
+    ]
   }
 }

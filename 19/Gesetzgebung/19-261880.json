@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E044",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18963)",
@@ -17,6 +17,13 @@
       "DRS_NUMMER": "19/18963",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918963.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19597D - 19600C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -51,11 +58,36 @@
     "ABSTRAKT": "Einmalige Verlängerung der Prüffristen der Fusionskontrolle zur Ermöglichung derzeit erschwerter Ermittlungen des Bundeskartellamtes; Aussetzung der Verzinsungspflicht für kartellrechtliche Bußgelder bei Stundung oder Ratenzahlung; Erhalt von Handlungs- und Beschlussfähigkeit der Gremien der Handwerksorganisationen und der Industrie- und Handelskammern durch Ermöglichung der Versammlungsdurchführung ohne physische Präsenz der Mitglieder, Ausübung von Mitgliederrechten im Wege der elektronischen Kommunikation oder vorherige schriftliche Stimmenabgabe; \r\nÄnderung § 186 Gesetz gegen Wettbewerbsbeschränkungen sowie Einfügung § 13b Gesetz zur vorläufigen Regelung des Rechts der Industrie- und Handelskammern und § 124c Handwerksordnung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18963",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918963.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18963",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918963.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19597D - 19600C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19599D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18963"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

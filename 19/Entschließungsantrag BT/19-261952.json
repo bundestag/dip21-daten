@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Antrag betr. Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten militärischen Krisenbewältigungsoperation im Mittelmeer EUNAVFOR MED IRINI",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,6 +14,13 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919006.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19622C - 19630B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19622"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -21,34 +28,46 @@
     ],
     "SCHLAGWORT": [
       "Auslandseinsatz der Bundeswehr",
+      "Bericht der Bundesregierung",
       "EUNAVFOR MED IRINI",
+      "EUNAVFOR MED Operation SOPHIA",
+      "Flüchtling",
       "Libyen",
-      "Mittelmeer"
+      "Mittelmeer",
+      "Seenotrettung"
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "06.05.2020 - BT-Drucksache 19/19006",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919006.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Petr",
-          "NACHNAME": "Bystron",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Armin-Paulus",
-          "NACHNAME": "Hampel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "06.05.2020 - BT-Drucksache 19/19006",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919006.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Petr",
+            "NACHNAME": "Bystron",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19622C - 19630B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19622"
+      }
+    ]
   }
 }

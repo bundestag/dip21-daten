@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Geschäftsordnung",
     "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages zur Vermeidung von Überschneidungen von Sitzungen des Bundestages mit Sitzungen der Ausschüsse und Gremien",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/078/1907819.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/29",
-      "PLPR_SEITEN": "2766A - 2782B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2766"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/29",
+        "PLPR_SEITEN": "2766A - 2782B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2766"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19601C - 19601D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19601"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
     "SCHLAGWORT": [
@@ -251,6 +260,17 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19601C - 19601D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19601",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19601D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/1843"
+        }
       }
     ]
   }

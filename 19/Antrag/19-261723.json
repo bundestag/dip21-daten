@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Geld für das Gesundheitssystem statt für atomwaffentragende Kampfbomber",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/18750",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918750.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/158",
+      "PLPR_SEITEN": "19665C - 19674A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19665"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verteidigung",
@@ -30,27 +37,35 @@
     "ABSTRAKT": "Umgehende Beendigung der Nuklearen Teilhabe, Verzicht auf Entwicklung und Beschaffung von Luftfahrzeugen mit nuklearen Trägerfähigkeiten, Umwidmung diesbzgl. Verteidigungsausgaben zur Stärkung der nationalen und internationalen Gesundheitsinfrastruktur, Umsetzung des Antrags auf BT-Drs 17/1159 und Abzug aller Atomwaffen aus Deutschland"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "22.04.2020 - BT-Drucksache 19/18750",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918750.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Tobias",
-          "NACHNAME": "Pflüger",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "22.04.2020 - BT-Drucksache 19/18750",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918750.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Pflüger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19665C - 19674A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19665"
+      }
+    ]
   }
 }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Die Tourismuswirtschaft in der Krise wirksam unterstützen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -21,38 +21,79 @@
       "Sport, Freizeit und Tourismus"
     ],
     "SCHLAGWORT": [
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Dienstleistungswirtschaft",
       "Epidemie",
       "Gastgewerbe",
+      "Kredit",
       "Reiseunternehmen",
-      "Tourismus",
+      "Selbständiger",
+      "Seuchenbekämpfung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tourismus"
+      },
+      "Verbraucherinformation",
       "Wirtschaftsförderung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Einrichtung eines Rettungsfonds für ergänzende Kredite und ggf. Zuschüsse für die Reisewirtschaft und nachgeordnete Dienstleistungsbereiche in der Corona-Pandemie sowie eines Kundengeldabsicherungsfonds bei Pauschalreisen, Weiterentwicklung des bereits beschlossenen Soforthilfeprogramms betr. Sozialunternehmen, Solo-Selbstständige u.a., koordinierte Wiedereröffnung mit Informations- und Kommunikationsmaßnahmen zur Hygiene- und Gesundheitsförderung, Maßnahmen zur Zukunftsfähigkeit mit Einbeziehung in die Nationale Tourismusstrategie und Entwicklung einer europäische Kampagne"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18959",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918959.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Markus",
-          "NACHNAME": "Tressel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18959",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918959.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Tressel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19597D - 19600C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19599D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18959"
         },
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Schmidt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

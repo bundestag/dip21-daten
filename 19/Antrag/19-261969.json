@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Künstliche Intelligenz vermeidet Lebensmittelverschwendung",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -20,34 +20,80 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
+      "Abfall",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abfallvermeidung"
+      },
       "Abfallverwertung",
+      "Berufliche Qualifikation",
+      "Blockchain",
+      "Digitalisierung",
+      "Ernährungswirtschaft",
+      "Europäische Union",
+      "Forschung",
+      "Forschungsprojekt",
       "Künstliche Intelligenz",
-      "Nahrungsmittel"
+      "Lebensmittelkennzeichnung",
+      "Mindesthaltbarkeitsdatum",
+      "Nachhaltige Entwicklung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nahrungsmittel"
+      },
+      "Programm der Bundesregierung",
+      "Verbraucherinformation",
+      "Verpackung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Hinwirken auf EU-Ebene: Forschungen und Regelungen zur Verwendung intelligenter Verpackungen, Überprüfung und etwaige Abschaffung unverhältnismäßiger Rahmenrichtlinien wie Vermarktungs- und Handelsnormen; Überarbeitung der Lebensmittelinformationsverordnung, Untersuchung von KI-Anwendungen in Verbindung mit dem Mindesthaltbarkeitsdatum, Weiterbildungsmaßnahmen für digitale Technologien in Berufen der Lebensmittelproduktion, Testfelder zum Einsatz von KI in der Lebensmittelproduktion, Integration digitaler Technologien in die \"Nationale Strategie zur Reduzierung der Lebensmittelverschwendung\""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18953",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918953.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Nicole",
-          "NACHNAME": "Bauer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "05.05.2020 - BT-Drucksache 19/18953",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918953.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Bauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "07.05.2020 - BT-Plenarprotokoll 19/158, S. 19597D - 19600C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19599D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18953"
         },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }
