@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Durch das Kraftfahrt-Bundesamt versendete Schreiben mit Hinweisen auf verfügbare Software-Updates für Kfz",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19785A - 19785B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19785"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Kfz-Abgas",
@@ -24,19 +31,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Schreiben, in denen Fahrzeughalter auf ein beigefügtes Informationsschreiben von Automobilherstellern zu einem Software-Update hingewiesen werden, hat das Kraftfahrt-Bundesamt (KBA) seit dem 1. Januar 2019 verschickt (vgl. Schreiben des KBA vom April 2020 mit beigefügtem Schreiben der Mercedes-Benz AG; bitte aufschlüsseln nach Automobilherstellern), und inwiefern regt das KBA gegenüber Automobilherstellern an, auch entsprechende Schreiben zu versenden, um auf Möglichkeiten von Hardware-Nachrüstungen hinzuweisen (bitte ggf. ebenfalls unter Nennung der Anzahl bereits verschickter Schreiben)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 35",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Stephan",
-        "NACHNAME": "Kühn",
-        "WAHLKREISZUSATZ": "Dresden",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 35",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19785A - 19785B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19785",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Dresden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19785A"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19785A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

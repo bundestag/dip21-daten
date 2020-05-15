@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Verletzungen internationaler Sicherheitsstandards durch das Wuhan Institute of Virology",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19793A - 19793B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19793"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -29,18 +36,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nVerfügt die Bundesregierung über konkrete Hinweise über Verletzungen international üblicher Sicherheitsstandards der Schutzstufe 4 durch das Wuhan Institute of Virology (www.handelsblatt.com/politik/international/five-eyes-westliche-geheimdienste-streiten-ueber-corona-ursprung/25797560.html?ticket=ST-4115991-5feiW47NyIgoUZjMdjTJ-ap3; www.manager-magazin.de/politik/weltwirtschaft/coronavirus-geheimdienst-allianz-five-eyes-erhebt-schwere-vorwuerfe-gegen-china-a-1306725.html), und kann die Bundesregierung einen künstlichen Ursprung des neuartigen Coronavirus SARS-CoV-2 auf Basis wissenschaftlicher Erkenntnisse inzwischen ausschließen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 57",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Heike",
-        "NACHNAME": "Hänsel",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 57",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19793A - 19793B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19793",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19793A"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19793A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

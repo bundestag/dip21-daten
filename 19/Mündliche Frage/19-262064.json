@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Entwicklung des Bezugs von Kurzarbeitergeld",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19712A - 19713C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19712"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -24,19 +31,46 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Beschäftigte in der Bundesrepublik Deutschland beziehen aktuell Kurzarbeitergeld, und welche Prognose zur Veränderung dieser Zahl bis Ende 2020 kann die Bundesregierung zum jetzigen Zeitpunkt abgeben?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 7",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr.",
-        "VORNAME": "Christoph",
-        "NACHNAME": "Hoffmann",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 7",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19712A - 19713C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19712",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christoph",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19712A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Griese",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19712A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "19713A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Position der Bundesregierung zur Schließung der Grenzen zu Frankreich und Luxemburg",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19791B - 19791D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19791"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Belgien",
@@ -32,18 +39,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie bewertet die Bundesregierung jeweils die aktuellen Grenzschließungen gegenüber Frankreich und Luxemburg in Bezug auf die Verhältnismäßigkeit dieser Maßnahmen, insbesondere im Hinblick auf den gleichzeitigen Umgang allein mit stichprobenartigen Kontrollen an den Grenzen zu Belgien und den Niederlanden?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 52",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Oliver",
-        "NACHNAME": "Luksic",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19791B - 19791D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19791",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Luksic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19791B"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19791B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

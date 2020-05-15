@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Behebung von Sicherheitsmängeln bei der sogenannten Datenspende-App des RKI",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19781C - 19781D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19781"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "App",
@@ -28,20 +35,40 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nSind nach Kenntnis der Bundesregierung, auch vor dem Hintergrund, dass sich an der sogenannten \"Datenspende\"-App des Robert Koch-Instituts (RKI), die sensible Gesundheitsdaten aus Smartwatches und Fitness-Trackern zur Eindämmung des Coronavirus sammelt und analysiert, und laut RKI mittlerweile mehr als eine halbe Million Nutzerinnen und Nutzern sich beteiligten, die vom Chaos Computer Club (CCC) in einer Black-Box-Analyse festgestellten, weitreichenden Sicherheitsmängel bereits vollständig behoben, und zieht die Bundesregierung aus den gemachten Erfahrungen die Konsequenz, bei der Entwicklung einer \"Tracing-App\" den Quell-Code von vornherein öffentlich und damit überprüfbar zu machen, um die App sicher zu gestalten und Vertrauen und Nutzerakzeptanz zu erhöhen (vgl. www.ccc.de/de/updates/2020/abofalle-datenspende)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "PERSON_TITEL": "Dr.",
-        "VORNAME": "Konstantin",
-        "NAMENSZUSATZ": "von",
-        "NACHNAME": "Notz",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19781C - 19781D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19781",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Konstantin",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Notz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19781C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Thomas",
+            "NACHNAME": "Gebhart",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19781C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

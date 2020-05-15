@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Nachsteuerungsbedarf zum \"Konzeptpapier Saisonarbeiter im Hinblick auf den Gesundheitsschutz\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/159",
+      "PLPR_SEITEN": "19720C - 19721B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19720"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -25,18 +32,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelchen Nachsteuerungsbedarf sieht die Bundesregierung zu dem am 2. April 2020 durch die Bundesministerien des Innern, für Bau und Heimat (BMI) und Ernährung und Landwirtschaft (BMEL) beschlossenen \"Konzeptpapier Saisonarbeiter im Hinblick auf den Gesundheitsschutz [Coronavirus (SARS-CoV-2)]\", und wie bewertet sie diesbezüglich die Ergebnisse der Agrarministerkonferenz vom 8. Mai 2020?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 14",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Filiz",
-        "NACHNAME": "Polat",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "07.05.2020 - BT-Drucksache 19/19020, Nr. 14",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919020.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "13.05.2020 - BT-Plenarprotokoll 19/159, S. 19720C - 19721B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19720",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Filiz",
+            "NACHNAME": "Polat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "19720C"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Feiler",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "19720C"
+          }
+        ]
       }
-    }
+    ]
   }
 }
