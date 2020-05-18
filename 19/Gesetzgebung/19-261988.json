@@ -7,9 +7,10 @@
     "INITIATIVE": [
       "Hessen",
       "Niedersachsen",
-      "Nordrhein-Westfalen"
+      "Nordrhein-Westfalen",
+      "Saarland"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Einbringung beschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C150",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 211/20)",
@@ -18,6 +19,11 @@
       "DRS_NUMMER": "211/20",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "989"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -32,11 +38,28 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen, Hessen, Niedersachsen ",
-      "FUNDSTELLE": "06.05.2020 - BR-Drucksache 211/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen, Hessen, Niedersachsen und Saarland ",
+        "FUNDSTELLE": "06.05.2020 - BR-Drucksache 211/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 59",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Einbringung; Bestellung eines Beauftragten",
+          "BEZUGSDOKUMENT": "211/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "15.05.2020 - BR-Drucksache 211/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20B.pdf"
+      }
+    ]
   }
 }

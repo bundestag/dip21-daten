@@ -4,7 +4,10 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates: \"Für erwerbstätige Leistungsbeziehende in der Grundsicherung für Arbeitsuchende muss mehr Einkommen ankommen - Mehr Erwerbsbeteiligung durch Anpassung der Hinzuverdienstregeln bei Einkommen aus Erwerbstätigkeit im SGB II\"",
-    "INITIATIVE": "Nordrhein-Westfalen",
+    "INITIATIVE": [
+      "Nordrhein-Westfalen",
+      "Schleswig-Holstein"
+    ],
     "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -13,6 +16,11 @@
       "DRS_NUMMER": "203/20",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0203-20.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "989"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -32,15 +40,26 @@
     "ABSTRAKT": "Forderung nach Gesetzesvorlage zur Anpassung der Hinzuverdienstregeln"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Nordrhein-Westfalen ",
-      "FUNDSTELLE": "30.04.2020 - BR-Drucksache 203/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0203-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Nordrhein-Westfalen und Schleswig-Holstein ",
+        "FUNDSTELLE": "30.04.2020 - BR-Drucksache 203/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0203-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 7",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "203/20"
+        }
       }
-    }
+    ]
   }
 }

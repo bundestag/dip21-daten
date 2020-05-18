@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Kultur- und Kreativwirtschaft krisen- und zukunftsfest gestalten",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,30 +22,51 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919202.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/155",
-      "PLPR_SEITEN": "19250C - 19258D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19250"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/155",
+        "PLPR_SEITEN": "19250C - 19258D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19155.pdf#P.19250"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/160",
+        "PLPR_SEITEN": "19910C - 19920C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19910"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Gesundheit",
+      "Wirtschaft",
       "Kultur"
     ],
     "SCHLAGWORT": [
-      "COVID-19",
+      "Bundesmittel",
+      "Bund-Länder-Kooperation",
+      "Bürgerschaftliches Engagement",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
       "Freier Beruf",
+      "Gemeinnütziges Unternehmen",
+      "Klein- und Mittelunternehmen",
+      "Kulturförderung",
       {
         "_fundstelle": "true",
         "__cdata": "Kultur- und Kreativwirtschaft"
       },
       "Künstler",
-      "Selbständiger"
+      "Landesmittel",
+      "Programm der Bundesregierung",
+      "Selbständiger",
+      "Spende"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Maßnahmen zur Unterstützung Solo-Selbstständiger und Freiberufler in der Corona-Pandemie: zügige Auszahlung der Corona-Soforthilfe über die Länder, Möglichkeit zur Geltendmachung teilgewerbliche Betriebskosten, Gewährung einer Soforthilfe von 25 Prozent der 2019 angemeldeten Netto-Umsätze (maximal 9.000 Euro) für 3 Monate; Hinwirken auf die Länder: Auflage ergänzender Förderprogramme für Künstler, kumulative Anwendung jeweiliger Bundes- und Landesmittel, Vereinheitlichung der Antragsprüfung und zu erfüllender Voraussetzungen, Anhebung der Förderdauer von 3 Monaten bei Anhalten der Corona-Krise, Ausweitung der Soforthilfen auf Unternehmen zwischen 11 und 249 Angestellte, Prüfen einer Ausweitung der Förderprogramme auf gemeinnützige Unternehmen mit kulturellem Schwerpunkt; unkomplizierte steuerliche Berücksichtigung von Spenden mit Bezug auf die Pandemie, verstärkte Nutzung von Förderprogrammen des BMWi für die Kultur- und Kreativwirtschaft"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -245,6 +266,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.05.2020 - BT-Plenarprotokoll 19/160, S. 19910C - 19920C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19910"
       }
     ]
   }
