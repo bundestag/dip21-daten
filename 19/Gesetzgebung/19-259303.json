@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Einführung der Grundrente für langjährige Versicherung in der gesetzlichen Rentenversicherung mit unterdurchschnittlichem Einkommen und für weitere Maßnahmen zur Erhöhung der Alterseinkommen (Grundrentengesetz)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G034",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 85/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918473.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "988",
-      "PLPR_SEITEN": "100 - 100",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf#P.100"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "988",
+        "PLPR_SEITEN": "100 - 100",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/988.pdf#P.100"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/161",
+        "PLPR_SEITEN": "20030C - 20045C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19161.pdf#P.20030"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
@@ -117,6 +126,144 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
         "FUNDSTELLE": "08.04.2020 - BT-Drucksache 19/18473\nAnl. Stellungnahme der BRg zur Stellungnahme des Nationalen Normenkontrollrates; Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918473.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "15.05.2020 - BT-Plenarprotokoll 19/161, S. 20030C - 20045C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19161.pdf#P.20030",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hubertus",
+            "NACHNAME": "Heil",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20030D"
+          },
+          {
+            "VORNAME": "Ulrike",
+            "NACHNAME": "Schielke-Ziesing",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20032B"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Gröhe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20033D"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Olpe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20035A"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20036B"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Kurth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20037D"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Mast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20039B"
+          },
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Kober",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20040B"
+          },
+          {
+            "VORNAME": "Max",
+            "NACHNAME": "Straubinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20041A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Tack",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20042A"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Lezius",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20042C"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Weiß",
+            "WAHLKREISZUSATZ": "Emmendingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20043C"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "20044A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20045C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18473"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
+            "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          }
+        ]
       }
     ]
   }
