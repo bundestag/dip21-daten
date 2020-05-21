@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nLangfristiger Aktionsplan zur besseren Umsetzung und Durchsetzung der Binnenmarktvorschriften \r\nKOM(2020)94 endg.; Ratsdok. 6778/20",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nLangfristiger Aktionsplan zur besseren Umsetzung und Durchsetzung der Binnenmarktvorschriften \r\nKOM(2020) 94 endg.; Ratsdok. 6778/20",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,11 +22,20 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918783.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "989"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/161",
+        "PLPR_SEITEN": "20122C - 20122D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19161.pdf#P.20122"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 6778/20, Kom. (2020) 94 endg.",
     "SCHLAGWORT": [
       "Außenwirtschaft",
@@ -107,6 +116,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.05.2020 - BR-Drucksache 134/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0134-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "15.05.2020 - BT-Plenarprotokoll 19/161, S. 20122C - 20122D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19161.pdf#P.20122",
+        "VP_ABSTRAKT": "S. 20122C - Kenntnisnahme"
       }
     ]
   }
