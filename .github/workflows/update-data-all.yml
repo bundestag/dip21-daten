@@ -1,4 +1,4 @@
-name: Update DIP21 Daten (Monthly period 19)
+name: Update DIP21 Daten (Weekly all)
 
 on:
   schedule:
@@ -20,7 +20,7 @@ jobs:
       - name: Scrape Data
         run: npx @democracy-deutschland/dip21-scraper --html -s 10 --periods Alle --operationtypes Alle --quiet --out .
         env:
-          SCRAPER_USER_AGEND: github.com/bundestag/dip21-daten#monthly
+          SCRAPER_USER_AGEND: github.com/bundestag/dip21-daten#weekly
 
       - run: git status
 
