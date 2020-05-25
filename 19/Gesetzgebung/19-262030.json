@@ -5,20 +5,29 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Umsetzung steuerlicher Hilfsmaßnahmen zur Bewältigung der Corona-Krise (Corona-Steuerhilfegesetz)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D057",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 221/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "221/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0221-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "221/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0221-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19379",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919379.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Durchgang",
       "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989"
+      "PLPR_NUMMER": "989",
+      "PLPR_SEITEN": "134 - 134"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -94,10 +103,11 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 62",
+        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 62, S. 134 - 134",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
-          "BEZUGSDOKUMENT": "221/20"
+          "BEZUGSDOKUMENT": "221/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -105,6 +115,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.05.2020 - BR-Drucksache 221/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0221-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "20.05.2020 - BT-Drucksache 19/19379\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919379.pdf"
       }
     ]
   }

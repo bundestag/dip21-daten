@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zum Aufbau einer gebäudeintegrierten Lade- und Leitungsinfrastruktur für die Elektromobilität (Gebäude-Elektromobilitätsinfrastruktur-Gesetz - GEIG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E038",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 111/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "111/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "111/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19366",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919366.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
@@ -26,7 +34,8 @@
       {
         "PLPR_KLARTEXT": "1. Durchgang",
         "PLPR_HERAUSGEBER": "BR",
-        "PLPR_NUMMER": "989"
+        "PLPR_NUMMER": "989",
+        "PLPR_SEITEN": "129 - 130"
       }
     ],
     "EU_DOK_NR": "",
@@ -101,10 +110,11 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 25",
+        "FUNDSTELLE": "15.05.2020 - BR-Plenarprotokoll 989, TOP 25, S. 129 - 130",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Stellungnahme",
-          "BEZUGSDOKUMENT": "111/20"
+          "BEZUGSDOKUMENT": "111/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -112,6 +122,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.05.2020 - BR-Drucksache 111/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0111-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "20.05.2020 - BT-Drucksache 19/19366\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919366.pdf"
       }
     ]
   }
