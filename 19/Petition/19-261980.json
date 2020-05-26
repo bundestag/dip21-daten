@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Petition",
     "TITEL": "Sammelübersicht 537 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
     "INITIATIVE": "Petitionsausschuss",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,35 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919029.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/160",
+      "PLPR_SEITEN": "19879C - 19880D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19879"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
-      "FUNDSTELLE": "06.05.2020 - BT-Drucksache 19/19029",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919029.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "06.05.2020 - BT-Drucksache 19/19029",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919029.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.05.2020 - BT-Plenarprotokoll 19/160, S. 19879C - 19880D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19879",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19880B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/19029"
+        }
+      }
+    ]
   }
 }

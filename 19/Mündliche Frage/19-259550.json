@@ -35,14 +35,24 @@
         "URHEBER": "Mündliche Frage/Schriftliche Antwort",
         "FUNDSTELLE": "04.03.2020 - BT-Plenarprotokoll 19/148, S. 18534A - 18534D",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19148.pdf#P.18534",
-        "PERSOENLICHER_URHEBER": {
-          "VORNAME": "Johannes",
-          "NACHNAME": "Huber",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Frage",
-          "SEITE": "18534A"
-        }
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Huber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "18534A"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Weiss",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "18534A"
+          }
+        ]
       }
     ]
   }

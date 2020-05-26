@@ -17,13 +17,21 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Ärztliche Versorgung",
-      "COVID-19",
+      "Ambulante Behandlung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ärztliche Versorgung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
+      "Gesetzgebung",
       "Niedergelassener Arzt",
       "Regress"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Vorlage eines Gesetzentwurfs zur Aussetzung der Regresse im Rahmen der aktuellen Corona-Pandemie, Erleichterung der Praxisarbeit durch Bürokratieabbau sowie Aussetzung der Sanktionierungen für Praxisinhaber ohne Anbindung an die Telematikinfrastruktur"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -54,7 +62,21 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "14.05.2020 - BT-Plenarprotokoll 19/160, S. 19876D - 19879A",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19876"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19160.pdf#P.19876",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "19878D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/19162"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
       }
     ]
   }
