@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Strategiepapier des Bundesministeriums des Innern, für Bau und Heimat zur Bekämpfung der Corona-Epidemie",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18426",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918426.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18426",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918426.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19459",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -42,29 +49,36 @@
     "ABSTRAKT": "Vertrauliches Strategiepapier des BMI zu möglichen Verläufen der COVID-19-Pandemie und Modellierung verschiedener Szenarien: Beteiligung externer Berater, Zuleitung an den Deutschen Bundestag, zugrundeliegende Annahmen, Einfluss einzelner Maßnahmen auf die Ausbreitungsgeschwindigkeit, Verdopplungszeit der Fallzahlen und Überlastung des Gesundheitssystems, Sterblichkeitsrate, Einsatz von Big Data und Location Tracking, verfügbare Corona-Tests \r\n(insgesamt 12 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "07.04.2020 - BT-Drucksache 19/18426",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918426.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gottfried",
-          "NACHNAME": "Curio",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Bernd",
-          "NACHNAME": "Baumann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "07.04.2020 - BT-Drucksache 19/18426",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/184/1918426.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gottfried",
+            "NACHNAME": "Curio",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Baumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "24.04.2020 - BT-Drucksache 19/19459"
+      }
+    ]
   }
 }

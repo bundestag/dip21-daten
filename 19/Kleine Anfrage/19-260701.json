@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bestellungen Blanko-Vordrucke für Verpflichtungserklärungen nach § 68 Aufenthaltsgesetz",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18192",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918192.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18192",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918192.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19451",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
     "SCHLAGWORT": [
@@ -33,27 +40,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "24.03.2020 - BT-Drucksache 19/18192",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918192.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "René",
-          "NACHNAME": "Springer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Martin",
-          "NACHNAME": "Sichert",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "24.03.2020 - BT-Drucksache 19/18192",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/181/1918192.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "René",
+            "NACHNAME": "Springer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Sichert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "09.04.2020 - BT-Drucksache 19/19451"
+      }
+    ]
   }
 }

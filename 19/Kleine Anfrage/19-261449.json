@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Offene Fragen zur Antibiotikaminimierung bei Nutz-, Klein- und Heimtieren",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18759",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918759.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18759",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918759.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19397",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -29,29 +36,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18759",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918759.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Kirsten",
-          "NACHNAME": "Tackmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gesine",
-          "NACHNAME": "Lötzsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "19.03.2020 - BT-Drucksache 19/18759",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918759.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Tackmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Ausschuss für Ernährung und Landwirtschaft, Bundesregierung ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19397"
+      }
+    ]
   }
 }

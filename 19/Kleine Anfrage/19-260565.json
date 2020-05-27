@@ -5,40 +5,54 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Nutzung von Technik und Methoden bei der Polizeiagentur Europol",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18098",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918098.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18098",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918098.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19440",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "10.03.2020 - BT-Drucksache 19/18098",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918098.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Andrej",
-          "NACHNAME": "Hunko",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "10.03.2020 - BT-Drucksache 19/18098",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/180/1918098.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "03.04.2020 - BT-Drucksache 19/19440"
+      }
+    ]
   }
 }
