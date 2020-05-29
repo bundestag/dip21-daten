@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Von BlackRock verwaltete öffentliche Vermögenswerte",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20243A - 20243B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20243"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -25,18 +32,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Vermögenswerte lassen gegebenenfalls die Bundesregierung &ndash; oder vom Bund beherrschte öffentliche Unternehmen &ndash; durch BlackRock Inc. verwalten (bitte gegebenenfalls die betreffenden Ressorts und öffentlichen Unternehmen zuordnen), und was unternehmen bzw. unternimmt die Bundesregierung auch im Interesse deutscher Klimaverbesserung, um BlackRock (einer der weltweit größten Investoren in fossilen Brennstoffen &ndash; www.zeit.de/2019/43/klimaschutz-banken-unternehmen-fracking-gelfoerderung-fossile-brennstoffe/komplettansicht; www.zeit.de/2019/43/klimaschutz-banken-unternehmen-fracking-gelfoerderung-fossile-brennstoffe/komplettansicht) insgesamt zu mehr klimafreundlichen Investitionen statt in Kohlekraftwerke und ähnliche Anlagen zu veranlassen, etwa anlässlich der BlackRock-Hauptversammlung am 21. Mai 2020 (www.finanzen.net/termine/blackrock)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 73",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Canan",
-        "NACHNAME": "Bayram",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 73",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20243A - 20243B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20243",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20243A"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20243A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Abnahme von FFP2-Masken im Rahmen eines Open-House-Verfahrens durch das Bundesgesundheitsministerium",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20214A - 20214B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20214"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesministerium für Gesundheit",
@@ -21,18 +28,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWarum hat das BMG im Rahmen eines sogenannten Open-House-Verfahrens Ende März 2020 Unternehmen die Abnahme von FFP2-Masken zu einem festgelegten Preis in Höhe von 4,50 Euro pro Stück garantiert, obwohl der damals übliche Marktpreis für diese medizinische Schutzausrüstung bei 1,68 Euro lag und damit, Presseberichten zufolge, der freie Wettbewerb ausgehebelt und die Beschaffung für Kliniken und Pflegeheime zusätzlich erschwert wurde (www.sueddeutsche.de/wirtschaft/coronavirus-schutzmasken-jens-spahn-1.4913975), und wie viele Unternehmen haben den Zuschlag bekommen (bitte unter Nennung des Gesamtvolumens)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 15",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Sevim",
-        "NACHNAME": "Dagdelen",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 15",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20214A - 20214B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20214",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20214A"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Weiss",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20214A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

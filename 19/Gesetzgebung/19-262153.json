@@ -8,16 +8,24 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D058",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/19150)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/19150",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/191/1919150.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19150",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/191/1919150.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19601",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/196/1919601.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -45,11 +53,13 @@
         "_fundstelle": "true",
         "__cdata": "COVID-19"
       },
+      "Einführungsgesetz zur Abgabenordnung",
       "Einkommensteuer",
       "Einkommensteuergesetz",
       "Epidemie",
       "Fusion",
       "Gastronomie",
+      "Infektionsschutzgesetz",
       "Juristische Person",
       "Kurzarbeitergeld",
       "Steuerrecht",
@@ -63,7 +73,7 @@
       "Verpflegung",
       "Wirtschaftliche Stabilität"
     ],
-    "ABSTRAKT": "Unterstützung besonders betroffener Akteure zur nachhaltigen Stabilisierung der Wirtschaftsentwicklung und Beschäftigungssicherung: befristete Senkung des Umsatzsteuersatzes für Restaurant- und Verpflegungsdienstleistungen, Verlängerung der Übergangsfrist zur Neuregelung der Umsatzsbesteuerung juristischer Personen des öffentlichen Rechts aufgrund vordringlicherer Arbeiten insbes. der Kommunen, Steuerbefreiung bei Zuschüssen des Arbeitgebers zu Kurzarbeitergeld, Fristanpassung durch vorübergehende Verlängerung der steuerlichen Rückwirkungszeiträume bei Unternehmensumwandlungen; \r\nÄnderung §§ 12 und 27 Umsatzsteuergesetz, §§ 3 und 32b Einkommensteuergesetz sowie § 27 Umwandlungssteuergesetz \r\n \r\nBezug: Der Gesetzentwurf ist textidentisch mit der Regierungsvorlage auf BR-Drs 221/20 GESTA D057"
+    "ABSTRAKT": "Unterstützung besonders betroffener Akteure zur nachhaltigen Stabilisierung der Wirtschaftsentwicklung und Beschäftigungssicherung: befristete Senkung des Umsatzsteuersatzes für Restaurant- und Verpflegungsdienstleistungen, Verlängerung der Übergangsfrist zur Neuregelung der Umsatzsbesteuerung juristischer Personen des öffentlichen Rechts aufgrund vordringlicherer Arbeiten insbes. der Kommunen, Steuerbefreiung bei Zuschüssen des Arbeitgebers zu Kurzarbeitergeld, Fristanpassung durch vorübergehende Verlängerung der steuerlichen Rückwirkungszeiträume bei Unternehmensumwandlungen; \r\nÄnderung §§ 12 und 27 Umsatzsteuergesetz, §§ 3 und 32b Einkommensteuergesetz sowie § 27 Umwandlungssteuergesetz \r\n \r\nBezug: Der Gesetzentwurf ist textidentisch mit der Regierungsvorlage auf BR-Drs 221/20 GESTA D057 \r\n \r\n Beschlussempfehlung des Ausschusses:  Ermöglichung unionsrechtlicher Fristverlängerung bei Mitteilungen über grenzüberschreitende Steuergestaltungen, Verlängerung der Dauer des Entschädigungsanspruchs erwerbstätiger Personen bei Betreuung von Pflegebedürftigen oder Kindern, gesetzliche Rechtsgrundlage für die Steuerfreiheit von Corona-Sonderleistungen; \r\nÄnderung Art. 97 § 33 Einführungsgesetz zur Abgabenordnung und § 56 Infektionsschutzgesetz; Verordnungsermächtigung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -198,6 +208,118 @@
           {
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
             "UEBERWEISUNGSART": "gemäß § 96 Geschäftsordnung BT"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderung der Ausschussüberweisung",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20126B - 20127A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20126",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20126D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/19150"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+            "UEBERWEISUNGSART": "nachträgliche Überweisung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "27.05.2020 - BT-Drucksache 19/19601",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/196/1919601.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Arndt-Brauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Fritz",
+            "NACHNAME": "Güntzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Till",
+            "NACHNAME": "Mansmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "27.05.2020 - BT-Drucksache 19/19602",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/196/1919602.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "André",
+            "NACHNAME": "Berghegger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Birgit",
+            "NACHNAME": "Malsack-Winkemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Meyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Schwarz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
           }
         ]
       }

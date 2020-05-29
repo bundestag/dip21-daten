@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Debatte zur Bewaffnung deutscher Drohnen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20247A - 20247D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20247"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Beschaffung",
@@ -24,18 +31,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWann ist die \"breit ausgelegte gesellschaftliche Debatte\" zur Bewaffnung von deutschen Drohnen aus Sicht der Bundesregierung beendet, sodass die Luftfahrzeuge, wie von der Bundeswehr geplant, mit Lenkbomben und Raketen ausgerüstet werden können bzw. der Deutsche Bundestag hierüber entscheiden soll (Bundeswehrgeneral Eberhard Zorn im \"Livechat\" des Bundesministeriums der Verteidigung am 18. Mai 2020), und inwiefern ist die Bundesregierung bereit, den Typ und Hersteller der für die \"Heron TP\" anvisierten Waffensysteme mitzuteilen, damit deren tödliche Wirkung in der \"Drohnendebatte\" betrachtet und bewertet werden kann?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 84",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Andrej",
-        "NACHNAME": "Hunko",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 84",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20247A - 20247D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20247",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20247A"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Silberhorn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20247A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

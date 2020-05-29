@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Öffentlichkeitsbeteiligung einer Standortsuche für ein Endlager hochradioaktiver Materialien in Belgien",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20221D - 20222A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20221"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -26,18 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwieweit ist die Bundesregierung informiert und beteiligt worden an der jetzt im Corona-Shutdown begonnenen Öffentlichkeitsbeteiligung einer Standortsuche für ein Endlager für hochradioaktive Materialien in Belgien, bei dem auch Standorte unmittelbar an der deutschen Grenze in Betracht gezogen werden (www.ondraf.be/de/node/1306), und wird die Bundesregierung sich für eine den einschlägigen, internationalen Abkommen entsprechende Beteiligung deutscher Bürgerinnen und Bürger, Gebietskörperschaften und Institutionen bei der Regierung des Königreichs Belgien einsetzen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 40",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Oliver",
-        "NACHNAME": "Krischer",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 40",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20221D - 20222A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20221",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20221D"
+          },
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Schwarzelühr-Sutter",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20221D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

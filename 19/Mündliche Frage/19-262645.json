@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Kabinettsbeschluss zur 10. Novelle des Gesetzes gegen Wettbewerbsbeschränkungen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20243D - 20244A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20243"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -27,18 +34,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWarum wurde der Gesetzesentwurf zur 10. GWB-Novelle angesichts der Folgen der COVID-19-Pandemie für den Wettbewerb und seit Vorliegen des Referentenentwurfs am 24. Januar 2020 noch nicht im Kabinett beschlossen (www.wiwo.de/my/politik/konjunktur/post-corona-wirtschaft-toetet-das-virus-den-wettbewerb/25828150.html?ticket=ST-844762-bFynjf5eZHHqpmyBm3ce-ap2), und wann ist damit zu rechnen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 76",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Katharina",
-        "NACHNAME": "Dröge",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 76",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20243D - 20244A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20243",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katharina",
+            "NACHNAME": "Dröge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20243D"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20243D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

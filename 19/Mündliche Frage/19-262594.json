@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Erhöhter Austritt radioaktiver Strahlung aus dem Forschungsreaktor Garching II",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/162",
+      "PLPR_SEITEN": "20221A - 20221B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20221"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -26,18 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nZu welchem Zeitpunkt hat die Bundesregierung von dem erhöhten Austritt radioaktiver Strahlung aus dem Forschungsreaktor Garching II erfahren (www.sueddeutsche.de/muenchen/garching-forschungsreaktor-tu-muenchen-radioaktivitaet-1.4910068), und welche Maßnahmen wurden nach Kenntnis der Bundesregierung seither unternommen, um mögliche gesundheitliche Schädigungen für Menschen zu verhindern bzw. wurde eine Abschaltung des Atomreaktors geprüft?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 38",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Nicole",
-        "NACHNAME": "Gohlke",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.05.2020 - BT-Drucksache 19/19362, Nr. 38",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919362.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.05.2020 - BT-Plenarprotokoll 19/162, S. 20221A - 20221B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19162.pdf#P.20221",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Gohlke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20221A"
+          },
+          {
+            "VORNAME": "Rita",
+            "NACHNAME": "Schwarzelühr-Sutter",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20221A"
+          }
+        ]
       }
-    }
+    ]
   }
 }
