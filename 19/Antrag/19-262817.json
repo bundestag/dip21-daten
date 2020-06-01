@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Framing der Wissenschaftskommunikation für gesellschaftspolitische Ziele im Namen der Wissenschaftsfreiheit verhindern",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -37,29 +37,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "27.05.2020 - BT-Drucksache 19/19524",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919524.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Marc",
-          "NACHNAME": "Jongen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Götz",
-          "NACHNAME": "Frömming",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "27.05.2020 - BT-Drucksache 19/19524",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919524.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20302D - 20305A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20302"
+      }
+    ]
   }
 }

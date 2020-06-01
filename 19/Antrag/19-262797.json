@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Deutschlands Rolle in der Globalen Gesundheit stärken",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,34 +14,49 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919512.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/163",
+      "PLPR_SEITEN": "20250A - 20263B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20250"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": "Gesundheitswesen",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19512",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919512.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Prof. Dr.",
-          "VORNAME": "Andrew",
-          "NACHNAME": "Ullmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Till",
-          "NACHNAME": "Mansmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19512",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919512.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Andrew",
+            "NACHNAME": "Ullmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Till",
+            "NACHNAME": "Mansmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20250A - 20263B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20250"
+      }
+    ]
   }
 }

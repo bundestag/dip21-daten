@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Stärkung der Unabhängigkeit der Staatsanwaltschaft",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C087",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/11095)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919581.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/107",
-      "PLPR_SEITEN": "13156B - 13161A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19107.pdf#P.13156"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/107",
+        "PLPR_SEITEN": "13156B - 13161A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19107.pdf#P.13156"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/163",
+        "PLPR_SEITEN": "20321D - 20329C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20321"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -141,6 +150,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20321D - 20329C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20321"
       }
     ]
   }

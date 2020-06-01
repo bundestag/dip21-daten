@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Stärkung der parlamentarischen Kontrolle der Nachrichtendienste",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B088",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/19502)",
@@ -15,6 +15,13 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919502.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/163",
+      "PLPR_SEITEN": "20329C - 20337B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20329"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bundestag",
@@ -22,7 +29,10 @@
       "Innere Sicherheit"
     ],
     "SCHLAGWORT": [
-      "Gesetz zur Stärkung der parlamentarischen Kontrolle der Nachrichtendienste",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Stärkung der parlamentarischen Kontrolle der Nachrichtendienste"
+      },
       {
         "_fundstelle": "true",
         "__cdata": "Nachrichtendienst"
@@ -37,27 +47,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19502",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919502.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Benjamin",
-          "NACHNAME": "Strasser",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        },
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Thomae",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19502",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919502.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Benjamin",
+            "NACHNAME": "Strasser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20329C - 20337B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20329"
+      }
+    ]
   }
 }

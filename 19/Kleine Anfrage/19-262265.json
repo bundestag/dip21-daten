@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Unstimmigkeiten bezüglich des mutmaßlichen Giftgasanschlages in Duma",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/19225",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919225.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19225",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919225.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19657",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -32,27 +39,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "14.05.2020 - BT-Drucksache 19/19225",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919225.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Steffen",
-          "NACHNAME": "Kotre",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Armin-Paulus",
-          "NACHNAME": "Hampel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "14.05.2020 - BT-Drucksache 19/19225",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919225.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "29.05.2020 - BT-Drucksache 19/19657"
+      }
+    ]
   }
 }

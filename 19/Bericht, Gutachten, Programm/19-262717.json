@@ -10,29 +10,40 @@
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
       {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/18800",
-        "DRS_TYP": "Unterrichtung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918800.pdf"
-      },
-      {
         "DRS_HERAUSGEBER": "BR",
         "DRS_NUMMER": "281/20",
         "DRS_TYP": "Unterrichtung",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0281-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18800",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918800.pdf"
       }
     ],
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Verkehr",
+      "Wissenschaft, Forschung und Technologie"
+    ],
+    "SCHLAGWORT": [
+      "Bericht der Bundesregierung",
+      "Gefahrenabwehr",
+      "Luftfahrtforschung",
+      "Luftfahrtrecht",
+      "Luftfahrzeug",
+      "Luftverkehrssicherheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unbemanntes Fluggerät"
+      }
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-        "FUNDSTELLE": "14.05.2020 - BT-Drucksache 19/18800",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918800.pdf"
-      },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
@@ -42,6 +53,12 @@
           "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "14.05.2020 - BT-Drucksache 19/18800",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/188/1918800.pdf"
       }
     ]
   }

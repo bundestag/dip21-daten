@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Einmalzahlung auch an Beschäftigte in den Einrichtungen der Behindertenhilfe",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -32,27 +32,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19507",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919507.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Jens",
-          "NACHNAME": "Beeck",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19507",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919507.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Beeck",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20302D - 20305A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20302"
+      }
+    ]
   }
 }

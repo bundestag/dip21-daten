@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Protokoll vom 18. November 2019 zur Änderung des Abkommens vom 19. Februar 2016 zwischen der Bundesrepublik Deutschland und der Republik Finnland zur Vermeidung der Doppelbesteuerung und zur Verhinderung der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XD007",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 171/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919385.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989",
-      "PLPR_SEITEN": "121 - 121",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.121"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "989",
+        "PLPR_SEITEN": "121 - 121",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.121"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/163",
+        "PLPR_SEITEN": "20302D - 20305A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20302"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
@@ -80,6 +89,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
         "FUNDSTELLE": "20.05.2020 - BT-Drucksache 19/19385",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/193/1919385.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20302D - 20305A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20302"
       }
     ]
   }

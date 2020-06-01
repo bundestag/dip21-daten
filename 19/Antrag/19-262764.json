@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Den sozialen Zusammenhalt während der Corona-Krise und danach stärken",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/19492",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/194/1919492.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/163",
+      "PLPR_SEITEN": "20353C - 20362C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20353"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -68,27 +75,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19492",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/194/1919492.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Katrin",
-          "NACHNAME": "Göring-Eckardt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Anja",
-          "NACHNAME": "Hajduk",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "26.05.2020 - BT-Drucksache 19/19492",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/194/1919492.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Göring-Eckardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Hajduk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20353C - 20362C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20353"
+      }
+    ]
   }
 }

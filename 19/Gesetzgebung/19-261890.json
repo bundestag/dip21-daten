@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B085",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18698)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919597.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/158",
-      "PLPR_SEITEN": "19597D - 19600C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19597D - 19600C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19597"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/163",
+        "PLPR_SEITEN": "20377B - 20385A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20377"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/163",
+        "PLPR_SEITEN": "20385A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20385"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bundestag",
@@ -136,6 +152,18 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20377B - 20385A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20377"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20385A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20385"
       }
     ]
   }
