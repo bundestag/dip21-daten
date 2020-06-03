@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Die gescheiterte Militärmission EUTM Mali beenden",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/195/1919584.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/159",
-      "PLPR_SEITEN": "19738B - 19745B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19738"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/159",
+        "PLPR_SEITEN": "19738B - 19745B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19159.pdf#P.19738"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/164",
+        "PLPR_SEITEN": "20414D - 20422B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20414"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -246,6 +255,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "29.05.2020 - BT-Plenarprotokoll 19/164, S. 20414D - 20422B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20414"
       }
     ]
   }

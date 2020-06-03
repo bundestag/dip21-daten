@@ -17,13 +17,22 @@
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/189/1918935.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/158",
-      "PLPR_SEITEN": "19532A - 19533B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19532"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/158",
+        "PLPR_SEITEN": "19532A - 19533B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19158.pdf#P.19532"
+      },
+      {
+        "PLPR_KLARTEXT": "Vereidigung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/163",
+        "PLPR_SEITEN": "20249D - 20250A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20249"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Wahl",
@@ -55,6 +64,12 @@
           "MEHRHEIT": "Absolute Mehrheit",
           "ABSTIMMUNG_BEMERKUNG": "389:92:171:4, damit Wahl der Abg Dr. Eva Högl"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Vereidigung",
+        "FUNDSTELLE": "28.05.2020 - BT-Plenarprotokoll 19/163, S. 20249D - 20250A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19163.pdf#P.20249"
       }
     ]
   }
