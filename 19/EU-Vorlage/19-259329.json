@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Weißbuch \r\nZur Künstlichen Intelligenz - ein europäisches Konzept für Exzellenz und Vertrauen\r\nKOM(2020)65 endg.; Ratsdok.-Nr. 6266/20\r\n",
+    "TITEL": "Weißbuch \r\nZur Künstlichen Intelligenz - ein europäisches Konzept für Exzellenz und Vertrauen\r\nKOM(2020) 65 endg.; Ratsdok. 6266/20\r\n",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918343.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989",
-      "PLPR_SEITEN": "121 - 121",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.121"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "989",
+        "PLPR_SEITEN": "121 - 121",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.121"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/164",
+        "PLPR_SEITEN": "20513C - 20513D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20513"
+      }
+    ],
     "EU_DOK_NR": "Kom. (2020) 65 endg.",
     "SCHLAGWORT": [
       "Europäische Union",
@@ -138,6 +147,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.05.2020 - BR-Drucksache 95/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0095-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "29.05.2020 - BT-Plenarprotokoll 19/164, S. 20513C - 20513D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20513",
+        "VP_ABSTRAKT": "S. 20513C - Kenntnisnahme"
       }
     ]
   }
