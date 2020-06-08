@@ -14,6 +14,11 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0190-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "990"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
@@ -26,20 +31,37 @@
     "ABSTRAKT": "Rückwirkende Anhebung der in § 36 des Bundesversorgungsgesetzes bestimmten Leistungen um 3,18 Prozent sowie Anhebung der Waisenrenten um 3,18 Prozent, \r\nAnhebung der in § 56 näher bestimmten Leistungen um 3,45 Prozent und des Bemessungsbetrages um 3,28 Prozent"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-      "FUNDSTELLE": "22.04.2020 - BR-Drucksache 190/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0190-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "22.04.2020 - BR-Drucksache 190/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0190-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "05.06.2020 - BR-Plenarprotokoll 990, TOP 27",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "190/20"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.06.2020 - BR-Drucksache 190/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0190-20B.pdf"
+      }
+    ]
   }
 }

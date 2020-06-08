@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates \"Für einen effektiven strafrechtlichen Schutz von kritischen Infrastrukturen gegen Cyberangriffe\"",
     "INITIATIVE": "Bayern",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0242-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989",
-      "PLPR_SEITEN": "134 - 135",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.134"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "989",
+        "PLPR_SEITEN": "134 - 135",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.134"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "990"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Innere Sicherheit",
@@ -65,6 +72,21 @@
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "242/20"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "05.06.2020 - BR-Plenarprotokoll 990, TOP 19",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ablehnung",
+          "BEZUGSDOKUMENT": "242/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.06.2020 - BR-Drucksache 242/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0242-20B.pdf"
       }
     ]
   }
