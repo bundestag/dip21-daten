@@ -18,7 +18,8 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/19735",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919735.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -27,13 +28,23 @@
       "Verkehr"
     ],
     "SCHLAGWORT": [
-      "Binnenschifffahrt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Binnenschifffahrt"
+      },
       "Braunkohle",
       "Frachtschifffahrt",
-      "Kohle",
-      "Steinkohle"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kohle"
+      },
+      "Prognose",
+      "Reederei",
+      "Steinkohle",
+      "Verkehrsstatistik",
+      "Wirtschaftsförderung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -62,7 +73,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-        "FUNDSTELLE": "03.06.2020 - BT-Drucksache 19/19735"
+        "FUNDSTELLE": "03.06.2020 - BT-Drucksache 19/19735",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919735.pdf"
       }
     ]
   }
