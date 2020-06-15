@@ -18,22 +18,27 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/19821",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919821.pdf"
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Gesundheit",
-      "Außenpolitik und internationale Beziehungen"
-    ],
+    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
       "Auswärtiges Amt",
-      "COVID-19",
-      "Deutscher Staatsangehöriger im Ausland",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutscher Staatsangehöriger im Ausland"
+      },
       "Einreisegenehmigung",
-      "Epidemie",
       "Flugreise",
+      "Luftverkehrsunternehmen",
       "Passagierluftverkehr",
+      "Tourismusregion",
       "Verkehrsflugzeug"
     ],
     "ABSTRAKT": "(insgesamt 13 Einzelfragen)"
@@ -65,7 +70,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "08.06.2020 - BT-Drucksache 19/19821"
+        "FUNDSTELLE": "08.06.2020 - BT-Drucksache 19/19821",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919821.pdf"
       }
     ]
   }
