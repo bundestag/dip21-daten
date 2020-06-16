@@ -25,14 +25,25 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
-      "Anhörung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Anhörung"
+      },
       "Gerichtsverfahren",
-      "Strafaussetzung zur Bewährung",
-      "Strafprozessordnung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strafaussetzung zur Bewährung"
+      },
+      "Strafgefangener",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strafprozessordnung"
+      },
+      "Strafvollstreckung",
       "Strafvollzug",
       "Telekonferenz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verfahrensbeschleunigung, Erhöhung der Wirtschaftlichkeit und Senkung von Sicherheitsrisiken durch Einführung einer Anordnungsbefugnis des Gerichts zur Nutzung von Videokonferenztechnik bei der gerichtlichen Anhörung von Verurteilten in Strafvollstreckungsverfahren; \r\nÄnderung §§ 453 und 454 Strafprozessordnung \r\n \r\nBezug: Gesetz zur Intensivierung des Einsatzes von Videokonferenztechnik in gerichtlichen und staatsanwaltschaftlichen Verfahren, s. GESTA 17. WP C006"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -61,6 +72,7 @@
           "SEITE": "152"
         },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "152",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "278/20"
         }

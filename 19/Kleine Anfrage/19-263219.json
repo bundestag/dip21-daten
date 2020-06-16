@@ -15,13 +15,24 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919777.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Innere Sicherheit",
+    "SACHGEBIET": [
+      "Soziale Sicherung",
+      "Innere Sicherheit"
+    ],
     "SCHLAGWORT": [
       "Grundsicherung für Arbeitsuchende",
-      "Leistungsmissbrauch",
-      "Organisierte Kriminalität"
+      "Kriminalitätsbekämpfung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Leistungsmissbrauch"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Organisierte Kriminalität"
+      },
+      "Selbständiger"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 5 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": {
