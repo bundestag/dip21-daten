@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Maßnahmen zum Erhalt der Bombardier-Standorte",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20630B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20630"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -20,18 +27,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Maßnahmen hat die Bundesregierung zur Sicherstellung des Erhalts der Bombardier-Standorte bisher unternommen, und welche Fördergelder des Bundes sind in den vergangenen fünf Jahren an Bombardier geflossen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 58",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Caren",
-        "NACHNAME": "Lay",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 58",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20630B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20630",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20630B"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Bareiß",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20630B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

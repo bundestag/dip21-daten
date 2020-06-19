@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Reaktionen der Bundesregierung gegenüber der brasilianischen Regierung bezüglich der Umweltzerstörung im Amazonasgebiet",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20628C - 20629A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20628"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -31,18 +38,46 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Reaktionen gab es vonseiten der Bundesregierung gegenüber der brasilianischen Regierung bezüglich der anhaltenden Umweltzerstörung im Amazonasgebiet (wie die erneute massive Brandrodung, insbesondere auch in indigenen Gebieten &ndash; einhergehend mit der Bedrohung isoliert lebender indigener Gruppen durch die Einschleppung des Coronavirus, bei gleichzeitigen Bestrebungen, weitere Umweltgesetzgebungen zu deregulieren) (www.tagesschau.de/ausland/brasilien-coronavirus-amazonas-101.html, www.fr.de/meinung/brasilien-beistehen-wenn-bolsonaro-weitermacht-sind-auch-bedroht-13793038.html), und welche Konsequenzen erwägt die Bundesregierung hinsichtlich der Kooperation mit Brasilien aufgrund dieser anhaltenden Unvereinbarkeit mit den Bekenntnissen der brasilianischen Regierung hinsichtlich Wald-, Umwelt- und Klimaschutz sowie des verfassungsrechtlich garantierten Schutzes indigener Territorien?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 54",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Uwe",
-        "NACHNAME": "Kekeritz",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 54",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20628C - 20629A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20628",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Kekeritz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20628C"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20628C"
+          },
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Roth",
+            "WAHLKREISZUSATZ": "Augsburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20628C"
+          }
+        ]
       }
-    }
+    ]
   }
 }

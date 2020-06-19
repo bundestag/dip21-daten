@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Personalstärke der Sonderkommission zu den wieder aufgenommenen Ermittlung zum Oktoberfestattentat 1980",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20633A - 20633C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20633"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,18 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie entwickelte sich die Personalstärke der Sonderkommission \"26. September\" des Bayerischen Landeskriminalamtes, die mit den Ermittlungen zum Oktoberfestattentat 1980 im Auftrag der Bundesanwaltschaft betraut ist, seit der Wiederaufnahme der Ermittlungen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 71",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Martina",
-        "NACHNAME": "Renner",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 71",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20633A - 20633C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20633",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20633A"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20633A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

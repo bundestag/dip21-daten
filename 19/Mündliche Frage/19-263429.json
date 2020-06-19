@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Maßnahmen zum Einsatz von Wasserstoff im Verkehrssektor",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Mündliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20547A - 20549A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20547"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -21,18 +28,55 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche konkreten Maßnahmen zum Einsatz von Wasserstoff im Verkehrssektor will die Bundesregierung noch in diesem Jahr umsetzen, und hat sich die Bundesregierung einen Zielwert für die Zahl der wasserstoffbetriebenen Fahrzeuge in Deutschland ähnlich denen für E-Fahrzeuge gesetzt?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 12",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Oliver",
-        "NACHNAME": "Luksic",
-        "FUNKTION": "MdB",
-        "FRAKTION": "FDP",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 12",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20547A - 20549A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20547",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Luksic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20547A"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20547A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Kraft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "20548A"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Martin",
+            "NACHNAME": "Neumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "20548B"
+          }
+        ]
       }
-    }
+    ]
   }
 }

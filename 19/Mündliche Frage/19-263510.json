@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Erstattung von Kurzarbeitergeld für Feiertage",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20633D - 20634A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20633"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arbeitgeber",
@@ -24,18 +31,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIst es aus Sicht der Bundesregierung zutreffend, dass dem Arbeitgeber durch die Bundesagentur für Arbeit (BA) selbst bei einer durch den Arbeitgeber angeordneten Kurzarbeit \"0\" kein Kurzarbeitergeld (KUG) für Feiertage, die in den Zeitraum angeordneter Kurzarbeit fallen, erstattet wird, sodass für diese Tage eine Entgeltfortzahlungspflicht seitens des Arbeitgebers ohne Erstattungsanspruch bestehen bleibt, und sieht die Bundesregierung hier, insbesondere mit Blick auf die besonderen coronabedingten Belastungen für Kleinunternehmen mit vollständigem Umsatzausfall gegebenenfalls Änderungsbedarf?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 73",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Pascal",
-        "NACHNAME": "Meiser",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 73",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20633D - 20634A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20633",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Meiser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20633D"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Griese",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20633D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

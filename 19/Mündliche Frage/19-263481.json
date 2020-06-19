@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Aufforderung an die türkische Regierung zur Auflösung von geheimen Frauengefängnissen in Nordsyrien",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20627C - 20628A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20627"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bürgerkrieg",
@@ -35,18 +42,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwieweit wird die Bundesregierung die türkische Regierung auffordern, die geheimen Frauengefängnisse, in denen die protürkischen islamistischen Milizen, in der türkischen Besatzungszone in Afrin (Nordsyrien), Jesidinnen misshandeln sollen (vgl.: www.domradio.de/themen/menschenrechte/2020-06-03/menschenverachtende-behandlung-von-frauen-menschenrechtler-islamistische-milizen-misshandeln) aufzulösen und die, nach Gutachten der Wissenschaftlichen Dienste des Deutschen Bundestages (vgl.: www.tagesschau.de/inland/tuerkei-wissensch-dienst-101.html), völkerrechtswidrige Besatzung in Nordsyrien zu beenden?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 51",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Gökay",
-        "NACHNAME": "Akbulut",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "12.06.2020 - BT-Drucksache 19/19886, Nr. 51",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919886.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20627C - 20628A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20627",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "20627C"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "20627C"
+          }
+        ]
       }
-    }
+    ]
   }
 }
