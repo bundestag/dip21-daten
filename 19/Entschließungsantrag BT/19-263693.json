@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Ersten Gesetz zur Änderung des Außenwirtschaftsgesetzes und anderer Gesetze",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20167",
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920167.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/166",
+      "PLPR_SEITEN": "20675C - 20688D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20675"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -36,28 +43,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "17.06.2020 - BT-Drucksache 19/20167",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920167.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Hansjörg",
-          "NACHNAME": "Müller",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "PERSON_TITEL": "Prof. Dr. ",
-          "VORNAME": "Heiko",
-          "NACHNAME": "Heßenkemper",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "17.06.2020 - BT-Drucksache 19/20167",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920167.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Hansjörg",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr. ",
+            "VORNAME": "Heiko",
+            "NACHNAME": "Heßenkemper",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20675C - 20688D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20675"
+      }
+    ]
   }
 }

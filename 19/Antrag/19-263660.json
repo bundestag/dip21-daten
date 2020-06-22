@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Diesel-Fahrverbote sofort und vollständig aufheben - neueste wissenschaftliche Daten berücksichtigen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20069",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920069.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/166",
+      "PLPR_SEITEN": "20742A - 20750D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20742"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
@@ -27,27 +34,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20069",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920069.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Marc",
-          "NACHNAME": "Bernhard",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Karsten",
-          "NACHNAME": "Hilse",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20069",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920069.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marc",
+            "NACHNAME": "Bernhard",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20742A - 20750D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20742"
+      }
+    ]
   }
 }

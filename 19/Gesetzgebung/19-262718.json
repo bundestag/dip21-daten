@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D061",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/19494)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920147.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/164",
-      "PLPR_SEITEN": "20467B - 20474A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20467"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/164",
+        "PLPR_SEITEN": "20467B - 20474A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19164.pdf#P.20467"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/166",
+        "PLPR_SEITEN": "20776A - 20787C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20776"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/166",
+        "PLPR_SEITEN": "20787C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20787"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -223,6 +239,18 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung; Titeländerung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20776A - 20787C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20776"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20787C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20787"
       }
     ]
   }

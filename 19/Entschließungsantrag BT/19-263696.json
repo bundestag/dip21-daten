@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,31 +14,67 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920169.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/166",
+      "PLPR_SEITEN": "20732C - 20742A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20732"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Recht",
+      "Innere Sicherheit",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
+    "SCHLAGWORT": [
+      "Brief-, Post- und Fernmeldegeheimnis",
+      "Bundeskriminalamt",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität"
+      },
+      "Hasskriminalität",
+      "Internet",
+      "Kinderpornografie",
+      "Meldepflicht",
+      "Netzwerkdurchsetzungsgesetz",
+      "Politische Kultur",
+      "Rechtsextremismus",
+      "Soziale Medien"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "17.06.2020 - BT-Drucksache 19/20169",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920169.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Roman Johannes",
-          "NACHNAME": "Reusch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Brandner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "17.06.2020 - BT-Drucksache 19/20169",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920169.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Roman Johannes",
+            "NACHNAME": "Reusch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20732C - 20742A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20732"
+      }
+    ]
   }
 }

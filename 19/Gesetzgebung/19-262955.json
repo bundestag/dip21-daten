@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Abmilderung der Folgen der COVID-19-Pandemie im Pauschalreisevertragsrecht",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C153",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 293/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919851.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "990",
-      "PLPR_SEITEN": "161 - 161",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.161"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "990",
+        "PLPR_SEITEN": "161 - 161",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.161"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/165",
+        "PLPR_SEITEN": "20599B - 20607C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20599"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -104,6 +113,111 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "10.06.2020 - BT-Drucksache 19/19851\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919851.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20599B - 20607C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20599",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20599D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Lothar",
+            "NACHNAME": "Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20600C"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Steineke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20601B"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Marcel",
+            "NACHNAME": "Klinge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20602B"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20603B"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20604A"
+          },
+          {
+            "VORNAME": "Gülistan",
+            "NACHNAME": "Yüksel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20604D"
+          },
+          {
+            "VORNAME": "Paul",
+            "NACHNAME": "Lehrieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20605C"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "20606B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20607B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/19851"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
       }
     ]
   }

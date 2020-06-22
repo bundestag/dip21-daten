@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Effektive und verbraucherfreundliche Hilfen für die Reisewirtschaft",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20045",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920045.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/165",
+      "PLPR_SEITEN": "20599B - 20607C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20599"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
@@ -25,28 +32,122 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20045",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920045.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Roman",
-          "NACHNAME": "Müller-Böhm",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20045",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920045.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Roman",
+            "NACHNAME": "Müller-Böhm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Marcel",
+            "NACHNAME": "Klinge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.06.2020 - BT-Plenarprotokoll 19/165, S. 20599B - 20607C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19165.pdf#P.20599",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20599D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Lothar",
+            "NACHNAME": "Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20600C"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Steineke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20601B"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Marcel",
+            "NACHNAME": "Klinge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20602B"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20603B"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20604A"
+          },
+          {
+            "VORNAME": "Gülistan",
+            "NACHNAME": "Yüksel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20604D"
+          },
+          {
+            "VORNAME": "Paul",
+            "NACHNAME": "Lehrieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "20605C"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "20606B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "20607C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/20045",
+          "ABSTIMMUNG_BEMERKUNG": "Überweisung gegen den Wunsch der Fraktion der FDP (Sofortabstimmung)"
         },
-        {
-          "PERSON_TITEL": "Dr. ",
-          "VORNAME": "Marcel",
-          "NACHNAME": "Klinge",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
-      ]
-    }
+      }
+    ]
   }
 }
