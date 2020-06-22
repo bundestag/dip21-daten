@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C135",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/17741)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920163.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/152",
-      "PLPR_SEITEN": "18925D - 18939C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18925"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/152",
+        "PLPR_SEITEN": "18925D - 18939C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19152.pdf#P.18925"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/166",
+        "PLPR_SEITEN": "20732C - 20742A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20732"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/166",
+        "PLPR_SEITEN": "20741C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20741"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -57,6 +73,7 @@
       "Kinderpornografie",
       "Meldepflicht",
       "Netzwerkdurchsetzungsgesetz",
+      "Politiker",
       "Politische Kultur",
       {
         "_fundstelle": "true",
@@ -70,7 +87,7 @@
       "Strafprozessordnung",
       "Telemediengesetz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " \r\n Beschlussempfehlung des Ausschusses:  Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -335,6 +352,18 @@
         "URHEBER": "Änderungsantrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
         "FUNDSTELLE": "17.06.2020 - BT-Drucksache 19/20168",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920168.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20732C - 20742A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20732"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20741C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20741"
       }
     ]
   }

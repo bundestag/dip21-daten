@@ -23,18 +23,37 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Landwirtschaft und Ernährung",
+      "Wissenschaft, Forschung und Technologie"
+    ],
     "SCHLAGWORT": [
       "Antibiotika-Resistenz",
-      "Antibiotikum",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Antibiotikum"
+      },
       "Arzneimittelforschung",
+      "Arzneimittelversorgung",
+      "Diagnose",
       "Grundlagenforschung",
+      "Pflanzenschutzmittel",
       "Pharmazeutische Industrie",
+      "Qualitätssicherung",
       "Tierarzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierhaltung"
+      },
+      "Tierkrankheit",
+      "Umweltbelastung",
+      "Veterinärkontrolle",
       "Veterinärmedizin",
-      "Viehwirtschaft"
+      "Viehwirtschaft",
+      "Wasserverunreinigung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 33 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
