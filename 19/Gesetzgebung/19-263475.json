@@ -9,20 +9,12 @@
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D062",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 329/20)",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BR",
-        "DRS_NUMMER": "329/20",
-        "DRS_TYP": "Gesetzentwurf",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BR",
-        "DRS_NUMMER": "zu329/20(2)",
-        "DRS_TYP": "Berichtigung",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20(zu2).pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BR",
+      "DRS_NUMMER": "329/20",
+      "DRS_TYP": "Gesetzentwurf",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -69,15 +61,24 @@
       },
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "URHEBER": "Gesetzentwurf ",
         "FUNDSTELLE": "17.06.2020 - BR-Drucksache zu329/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20(zu).pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20(zu).pdf",
+        "VP_ABSTRAKT": "Berichtigung"
       },
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Gesetzentwurf ",
         "FUNDSTELLE": "18.06.2020 - BR-Drucksache zu329/20(2)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20(zu2).pdf"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-20(zu2).pdf",
+        "VP_ABSTRAKT": "Berichtigung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "19.06.2020 - BR-Drucksache 329/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0329-1-20.pdf",
+        "VP_ABSTRAKT": "Fz, AIS, FJ, Wi: Änderungsvorschläge - Fz, Wi: zus. Stellungnahme - FS, K: keine Einwendungen"
       }
     ]
   }

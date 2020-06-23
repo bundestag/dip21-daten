@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Liquidität von Betrieben sichern - Abnehmender Zahlungsmoral von Bund, Ländern und Kommunen begegnen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20044",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920044.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/167",
+      "PLPR_SEITEN": "20954D - 20962A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20954"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -26,27 +33,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20044",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920044.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Manfred",
-          "NACHNAME": "Todtenhausen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Britta Katharina",
-          "NACHNAME": "Dassler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20044",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920044.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Todtenhausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Britta Katharina",
+            "NACHNAME": "Dassler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.06.2020 - BT-Plenarprotokoll 19/167, S. 20954D - 20962A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20954"
+      }
+    ]
   }
 }

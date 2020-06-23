@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Fremdbestimmte Operationen an trans- und intergeschlechtlichen Menschen - Aufarbeiten, Entschuldigen und Entschädigen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/17791",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917791.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/167",
+      "PLPR_SEITEN": "20969A - 20977C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20969"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -39,28 +46,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17791",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917791.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Doris",
-          "NACHNAME": "Achelwilm",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Petra",
-          "NACHNAME": "Sitte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "11.03.2020 - BT-Drucksache 19/17791",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/177/1917791.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Doris",
+            "NACHNAME": "Achelwilm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Petra",
+            "NACHNAME": "Sitte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.06.2020 - BT-Plenarprotokoll 19/167, S. 20969A - 20977C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20969"
+      }
+    ]
   }
 }

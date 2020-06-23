@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Aufhebung des Transsexuellengesetzes und Einführung des Selbstbestimmungsgesetzes (SelbstBestG)",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B090",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/19755)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/19755",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919755.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/167",
+      "PLPR_SEITEN": "20969A - 20977C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20969"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -52,27 +59,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "10.06.2020 - BT-Drucksache 19/19755",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919755.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sven",
-          "NACHNAME": "Lehmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        },
-        {
-          "VORNAME": "Ulle",
-          "NACHNAME": "Schauws",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "10.06.2020 - BT-Drucksache 19/19755",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/197/1919755.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sven",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Ulle",
+            "NACHNAME": "Schauws",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "19.06.2020 - BT-Plenarprotokoll 19/167, S. 20969A - 20977C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20969"
+      }
+    ]
   }
 }
