@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Maßnahmen zur beschleunigten Markteinführung biobasierter Produkte im Rahmen der Nationalen Bioökonomiestrategie",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/19802",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919802.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19802",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919802.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20304",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -22,7 +29,10 @@
       "Landwirtschaft und Ernährung"
     ],
     "SCHLAGWORT": [
-      "Bioökonomie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bioökonomie"
+      },
       "Innovation",
       "Nachhaltige Entwicklung",
       "Programm der Bundesregierung",
@@ -32,28 +42,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "08.06.2020 - BT-Drucksache 19/19802",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919802.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Mario",
-          "NACHNAME": "Brandenburg",
-          "WAHLKREISZUSATZ": "Südpfalz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "08.06.2020 - BT-Drucksache 19/19802",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919802.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Südpfalz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "23.06.2020 - BT-Drucksache 19/20304"
+      }
+    ]
   }
 }

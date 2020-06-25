@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Für eine Europäische Wasserstoffunion",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20020",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920020.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/166",
+      "PLPR_SEITEN": "20802B - 20810B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20802"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
@@ -25,27 +32,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20020",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920020.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Reinhard",
-          "NACHNAME": "Houben",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "16.06.2020 - BT-Drucksache 19/20020",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920020.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "18.06.2020 - BT-Plenarprotokoll 19/166, S. 20802B - 20810B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20802"
+      }
+    ]
   }
 }

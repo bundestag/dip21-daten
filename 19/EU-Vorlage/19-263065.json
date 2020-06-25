@@ -3,17 +3,24 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Die Stunde Europas - Schäden beheben und Perspektiven für die nächste Generation eröffnen\r\nKOM(2020) 456 endg.",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen \r\nDie Stunde Europas - Schäden beheben und Perspektiven für die nächste Generation eröffnen\r\nKOM(2020)456 endg.; Ratsdok.-Nr. 8136/20\r\n",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "295/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "295/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20243",
+        "DRS_TYP": "Unterrichtung"
+      }
+    ],
     "EU_DOK_NR": "Kom. (2020) 456 endg.",
     "SCHLAGWORT": [
       {
@@ -30,44 +37,88 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-      "FUNDSTELLE": "28.05.2020 - BR-Drucksache 295/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "28.05.2020 - BR-Drucksache 295/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.06.2020 - BT-Drucksache 19/20243, Nr. A.26",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "22.06.2020 - BR-Drucksache 295/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-1-20.pdf",
+        "VP_ABSTRAKT": "Zu Drsn 295/20, 297/20, 316/20: EU, Fz, G, U: Stellungnahme - Wi: Kenntnisnahme - zu Drs 295/20: AIS, AV, In, K, Vk: Kenntnisnahme  - zu Drs 297/20: AIS, AV, G, K, U: Kenntnisnahme"
+      }
+    ]
   }
 }
