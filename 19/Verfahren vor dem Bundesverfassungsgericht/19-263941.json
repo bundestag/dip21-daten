@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "319/20",
-      "DRS_TYP": "Empfehlungen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "319/20",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "zu319/20",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20(zu).pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": {
       "_fundstelle": "true",
@@ -21,15 +29,24 @@
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Empfehlungen der Ausschüsse ",
-      "FUNDSTELLE": "23.06.2020 - BR-Drucksache 319/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.06.2020 - BR-Drucksache 319/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "25.06.2020 - BR-Drucksache zu319/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0319-20(zu).pdf",
+        "VP_ABSTRAKT": "Ergänzung weiterer Verfahren"
       }
-    }
+    ]
   }
 }

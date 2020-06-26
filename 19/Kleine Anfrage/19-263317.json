@@ -5,42 +5,84 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Finanzielle Lage der Sozialversicherungen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/19853",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919853.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19853",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919853.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20371",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Soziale Sicherung",
-    "SCHLAGWORT": "Sozialversicherung",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Arbeitslosengeld",
+      "Arbeitslosengeld II",
+      "Arbeitslosenversicherung",
+      "Bundeszuschuss",
+      "Einkommensentwicklung",
+      "Gesetzliche Krankenversicherung",
+      "Gesetzliche Rentenversicherung",
+      "Gesundheitsfonds",
+      "Gesundheitskosten",
+      "Kurzarbeitergeld",
+      "Leistungen für Unterkunft und Heizung",
+      "Pflegekosten",
+      "Pflegeversicherung",
+      "Rücklage",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialversicherung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialversicherungsbeitrag"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sozialversicherungsfinanzierung"
+      },
+      "Versicherungsfremde Leistung"
+    ],
+    "ABSTRAKT": "(insgesamt 22 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "10.06.2020 - BT-Drucksache 19/19853",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919853.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Ekin",
-          "NACHNAME": "Deligöz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Sven-Christian",
-          "NACHNAME": "Kindler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "10.06.2020 - BT-Drucksache 19/19853",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/198/1919853.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ekin",
+            "NACHNAME": "Deligöz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "25.06.2020 - BT-Drucksache 19/20371"
+      }
+    ]
   }
 }
