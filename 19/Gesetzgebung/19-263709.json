@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über die Feststellung eines Zweiten Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2020 (Zweites Nachtragshaushaltsgesetz 2020)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D064",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 330/20)",
@@ -23,13 +23,20 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920000.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/167",
-      "PLPR_SEITEN": "20873A - 20897B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20873"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/167",
+        "PLPR_SEITEN": "20873A - 20897B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19167.pdf#P.20873"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "991"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -271,6 +278,21 @@
           "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "29.06.2020 - BR-Plenarprotokoll 991, TOP 1c",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "keine Einwendungen",
+          "BEZUGSDOKUMENT": "330/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "29.06.2020 - BR-Drucksache 330/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0330-20B.pdf"
       }
     ]
   }

@@ -3,18 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Darlehensfazilität für den öffentlichen Sektor im Rahmen des Mechanismus für einen gerechten Übergang",
+    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Darlehensfazilität für den öffentlichen Sektor im Rahmen des Mechanismus für einen gerechten Übergang\r\nKOM(2020)453 endg.; Ratsdok.-Nr. 8412/20\r\n",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "317/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0317-20.pdf"
-    },
-    "EU_DOK_NR": "Kom. (2020) 453 final",
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "317/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0317-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20243",
+        "DRS_TYP": "Unterrichtung"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 8412/20, Kom. (2020) 453 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
@@ -48,6 +55,32 @@
         "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
         "FUNDSTELLE": "05.06.2020 - BR-Drucksache zu317/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0317-20(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.06.2020 - BT-Drucksache 19/20243, Nr. A.38",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
       }
     ]
   }
