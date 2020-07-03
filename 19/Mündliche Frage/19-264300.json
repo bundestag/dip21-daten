@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Gerechter Zugang zu Impfstoffen, Medikamenten und Diagnostika gegen Covid-19",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/169",
+      "PLPR_SEITEN": "21115A - 21115B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21115"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arzneimittel",
@@ -26,18 +33,45 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 26",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Kai",
-        "NACHNAME": "Gehring",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Kai",
+          "NACHNAME": "Gehring",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Frage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "01.07.2020 - BT-Plenarprotokoll 19/169, S. 21115A - 21115B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21115",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Kai",
+            "NACHNAME": "Gehring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "21115A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hendrik",
+            "NACHNAME": "Hoppenstedt",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "21115A"
+          }
+        ]
       }
-    }
+    ]
   }
 }

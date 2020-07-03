@@ -8,15 +8,23 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20128",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920128.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20128",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/201/1920128.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20716",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920716.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -31,15 +39,31 @@
     ],
     "SCHLAGWORT": [
       "Bundesschulden",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
       "Finanzpolitik",
-      "Nachtragshaushalt",
-      "Seuchenbekämpfung",
+      "Gesundheitswesen",
+      "Grundgesetz Art. 115",
+      "Haushaltsgesetz 2020",
+      "Haushaltsrecht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nachtragshaushalt"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nettokreditaufnahme"
+      },
+      "Schuldenbremse",
+      "Störung des gesamtwirtschaftlichen Gleichgewichts",
+      "Wachstumspolitik",
       "Wirtschaftsförderung",
       "Zweites Nachtragshaushaltsgesetz 2020"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Überschreitung der Regelgrenze zur Kreditaufnahme wegen einer außergewöhnlichen Notsituation in Folge der unmittelbaren gesundheitlichen Gefahren und der volkswirtschaftlichen Auswirkungen der Corona-Pandemie mit erheblicher einnahmen- und ausgabenseitiger Beeinträchtigung der staatlichen Finanzlage, Schaffung nachhaltigen Wachstums und Modernisierung der Volkswirtschaft sowie Sicherung von Arbeitsplätzen und Wohlstand nach der erfolgreichen Begrenzung der Infektionszahlen; Tilgung der aufgenommenen Kredite ab 2023 sowie in den folgenden 19 Haushaltsjahren"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -257,6 +281,51 @@
           "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20716",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920716.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Otto",
+            "NACHNAME": "Fricke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Eckhardt",
+            "NACHNAME": "Rehberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Dennis",
+            "NACHNAME": "Rohde",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
       }
     ]
   }

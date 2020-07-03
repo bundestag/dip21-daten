@@ -10,16 +10,24 @@
       "Nordrhein-Westfalen",
       "Saarland"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C150",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 211/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "211/20",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "211/20",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20623",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920623.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
@@ -56,7 +64,7 @@
       },
       "Vormundschaftsgericht"
     ],
-    "ABSTRAKT": "Reduzierung der abstrakten Ansteckungsgefahren bei der richterlichen Anhörung in Betreuungsverfahren und Unterbringungsverfahren im Fall einer vom Deutschen Bundestag festgestellten nationalen Pandemie durch Zulässigkeit der Nutzung von Bild- und Tonübertragung an einen anderen Ort; \r\nÄnderung §§ 278 und 319 Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit \r\n"
+    "ABSTRAKT": "Reduzierung der abstrakten Ansteckungsgefahren bei der richterlichen Anhörung in Betreuungsverfahren und Unterbringungsverfahren im Fall einer vom Deutschen Bundestag festgestellten nationalen Pandemie durch Zulässigkeit der Nutzung von Bild- und Tonübertragung an einen anderen Ort; \r\nÄnderung §§ 278 und 319 Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -93,6 +101,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.05.2020 - BR-Drucksache 211/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0211-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20623\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920623.pdf"
       }
     ]
   }

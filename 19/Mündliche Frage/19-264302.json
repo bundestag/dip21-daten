@@ -7,6 +7,13 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/169",
+      "PLPR_SEITEN": "21115B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21115"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bank",
@@ -28,18 +35,44 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 27",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Fabio",
-        "NACHNAME": "De Masi",
-        "FUNKTION": "MdB",
-        "FRAKTION": "DIE LINKE",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Fabio",
+          "NACHNAME": "De Masi",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Frage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "01.07.2020 - BT-Plenarprotokoll 19/169, S. 21115B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21115",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Fabio",
+            "NACHNAME": "De Masi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "21115B"
+          },
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Hagedorn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "21115B"
+          }
+        ]
       }
-    }
+    ]
   }
 }
