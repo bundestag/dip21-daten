@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Kritische und effektive Ausübung der sogenannten Integrationsverantwortung des  \r\nDeutschen Bundestages im Zusammenhang mit Entscheidungen des \r\nRates der Europäischen Zentralbank \r\n",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20616",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920616.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/170",
+      "PLPR_SEITEN": "21274C - 21283B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21274"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -33,27 +40,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "25.06.2020 - BT-Drucksache 19/20616",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920616.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Tobias Matthias",
-          "NACHNAME": "Peterka",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Peter",
-          "NACHNAME": "Boehringer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "25.06.2020 - BT-Drucksache 19/20616",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920616.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Boehringer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21274C - 21283B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21274"
+      }
+    ]
   }
 }

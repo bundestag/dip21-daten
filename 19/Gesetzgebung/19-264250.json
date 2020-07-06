@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Veröffentlichung von Informationen über Geld- und Wertpapiervermögen Verstorbener zugunsten unbekannter Erben",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D068",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 379/20)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "379/20",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0379-20.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "992"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
@@ -26,11 +31,22 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen ",
-      "FUNDSTELLE": "29.06.2020 - BR-Drucksache 379/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0379-20.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen ",
+        "FUNDSTELLE": "29.06.2020 - BR-Drucksache 379/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0379-20.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 77",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "379/20"
+        }
+      }
+    ]
   }
 }

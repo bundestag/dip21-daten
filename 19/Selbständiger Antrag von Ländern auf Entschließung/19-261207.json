@@ -8,7 +8,7 @@
       "Baden-Württemberg",
       "Bremen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,13 +17,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0187-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Absetzung von der TO",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "990",
-      "PLPR_SEITEN": "151 - 151",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.151"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "990",
+        "PLPR_SEITEN": "151 - 151",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.151"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
     "SCHLAGWORT": [
@@ -70,6 +77,21 @@
           "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "187/20"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 74",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "187/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 187/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0187-20B.pdf"
       }
     ]
   }

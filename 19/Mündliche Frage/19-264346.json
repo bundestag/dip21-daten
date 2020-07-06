@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Anzahl der Mobilfunkmasten in Sachsen, Sachsen-Anhalt und Thüringen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/169",
+      "PLPR_SEITEN": "21132B - 21132C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21132"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -21,11 +28,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 81",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 81",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "01.07.2020 - BT-Plenarprotokoll 19/169, S. 21132B - 21132C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21132",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Herbst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "21132B"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "21132B"
+          }
+        ]
+      }
+    ]
   }
 }

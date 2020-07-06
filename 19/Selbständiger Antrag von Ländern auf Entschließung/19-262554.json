@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates für einen zielorientierten Ausbau der Erneuerbaren Energien und einen adäquaten Rahmen für den Übergang in die Post-EEG-Phase",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0277-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "990",
-      "PLPR_SEITEN": "155 - 155",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.155"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "990",
+        "PLPR_SEITEN": "155 - 155",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/990.pdf#P.155"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
@@ -78,6 +85,21 @@
         "FUNDSTELLE": "19.06.2020 - BR-Drucksache 277/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0277-1-20.pdf",
         "VP_ABSTRAKT": "Wi: Annahme - U: Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 23b",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "277/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 277/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0277-20B.pdf"
       }
     ]
   }

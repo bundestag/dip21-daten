@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Protokoll vom 10. Oktober 2018 zur Änderung des Übereinkommens vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XB001",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 267/20)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "267/20",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Durchgang",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "992"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -35,15 +40,32 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-      "FUNDSTELLE": "22.05.2020 - BR-Drucksache 267/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "22.05.2020 - BR-Drucksache 267/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 35",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "keine Einwendungen",
+          "BEZUGSDOKUMENT": "267/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 267/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20B.pdf"
       }
-    }
+    ]
   }
 }

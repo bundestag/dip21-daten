@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Gesetz zur Stärkung von intensivpflegerischer Versorgung und medizinischer Rehabilitation in der gesetzlichen Krankenversicherung\r\n(Intensivpflege- und Rehabilitationsstärkungsgesetz - GKV-IPReG)\r\n",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,31 +14,46 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920750.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/170",
+      "PLPR_SEITEN": "21263A - 21274C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21263"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20750",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920750.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Pia",
-          "NACHNAME": "Zimmermann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Sören",
-          "NACHNAME": "Pellmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20750",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920750.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Pia",
+            "NACHNAME": "Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Sören",
+            "NACHNAME": "Pellmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21263A - 21274C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21263"
+      }
+    ]
   }
 }

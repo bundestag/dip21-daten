@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur EEG-Reform: Ausbau der Erneuerbaren Energien voranbringen",
     "INITIATIVE": "Schleswig-Holstein",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0212-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "989",
-      "PLPR_SEITEN": "134 - 134",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.134"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "989",
+        "PLPR_SEITEN": "134 - 134",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.134"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -83,6 +90,21 @@
         "FUNDSTELLE": "22.06.2020 - BR-Drucksache 212/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0212-1-20.pdf",
         "VP_ABSTRAKT": "Wi, AV, U: Annahme in geänderter Fassung - Vk, Wo: Annahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 23a",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "212/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 212/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0212-20B.pdf"
       }
     ]
   }

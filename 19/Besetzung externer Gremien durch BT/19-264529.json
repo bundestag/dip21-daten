@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl von Mitgliedern des Stiftungsrates der \"Stiftung zur Aufarbeitung der SED-Diktatur\"",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,30 @@
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920608.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/170",
+      "PLPR_SEITEN": "21230C - 21232C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21230"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20608",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920608.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20608",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920608.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21230C - 21232C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21230"
+      }
+    ]
   }
 }

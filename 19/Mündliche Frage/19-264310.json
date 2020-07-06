@@ -3,8 +3,8 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Einhaltung von Abstands- und Hygieneempfehlungen und Covid-19-Infektionen in libyschen \"Detention Centers\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Kenntnisse über die Einhaltung von Abstands- und Hygieneempfehlungen und über Covid-19-Infektionen in libyschen \"Detention Centers\"",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -12,6 +12,13 @@
       "DRS_NUMMER": "19/20373",
       "DRS_TYP": "Fragen",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/169",
+      "PLPR_SEITEN": "21124D - 21125A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21124"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -31,18 +38,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 57",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Luise",
-        "NACHNAME": "Amtsberg",
-        "FUNKTION": "MdB",
-        "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-        "AKTIVITAETSART": "Frage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20373, Nr. 57",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920373.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage",
+        "FUNDSTELLE": "01.07.2020 - BT-Plenarprotokoll 19/169, S. 21124D - 21125A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21124",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "21124D"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "21124D"
+          }
+        ]
       }
-    }
+    ]
   }
 }

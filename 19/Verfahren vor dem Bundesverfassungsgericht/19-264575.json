@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
     "TITEL": "Übersicht 8 des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) über die dem Deutschen Bundestag zugeleiteten Streitsachen vor dem Bundesverfassungsgericht",
     "INITIATIVE": "Ausschuss für Recht und Verbraucherschutz",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20713",
       "DRS_TYP": "Beschlussempfehlung und Bericht",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920713.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/170",
+      "PLPR_SEITEN": "21224B - 21224C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21224"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -25,11 +32,19 @@
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
-      "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20713",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920713.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20713",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920713.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21224B - 21224C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21224"
+      }
+    ]
   }
 }
