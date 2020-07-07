@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Nutztierhaltung an Fläche binden",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920673.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/139",
-      "PLPR_SEITEN": "17399C - 17410C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19139.pdf#P.17399"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/139",
+        "PLPR_SEITEN": "17399C - 17410C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19139.pdf#P.17399"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/171",
+        "PLPR_SEITEN": "21454A - 21462D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21454"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -250,6 +259,17 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21454A - 21462D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21454",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21462C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/15120"
+        }
       }
     ]
   }

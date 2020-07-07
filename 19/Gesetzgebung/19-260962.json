@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zum Schutz elektronischer Patientendaten in der Telematikinfrastruktur (Patientendaten-Schutz-Gesetz - PDSG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M039",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 164/20 (bes.eilbed.))",
@@ -21,6 +21,12 @@
         "DRS_NUMMER": "19/18793",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/187/1918793.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20708",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920708.pdf"
       }
     ],
     "PLENUM": [
@@ -37,6 +43,20 @@
         "PLPR_NUMMER": "989",
         "PLPR_SEITEN": "126 - 126",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/989.pdf#P.126"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/171",
+        "PLPR_SEITEN": "21423D - 21437D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21423"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/171",
+        "PLPR_SEITEN": "21437B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
       }
     ],
     "EU_DOK_NR": "",
@@ -206,6 +226,80 @@
         "ZUWEISUNG": {
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
           "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20708",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920708.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Heidenblut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Achim",
+            "NACHNAME": "Kessler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Tino",
+            "NACHNAME": "Sorge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21423D - 21437D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21423",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21437B",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/18793, 19/20708"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21437B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21437B",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/18793, 19/20708"
         }
       }
     ]

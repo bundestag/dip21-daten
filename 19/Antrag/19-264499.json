@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Wahlrechtsreform - Der Weg zu einem kleineren Bundestag",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/20602",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920602.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/171",
+      "PLPR_SEITEN": "21437D - 21453C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -33,27 +40,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20602",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920602.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Albrecht",
-          "NACHNAME": "Glaser",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Tobias Matthias",
-          "NACHNAME": "Peterka",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20602",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920602.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21437D - 21453C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
+      }
+    ]
   }
 }

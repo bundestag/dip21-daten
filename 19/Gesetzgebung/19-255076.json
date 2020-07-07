@@ -19,13 +19,22 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/146/1914672.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/127",
-      "PLPR_SEITEN": "15953A - 15963A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19127.pdf#P.15953"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/127",
+        "PLPR_SEITEN": "15953A - 15963A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19127.pdf#P.15953"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung über Bericht gemäß § 62 Abs. 2 Geschäftsordnung BT",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/171",
+        "PLPR_SEITEN": "21437D - 21453C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bundestag",
@@ -158,6 +167,22 @@
           "FUNKTION": "MdB",
           "FRAKTION": "CDU/CSU",
           "AKTIVITAETSART": "Berichterstattung"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung über Bericht gemäß § 62 Abs. 2 Geschäftsordnung BT",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21437D - 21453C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21453B - 21453D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21453",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21464A",
+          "BESCHLUSSTENOR": "Ablehnung Geschäftsordnungsantrag"
         }
       }
     ]

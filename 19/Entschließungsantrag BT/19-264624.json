@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Entschließungsantrag BT",
-    "TITEL": "Entschließungsantrag zum Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung und zur Änderung weiterer Gesetze \r\n(Kohleausstiegsgesetz)",
+    "TITEL": "Entschließungsantrag zum Gesetz zur Reduzierung und zur Beendigung der Kohleverstromung und zur Änderung weiterer Gesetze (Kohleausstiegsgesetz)",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,31 +14,62 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920754.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/171",
+      "PLPR_SEITEN": "21385B - 21405C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21385"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Umwelt",
+      "Energie"
+    ],
+    "SCHLAGWORT": [
+      "Kohleausstieg",
+      "Kohleausstiegsgesetz",
+      "Kohlepolitik",
+      "Kohleverstromungsbeendigungsgesetz"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20754",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920754.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Lorenz Gösta",
-          "NACHNAME": "Beutin",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Hubertus",
-          "NACHNAME": "Zdebel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Entschließungsantrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20754",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920754.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lorenz Gösta",
+            "NACHNAME": "Beutin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Hubertus",
+            "NACHNAME": "Zdebel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.07.2020 - BT-Plenarprotokoll 19/171, S. 21385B - 21405C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21385",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21423D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/20754"
         }
-      ]
-    }
+      }
+    ]
   }
 }
