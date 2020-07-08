@@ -15,11 +15,22 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21232"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Wirtschaft",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Staat und Verwaltung"
+    ],
     "SCHLAGWORT": [
       "Bargeldloser Zahlungsverkehr",
+      "Bundesanstalt für Finanzdienstleistungsaufsicht",
       "Finanzdienstleistung",
-      "Wirecard",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Finanzdienstleistungsaufsicht"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wirecard"
+      },
       "Wirtschaftsaufsicht",
       "Wirtschaftsprüfung"
     ],
