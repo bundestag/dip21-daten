@@ -15,11 +15,18 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920687.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
+    "SACHGEBIET": [
+      "Gesellschaftspolitik, soziale Gruppen",
+      "Sport, Freizeit und Tourismus"
+    ],
     "SCHLAGWORT": [
+      "Bundesmittel",
       "Familientourismus",
       "Ferienanlage",
-      "Jugendaustausch",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Jugendaustausch"
+      },
       "Nationalbewusstsein"
     ],
     "ABSTRAKT": ""
