@@ -15,7 +15,10 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/098/1909800.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Recht",
+    "SACHGEBIET": [
+      "Recht",
+      "Staat und Verwaltung"
+    ],
     "SCHLAGWORT": [
       "Bericht",
       "Blockchain",
@@ -24,7 +27,10 @@
         "__cdata": "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit"
       },
       "Datenaustausch",
-      "Datenschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Datenschutz"
+      },
       "Datenschutzbeauftragter",
       "Datenschutz-Grundverordnung",
       "Digitalisierung",

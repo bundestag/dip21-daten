@@ -50,19 +50,34 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Außenwerbung",
+      "E-Zigarette",
+      "Filmtheater",
+      "Gesundheitsschutz",
       "Jugendschutz",
       "Jugendschutzgesetz",
-      "Tabakerzeugnisgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tabakerzeugnisgesetz"
+      },
+      "Tabakerzeugnisverordnung",
       "Tabaksteuer",
       "Tabaksteuergesetz",
-      "Tabakwaren",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tabakwaren"
+      },
       "Verbraucherschutz",
+      "Werberecht",
+      "Werbung",
       "Zigarette"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Regulierung nikotinfreier elektronischer Zigaretten und Nachfüllbehälter durch Gleichstellung mit nikotinhaltigen Erzeugnissen zum Schutz von Verbrauchern vor Gesundheitsschäden, Ausweitung der Werbeverbote (Verbot der Außenwerbung, Einschränkung der Kinowerbung sowie Verbot der kostenlosen Abgabe von Tabakerzeugnissen); \r\nÄnderung und Einfügung zahlr. §§ Tabakerzeugnisgesetz, Änderung §§ 11 und 28 Jugendschutzgesetz, Aufhebung § 29 und Änderung § 36 Tabaksteuergesetz, Änderung Tabakerzeugnisverordnung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -235,13 +250,99 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "2. Beratung",
         "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21322A - 21329C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21322"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21322",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Gitta",
+            "NACHNAME": "Connemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21322B"
+          },
+          {
+            "VORNAME": "Wilhelm",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Gottberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21323C"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Gero Clemens",
+            "NACHNAME": "Hocker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21324C"
+          },
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21325C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Kappert-Gonther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21326B"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Ludwig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21327B"
+          },
+          {
+            "VORNAME": "Nezahat",
+            "NACHNAME": "Baradari",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21328B"
+          },
+          {
+            "VORNAME": "Rainer",
+            "NACHNAME": "Spiering",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "21363A"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "21329A",
+            "BESCHLUSSTENOR": "Annahme der Vorlage",
+            "BEZUGSDOKUMENT": "19/19495"
+          },
+          {
+            "BESCHLUSSSEITE": "21329B",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "19/20667"
+          }
+        ]
       },
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "3. Beratung",
         "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21329B",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21329"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21329",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21329B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/19495"
+        }
       }
     ]
   }
