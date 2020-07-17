@@ -5,49 +5,80 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Differenzen in der Zählung der türkischen Staatsbürger und Türkischstämmigen in Deutschland",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20824",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/208/1920824.pdf"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
-    "SCHLAGWORT": [
-      "Ausländer",
-      "Datenerhebung",
-      "Migrant",
-      "Türkei"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20824",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/208/1920824.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21095",
+        "DRS_TYP": "Antwort"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Gesellschaftspolitik, soziale Gruppen",
+      "Ausländerpolitik, Zuwanderung"
+    ],
+    "SCHLAGWORT": [
+      "Aktives Wahlrecht",
+      "Ausbürgerung",
+      "Datenerhebung",
+      "Deutscher Staatsangehöriger ausländischer Herkunft",
+      "Doppelte Staatsangehörigkeit",
+      "Einbürgerung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Migrant"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Staatsangehörigkeit"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Türkei"
+      }
+    ],
+    "ABSTRAKT": "(insgesamt 10 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "06.07.2020 - BT-Drucksache 19/20824",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/208/1920824.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Bernd",
-          "NACHNAME": "Baumann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gottfried",
-          "NACHNAME": "Curio",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "06.07.2020 - BT-Drucksache 19/20824",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/208/1920824.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Baumann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gottfried",
+            "NACHNAME": "Curio",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "15.07.2020 - BT-Drucksache 19/21095"
+      }
+    ]
   }
 }
