@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "98/20",
-      "DRS_TYP": "Verordnung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0098-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "98/20",
+        "DRS_TYP": "Verordnung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0098-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "zu98/20(B)",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0098-20B(zu).pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "BR-Sitzung",
       "PLPR_HERAUSGEBER": "BR",
@@ -138,6 +146,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "27.03.2020 - BR-Drucksache 98/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0098-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung ",
+        "FUNDSTELLE": "06.07.2020 - BR-Drucksache zu98/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0098-20B(zu).pdf",
+        "VP_ABSTRAKT": "Antwort der Bundesregierung auf die Entschließung des Bundesrates in Drs 98/20 (Beschluss)"
       }
     ]
   }
