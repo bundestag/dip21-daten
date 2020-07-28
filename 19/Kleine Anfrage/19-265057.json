@@ -15,12 +15,23 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/211/1921174.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Landwirtschaft und Ernährung",
+      "Öffentliche Finanzen, Steuern und Abgaben"
+    ],
     "SCHLAGWORT": [
-      "Lebensmittelkennzeichnung",
+      "Bundesmittel",
+      "Externe Beratung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lebensmittelkennzeichnung"
+      },
+      "Personalkosten",
       "Tierhaltung",
-      "Tierisches Produkt",
-      "Tierschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierisches Produkt"
+      },
       "Tierschutzkennzeichnung"
     ],
     "ABSTRAKT": ""
