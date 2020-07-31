@@ -23,15 +23,33 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Innere Sicherheit"
+    ],
     "SCHLAGWORT": [
       "Bundesamt für den Militärischen Abschirmdienst",
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
       "Bundeswehrangehöriger",
-      "Extremismus",
-      "Verfassungstreue"
+      "Kommando Spezialkräfte",
+      "Nationalsozialismus",
+      "Politische Linke",
+      "Politische Rechte",
+      "Politisches Symbol",
+      "Rechtsextremismus",
+      "Soldatengesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verfassungstreue"
+      },
+      "Wehrdisziplinarrecht",
+      "Wehrmacht",
+      "Wehrrecht"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 49 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

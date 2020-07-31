@@ -30,17 +30,27 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21263"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Gesellschaftspolitik, soziale Gruppen"
+    ],
     "SCHLAGWORT": [
-      "Altenheim",
-      "Altenhilfe",
-      "Altenpflege",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Altenheim"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
       "Grundrecht",
-      "Persönliche Freiheit"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Persönliche Freiheit"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Bundesweite Sicherstellung des Grundrechts auf Bewegungsfreiheit wie Spaziergänge im Freien, keine Schlechterstellung von Heimbewohnern im Rahmen der geltenden allgemeinen Einschränkungen zur COVID-19-Pandemie"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
