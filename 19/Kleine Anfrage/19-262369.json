@@ -23,18 +23,20 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Gesundheit",
-      "Entwicklungspolitik"
-    ],
+    "SACHGEBIET": "Entwicklungspolitik",
     "SCHLAGWORT": [
       "Bundesmittel",
-      "COVID-19",
-      "Entwicklungszusammenarbeit",
-      "Gesundheitsschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Seuchenbekämpfung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 6 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
