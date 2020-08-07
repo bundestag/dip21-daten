@@ -23,18 +23,33 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Verkehr"
+    ],
     "SCHLAGWORT": [
-      "COVID-19",
-      "Epidemie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Gesundheitsschutz",
       "Grenzüberschreitender Verkehr",
-      "Güterkraftverkehrsgewerbe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Güterkraftverkehrsgewerbe"
+      },
       "Güterverkehr",
+      "Insolvenz",
+      "Klimaschutz",
+      "Programm der EU",
+      "Schienengüterverkehr",
       "Sonntagsfahrverbot",
       "Sozialvorschriften im Straßenverkehr",
       "Straßengüterverkehr",
       "Transportversicherung",
-      "Verkehrswirtschaft"
+      "Trassenpreis",
+      "Verkehrswirtschaft",
+      "Wirtschaftsförderung"
     ],
     "ABSTRAKT": "(insgesamt 19 Einzelfragen)"
   },

@@ -23,18 +23,27 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Bewässerung",
       "Boden",
-      "Dürre",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Dürre"
+      },
       "Ernteschaden",
       "Grundwasser",
       "Landwirtschaft",
       "Niederschlag",
-      "Niederschlagswasser"
+      "Niederschlagswasser",
+      "Niedrigwasser",
+      "Umweltbelastung",
+      "Waldschaden"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 13 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
