@@ -15,16 +15,28 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921340.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Wirtschaft",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Außenwirtschaft"
+    ],
     "SCHLAGWORT": [
       "Beschaffung",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Epidemie",
       "Globalisierung",
       "Güterverkehr",
       "Logistik",
-      "Notfallvorsorge"
+      "Notfallvorsorge",
+      "Welthandel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zulieferindustrie"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": {
