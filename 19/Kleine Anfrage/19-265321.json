@@ -5,48 +5,68 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Entwicklung von Pensionen und Pensionslasten 2019",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21336",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921336.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21336",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921336.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21616",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Soziale Sicherung",
-      "Öffentliche Finanzen, Steuern und Abgaben"
+      "Staat und Verwaltung",
+      "Soziale Sicherung"
     ],
     "SCHLAGWORT": [
       "Beamtenversorgung",
-      "Ruhegehalt"
+      "Beamter",
+      "Rente",
+      "Renteneintrittsalter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ruhegehalt"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 14 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "29.07.2020 - BT-Drucksache 19/21336",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921336.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "René",
-          "NACHNAME": "Springer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Jürgen",
-          "NACHNAME": "Pohl",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "29.07.2020 - BT-Drucksache 19/21336",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921336.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "René",
+            "NACHNAME": "Springer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Pohl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "13.08.2020 - BT-Drucksache 19/21616"
+      }
+    ]
   }
 }

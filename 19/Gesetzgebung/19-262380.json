@@ -8,16 +8,24 @@
       "Bayern",
       "Nordrhein-Westfalen"
     ],
-    "AKTUELLER_STAND": "Einbringung beschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C151",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 256/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "256/20",
-      "DRS_TYP": "Gesetzesantrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0256-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "256/20",
+        "DRS_TYP": "Gesetzesantrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0256-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21609",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921609.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "BR-Sitzung",
@@ -134,6 +142,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "03.07.2020 - BR-Drucksache 256/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0256-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesrat ",
+        "FUNDSTELLE": "12.08.2020 - BT-Drucksache 19/21609\nAnl. Stellungnahme der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921609.pdf"
       }
     ]
   }

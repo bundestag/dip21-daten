@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Private Altersvorsorge unter Druck - Lebensversicherungen und Protektor im Zeitalter dauerhafter Niedrigzinsen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21338",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921338.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21338",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921338.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21618",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -29,27 +36,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "29.07.2020 - BT-Drucksache 19/21338",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921338.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Ulrike",
-          "NACHNAME": "Schielke-Ziesing",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Kay",
-          "NACHNAME": "Gottschalk",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "29.07.2020 - BT-Drucksache 19/21338",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/213/1921338.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulrike",
+            "NACHNAME": "Schielke-Ziesing",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Kay",
+            "NACHNAME": "Gottschalk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
+        "FUNDSTELLE": "13.08.2020 - BT-Drucksache 19/21618"
+      }
+    ]
   }
 }
