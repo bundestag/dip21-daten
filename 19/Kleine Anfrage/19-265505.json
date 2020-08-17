@@ -17,13 +17,23 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
+      "Innere Sicherheit",
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
       "Gesetzgebung",
-      "Informationssicherheit",
-      "IT-Kriminalität",
-      "Klein- und Mittelunternehmen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationssicherheit"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "IT-Kriminalität"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Klein- und Mittelunternehmen"
+      },
       "Nationales Cyber-Abwehrzentrum"
     ],
     "ABSTRAKT": ""
