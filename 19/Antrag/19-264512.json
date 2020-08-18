@@ -15,15 +15,30 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/205/1920565.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Staat und Verwaltung"
+    ],
     "SCHLAGWORT": [
-      "COVID-19",
-      "Epidemie",
-      "Gremium",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Epidemie"
+      },
+      "Evaluation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gremium"
+      },
+      "Internationale Zusammenarbeit",
+      "Politikberatung",
       "Seuchenbekämpfung",
       "Wissenschaft"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Einberufung eines am Bundeskanzleramt angesiedelten, interdisziplinär und divers ausgestalteten, international vernetzten wissenschaftlich unabhängigen Beratungsgremiums für Monitoring, Erstellung von Empfehlungen und Gutachten zu Auswirkungen und Bekämpfung der Pandemie sowie begleitende wissenschaftliche Evaluierung unter ganzheitlicher Berücksichtigung sozialer, ökonomischer und ökologischer neben den medizinischen Folgen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
