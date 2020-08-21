@@ -18,17 +18,29 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/21631",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921631.pdf"
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
+    "SACHGEBIET": [
+      "Staat und Verwaltung",
+      "Außenpolitik und internationale Beziehungen",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
     "SCHLAGWORT": [
-      "Bericht",
+      "Auswärtiges Amt",
       "Bosnien und Herzegowina",
-      "Diplomatische Vertretung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Diplomatische Vertretung"
+      },
       "Flüchtling",
-      "Flüchtlingspolitik",
+      "Informationsaustausch",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Migration"
+      },
       "Österreich",
       "Türkei",
       "Ungarn"
@@ -63,7 +75,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "13.08.2020 - BT-Drucksache 19/21631"
+        "FUNDSTELLE": "13.08.2020 - BT-Drucksache 19/21631",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921631.pdf"
       }
     ]
   }
