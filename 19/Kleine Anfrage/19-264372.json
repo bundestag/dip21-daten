@@ -23,9 +23,17 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Verkehr",
+      "Raumordnung, Bau- und Wohnungswesen"
+    ],
     "SCHLAGWORT": [
-      "Abfallbeseitigung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abfallbeseitigung"
+      },
+      "Abfallverbringung",
       "Barrierefreiheit",
       "Batterie",
       {
@@ -33,14 +41,17 @@
         "__cdata": "Elektrofahrzeug"
       },
       "Ladesäule",
-      "Mülldeponie",
       "Parkfläche",
+      "Sonderabfall",
       "Stadtplanung",
       "Stromverbrauch",
-      "Untertagedeponie",
-      "Verkehrsinfrastruktur"
+      "Veranstaltung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsinfrastruktur"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 15 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
