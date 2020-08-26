@@ -48,10 +48,7 @@
         "_fundstelle": "true",
         "__cdata": "COVID-19"
       },
-      {
-        "_fundstelle": "true",
-        "__cdata": "Datenerhebung"
-      },
+      "Datenerhebung",
       "Diagnose",
       "Epidemie",
       "Evaluation",
@@ -63,7 +60,10 @@
       "Medizinische Statistik",
       "Medizinische Untersuchung",
       "Medizinische Versorgung",
-      "Seuchenbekämpfung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seuchenbekämpfung"
+      },
       "Stichprobe",
       "Test",
       "Virusforschung"
