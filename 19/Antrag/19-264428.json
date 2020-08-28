@@ -22,15 +22,25 @@
       "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19169.pdf#P.21074"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Sport, Freizeit und Tourismus",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Sport, Freizeit und Tourismus"
+    ],
     "SCHLAGWORT": [
       "Auslandsreise",
       "Auswärtiges Amt",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Epidemie",
-      "Reisebestimmungen"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Reisebestimmungen"
+      },
+      "Seuchenbekämpfung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Aufhebung der pauschalen Reisewarnung für Nicht-EU-Staaten, regelmäßige Bewertung der aktuellen Lage in den jeweiligen Staaten und Abgabe differenzierter Hinweise und Reisewarnungen durch das Auswärtige Amt"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
