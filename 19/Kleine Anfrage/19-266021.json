@@ -15,12 +15,21 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921777.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
+    "SACHGEBIET": [
+      "Außenpolitik und internationale Beziehungen",
+      "Sport, Freizeit und Tourismus"
+    ],
     "SCHLAGWORT": [
       "Ägypten",
-      "COVID-19",
-      "Einreisegenehmigung",
-      "Reisebestimmungen"
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Reisebestimmungen"
+      },
+      "Seuchenbekämpfung"
     ],
     "ABSTRAKT": ""
   },
