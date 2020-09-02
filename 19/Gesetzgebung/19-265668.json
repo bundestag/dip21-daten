@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Verbesserung des Vollzugs im Arbeitsschutz (Arbeitsschutzkontrollgesetz)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G041",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 426/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "426/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0426-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "426/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0426-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21978",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921978.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -56,32 +64,40 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-      "FUNDSTELLE": "07.08.2020 - BR-Drucksache 426/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0426-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "07.08.2020 - BR-Drucksache 426/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0426-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21978",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921978.pdf"
+      }
+    ]
   }
 }

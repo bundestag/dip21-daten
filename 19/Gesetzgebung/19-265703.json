@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Drittes Gesetz zur Änderung agrarmarktrechtlicher Bestimmungen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F023",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 430/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "430/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0430-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "430/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0430-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21984",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921984.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -35,15 +43,23 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
-      "FUNDSTELLE": "07.08.2020 - BR-Drucksache 430/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0430-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "07.08.2020 - BR-Drucksache 430/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0430-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21984",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921984.pdf"
       }
-    }
+    ]
   }
 }
