@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Digitalisierung von Verwaltungsverfahren bei der Gewährung von Familienleistungen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B094",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 436/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "436/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0436-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "436/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0436-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21987",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921987.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesellschaftspolitik, soziale Gruppen",
@@ -49,29 +57,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
-      "FUNDSTELLE": "07.08.2020 - BR-Drucksache 436/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0436-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "07.08.2020 - BR-Drucksache 436/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0436-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21987",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921987.pdf"
+      }
+    ]
   }
 }
