@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur marktgestützten Beschaffung von Systemdienstleistungen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E052",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 446/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "446/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0446-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "446/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0446-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21979",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921979.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -31,15 +39,23 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-      "FUNDSTELLE": "07.08.2020 - BR-Drucksache 446/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0446-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "07.08.2020 - BR-Drucksache 446/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0446-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21979",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921979.pdf"
       }
-    }
+    ]
   }
 }
