@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Preisangabengesetzes (PAngG)",
     "INITIATIVE": "Rheinland-Pfalz",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Einbringung beschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E048",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 375/20)",
@@ -15,13 +15,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0375-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "253 - 253",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.253"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "253 - 253",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.253"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -31,45 +38,5 @@
       "Verbraucherschutz"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzesantrag,  Urheber : Rheinland-Pfalz ",
-        "FUNDSTELLE": "25.06.2020 - BR-Drucksache 375/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0375-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 70a, S. 253 - 253",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.253",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "253",
-          "BESCHLUSSTENOR": "Ausschusszuweisung",
-          "BEZUGSDOKUMENT": "375/20"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "04.09.2020 - BR-Drucksache 375/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0375-1-20.pdf",
-        "VP_ABSTRAKT": "Wi, AV: Einbringung - R: Einbringung in geänderter Fassung"
-      }
-    ]
   }
 }

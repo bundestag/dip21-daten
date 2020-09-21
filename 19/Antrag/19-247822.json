@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Europas Industrie zukunftsfest machen - Innovationen, Zukunftstechnologien, Klimaschutz, fairer Wettbewerb",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Zurückgezogen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,22 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/099/1909955.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/99",
-      "PLPR_SEITEN": "12021D - 12031B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19099.pdf#P.12021"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/99",
+        "PLPR_SEITEN": "12021D - 12031B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19099.pdf#P.12021"
+      },
+      {
+        "PLPR_KLARTEXT": "Amtliche Mitteilung: Rücknahme",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21927B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21927"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -31,135 +40,5 @@
       "Wettbewerbsrecht"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-        "FUNDSTELLE": "08.05.2019 - BT-Drucksache 19/9955",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/099/1909955.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Kerstin",
-            "NACHNAME": "Andreae",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Antrag"
-          },
-          {
-            "VORNAME": "Katharina",
-            "NACHNAME": "Dröge",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Antrag"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Beratung",
-        "FUNDSTELLE": "10.05.2019 - BT-Plenarprotokoll 19/99, S. 12021D - 12031B",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19099.pdf#P.12021",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Katharina",
-            "NACHNAME": "Dröge",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12022A"
-          },
-          {
-            "VORNAME": "Stefan",
-            "NACHNAME": "Rouenhoff",
-            "FUNKTION": "MdB",
-            "FRAKTION": "CDU/CSU",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12023B"
-          },
-          {
-            "VORNAME": "Enrico",
-            "NACHNAME": "Komning",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12024B"
-          },
-          {
-            "VORNAME": "Markus",
-            "NACHNAME": "Töns",
-            "FUNKTION": "MdB",
-            "FRAKTION": "SPD",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12025B"
-          },
-          {
-            "VORNAME": "Reinhard",
-            "NACHNAME": "Houben",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12026B"
-          },
-          {
-            "VORNAME": "Alexander",
-            "NACHNAME": "Ulrich",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12027A"
-          },
-          {
-            "VORNAME": "Axel",
-            "NACHNAME": "Knoerig",
-            "FUNKTION": "MdB",
-            "FRAKTION": "CDU/CSU",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12028B"
-          },
-          {
-            "VORNAME": "Johann",
-            "NACHNAME": "Saathoff",
-            "FUNKTION": "MdB",
-            "FRAKTION": "SPD",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12029B"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Matthias",
-            "NACHNAME": "Heider",
-            "FUNKTION": "MdB",
-            "FRAKTION": "CDU/CSU",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "12030B"
-          }
-        ],
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "12031A",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/9955"
-        },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
-          }
-        ]
-      }
-    ]
   }
 }

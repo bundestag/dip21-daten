@@ -8,7 +8,7 @@
       "Berlin",
       "Thüringen"
     ],
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Einbringung abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B070",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 482/19)",
@@ -18,13 +18,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0482-19.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "982",
-      "PLPR_SEITEN": "491 - 491",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/982.pdf#P.491"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "982",
+        "PLPR_SEITEN": "491 - 491",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/982.pdf#P.491"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Ausländerpolitik, Zuwanderung",
     "SCHLAGWORT": [
@@ -44,42 +51,5 @@
       "Zuständigkeit"
     ],
     "ABSTRAKT": "Möglichkeit humanitärer Aufnahme von Geflüchteten auf Grundlage einer Aufnahmeanordnung durch oberste Landesbehörden: Ersetzen hierfür notwendigerweise einzuholenden Einvernehmens des BMI (Einvernehmenserfordernis) durch ein reines Benehmen (Benehmenserfordernis); \r\nÄnderung § 23 Aufenthaltsgesetz"
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzesantrag,  Urheber : Berlin, Thüringen ",
-        "FUNDSTELLE": "07.10.2019 - BR-Drucksache 482/19",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0482-19.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "25.10.2019 - BR-Drucksache 482/1/19",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0482-1-19.pdf",
-        "VP_ABSTRAKT": "In: Ablehnung der Einbringung - AIS: Einbringung"
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "08.11.2019 - BR-Plenarprotokoll 982, TOP 21, S. 491 - 491",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/982.pdf#P.491",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "491",
-          "BESCHLUSSTENOR": "Absetzung von TO",
-          "BEZUGSDOKUMENT": "482/19"
-        }
-      }
-    ]
   }
 }

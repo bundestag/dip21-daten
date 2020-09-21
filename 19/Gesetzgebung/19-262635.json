@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Protokoll vom 10. Oktober 2018 zur Änderung des Übereinkommens vom 28. Januar 1981 zum Schutz des Menschen bei der automatischen Verarbeitung personenbezogener Daten",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XB001",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 267/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920920.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "228 - 228",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.228"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "228 - 228",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.228"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/173",
+        "PLPR_SEITEN": "21680D - 21683D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21680"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -48,43 +57,5 @@
       "Transparenz"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "22.05.2020 - BR-Drucksache 267/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20.pdf",
-        "ZUWEISUNG": {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 35, S. 228 - 228",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.228",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "228",
-          "BESCHLUSSTENOR": "keine Einwendungen",
-          "BEZUGSDOKUMENT": "267/20",
-          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Beschlussdrucksache ",
-        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 267/20(B)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0267-20B.pdf"
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "08.07.2020 - BT-Drucksache 19/20920",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920920.pdf"
-      }
-    ]
   }
 }

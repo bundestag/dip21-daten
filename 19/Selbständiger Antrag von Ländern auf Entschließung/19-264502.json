@@ -8,7 +8,7 @@
       "Rheinland-Pfalz",
       "Thüringen"
     ],
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,13 +17,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0383-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "235 - 235",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "235 - 235",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -41,65 +48,5 @@
       "Subvention"
     ],
     "ABSTRAKT": "Notwendigkeit der Entwicklung von Vergütungskonzepten für den Erhalt von Biomasseanlagen, Bewertung der energetischen Nutzung von Wirtschaftsdüngern, landwirtschaftlichen Reststoffen und von ökologisch vorteilhaften Substraten in Biogasanlagen als wichtige Klimaschutzmaßnahme, Bitte an die Bundesregierung um Vorlage nutzbarer Vergütungskonzepte"
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Länderantrag,  Urheber : Rheinland-Pfalz, Thüringen ",
-        "FUNDSTELLE": "30.06.2020 - BR-Drucksache 383/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0383-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Ausschusszuweisung",
-        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 80, S. 235 - 235",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Ulrike",
-            "NACHNAME": "Höfken",
-            "FUNKTION": "MdBR",
-            "FUNKTIONSZUSATZ": "Ministerin für Umwelt, Energie, Ernährung und Forsten",
-            "BUNDESLAND": "Rheinland-Pfalz",
-            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
-            "SEITE": "235"
-          },
-          {
-            "VORNAME": "Anja",
-            "NACHNAME": "Siegesmund",
-            "FUNKTION": "MdBR",
-            "FUNKTIONSZUSATZ": "Ministerin für Umwelt, Energie und Naturschutz",
-            "BUNDESLAND": "Thüringen",
-            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
-            "SEITE": "235"
-          }
-        ],
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "235",
-          "BESCHLUSSTENOR": "Ausschusszuweisung",
-          "BEZUGSDOKUMENT": "383/20"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "04.09.2020 - BR-Drucksache 383/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0383-1-20.pdf",
-        "VP_ABSTRAKT": "Wi, AV: Annahme - U: Annahme in geänderter Fassung"
-      }
-    ]
   }
 }

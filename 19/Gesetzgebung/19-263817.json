@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Siebtes Gesetz zur Änderung des Kraftfahrzeugsteuergesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D065",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 344/20 (bes.eilbed.))",
@@ -21,15 +21,30 @@
         "DRS_NUMMER": "19/20978",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920978.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22596",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922596.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "235 - 235",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "235 - 235",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/172",
+        "PLPR_SEITEN": "21562A - 21569A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19172.pdf#P.21562"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -46,58 +61,5 @@
       "Straßenverkehrszulassung"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
-        "FUNDSTELLE": "18.06.2020 - BR-Drucksache 344/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0344-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "26.06.2020 - BR-Drucksache 344/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0344-1-20.pdf",
-        "VP_ABSTRAKT": "Fz: keine Einwendungen - U, Vk: Stellungnahme"
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 27, S. 235 - 235",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "235",
-          "BESCHLUSSTENOR": "keine Eiwendungen",
-          "BEZUGSDOKUMENT": "344/20",
-          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Beschlussdrucksache ",
-        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 344/20(B)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0344-20B.pdf"
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
-        "FUNDSTELLE": "10.07.2020 - BT-Drucksache 19/20978",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920978.pdf"
-      }
-    ]
   }
 }

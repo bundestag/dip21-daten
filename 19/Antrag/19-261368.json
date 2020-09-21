@@ -5,14 +5,29 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Atomkraft und Klimaschutz",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/18679",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/186/1918679.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/18679",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/186/1918679.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22611",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922611.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/176",
+      "PLPR_SEITEN": "22045B - 22062C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19176.pdf#P.22045"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -25,46 +40,5 @@
       "Klimaschutz"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-        "FUNDSTELLE": "21.04.2020 - BT-Drucksache 19/18679",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/186/1918679.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Sylvia",
-            "NACHNAME": "Kotting-Uhl",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Antrag"
-          },
-          {
-            "VORNAME": "Lisa",
-            "NACHNAME": "Badum",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Antrag"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Ausschussüberweisung",
-        "FUNDSTELLE": "23.04.2020 - BT-Plenarprotokoll 19/156, S. 19346D - 19349B",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19156.pdf#P.19346",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "19349B",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/18679"
-        },
-        "ZUWEISUNG": {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        }
-      }
-    ]
   }
 }

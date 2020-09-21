@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur aktuellen Anpassung des Freizügigkeitsgesetzes/EU und weiterer Vorschriften an das Unionsrecht",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B087",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 263/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921750.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "235 - 235",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "235 - 235",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/173",
+        "PLPR_SEITEN": "21755C - 21760C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21755"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -65,58 +74,5 @@
       "Unionsbürgerschaft"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "22.05.2020 - BR-Drucksache 263/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0263-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "22.06.2020 - BR-Drucksache 263/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0263-1-20.pdf",
-        "VP_ABSTRAKT": "In, AIS: Änderungsvorschläge - AIS: zus. Stellungnahme - K: keine Einwendungen"
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "03.07.2020 - BR-Plenarprotokoll 992, TOP 28, S. 235 - 235",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.235",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "235",
-          "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
-          "BEZUGSDOKUMENT": "263/20",
-          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Beschlussdrucksache ",
-        "FUNDSTELLE": "03.07.2020 - BR-Drucksache 263/20(B)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0263-20B.pdf"
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "19.08.2020 - BT-Drucksache 19/21750\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921750.pdf"
-      }
-    ]
   }
 }

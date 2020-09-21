@@ -8,11 +8,24 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "399/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0399-20.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "399/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0399-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22367",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922367.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "993"
     },
     "EU_DOK_NR": "Ratsdok. 9346/20, Kom. (2020) 275 endg.",
     "SCHLAGWORT": [
@@ -34,43 +47,5 @@
       "Europäische Union"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-        "FUNDSTELLE": "07.07.2020 - BR-Drucksache 399/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0399-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "07.09.2020 - BR-Drucksache 395/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0395-1-20.pdf",
-        "VP_ABSTRAKT": "Zu Drsn 395/20, 399/20: EU, K, Wi: Stellungnahme - zu Drs 395/20: AIS, G, U: Kenntnisnahme - zu Drs 399/20: U: Stellungnahme - AIS, FJ: Kenntnisnahme"
-      }
-    ]
   }
 }
