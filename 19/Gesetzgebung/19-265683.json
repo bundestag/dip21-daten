@@ -5,21 +5,30 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Siebzehntes Gesetz zur Änderung des Arzneimittelgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F020",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 427/20)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "427/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0427-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "427/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0427-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23159",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923159.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Durchgang",
       "PLPR_HERAUSGEBER": "BR",
       "PLPR_NUMMER": "993",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf"
+      "PLPR_SEITEN": "319 - 319",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.319"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -75,11 +84,12 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "18.09.2020 - BR-Plenarprotokoll 993, TOP 33",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf",
+        "FUNDSTELLE": "18.09.2020 - BR-Plenarprotokoll 993, TOP 33, S. 319 - 319",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.319",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
-          "BEZUGSDOKUMENT": "427/20"
+          "BEZUGSDOKUMENT": "427/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -87,6 +97,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "18.09.2020 - BR-Drucksache 427/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0427-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23159\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923159.pdf"
       }
     ]
   }
