@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates zur Bekämpfung des grenzüberschreitenden Handels mit nicht rechtskonformen E-Zigaretten",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0497-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "993",
-      "PLPR_SEITEN": "310 - 310",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.310"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993",
+        "PLPR_SEITEN": "310 - 310",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.310"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -74,6 +81,21 @@
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "497/20"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 19",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "497/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 497/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0497-20B.pdf"
       }
     ]
   }

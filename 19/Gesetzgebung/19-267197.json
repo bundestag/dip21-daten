@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Strafgesetzbuchs",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C174",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/22542)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/22542",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922542.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22542",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922542.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23244",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/232/1923244.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -76,6 +84,59 @@
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "09.10.2020 - BT-Drucksache 19/23244",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/232/1923244.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Johannes",
+            "NACHNAME": "Fechner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ingmar",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Roman Johannes",
+            "NACHNAME": "Reusch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }

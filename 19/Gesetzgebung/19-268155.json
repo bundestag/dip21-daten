@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Verbesserung der Bekämpfung der besonders schweren Steuerhinterziehung",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D082",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzesantrag(Drs 590/20)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "590/20",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0590-20.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "994"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -36,11 +41,31 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen ",
-      "FUNDSTELLE": "07.10.2020 - BR-Drucksache 590/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0590-20.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "07.10.2020 - BR-Drucksache 590/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0590-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 45",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "590/20"
+        }
+      }
+    ]
   }
 }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Geschäftsordnung",
     "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\r\nhier: Frist für die Durchführung von öffentlichen Anhörungen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,39 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923115.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/183",
+      "PLPR_SEITEN": "23001B - 23003D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23001"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "06.10.2020 - BT-Drucksache 19/23115",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923115.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "06.10.2020 - BT-Drucksache 19/23115",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923115.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.10.2020 - BT-Plenarprotokoll 19/183, S. 23001B - 23003D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23001",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23003D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/23115"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }

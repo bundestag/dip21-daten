@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Ausverkauf der Städte stoppen - Vorkaufsrecht stärken, Umwandlungen verbieten",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/22594",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922594.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/183",
+      "PLPR_SEITEN": "23072B - 23081A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23072"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Raumordnung, Bau- und Wohnungswesen",
@@ -37,28 +44,132 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "16.09.2020 - BT-Drucksache 19/22594",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922594.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Caren",
-          "NACHNAME": "Lay",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "16.09.2020 - BT-Drucksache 19/22594",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922594.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "08.10.2020 - BT-Plenarprotokoll 19/183, S. 23072B - 23081A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23072",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23072C"
+          },
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Schweiger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23073C"
+          },
+          {
+            "VORNAME": "Udo Theodor",
+            "NACHNAME": "Hemmelgarn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23074C"
+          },
+          {
+            "VORNAME": "Bernhard",
+            "NACHNAME": "Daldrup",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23075D"
+          },
+          {
+            "VORNAME": "Daniel",
+            "NACHNAME": "Föst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23076C"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23077C"
+          },
+          {
+            "VORNAME": "Emmi",
+            "NACHNAME": "Zeulner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23078B"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "23079C"
+          },
+          {
+            "VORNAME": "Emmi",
+            "NACHNAME": "Zeulner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "23079D"
+          },
+          {
+            "VORNAME": "Ulli",
+            "NACHNAME": "Nissen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23080B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23081A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/22594"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gesine",
-          "NACHNAME": "Lötzsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

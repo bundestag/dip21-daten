@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B092",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/20596)",
@@ -26,13 +26,34 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923197.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/173",
-      "PLPR_SEITEN": "21774D - 21782A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21774"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/173",
+        "PLPR_SEITEN": "21774D - 21782A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21774"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/184",
+        "PLPR_SEITEN": "23133D - 23140D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23133"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/184",
+        "PLPR_SEITEN": "23140C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23140"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -206,6 +227,126 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung; Titeländerung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "09.10.2020 - BT-Plenarprotokoll 19/184, S. 23133D - 23140D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23133",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23134A"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Haug",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23135A"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23135D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23137A"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23138A"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23138D"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23139B"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "23140B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/23208"
+          },
+          {
+            "BESCHLUSSSEITE": "23140C",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/20596, 19/23197"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "09.10.2020 - BT-Plenarprotokoll 19/184, S. 23140C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23140",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Mechthild",
+          "NACHNAME": "Rawert",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "SEITE": "23240A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23149C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/20596, 19/22925",
+          "ABSTIMMUNGSART": "Namentliche Abstimmung",
+          "ABSTIMMUNG_BEMERKUNG": "353:268:1"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 594/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0594-20.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 49",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+          "BEZUGSDOKUMENT": "594/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 594/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0594-20B.pdf"
       }
     ]
   }

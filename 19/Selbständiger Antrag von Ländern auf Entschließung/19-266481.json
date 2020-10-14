@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates \"Unzulässige Kapitalanlagegenossenschaften wirkungsvoll bekämpfen - Vorschläge zur Anpassung des Genossenschaftsgesetzes zum Schutze des Genossenschaftswesens\"",
     "INITIATIVE": "Baden-Württemberg",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0500-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "993",
-      "PLPR_SEITEN": "312 - 312",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.312"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993",
+        "PLPR_SEITEN": "312 - 312",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.312"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -63,6 +70,21 @@
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "500/20"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 23",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "500/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 500/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0500-20B.pdf"
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Bundesberggesetzes (BBergG)",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "AKTUELLER_STAND": "Einbringung abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E049",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 422/20)",
@@ -15,13 +15,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0422-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "993",
-      "PLPR_SEITEN": "308 - 309",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.308"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993",
+        "PLPR_SEITEN": "308 - 309",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.308"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -70,7 +77,22 @@
         "URHEBER": "Empfehlungen der Ausschüsse ",
         "FUNDSTELLE": "25.09.2020 - BR-Drucksache 422/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0422-1-20.pdf",
-        "VP_ABSTRAKT": "Wi: Ablehnung - U: Entschließung anstelle der Einbringung"
+        "VP_ABSTRAKT": "Wi: Ablehnung - U: Entschließung anstelle der Einbringung als Gesetzentwurf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 15a",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ablehnung der Einbringung",
+          "BEZUGSDOKUMENT": "422/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 422/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0422-20B.pdf"
       }
     ]
   }

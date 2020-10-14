@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates - Der Bund muss die Bereitstellungskosten für die Offenhaltung der Flughäfen während der COVID-19-Pandemie übernehmen",
     "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,39 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0536-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "993",
-      "PLPR_SEITEN": "335 - 335",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.335"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993",
+        "PLPR_SEITEN": "335 - 335",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.335"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Verkehr",
+      "Öffentliche Finanzen, Steuern und Abgaben"
+    ],
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesmittel"
+      },
+      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
+      "Luftverkehrsunternehmen",
+      "Verkehrsinfrastruktur"
+    ],
+    "ABSTRAKT": "Luftverkehrsbranche durch Covid-19-Pandemie start betroffen, Aufrechterhaltung und Bereitstellung der Luftverkehrsinfrastruktur trotz Krise, Forderung nach flankierenden finanziellen Maßnahmen der Bundesregierung zur Entlastung der Flughäfen von den entstandenen Bereitstellungskosten"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -60,6 +84,21 @@
         "FUNDSTELLE": "28.09.2020 - BR-Drucksache 536/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0536-1-20.pdf",
         "VP_ABSTRAKT": "Fz: Annahme - Vk, Wi: Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 21",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "536/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 536/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0536-20B.pdf"
       }
     ]
   }
