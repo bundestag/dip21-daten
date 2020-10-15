@@ -23,9 +23,16 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Landwirtschaft und Ernährung",
+      "Wissenschaft, Forschung und Technologie"
+    ],
     "SCHLAGWORT": [
-      "Düngemittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Düngemittel"
+      },
+      "Forschungsprojekt",
       "Pflanzenkohle"
     ],
     "ABSTRAKT": "(insgesamt 4 Einzelfragen)"
