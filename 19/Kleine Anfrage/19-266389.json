@@ -5,77 +5,38 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Einsätze der Bundespolizei zur Durchsetzung der Maskenpflicht",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21999",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921999.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22366",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922366.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21999",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
-      "Verkehr",
       "Innere Sicherheit"
     ],
     "SCHLAGWORT": [
-      "Bahnhof",
-      "Bundespolizei",
-      {
-        "_fundstelle": "true",
-        "__cdata": "COVID-19"
-      },
-      "Deutsche Bahn",
-      "Eisenbahnrecht",
-      "Epidemie",
-      "Polizei",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Polizeikontrolle"
-      },
-      "Polizeiliche Maßnahme",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Schienenpersonenverkehr"
-      },
-      {
-        "_fundstelle": "true",
-        "__cdata": "Schutzmaske"
-      }
+      "COVID-19",
+      "Polizeikontrolle",
+      "Schutzausrüstung"
     ],
-    "ABSTRAKT": "(insgesamt 4 Einzelfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21999",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921999.pdf",
-        "PERSOENLICHER_URHEBER": {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Brandner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "14.09.2020 - BT-Drucksache 19/22366",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922366.pdf"
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21999",
+      "PERSOENLICHER_URHEBER": {
+        "VORNAME": "Stephan",
+        "NACHNAME": "Brandner",
+        "FUNKTION": "MdB",
+        "FRAKTION": "AfD",
+        "AKTIVITAETSART": "Kleine Anfrage"
       }
-    ]
+    }
   }
 }

@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Besteuerung von Edelmetall-Zertifikaten",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21688",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921688.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22447",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922447.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21688",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921688.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
@@ -32,35 +24,27 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "18.08.2020 - BT-Drucksache 19/21688",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921688.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Frank",
-            "NACHNAME": "Schäffler",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Christian",
-            "NACHNAME": "Dürr",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
-        "FUNDSTELLE": "15.09.2020 - BT-Drucksache 19/22447",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922447.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+      "FUNDSTELLE": "18.08.2020 - BT-Drucksache 19/21688",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921688.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Frank",
+          "NACHNAME": "Schäffler",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Christian",
+          "NACHNAME": "Dürr",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

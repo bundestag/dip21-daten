@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Arbeitsverhältnisse ausländischer Beschäftigter am deutschen Arbeitsmarkt",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21487",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921487.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22647",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922647.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21487",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921487.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": [
@@ -37,35 +29,27 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-        "FUNDSTELLE": "05.08.2020 - BT-Drucksache 19/21487",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921487.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Susanne",
-            "NACHNAME": "Ferschl",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Matthias W.",
-            "NACHNAME": "Birkwald",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-        "FUNDSTELLE": "17.09.2020 - BT-Drucksache 19/22647",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922647.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+      "FUNDSTELLE": "05.08.2020 - BT-Drucksache 19/21487",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921487.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Susanne",
+          "NACHNAME": "Ferschl",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Matthias W.",
+          "NACHNAME": "Birkwald",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

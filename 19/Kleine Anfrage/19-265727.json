@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Entgeltunterschiede in Deutschland (Entgelt- und Beschäftigungsstatistik 2019)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21578",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921578.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22109",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922109.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21578",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921578.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
     "SCHLAGWORT": [
@@ -41,35 +33,27 @@
     "ABSTRAKT": "(insgesamt 21 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "11.08.2020 - BT-Drucksache 19/21578",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921578.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "René",
-            "NACHNAME": "Springer",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Ulrike",
-            "NACHNAME": "Schielke-Ziesing",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-        "FUNDSTELLE": "08.09.2020 - BT-Drucksache 19/22109",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922109.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "11.08.2020 - BT-Drucksache 19/21578",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921578.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "René",
+          "NACHNAME": "Springer",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Ulrike",
+          "NACHNAME": "Schielke-Ziesing",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

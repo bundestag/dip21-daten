@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Arbeitsbedingungen und Lohnentwicklung im öffentlichen Personennahverkehr",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21486",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921486.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22646",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922646.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21486",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921486.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verkehr",
@@ -44,35 +36,27 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-        "FUNDSTELLE": "05.08.2020 - BT-Drucksache 19/21486",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921486.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Pascal",
-            "NACHNAME": "Meiser",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Susanne",
-            "NACHNAME": "Ferschl",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-        "FUNDSTELLE": "17.09.2020 - BT-Drucksache 19/22646",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922646.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+      "FUNDSTELLE": "05.08.2020 - BT-Drucksache 19/21486",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921486.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Pascal",
+          "NACHNAME": "Meiser",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Susanne",
+          "NACHNAME": "Ferschl",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

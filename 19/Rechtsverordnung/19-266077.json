@@ -14,12 +14,6 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0464-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "994",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf"
-    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
@@ -38,33 +32,15 @@
     "ABSTRAKT": "Änderung der Stromnetzentgeltverordnung, Änderung der Niederdruckanschlussverordnung, Änderung der Niederspannungsanschlussverordnung; \r\nWeitergeltung der Vereinbarung individueller Netzentgelte"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-        "FUNDSTELLE": "19.08.2020 - BR-Drucksache 464/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0464-20.pdf",
-        "ZUWEISUNG": {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "BR-Sitzung",
-        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 38",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf",
-        "BESCHLUSS": {
-          "BESCHLUSSTENOR": "Zustimmung",
-          "BEZUGSDOKUMENT": "464/20"
-        }
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Beschlussdrucksache ",
-        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 464/20(B)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0464-20B.pdf"
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BR",
+      "URHEBER": "Verordnung,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+      "FUNDSTELLE": "19.08.2020 - BR-Drucksache 464/20",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0464-20.pdf",
+      "ZUWEISUNG": {
+        "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss",
+        "FEDERFUEHRUNG": "federf&uuml;hrend"
       }
-    ]
+    }
   }
 }

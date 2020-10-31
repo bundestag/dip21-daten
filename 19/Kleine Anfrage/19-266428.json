@@ -5,75 +5,46 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Das Oktoberfestattentat und das erfolglose Ende der Ermittlungen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22018",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922018.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22430",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922430.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/22018",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Innere Sicherheit",
     "SCHLAGWORT": [
-      {
-        "_fundstelle": "true",
-        "__cdata": "Attentat"
-      },
-      "Beweissicherung",
+      "Attentat",
       "Ermittlungsverfahren",
       "München",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Rechtsextremismus"
-      },
-      "Rechtsextremistische Organisation",
-      "Volksfest",
-      "V-Person",
-      "Wehrsportgruppe Hoffmann"
+      "Volksfest"
     ],
-    "ABSTRAKT": "(insgesamt 24 Einzelfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22018",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922018.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Martina",
-            "NACHNAME": "Renner",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "André",
-            "NACHNAME": "Hahn",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
-        "FUNDSTELLE": "15.09.2020 - BT-Drucksache 19/22430",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922430.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22018",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Martina",
+          "NACHNAME": "Renner",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "André",
+          "NACHNAME": "Hahn",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

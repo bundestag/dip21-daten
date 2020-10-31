@@ -5,70 +5,42 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Tiertransporte",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21788",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921788.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22086",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922086.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21788",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921788.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
-    "SCHLAGWORT": [
-      "Ausfuhr",
-      "Außenhandelsstatistik",
-      "Genehmigung",
-      "Rind",
-      "Tierschutz",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Tiertransport"
-      },
-      "Tierzucht",
-      "Veterinärkontrolle"
-    ],
-    "ABSTRAKT": "(insgesamt 15 Einzelfragen)"
+    "SCHLAGWORT": "Tiertransport",
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-        "FUNDSTELLE": "20.08.2020 - BT-Drucksache 19/21788",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921788.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Friedrich",
-            "NACHNAME": "Ostendorff",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Matthias",
-            "NACHNAME": "Gastel",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
-        "FUNDSTELLE": "03.09.2020 - BT-Drucksache 19/22086",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922086.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+      "FUNDSTELLE": "20.08.2020 - BT-Drucksache 19/21788",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921788.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Friedrich",
+          "NACHNAME": "Ostendorff",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Matthias",
+          "NACHNAME": "Gastel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

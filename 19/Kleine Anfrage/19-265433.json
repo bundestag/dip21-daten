@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Deradikalisierungsprojekt im ostsyrischen Camp Al Hol",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21413",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921413.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22167",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922167.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21413",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921413.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -29,49 +21,34 @@
       "Haft",
       "Humanitäre Hilfe",
       "Islamischer Staat",
-      "Projektförderung",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Syrien"
-      },
-      {
-        "_fundstelle": "true",
-        "__cdata": "Terrorismusbekämpfung"
-      }
+      "Syrien",
+      "Terrorismusbekämpfung"
     ],
-    "ABSTRAKT": "(insgesamt 5 Einzelfragen mit zahlreichen Unterfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-        "FUNDSTELLE": "03.08.2020 - BT-Drucksache 19/21413",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921413.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Ulla",
-            "NACHNAME": "Jelpke",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "André",
-            "NACHNAME": "Hahn",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "07.09.2020 - BT-Drucksache 19/22167",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922167.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+      "FUNDSTELLE": "03.08.2020 - BT-Drucksache 19/21413",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/214/1921413.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Ulla",
+          "NACHNAME": "Jelpke",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "André",
+          "NACHNAME": "Hahn",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

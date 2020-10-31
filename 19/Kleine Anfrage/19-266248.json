@@ -5,23 +5,14 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Äußerungen der Bundesministerin der Justiz und für Verbraucherschutz zum Informellen Treffen der EU-Justizministerinnen und Justizminister",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21898",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921898.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22687",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922687.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21898",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -35,36 +26,27 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21898",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921898.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Stephan",
-            "NACHNAME": "Brandner",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Prof. Dr.",
-            "VORNAME": "Lothar",
-            "NACHNAME": "Maier",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
-        "FUNDSTELLE": "18.09.2020 - BT-Drucksache 19/22687",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922687.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21898",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Stephan",
+          "NACHNAME": "Brandner",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Prof. Dr.",
+          "VORNAME": "Lothar",
+          "NACHNAME": "Maier",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

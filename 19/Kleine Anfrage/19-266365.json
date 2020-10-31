@@ -3,75 +3,46 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Möglicher Verlust der deutschen Staatsbürgerschaft von rund 1 Million Deutsch-Türken",
+    "TITEL": "Möglicher Verlust der deutschen Staatsbürgerschaft von rund einer Million Deutsch-Türken",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21968",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921968.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22419",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922419.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21968",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Recht",
-      "Ausländerpolitik, Zuwanderung"
-    ],
+    "SACHGEBIET": "Staat und Verwaltung",
     "SCHLAGWORT": [
-      "Ausbürgerung",
-      "Deutscher Staatsangehöriger",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Doppelte Staatsangehörigkeit"
-      },
-      "Einbürgerung",
-      "Genehmigung",
-      "Staatsangehörigkeit",
+      "Doppelte Staatsangehörigkeit",
       "Türkei"
     ],
-    "ABSTRAKT": "(insgesamt 14 Einzelfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21968",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921968.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Stefan",
-            "NACHNAME": "Keuter",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Christian",
-            "NACHNAME": "Wirth",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "15.09.2020 - BT-Drucksache 19/22419",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922419.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21968",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Keuter",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Christian",
+          "NACHNAME": "Wirth",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

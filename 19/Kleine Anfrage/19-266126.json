@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Stand und Entwicklung der Digitalisierung des Bundes",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21794",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921794.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22362",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922362.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21794",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921794.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -29,50 +21,35 @@
     ],
     "SCHLAGWORT": [
       "Bundesverwaltung",
-      "De-Mail",
       "Digitalisierung",
-      {
-        "_fundstelle": "true",
-        "__cdata": "E-Government"
-      },
-      "Elektronische Aktenführung",
-      "Elektronische Signatur",
-      "Identitätsfeststellung",
-      "Informationssicherheit"
+      "E-Government",
+      "Elektronische Aktenführung"
     ],
-    "ABSTRAKT": "(insgesamt 15 Einzelfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "21.08.2020 - BT-Drucksache 19/21794",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921794.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Jürgen",
-            "NACHNAME": "Martens",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Stephan",
-            "NACHNAME": "Thomae",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-        "FUNDSTELLE": "14.09.2020 - BT-Drucksache 19/22362",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922362.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+      "FUNDSTELLE": "21.08.2020 - BT-Drucksache 19/21794",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921794.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Jürgen",
+          "NACHNAME": "Martens",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Stephan",
+          "NACHNAME": "Thomae",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

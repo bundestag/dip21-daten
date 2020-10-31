@@ -3,25 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Reisewarnungen des Auswärtigen Amts auf Grund von Covid-19 bezüglich Georgien",
+    "TITEL": "Reisewarnungen des Auswärtigen Amtes auf Grund von Covid-19 bezüglich Georgien",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21778",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921778.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22058",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922058.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21778",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921778.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -47,36 +39,28 @@
     "ABSTRAKT": "(insgesamt 9 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "19.08.2020 - BT-Drucksache 19/21778",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921778.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Christian",
-            "NACHNAME": "Wirth",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Sebastian",
-            "NACHNAME": "Münzenmaier",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "02.09.2020 - BT-Drucksache 19/22058",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922058.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "19.08.2020 - BT-Drucksache 19/21778",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921778.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Christian",
+          "NACHNAME": "Wirth",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Sebastian",
+          "NACHNAME": "Münzenmaier",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

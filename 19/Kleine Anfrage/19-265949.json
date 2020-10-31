@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Corona-Prävention durch Tests für Einreisende aus Corona-Risikogebieten",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21701",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921701.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22535",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922535.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21701",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921701.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -38,36 +30,28 @@
     "ABSTRAKT": "(insgesamt 14 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "18.08.2020 - BT-Drucksache 19/21701",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921701.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Wieland",
-            "NACHNAME": "Schinnenburg",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Michael",
-            "NACHNAME": "Theurer",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
-        "FUNDSTELLE": "16.09.2020 - BT-Drucksache 19/22535",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922535.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+      "FUNDSTELLE": "18.08.2020 - BT-Drucksache 19/21701",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921701.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Wieland",
+          "NACHNAME": "Schinnenburg",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Michael",
+          "NACHNAME": "Theurer",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

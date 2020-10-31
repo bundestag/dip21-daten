@@ -5,59 +5,41 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Lokalisierung der humanitären Hilfe",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21943",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921943.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22854",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922854.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21943",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": "Humanitäre Hilfe",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21943",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921943.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Gyde",
-            "NACHNAME": "Jensen",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Alexander",
-            "NAMENSZUSATZ": "Graf",
-            "NACHNAME": "Lambsdorff",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "25.09.2020 - BT-Drucksache 19/22854",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922854.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+      "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21943",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Gyde",
+          "NACHNAME": "Jensen",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Alexander",
+          "NAMENSZUSATZ": "Graf",
+          "NACHNAME": "Lambsdorff",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

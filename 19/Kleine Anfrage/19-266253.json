@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Europäische E-Privacy-Verordnung",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21904",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921904.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22244",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922244.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21904",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921904.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -39,35 +31,27 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21904",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921904.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Joana",
-            "NACHNAME": "Cotar",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Uwe",
-            "NACHNAME": "Schulz",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-        "FUNDSTELLE": "09.09.2020 - BT-Drucksache 19/22244",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922244.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21904",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921904.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Joana",
+          "NACHNAME": "Cotar",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Uwe",
+          "NACHNAME": "Schulz",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

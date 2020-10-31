@@ -3,25 +3,16 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Zum möglichen Aufenthalt eines iranischen Richters in der Bundesrepublik Deutschland\r\n(Nachfrage zu der Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/21282)",
+    "TITEL": "Zum möglichen Aufenthalt eines iranischen Richters in der Bundesrepublik (Nachfrage zu der Antwort der Bundesregierung auf die Kleine Anfrage auf Bundestagsdrucksache 19/21282)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21996",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921996.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22347",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922347.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21996",
+      "DRS_TYP": "Kleine Anfrage"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
     "SCHLAGWORT": [
@@ -29,44 +20,32 @@
       "Einreisegenehmigung",
       "Iran",
       "Richter",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Visum"
-      }
+      "Visum"
     ],
-    "ABSTRAKT": "(insgesamt 4 Einzelfragen)"
+    "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21996",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921996.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Armin-Paulus",
-            "NACHNAME": "Hampel",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Roland",
-            "NACHNAME": "Hartwig",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
-        "FUNDSTELLE": "11.09.2020 - BT-Drucksache 19/22347",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922347.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21996",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Armin-Paulus",
+          "NACHNAME": "Hampel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Roland",
+          "NACHNAME": "Hartwig",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

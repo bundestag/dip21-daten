@@ -5,32 +5,25 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Reisenden- und Auslastungszahlen im Schienenpersonenverkehr in Baden-Württemberg",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21514",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921514.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22668",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922668.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21514",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921514.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Baden-Württemberg",
-      "Bahnhof",
       "Datenerhebung",
-      "Fahrgast",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fahrgast"
+      },
       "Fernverkehr",
-      "Haltestelle",
       "S-Bahn",
       "Schienenpersonennahverkehr",
       {
@@ -39,43 +32,32 @@
       },
       "Stuttgart",
       "Verkehrsaufkommen",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Verkehrsstatistik"
-      }
+      "Verkehrsstatistik"
     ],
     "ABSTRAKT": "(insgesamt 33 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-        "FUNDSTELLE": "06.08.2020 - BT-Drucksache 19/21514",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921514.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Matthias",
-            "NACHNAME": "Gastel",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "VORNAME": "Harald",
-            "NACHNAME": "Ebner",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-        "FUNDSTELLE": "17.09.2020 - BT-Drucksache 19/22668",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922668.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+      "FUNDSTELLE": "06.08.2020 - BT-Drucksache 19/21514",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921514.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Matthias",
+          "NACHNAME": "Gastel",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "VORNAME": "Harald",
+          "NACHNAME": "Ebner",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

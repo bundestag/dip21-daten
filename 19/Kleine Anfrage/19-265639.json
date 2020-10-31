@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Auswirkung der letzten Verschärfungen des Strafrechts auf die Prävention von Straftaten",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21532",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921532.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22688",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922688.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21532",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921532.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -39,36 +31,28 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-        "FUNDSTELLE": "07.08.2020 - BT-Drucksache 19/21532",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921532.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Niema",
-            "NACHNAME": "Movassat",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "André",
-            "NACHNAME": "Hahn",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
-        "FUNDSTELLE": "18.09.2020 - BT-Drucksache 19/22688",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922688.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+      "FUNDSTELLE": "07.08.2020 - BT-Drucksache 19/21532",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/215/1921532.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Niema",
+          "NACHNAME": "Movassat",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "André",
+          "NACHNAME": "Hahn",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }

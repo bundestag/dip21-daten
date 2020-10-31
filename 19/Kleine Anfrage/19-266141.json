@@ -5,23 +5,15 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Abschlussprüfungsgesellschaften und ihr Aufsichtssystem",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beantwortet",
+    "AKTUELLER_STAND": "Noch nicht beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": [
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/21815",
-        "DRS_TYP": "Kleine Anfrage",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921815.pdf"
-      },
-      {
-        "DRS_HERAUSGEBER": "BT",
-        "DRS_NUMMER": "19/22562",
-        "DRS_TYP": "Antwort",
-        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922562.pdf"
-      }
-    ],
+    "WICHTIGE_DRUCKSACHE": {
+      "DRS_HERAUSGEBER": "BT",
+      "DRS_NUMMER": "19/21815",
+      "DRS_TYP": "Kleine Anfrage",
+      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921815.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -33,36 +25,28 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-        "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21815",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921815.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Lisa",
-            "NACHNAME": "Paus",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Danyal",
-            "NACHNAME": "Bayaz",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Kleine Anfrage"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
-        "FUNDSTELLE": "16.09.2020 - BT-Drucksache 19/22562",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922562.pdf"
-      }
-    ]
+    "VORGANGSPOSITION": {
+      "ZUORDNUNG": "BT",
+      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+      "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21815",
+      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921815.pdf",
+      "PERSOENLICHER_URHEBER": [
+        {
+          "VORNAME": "Lisa",
+          "NACHNAME": "Paus",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        },
+        {
+          "PERSON_TITEL": "Dr.",
+          "VORNAME": "Danyal",
+          "NACHNAME": "Bayaz",
+          "FUNKTION": "MdB",
+          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      ]
+    }
   }
 }
