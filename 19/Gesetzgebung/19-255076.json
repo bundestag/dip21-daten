@@ -9,16 +9,24 @@
       "Fraktion der FDP",
       "Fraktion DIE LINKE"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B074",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/14672)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/14672",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/146/1914672.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/14672",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/146/1914672.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23187",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923187.pdf"
+      }
+    ],
     "PLENUM": [
       {
         "PLPR_KLARTEXT": "1. Beratung",
@@ -33,6 +41,13 @@
         "PLPR_NUMMER": "19/171",
         "PLPR_SEITEN": "21437D - 21453C",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19171.pdf#P.21437"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/183",
+        "PLPR_SEITEN": "23041B - 23052C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23041"
       }
     ],
     "EU_DOK_NR": "",
@@ -327,6 +342,153 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "21464A",
           "BESCHLUSSTENOR": "Ablehnung Geschäftsordnungsantrag"
+        },
+        "VP_ABSTRAKT": "Geschäftsordnungsantrag der Fraktionen FDP, DIE LINKE und B90/GR auf Aufsetzung der 2. Beratung auf die Tagesordnung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Inneres und Heimat ",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23187",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923187.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Haug",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ansgar",
+            "NACHNAME": "Heveling",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Konstantin",
+            "NACHNAME": "Kuhle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "08.10.2020 - BT-Plenarprotokoll 19/183, S. 23041B - 23052C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19183.pdf#P.23041",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23041D"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23043B"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23044B"
+          },
+          {
+            "VORNAME": "Konstantin",
+            "NACHNAME": "Kuhle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23046B"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23047C"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23048B"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Bülow",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23049B"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Mieruch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23049D"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23050B"
+          },
+          {
+            "VORNAME": "Mechthild",
+            "NACHNAME": "Rawert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "23115C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23052C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/14672"
         }
       }
     ]

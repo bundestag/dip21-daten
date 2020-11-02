@@ -8,22 +8,39 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/16044",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/160/1916044.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/137",
-      "PLPR_SEITEN": "17215A - 17222C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19137.pdf#P.17215"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/16044",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/160/1916044.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22174",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922174.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/137",
+        "PLPR_SEITEN": "17215A - 17222C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19137.pdf#P.17215"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/176",
+        "PLPR_SEITEN": "22143C - 22146A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19176.pdf#P.22143"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesellschaftspolitik, soziale Gruppen",
@@ -172,6 +189,24 @@
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Bildung, Forschung und Technikfolgenabschätzung ",
+        "FUNDSTELLE": "08.09.2020 - BT-Drucksache 19/22174",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922174.pdf",
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.09.2020 - BT-Plenarprotokoll 19/176, S. 22143C - 22146A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19176.pdf#P.22143",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22143D",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/16044, 19/22174"
+        }
       }
     ]
   }

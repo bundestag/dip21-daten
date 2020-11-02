@@ -5,21 +5,47 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Beschleunigung von Investitionen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J027",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 456/20 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "456/20",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "456/20",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22139",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922139.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21817A - 21830B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21817"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "993",
+        "PLPR_SEITEN": "323 - 324",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.323"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
       "Allgemeines Eisenbahngesetz",
       "Bundes-Immissionsschutzgesetz",
+      "Digitalisierung",
+      "E-Government",
       "Gesetz über die Umweltverträglichkeitsprüfung",
       {
         "_fundstelle": "true",
@@ -47,35 +73,341 @@
     "ABSTRAKT": "Verringerung der Gesamtdauer von Raumordnungs-, Genehmigungs- und Verwaltungsgerichtsverfahren im Verkehrsbereich zur schnelleren Realisierung von Infrastrukturvorhaben: Verkürzung des Instanzenzuges bei verwaltungsgerichtlichen Verfahren für den Bau von Windkraftanlagen, Landesstraßen, Häfen u.a., Verzicht auf eine planungsrechtliche Genehmigung für diverse Baumaßnahmen im Bereich der Schiene, Lockerung der Pflicht von Umweltverträglichkeitsprüfungen insb im Zusammenhang mit bestehenden Eisenbahnbetriebsanlagen, Flexibilisierung und stärkere Digitalisierung des Raumordnungsverfahrens; \r\nÄnderung versch. §§ von 4 Gesetzen und 2 Rechtsverordnungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-      "FUNDSTELLE": "13.08.2020 - BR-Drucksache 456/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-20.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "13.08.2020 - BR-Drucksache 456/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-20.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "04.09.2020 - BT-Drucksache 19/22139",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922139.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "07.09.2020 - BR-Drucksache 456/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-1-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge - Vk, R, U: zus. Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "11.09.2020 - BT-Plenarprotokoll 19/174, S. 21817A - 21830B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21817",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Scheuer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21817B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dirk",
+            "NACHNAME": "Spaniel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21818C"
+          },
+          {
+            "VORNAME": "Sören",
+            "NACHNAME": "Bartol",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21819B"
+          },
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Herbst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21820C"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Leidig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21821C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Dresden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21822D"
+          },
+          {
+            "VORNAME": "Patrick",
+            "NACHNAME": "Schnieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21823C"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21824C"
+          },
+          {
+            "VORNAME": "Timon",
+            "NACHNAME": "Gremmels",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "21825A"
+          },
+          {
+            "VORNAME": "Mathias",
+            "NACHNAME": "Stein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21825D"
+          },
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Reuther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21826C"
+          },
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21827A"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Donth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21828A"
+          },
+          {
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Lühmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21828D"
+          },
+          {
+            "VORNAME": "Alois",
+            "NACHNAME": "Rainer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21829C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21830B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/22139"
         },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Städtebau, Wohnungswesen und Raumordnung"
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/2/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-2-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/3/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-3-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/4/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-4-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/5/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-5-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/6/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-6-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/7/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-7-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge anstelle Ziffer 7 in Drs 456/1/20"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/8/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-8-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge anstelle Ziffer 31 in Drs 456/1/20"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Brandenburg ",
+        "FUNDSTELLE": "16.09.2020 - BR-Drucksache 456/9/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-9-20.pdf",
+        "VP_ABSTRAKT": "Änderungsvorschläge anstelle Ziffer 32 in Drs 456/1/20"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "18.09.2020 - BR-Plenarprotokoll 993, TOP 51, S. 323 - 324",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/993.pdf#P.323",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Althusmann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Arbeit, Verkehr und Digitalisierung",
+            "BUNDESLAND": "Niedersachsen",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "323"
+          },
+          {
+            "VORNAME": "Winfried",
+            "NACHNAME": "Hermann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Verkehr",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "323"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "324",
+          "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
+          "BEZUGSDOKUMENT": "456/20",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "18.09.2020 - BR-Drucksache 456/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0456-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung über Stellungnahme des BR und Gegenäußerung der BRg,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "23.09.2020 - BT-Drucksache 19/22778",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922778.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Nachträgliche Überweisung,  Urheber : Bundestag ",
+        "FUNDSTELLE": "02.10.2020 - BT-Drucksache 19/23054",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/230/1923054.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ],
+        "VP_ABSTRAKT": "Nachträgliche Überweisung der Stellungnahme BR und Gegenäußerung der BRg gem. § 80 Abs. 3 Geschäftsordnung BT"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderung der Ausschussüberweisung",
+        "FUNDSTELLE": "07.10.2020 - BT-Plenarprotokoll 19/182, S. 22827D - 22828B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19182.pdf#P.22827",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22827D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/22139"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda",
+          "UEBERWEISUNGSART": "nachträgliche Überweisung"
+        }
+      }
+    ]
   }
 }

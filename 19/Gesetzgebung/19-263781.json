@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Verbesserung des Tierwohls in Tierhaltungsanlagen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "P010",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 345/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920977.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "237 - 237",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.237"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "237 - 237",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.237"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/173",
+        "PLPR_SEITEN": "21680D - 21683D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21680"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Landwirtschaft und Ernährung",
@@ -103,6 +112,35 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
         "FUNDSTELLE": "10.07.2020 - BT-Drucksache 19/20977",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/209/1920977.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "10.09.2020 - BT-Plenarprotokoll 19/173, S. 21680D - 21683D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21680",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21683C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/20977"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
       }
     ]
   }

@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung von Bestimmungen für die Fortführung der laufenden im Rahmen des Programms Erasmus+ durchgeführten Lernmobilitätsaktivitäten im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland („Vereinigtes Königreich“) aus der Europäischen Union \r\nKOM(2019) 65 endg.; Ratsdok. 5892/19",
+    "TITEL": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung von Bestimmungen für die Fortführung der laufenden im Rahmen des Programms Erasmus+ durchgeführten Lernmobilitätsaktivitäten im Zusammenhang mit dem Austritt des Vereinigten Königreichs Großbritannien und Nordirland (\"Vereinigtes Königreich\") aus der Europäischen Union \r\nKOM(2019) 65 endg.; Ratsdok. 5892/19",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/079/1907991.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "975",
-      "PLPR_SEITEN": "107 - 107",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/975.pdf#P.107"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "975",
+        "PLPR_SEITEN": "107 - 107",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/975.pdf#P.107"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21927C - 21928C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21927"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 5892/19, Kom. (2019) 65 endg.",
     "SCHLAGWORT": [
       "Akademischer Austausch",
@@ -114,6 +123,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "15.03.2019 - BR-Drucksache 60/19(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0060-19B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "11.09.2020 - BT-Plenarprotokoll 19/174, S. 21927C - 21928C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21927",
+        "VP_ABSTRAKT": "S. 21927C - Kenntnisnahme"
       }
     ]
   }

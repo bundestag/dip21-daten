@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Geschäftsordnung",
     "TITEL": "Änderung der Geschäftsordnung des Deutschen Bundestages\r\nhier: Änderung der Verhaltensregeln für Mitglieder des Deutschen Bundestages (Anlage 1 der Geschäftsordnung)",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/12",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900012.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/12",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/000/1900012.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22782",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922782.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -64,6 +72,58 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "23.09.2020 - BT-Drucksache 19/22782",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922782.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Bartke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Patrick",
+            "NACHNAME": "Schnieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Seitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }

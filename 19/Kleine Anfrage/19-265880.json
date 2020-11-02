@@ -5,53 +5,71 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Kosten und Nutzen der \"Drohnendebatte\"",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21662",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921662.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21662",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921662.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23156",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923156.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verteidigung",
     "SCHLAGWORT": [
+      "Auslandseinsatz der Bundeswehr",
       "Beschaffung",
       "Bundeswehr",
       "Kriegswaffe",
-      "Militärische Ausbildung",
-      "Militärische Übung",
       "Öffentlichkeitsarbeit der Bundesregierung",
+      "Outsourcing",
+      "Parlamentsbeschluss",
       {
         "_fundstelle": "true",
         "__cdata": "Unbemanntes Fluggerät"
-      }
+      },
+      "Veranstaltung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 17 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "17.08.2020 - BT-Drucksache 19/21662",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921662.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Andrej",
-          "NACHNAME": "Hunko",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "17.08.2020 - BT-Drucksache 19/21662",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/216/1921662.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23156",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923156.pdf"
+      }
+    ]
   }
 }

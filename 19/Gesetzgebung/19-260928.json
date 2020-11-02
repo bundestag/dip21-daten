@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Ehe- und Geburtsnamensrechts - Echte Doppelnamen für Ehepaare und Kinder",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C138",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/18314)",
@@ -14,6 +14,13 @@
       "DRS_NUMMER": "19/18314",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918314.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/173",
+      "PLPR_SEITEN": "21680D - 21683D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21680"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -34,27 +41,52 @@
     "ABSTRAKT": "Einführung einer weiteren Wahlmöglichkeit bei Bestimmung des gemeinsamen Ehenamens bzw. des Geburtsnamens eines gemeinsamen Kindes: Zulässigkeit von Doppelnamen, Verbot von Namensreihung und Vielfachnamen; \r\nÄnderung §§ 1355 und 1617 Bürgerliches Gesetzbuch"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "01.04.2020 - BT-Drucksache 19/18314",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918314.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Katrin",
-          "NACHNAME": "Helling-Plahr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "01.04.2020 - BT-Drucksache 19/18314",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/183/1918314.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Helling-Plahr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "10.09.2020 - BT-Plenarprotokoll 19/173, S. 21680D - 21683D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21680",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21683C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/18314"
         },
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Thomae",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      }
+    ]
   }
 }

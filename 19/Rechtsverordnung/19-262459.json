@@ -8,13 +8,29 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/19291",
-      "DRS_TYP": "Verordnung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919291.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/19291",
+        "DRS_TYP": "Verordnung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919291.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22239",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922239.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/173",
+      "PLPR_SEITEN": "21685A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21685"
     },
     "EU_DOK_NR": "",
+    "VERKUENDUNG": "Verordnung vom 06.10.2020 - Bundesgesetzblatt Teil I 2020 Nr.4514.10.2020 S. 2094 https://www.bgbl.de/xaver/bgbl/start.xav?startbk=Bundesanzeiger_BGBl&start=//*[@attr_id='bgbl120s2094.pdf']",
     "SACHGEBIET": [
       "Umwelt",
       "Energie"
@@ -57,6 +73,77 @@
           },
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit ",
+        "FUNDSTELLE": "09.09.2020 - BT-Drucksache 19/22239",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922239.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sylvia",
+            "NACHNAME": "Kotting-Uhl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Kraft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Möring",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Nina",
+            "NACHNAME": "Scheer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Judith",
+            "NACHNAME": "Skudelny",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hubertus",
+            "NACHNAME": "Zdebel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Zustimmung und Annahme einer Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "10.09.2020 - BT-Plenarprotokoll 19/173, S. 21685A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21685",
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "21685A",
+            "BESCHLUSSTENOR": "Zustimmung",
+            "BEZUGSDOKUMENT": "19/19291"
+          },
+          {
+            "BESCHLUSSSEITE": "21685A",
+            "BESCHLUSSTENOR": "Annahme einer Entschließung",
+            "BEZUGSDOKUMENT": "19/22239"
           }
         ]
       }

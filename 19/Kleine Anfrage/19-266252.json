@@ -5,19 +5,36 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Berichte über Verstöße gegen das internationale Waffenembargo gegen Libyen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21903",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921903.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21903",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921903.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22843",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922843.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Außenpolitik und internationale Beziehungen"
+    ],
     "SCHLAGWORT": [
+      "Auslandseinsatz der Bundeswehr",
+      "Dual-Use-Technologie",
+      "Ermittlungsverfahren",
       "EUNAVFOR MED IRINI",
+      "Frachtschifffahrt",
+      "Gemeinsame Sicherheits- und Verteidigungspolitik",
+      "Kraftfahrzeugindustrie",
       {
         "_fundstelle": "true",
         "__cdata": "Libyen"
@@ -27,33 +44,42 @@
       {
         "_fundstelle": "true",
         "__cdata": "Waffenembargo"
-      }
+      },
+      "Waffenhandel"
     ],
     "ABSTRAKT": "(insgesamt 11 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21903",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921903.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Armin-Paulus",
-          "NACHNAME": "Hampel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Roland",
-          "NACHNAME": "Hartwig",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21903",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921903.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Armin-Paulus",
+            "NACHNAME": "Hampel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Roland",
+            "NACHNAME": "Hartwig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "25.09.2020 - BT-Drucksache 19/22843",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922843.pdf"
+      }
+    ]
   }
 }

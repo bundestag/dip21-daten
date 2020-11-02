@@ -5,52 +5,73 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Stand des Rüstungsprojektes U-Boot 212CD",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21975",
-      "DRS_TYP": "Kleine Anfrage"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Verteidigung",
-      "Außenwirtschaft"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21975",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921975.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22412",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922412.pdf"
+      }
     ],
+    "EU_DOK_NR": "",
+    "SACHGEBIET": "Verteidigung",
     "SCHLAGWORT": [
-      "Ausfuhr",
+      "Beschaffung",
+      "Bundesamt für Ausrüstung, Informationstechnik und Nutzung der Bundeswehr",
+      "Deutsche Marine",
       "Marine",
       "Norwegen",
+      "Personalausstattung",
       "Rüstungskooperation",
       "ThyssenKrupp",
-      "Unterseeboot",
-      "Waffenhandel"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unterseeboot"
+      },
+      "Verteidigungsausgaben"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21975",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Sauter",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Alexander",
-          "NAMENSZUSATZ": "Graf",
-          "NACHNAME": "Lambsdorff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "31.08.2020 - BT-Drucksache 19/21975",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921975.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Sauter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
+        "FUNDSTELLE": "15.09.2020 - BT-Drucksache 19/22412",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922412.pdf"
+      }
+    ]
   }
 }

@@ -5,22 +5,39 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Epidemische Lage von nationaler Tragweite beenden - Bevölkerung weiter schützen, Parlamentsrechte wahren",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20046",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920046.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/166",
-      "PLPR_SEITEN": "20656A - 20675C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20656"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20046",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/200/1920046.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22597",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922597.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/166",
+        "PLPR_SEITEN": "20656A - 20675C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19166.pdf#P.20656"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/176",
+        "PLPR_SEITEN": "22171D - 22180B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19176.pdf#P.22171"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -32,8 +49,11 @@
         "__cdata": "COVID-19"
       },
       "Epidemie",
+      "Gesetzgebung",
       "Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite",
+      "Infektionsschutzgesetz",
       "Parlamentsbeschluss",
+      "Parlamentskompetenz",
       "Seuchenbekämpfung"
     ],
     "ABSTRAKT": "Fehlende Voraussetzungen zum Vorliegen einer epidemischen Lage von nationaler Tragweite (§ 5 Abs. 1 IfSG): Aufhebung der Feststellung einer nationalen Epidemie durch den Deutschen Bundestag"
@@ -272,6 +292,115 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Gesundheit ",
+        "FUNDSTELLE": "16.09.2020 - BT-Drucksache 19/22597",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/225/1922597.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Christine",
+          "NACHNAME": "Aschenberg-Dugnus",
+          "FUNKTION": "MdB",
+          "FRAKTION": "FDP",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "17.09.2020 - BT-Plenarprotokoll 19/176, S. 22171D - 22180B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19176.pdf#P.22171",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Rüddel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22172C"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Bruno",
+            "NACHNAME": "Hollnagel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "22172D"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22173D"
+          },
+          {
+            "VORNAME": "Hilde",
+            "NACHNAME": "Mattheis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22174D"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22175B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Achim",
+            "NACHNAME": "Kessler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22176A"
+          },
+          {
+            "VORNAME": "Kordula",
+            "NACHNAME": "Schulz-Asche",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22176D"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Krauß",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22177C"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Heidenblut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22178C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Pilsinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "22179B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22180A",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/20046"
+        }
       }
     ]
   }

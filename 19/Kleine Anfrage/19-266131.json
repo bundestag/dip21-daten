@@ -5,51 +5,79 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "TikTok - Mögliches Spionagewerkzeug Chinas",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21810",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921810.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21810",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921810.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22171",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922171.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Innere Sicherheit",
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "China",
+      {
+        "_fundstelle": "true",
+        "__cdata": "App"
+      },
+      "Bundesministerium",
+      {
+        "_fundstelle": "true",
+        "__cdata": "China"
+      },
       "Datenschutz",
-      "Informationssicherheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationssicherheit"
+      },
       "Personenbezogene Daten",
-      "Soziale Medien"
+      "Soziale Medien",
+      "Verbot"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21810",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921810.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Tobias Matthias",
-          "NACHNAME": "Peterka",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Roman Johannes",
-          "NACHNAME": "Reusch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21810",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921810.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Roman Johannes",
+            "NACHNAME": "Reusch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "10.09.2020 - BT-Drucksache 19/22171",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922171.pdf"
+      }
+    ]
   }
 }

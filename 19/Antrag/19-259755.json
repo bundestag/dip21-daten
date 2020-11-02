@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Gleichstellung von cannabis- und alkoholkonsumierenden Führerscheininhaberinnen und Führerscheininhabern",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,7 +14,18 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917612.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/186",
+      "PLPR_SEITEN": "23408D - 23425A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23408"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Recht",
+      "Verkehr"
+    ],
     "SCHLAGWORT": [
       "Alkoholkonsum",
       "Cannabis",
@@ -26,28 +37,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "05.03.2020 - BT-Drucksache 19/17612",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917612.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Niema",
-          "NACHNAME": "Movassat",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "André",
-          "NACHNAME": "Hahn",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "05.03.2020 - BT-Drucksache 19/17612",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/176/1917612.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "André",
+            "NACHNAME": "Hahn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "29.10.2020 - BT-Plenarprotokoll 19/186, S. 23408D - 23425A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23408"
+      }
+    ]
   }
 }

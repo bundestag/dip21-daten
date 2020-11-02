@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/056/1905665.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "972",
-      "PLPR_SEITEN": "423 - 424",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "972",
+        "PLPR_SEITEN": "423 - 424",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/972.pdf#P.423"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21927C - 21928C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21927"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 13229/18, Kom. (2018) 673 endg.",
     "SCHLAGWORT": [
       {
@@ -76,6 +85,7 @@
         "ZUORDNUNG": "BR",
         "URHEBER": "Empfehlungen der Ausschüsse ",
         "FUNDSTELLE": "12.11.2018 - BR-Drucksache 511/1/18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0511-1-18.pdf",
         "VP_ABSTRAKT": "EU, AV: Stellungnahme - K, U, Wi, Wo: Kenntnisnahme"
       },
       {
@@ -114,7 +124,15 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "Beschlussdrucksache ",
-        "FUNDSTELLE": "23.11.2018 - BR-Drucksache 511/18(B)"
+        "FUNDSTELLE": "23.11.2018 - BR-Drucksache 511/18(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0511-18B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "11.09.2020 - BT-Plenarprotokoll 19/174, S. 21927C - 21928C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21927",
+        "VP_ABSTRAKT": "S. 21927C - Kenntnisnahme"
       }
     ]
   }

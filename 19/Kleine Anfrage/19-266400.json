@@ -5,44 +5,80 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Förderung des Deutschen Olympischen Sportbundes und der Deutschen Sportjugend durch Bundesmittel",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/22011",
-      "DRS_TYP": "Kleine Anfrage"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Sport, Freizeit und Tourismus",
-    "SCHLAGWORT": [
-      "Bundesmittel",
-      "Interessenverband",
-      "Sport"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22011",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922011.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22746",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922746.pdf"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Sport, Freizeit und Tourismus",
+      "Politisches Leben, Parteien"
+    ],
+    "SCHLAGWORT": [
+      "Alternative für Deutschland",
+      "Chancengleichheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutscher Olympischer Sportbund"
+      },
+      "Jugendverband",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Neutralitätspflicht"
+      },
+      "Politisches Spektrum",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Politische Willensbildung"
+      },
+      "Sportförderung",
+      "Sportverband"
+    ],
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22011",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Brandner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Jörn",
-          "NACHNAME": "König",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22011",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922011.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Jörn",
+            "NACHNAME": "König",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "22.09.2020 - BT-Drucksache 19/22746",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922746.pdf"
+      }
+    ]
   }
 }

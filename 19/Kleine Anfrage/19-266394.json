@@ -5,43 +5,86 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Das Konjunkturpaket der Bundesregierung und E-Mobilität",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/22000",
-      "DRS_TYP": "Kleine Anfrage"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
-    "SCHLAGWORT": [
-      "Elektrofahrzeug",
-      "Wirtschaftsförderung"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22000",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922000.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22999",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/229/1922999.pdf"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Verkehr"
+    ],
+    "SCHLAGWORT": [
+      "Bundesmittel",
+      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Elektrofahrzeug"
+      },
+      "Forschungsfinanzierung",
+      "Hybridfahrzeug",
+      "Klimaschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Konjunkturpolitik"
+      },
+      "Kraftfahrzeug",
+      "Kraftfahrzeugindustrie",
+      "Ladesäule",
+      "Ländlicher Raum",
+      "Nutzfahrzeug",
+      "Standort Deutschland",
+      "Tankstelle",
+      "Umweltprämie",
+      "Verkehrswirtschaft",
+      "Wirtschaftsförderung",
+      "Zulieferindustrie"
+    ],
+    "ABSTRAKT": "(insgesamt 36 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22000",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Oliver",
-          "NACHNAME": "Luksic",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/22000",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/220/1922000.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Luksic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "01.10.2020 - BT-Drucksache 19/22999",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/229/1922999.pdf"
+      }
+    ]
   }
 }

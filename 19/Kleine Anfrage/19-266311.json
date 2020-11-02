@@ -5,40 +5,74 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Desinformation mit Wahrheit und Transparenz begegnen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21934",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21934",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921934.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22870",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922870.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Medien, Kommunikation und Informationstechnik",
-    "SCHLAGWORT": "Desinformation",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Europapolitik und Europäische Union",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
+    "SCHLAGWORT": [
+      "Bundeszentrale für Digitale Aufklärung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Desinformation"
+      },
+      "Europäischer Auswärtiger Dienst",
+      "Falschmeldung",
+      "Internet",
+      "Medienkompetenz",
+      "Öffentlichkeitsarbeit der Bundesregierung",
+      "Rat der Europäischen Union",
+      "Soziale Medien"
+    ],
+    "ABSTRAKT": "(insgesamt 9 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21934",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Thomas",
-          "NACHNAME": "Hacker",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21934",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921934.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "28.09.2020 - BT-Drucksache 19/22870",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/228/1922870.pdf"
+      }
+    ]
   }
 }

@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Energiepartnerschaften des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung mit der Privatwirtschaft",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20381",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920381.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20381",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920381.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22763",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922763.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Entwicklungspolitik",
@@ -24,8 +32,12 @@
       "China",
       "Deutsche Investitions- und Entwicklungsgesellschaft",
       "Drittstaat",
+      "Energiepolitik",
       "Energiewirtschaft",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Erneuerbare Energie",
       "Ghana",
       "Indien",
@@ -37,21 +49,29 @@
       "Tansania",
       "Türkei"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 9 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "25.06.2020 - BT-Drucksache 19/20381",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920381.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Markus",
-        "NACHNAME": "Frohnmaier",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "25.06.2020 - BT-Drucksache 19/20381",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/203/1920381.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Markus",
+          "NACHNAME": "Frohnmaier",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
+        "FUNDSTELLE": "30.07.2020 - BT-Drucksache 19/22763",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922763.pdf"
       }
-    }
+    ]
   }
 }

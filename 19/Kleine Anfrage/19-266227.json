@@ -5,50 +5,72 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Einflussnahme von Interessenvertreterinnen und Interessenvertretern auf den Gesetzentwurf der Bundesregierung Entwurf eines Zweiten Gesetzes zur Änderung des Bundesmeldegesetzes (2. BMGÄndG) (Bundesratsdrucksache 437/20)",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21868",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921868.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21868",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921868.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22211",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922211.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Staat und Verwaltung",
     "SCHLAGWORT": [
-      "Bundesmeldegesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesmeldegesetz"
+      },
       "Bundesministerium des Innern, für Bau und Heimat",
       "Externe Beratung",
       "Gesetzgebungsverfahren",
       "Interessenverband",
-      "Lobbyismus"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Lobbyismus"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 12 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "26.08.2020 - BT-Drucksache 19/21868",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921868.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Jan",
-          "NACHNAME": "Korte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Petra",
-          "NACHNAME": "Sitte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "26.08.2020 - BT-Drucksache 19/21868",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921868.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan",
+            "NACHNAME": "Korte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Petra",
+            "NACHNAME": "Sitte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "09.09.2020 - BT-Drucksache 19/22211",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922211.pdf"
+      }
+    ]
   }
 }

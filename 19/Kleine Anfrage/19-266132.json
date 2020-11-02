@@ -5,47 +5,84 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Stand des Aufbaus der Zentralstelle IT-Beschaffung",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21811",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921811.pdf"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Staat und Verwaltung",
-    "SCHLAGWORT": [
-      "Beschaffung",
-      "Bundesverwaltung",
-      "Informations- und Kommunikationstechnik"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21811",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921811.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22138",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922138.pdf"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Staat und Verwaltung",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
+    "SCHLAGWORT": [
+      "Behördenaufbau",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Beschaffung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Beschaffungsamt des Bundesministeriums des Innern"
+      },
+      "Bundesverwaltung",
+      "Digitale Souveränität",
+      "Dokumentation",
+      "Informations- und Kommunikationstechnik",
+      "Lizenz",
+      "Open-Source-Software",
+      "Personalausstattung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Software"
+      },
+      "Vertragsstrafe"
+    ],
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21811",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921811.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Victor",
-          "NACHNAME": "Perli",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Gesine",
-          "NACHNAME": "Lötzsch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "24.08.2020 - BT-Drucksache 19/21811",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/218/1921811.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Victor",
+            "NACHNAME": "Perli",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "07.09.2020 - BT-Drucksache 19/22138",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922138.pdf"
+      }
+    ]
   }
 }

@@ -5,41 +5,72 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Verkehrsforschung für die Zukunft von Bus und Bahn II",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21994",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21994",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921994.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23241",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/232/1923241.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
-    "SCHLAGWORT": "Verkehrsforschung",
+    "SACHGEBIET": [
+      "Verkehr",
+      "Wissenschaft, Forschung und Technologie"
+    ],
+    "SCHLAGWORT": [
+      "Bundesmittel",
+      "Forschungsfinanzierung",
+      "Forschungsprogramm",
+      "Öffentlicher Personennahverkehr",
+      "Radverkehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsforschung"
+      }
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21994",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Gelbhaar",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Anna",
-          "NACHNAME": "Christmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "01.09.2020 - BT-Drucksache 19/21994",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921994.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Gelbhaar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Anna",
+            "NACHNAME": "Christmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "08.10.2020 - BT-Drucksache 19/23241",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/232/1923241.pdf"
+      }
+    ]
   }
 }

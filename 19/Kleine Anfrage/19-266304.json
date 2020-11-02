@@ -5,43 +5,79 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Sanierungsbedürftige Schleusen und Wehre",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21931",
-      "DRS_TYP": "Kleine Anfrage"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
-    "SCHLAGWORT": [
-      "Schleuse",
-      "Wasserbau"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21931",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921931.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22429",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922429.pdf"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Staat und Verwaltung",
+      "Verkehr"
+    ],
+    "SCHLAGWORT": [
+      "Baukosten",
+      "Bausanierung",
+      "Binnenschifffahrt",
+      "Generaldirektion Wasserstraßen und Schifffahrt",
+      "Personalbedarf",
+      "Personalbeschaffung",
+      "Planfeststellung",
+      "Rhein",
+      "Schleuse",
+      "Stellenplan",
+      "Verkehrsinvestition",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wasserbau"
+      },
+      "Wasserstraßen- und Schifffahrtsverwaltung",
+      "Wesel-Datteln-Kanal"
+    ],
+    "ABSTRAKT": "(insgesamt 24 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21931",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bernd",
-          "NACHNAME": "Reuther",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21931",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921931.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Reuther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "15.09.2020 - BT-Drucksache 19/22429",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/224/1922429.pdf"
+      }
+    ]
   }
 }

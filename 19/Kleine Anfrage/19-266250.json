@@ -5,52 +5,77 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Beschäftigung mutmaßlicher Islamisten im Sicherheitsbereich der Deutschen Bahn AG",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21901",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921901.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21901",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921901.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22282",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922282.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verkehr",
-      "Arbeit und Beschäftigung"
+      "Innere Sicherheit"
     ],
     "SCHLAGWORT": [
-      "Deutsche Bahn",
-      "Eisenbahninfrastruktur",
-      "Sicherheitsgewerbe",
-      "Sicherheitsüberprüfung von Personen",
-      "Terroristische Vereinigung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Deutsche Bahn"
+      },
+      "Extremismus",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Islamismus"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sicherheitsgewerbe"
+      },
+      "Sicherheitsüberprüfung von Personen"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 9 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21901",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921901.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Wolfgang",
-          "NACHNAME": "Wiehle",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Dirk",
-          "NACHNAME": "Spaniel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "27.08.2020 - BT-Drucksache 19/21901",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921901.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Wiehle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Dirk",
+            "NACHNAME": "Spaniel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "10.09.2020 - BT-Drucksache 19/22282",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922282.pdf"
+      }
+    ]
   }
 }

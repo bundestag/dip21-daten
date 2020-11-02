@@ -5,57 +5,89 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Westbalkanregelung und Visadigitalisierung",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21942",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21942",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921942.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22365",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922365.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
+      "Außenpolitik und internationale Beziehungen",
       "Ausländerpolitik, Zuwanderung",
       "Arbeit und Beschäftigung"
     ],
     "SCHLAGWORT": [
       "Albanien",
-      "Arbeitsmigration",
-      "Aufenthaltsrecht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arbeitsmigration"
+      },
       "Ausländischer Arbeitnehmer",
+      "Bearbeitungsdauer",
       "Bosnien und Herzegowina",
+      "Diplomatische Vertretung",
       "Drittstaat",
+      "E-Government",
       "Kosovo",
       "Montenegro",
       "Nordmazedonien",
+      "Personalausstattung",
       "Serbien",
-      "Südosteuropa",
-      "Visum"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Südosteuropa"
+      },
+      "Verwaltungsmodernisierung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Visum"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21942",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Alexander",
-          "NAMENSZUSATZ": "Graf",
-          "NACHNAME": "Lambsdorff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Jens",
-          "NACHNAME": "Beeck",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21942",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921942.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Alexander",
+            "NAMENSZUSATZ": "Graf",
+            "NACHNAME": "Lambsdorff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Beeck",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "14.09.2020 - BT-Drucksache 19/22365",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922365.pdf"
+      }
+    ]
   }
 }

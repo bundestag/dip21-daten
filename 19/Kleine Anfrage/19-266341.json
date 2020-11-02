@@ -5,44 +5,73 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Betriebsunterbrechungsversicherungen in der Corona-Pandemie",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21947",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21947",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921947.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22246",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922246.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
-      "COVID-19",
-      "Unternehmen",
-      "Versicherung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Insolvenz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unternehmen"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Versicherung"
+      },
+      "Versicherungswirtschaft"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21947",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Schäffler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Dürr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "28.08.2020 - BT-Drucksache 19/21947",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/219/1921947.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schäffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Dürr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "09.09.2020 - BT-Drucksache 19/22246",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/222/1922246.pdf"
+      }
+    ]
   }
 }

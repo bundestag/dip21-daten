@@ -3,21 +3,58 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
-    "TITEL": "Fünfundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes",
+    "TITEL": "Fünfundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes und des Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie",
     "INITIATIVE": [
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B092",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/20596)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20596",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/205/1920596.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20596",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/205/1920596.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23197",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923197.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/173",
+        "PLPR_SEITEN": "21774D - 21782A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21774"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/184",
+        "PLPR_SEITEN": "23133D - 23140D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23133"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/184",
+        "PLPR_SEITEN": "23140C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23140"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -29,7 +66,10 @@
         "_fundstelle": "true",
         "__cdata": "Bundestagswahl"
       },
+      "Bundeswahlgesetz",
+      "COVID-19",
       "Epidemie",
+      "Gesetz über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigentumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie",
       "Kandidatur",
       "Naturkatastrophe",
       "Rechtsverordnung",
@@ -38,11 +78,281 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "30.06.2020 - BT-Drucksache 19/20596",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/205/1920596.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "30.06.2020 - BT-Drucksache 19/20596",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/205/1920596.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "10.09.2020 - BT-Plenarprotokoll 19/173, S. 21774D - 21782A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19173.pdf#P.21774",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21775A"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Haug",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21775D"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21776D"
+          },
+          {
+            "VORNAME": "Konstantin",
+            "NACHNAME": "Kuhle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21778B"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21779B"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21780A"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "21780D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "21782A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/20596"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23208",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/232/1923208.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Inneres und Heimat ",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23197",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923197.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Haug",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ansgar",
+            "NACHNAME": "Heveling",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Konstantin",
+            "NACHNAME": "Kuhle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung; Titeländerung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "09.10.2020 - BT-Plenarprotokoll 19/184, S. 23133D - 23140D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23133",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Frieser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23134A"
+          },
+          {
+            "VORNAME": "Jochen",
+            "NACHNAME": "Haug",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23135A"
+          },
+          {
+            "VORNAME": "Mahmut",
+            "NACHNAME": "Özdemir",
+            "WAHLKREISZUSATZ": "Duisburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23135D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23137A"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23138A"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23138D"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23139B"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "23140B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/23208"
+          },
+          {
+            "BESCHLUSSSEITE": "23140C",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/20596, 19/23197"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "09.10.2020 - BT-Plenarprotokoll 19/184, S. 23140C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19184.pdf#P.23140",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Mechthild",
+          "NACHNAME": "Rawert",
+          "FUNKTION": "MdB",
+          "FRAKTION": "SPD",
+          "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "SEITE": "23240A"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23149C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/20596, 19/23197",
+          "ABSTIMMUNGSART": "Namentliche Abstimmung",
+          "ABSTIMMUNG_BEMERKUNG": "353:268:1"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 594/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0594-20.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 49",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+          "BEZUGSDOKUMENT": "594/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "09.10.2020 - BR-Drucksache 594/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0594-20B.pdf"
+      }
+    ]
   }
 }

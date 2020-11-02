@@ -5,46 +5,72 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Nutzen der Funkloch-App der Bundesnetzagentur",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/21785",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921785.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/21785",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921785.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22140",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922140.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Medien, Kommunikation und Informationstechnik",
     "SCHLAGWORT": [
-      "App",
+      {
+        "_fundstelle": "true",
+        "__cdata": "App"
+      },
+      "Betriebskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Breitbandkommunikation"
+      },
+      "Datenerhebung",
+      "Länder der Bundesrepublik Deutschland",
       "Ländlicher Raum",
       "Mobilfunk"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 23 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "20.08.2020 - BT-Drucksache 19/21785",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921785.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Torsten",
-          "NACHNAME": "Herbst",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "20.08.2020 - BT-Drucksache 19/21785",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/217/1921785.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Torsten",
+            "NACHNAME": "Herbst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "07.09.2020 - BT-Drucksache 19/22140",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/221/1922140.pdf"
+      }
+    ]
   }
 }
