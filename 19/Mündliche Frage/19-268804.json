@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Kosten des Anbaus des Bundeskanzleramtes\r\n",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -23,11 +23,38 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "23.10.2020 - BT-Drucksache 19/23604, Nr. 70-71",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/236/1923604.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "23.10.2020 - BT-Drucksache 19/23604, Nr. 70-71",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/236/1923604.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "28.10.2020 - BT-Plenarprotokoll 19/185, S. 23348D - 23349B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19185.pdf#P.23348",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Franziska",
+            "NACHNAME": "Gminder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "23348D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Hendrik",
+            "NACHNAME": "Hoppenstedt",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "23349B"
+          }
+        ]
+      }
+    ]
   }
 }

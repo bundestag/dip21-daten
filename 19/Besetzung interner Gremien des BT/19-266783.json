@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung interner Gremien des BT",
     "TITEL": "Wahl von Mitgliedern des Sondergremiums gemäß § 3 Absatz 3 des Stabilisierungsmechanismusgesetzes",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/22320",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922320.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/186",
+      "PLPR_SEITEN": "23378C - 23379A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23378"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -25,11 +32,27 @@
     "ABSTRAKT": "Mitglied: Peter Boehringer \r\nStellvertreterin: Dr. Birgit Malsack-Winkemann"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "11.09.2020 - BT-Drucksache 19/22320",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922320.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "11.09.2020 - BT-Drucksache 19/22320",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922320.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "29.10.2020 - BT-Plenarprotokoll 19/186, S. 23378C - 23379A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23378",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23442B",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/22320",
+          "ABSTIMMUNGSART": "Geheime Wahl",
+          "MEHRHEIT": "Absolute Mehrheit",
+          "ABSTIMMUNG_BEMERKUNG": "Peter Boehringer: 130:497:24:6\r\nDr. Birgit Malsack-Winkemann: 119:517:20:1"
+        }
+      }
+    ]
   }
 }

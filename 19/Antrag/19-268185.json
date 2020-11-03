@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Neben der Sonderregelung für Kurzarbeit auch Sonderregelung für Arbeitslosengeld I verlängern und ein Weiterbildungsgeld einführen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/23169",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923169.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/185",
+      "PLPR_SEITEN": "23317A - 23325C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19185.pdf#P.23317"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -30,28 +37,138 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23169",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923169.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sabine",
-          "NACHNAME": "Zimmermann",
-          "WAHLKREISZUSATZ": "Zwickau",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "07.10.2020 - BT-Drucksache 19/23169",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/231/1923169.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Susanne",
+            "NACHNAME": "Ferschl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "28.10.2020 - BT-Plenarprotokoll 19/185, S. 23317A - 23325C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19185.pdf#P.23317",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Anette",
+            "NACHNAME": "Kramme",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23317C"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Sichert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23318B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Weiß",
+            "WAHLKREISZUSATZ": "Emmendingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23319A"
+          },
+          {
+            "VORNAME": "Carl-Julius",
+            "NACHNAME": "Cronenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23320B"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23321A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Strengmann-Kuhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23321D"
+          },
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Rützel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23322C"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Aumer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23323B"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Sichert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "23324C"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Aumer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "23324D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23325B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/23169"
         },
-        {
-          "VORNAME": "Susanne",
-          "NACHNAME": "Ferschl",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      }
+    ]
   }
 }

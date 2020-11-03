@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/16500",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/165/1916500.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/16500",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/165/1916500.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23857",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923857.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -62,7 +70,7 @@
       "Wehrmaterial",
       "Wehrtechnik"
     ],
-    "ABSTRAKT": "60 Jahre Wehrbeauftragter, Innere Führung in der Bundeswehr und das Programm \"Innere Führung &ndash; heute\", Verwaltungsmanagement und Digitalisierung, Trendwenden in den Bereichen Finanzen, Personal, Material sowie Infrastruktur, Soldatenalltag, Frauen in der Bundeswehr, Einsatz und Bündnis, Rechtsverstöße und Rechtspflege, Vereinbarkeit von Familie und Dienst, gesundheitliche Versorgung, Vorgänge und Eingaben"
+    "ABSTRAKT": "60 Jahre Wehrbeauftragter, Innere Führung in der Bundeswehr und das Programm \"Innere Führung &ndash; heute\", Verwaltungsmanagement und Digitalisierung, Trendwenden in den Bereichen Finanzen, Personal, Material sowie Infrastruktur, Soldatenalltag, Frauen in der Bundeswehr, Einsatz und Bündnis, Rechtsverstöße und Rechtspflege, Vereinbarkeit von Familie und Dienst, gesundheitliche Versorgung, Vorgänge und Eingaben \r\n \r\n Beschlussempfehlung des Ausschusses:  "
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -229,6 +237,60 @@
             "AUSSCHUSS_KLARTEXT": "Sportausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Verteidigungsausschuss ",
+        "FUNDSTELLE": "30.10.2020 - BT-Drucksache 19/23857",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923857.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Eberhard",
+            "NACHNAME": "Brecht",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Berengar",
+            "NACHNAME": "Elsner von Gronow",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Vieregge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
       }
     ]
   }
