@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "239 - 243",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.239"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "239 - 243",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.239"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/187",
+        "PLPR_SEITEN": "23661B - 23662C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23661"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8136/20, Kom. (2020) 456 endg.",
     "SCHLAGWORT": [
       {
@@ -173,6 +182,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "03.07.2020 - BR-Drucksache 295/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0295-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "30.10.2020 - BT-Plenarprotokoll 19/187, S. 23661B - 23662C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23661",
+        "VP_ABSTRAKT": "S. 23661B - Kenntnisnahme"
       }
     ]
   }
