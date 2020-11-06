@@ -3,8 +3,8 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Veröffentlichung von Gutachten zu geplanten Entschädigungen für Kohlekraftwerksbetreiber im Rahmen des Kohleausstiegs\r\n",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Veröffentlichung eines Gutachtens zu geplanten Entschädigungen für Kohlekraftwerksbetreiber im Rahmen des Kohleausstiegs",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -24,11 +24,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "30.10.2020 - BT-Drucksache 19/23818, Nr. 30",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923818.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "30.10.2020 - BT-Drucksache 19/23818, Nr. 30",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923818.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "04.11.2020 - BT-Plenarprotokoll 19/188, S. 23738D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19188.pdf#P.23738",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Badum",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "23738D"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Wanderwitz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "23738D"
+          }
+        ]
+      }
+    ]
   }
 }
