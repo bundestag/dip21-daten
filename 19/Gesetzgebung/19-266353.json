@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Zehntes Gesetz zur Änderung des Weingesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F024",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 487/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/237/1923749.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "994",
-      "PLPR_SEITEN": "368 - 368",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.368"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994",
+        "PLPR_SEITEN": "368 - 368",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.368"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/189",
+        "PLPR_SEITEN": "23811D - 23813A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23811"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -78,6 +87,7 @@
         "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 28, S. 368 - 368",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.368",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "368",
           "BESCHLUSSTENOR": "Stellungnahme: Änderungsvorschläge",
           "BEZUGSDOKUMENT": "487/20",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -94,6 +104,21 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
         "FUNDSTELLE": "28.10.2020 - BT-Drucksache 19/23749\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/237/1923749.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "05.11.2020 - BT-Plenarprotokoll 19/189, S. 23811D - 23813A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23811",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23813A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/23749"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
       }
     ]
   }

@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0557-20.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/177",
-      "PLPR_SEITEN": "22283A - 22291C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19177.pdf#P.22283"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/177",
+        "PLPR_SEITEN": "22283A - 22291C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19177.pdf#P.22283"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/190",
+        "PLPR_SEITEN": "24040B - 24040C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24040"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -188,6 +197,13 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.11.2020 - BT-Plenarprotokoll 19/190, S. 24040B - 24040C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24040",
+        "VP_ABSTRAKT": "S. 24040B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

@@ -9,7 +9,7 @@
       "Fraktion der FDP",
       "Fraktion DIE LINKE"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B086",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/19273)",
@@ -18,6 +18,13 @@
       "DRS_NUMMER": "19/19273",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919273.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/189",
+      "PLPR_SEITEN": "23837C - 23845D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23837"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -40,11 +47,137 @@
     "ABSTRAKT": "Umsetzung des Verfassungsauftrages aus Art. 140 GG in Verbindung mit Art. 138 I Weimarer Reichsverfassung zur Ablösung der auf Gesetz, Vertrag oder besonderen Rechtstitel beruhenden Ansprüche der Religionsgesellschaften: Verpflichtung der Länder zum Erlass entsprechender Ablösegesetze innerhalb von 5 Jahren, Berechnung der Ablösesumme, Modalitäten einer Ratenzahlung, Möglichkeit einer Entschädigung durch andere als Geldleistungen in freier Vertragsgestaltung, Abschluss der Ablösung nach längstens 20 Jahren; \r\n \r\nBezug: Siehe auch B089"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der FDP ",
-      "FUNDSTELLE": "15.05.2020 - BT-Drucksache 19/19273",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919273.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion DIE LINKE, Fraktion der FDP ",
+        "FUNDSTELLE": "15.05.2020 - BT-Drucksache 19/19273",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919273.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "05.11.2020 - BT-Plenarprotokoll 19/189, S. 23837C - 23845D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23837",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Benjamin",
+            "NACHNAME": "Strasser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23837D"
+          },
+          {
+            "VORNAME": "Hermann",
+            "NACHNAME": "Gröhe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23838C"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Münz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23839B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Lars",
+            "NACHNAME": "Castellucci",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23840A"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Münz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "23841C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Lars",
+            "NACHNAME": "Castellucci",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "23842A"
+          },
+          {
+            "VORNAME": "Benjamin",
+            "NACHNAME": "Strasser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "23842B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Lars",
+            "NACHNAME": "Castellucci",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "23842C"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23842D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Konstantin",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Notz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23843C"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23844B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23845A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23845C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/19273"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -15,13 +15,21 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0586-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "994",
-      "PLPR_SEITEN": "359 - 359",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.359"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994",
+        "PLPR_SEITEN": "359 - 359",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.359"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -78,6 +86,7 @@
         "FUNDSTELLE": "09.10.2020 - BR-Plenarprotokoll 994, TOP 42, S. 359 - 359",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.359",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "359",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "586/20"
         }
@@ -88,6 +97,16 @@
         "FUNDSTELLE": "26.10.2020 - BR-Drucksache 586/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0586-1-20.pdf",
         "VP_ABSTRAKT": "R, In: Einbringung in geänderter Fassung - AIS, FJ, FS: Einbringung - R: zus. Bestellung eines Beauftragten"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 18",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "586/20"
+        }
       }
     ]
   }

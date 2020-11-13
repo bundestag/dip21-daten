@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Freiraum für gesellschaftliches Leben erhalten - Veranstaltungswirtschaft schützen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924037.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/187",
-      "PLPR_SEITEN": "23634A - 23641D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23634"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/187",
+        "PLPR_SEITEN": "23634A - 23641D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23634"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/190",
+        "PLPR_SEITEN": "24030A - 24037C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24030"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -163,6 +172,85 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "06.11.2020 - BT-Plenarprotokoll 19/190, S. 24030A - 24037C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24030",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Ernst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24030B"
+          },
+          {
+            "VORNAME": "Klaus-Peter",
+            "NACHNAME": "Willsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24031B"
+          },
+          {
+            "VORNAME": "Enrico",
+            "NACHNAME": "Komning",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24032B"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Poschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24033B"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Marcel",
+            "NACHNAME": "Klinge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24034A"
+          },
+          {
+            "VORNAME": "Katharina",
+            "NACHNAME": "Dröge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24034C"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Braunschweig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24035C"
+          },
+          {
+            "VORNAME": "Gülistan",
+            "NACHNAME": "Yüksel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24036C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24037C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/23679"
+        }
       }
     ]
   }

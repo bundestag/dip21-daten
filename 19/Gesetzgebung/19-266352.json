@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
-    "TITEL": "Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze",
+    "TITEL": "Gesetz zur Ermittlung der Regelbedarfe und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie weiterer Gesetze",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G043",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 486/20 (bes.eilbed.))",
@@ -21,6 +21,12 @@
         "DRS_NUMMER": "19/22750",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/227/1922750.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24034",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924034.pdf"
       }
     ],
     "PLENUM": [
@@ -37,6 +43,20 @@
         "PLPR_NUMMER": "994",
         "PLPR_SEITEN": "367 - 368",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.367"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/189",
+        "PLPR_SEITEN": "23853A - 23862C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23853"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/189",
+        "PLPR_SEITEN": "23862A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23862"
       }
     ],
     "EU_DOK_NR": "",
@@ -44,14 +64,21 @@
     "SCHLAGWORT": [
       "Asylbewerber",
       "Asylbewerberleistungsgesetz",
+      "Aufenthaltsgesetz",
+      "Bundeskindergeldgesetz",
+      "Bundesversorgungsgesetz",
       "Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie des Asylbewerberleistungsgesetzes",
-      "Regelbedarfs-Ermittlungsgesetz",
+      "Regelbedarfsermittlungsgesetz",
       "Regelsatz",
+      "Sozialdienstleister-Einsatzgesetz",
+      "Sozialgesetzbuch II",
+      "Sozialgesetzbuch III",
       "Sozialgesetzbuch XII",
       "Sozialhilferecht",
-      "Sozialleistung"
+      "Sozialleistung",
+      "Wohngeldgesetz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses:  Titeländerung (eingebracht als: Gesetz zur Ermittlung von Regelbedarfen und zur Änderung des Zwölften Buches Sozialgesetzbuch sowie des Asylbewerberleistungsgesetzes); Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -229,6 +256,7 @@
           }
         ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "368",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "486/20",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -333,6 +361,114 @@
             "AKTIVITAETSART": "Berichterstattung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "05.11.2020 - BT-Plenarprotokoll 19/189, S. 23853A - 23862C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23853",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dagmar",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Wetzlar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23853D"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Witt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23854C"
+          },
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Zech",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23855D"
+          },
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Kober",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23857A"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Kipping",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23857D"
+          },
+          {
+            "VORNAME": "Sven",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23858C"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Kolbe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23859B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Zimmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23860A"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "23861A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23862A",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/22750, 19/24034"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "05.11.2020 - BT-Plenarprotokoll 19/189, S. 23862A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23862",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23862A",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/22750, 19/24034"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "06.11.2020 - BR-Drucksache 654/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0654-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
       }
     ]
   }

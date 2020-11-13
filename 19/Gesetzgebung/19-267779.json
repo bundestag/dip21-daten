@@ -23,13 +23,21 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/234/1923481.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/186",
-      "PLPR_SEITEN": "23425A - 23427B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23425"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/186",
+        "PLPR_SEITEN": "23425A - 23427B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23425"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Ausländerpolitik, Zuwanderung",
@@ -98,6 +106,28 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Stellungnahme: Änderungsvorschläge",
+          "BEZUGSDOKUMENT": "560/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2020 - BR-Drucksache 560/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0560-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung über Stellungnahme des BR und Gegenäußerung der BRg,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "11.11.2020 - BT-Drucksache 19/24233",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/242/1924233.pdf"
       }
     ]
   }

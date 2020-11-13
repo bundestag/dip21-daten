@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates \"Europas Zukunft jetzt gestalten\"",
     "INITIATIVE": "Hessen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,21 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0591-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "994",
-      "PLPR_SEITEN": "365 - 367",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.365"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "994",
+        "PLPR_SEITEN": "365 - 367",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/994.pdf#P.365"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Europapolitik und Europäische Union",
     "SCHLAGWORT": [
@@ -61,6 +69,7 @@
           "SEITE": "365"
         },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "367",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "591/20"
         }
@@ -71,6 +80,29 @@
         "FUNDSTELLE": "26.10.2020 - BR-Drucksache 591/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0591-1-20.pdf",
         "VP_ABSTRAKT": "Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Plenarantrag,  Urheber : Nordrhein-Westfalen ",
+        "FUNDSTELLE": "05.11.2020 - BR-Drucksache 591/2/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0591-2-20.pdf",
+        "VP_ABSTRAKT": "Ändrungen anstelle Ziffer 6 in Drs 591/1/20"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme in geänderter Fassung",
+          "BEZUGSDOKUMENT": "591/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2020 - BR-Drucksache 591/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0591-20B.pdf"
       }
     ]
   }

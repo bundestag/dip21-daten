@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Rechentricks überwinden - Regelbedarfe sauber berechnen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,18 +22,24 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924034.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/182",
-      "PLPR_SEITEN": "22871A - 22880D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19182.pdf#P.22871"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": [
-      "Gesellschaftspolitik, soziale Gruppen",
-      "Soziale Sicherung"
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/182",
+        "PLPR_SEITEN": "22871A - 22880D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19182.pdf#P.22871"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/189",
+        "PLPR_SEITEN": "23853A - 23862C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23853"
+      }
     ],
+    "EU_DOK_NR": "",
+    "SACHGEBIET": "Soziale Sicherung",
     "SCHLAGWORT": [
       "Existenzminimum",
       "Gesetzgebung",
@@ -198,6 +204,93 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.11.2020 - BT-Plenarprotokoll 19/189, S. 23853A - 23862C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19189.pdf#P.23853",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dagmar",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Wetzlar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23853D"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Witt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23854C"
+          },
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Zech",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23855D"
+          },
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Kober",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23857A"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Kipping",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23857D"
+          },
+          {
+            "VORNAME": "Sven",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23858C"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Kolbe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23859B"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Zimmer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "23860A"
+          },
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "23861A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "23862B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/23113"
+        }
       }
     ]
   }

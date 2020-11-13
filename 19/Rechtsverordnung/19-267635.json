@@ -14,6 +14,12 @@
       "DRS_TYP": "Verordnung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0550-20.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "995",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -30,15 +36,33 @@
     "ABSTRAKT": "Einführung von Vordrucken für die Bescheinigung des Aufenthaltsstatus nach dem Austrittsabkommen, Einräumung weiterer Aufenthaltsrechte für britische Staatsangehörige, Änderung eines Vordrucks"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Verordnung,  Urheber : Bundesministerium des Innern, für Bau und Heimat ",
-      "FUNDSTELLE": "22.09.2020 - BR-Drucksache 550/20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0550-20.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Verordnung,  Urheber : Bundesministerium des Innern, für Bau und Heimat ",
+        "FUNDSTELLE": "22.09.2020 - BR-Drucksache 550/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0550-20.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 46",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung",
+          "BEZUGSDOKUMENT": "550/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2020 - BR-Drucksache 550/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0550-20B.pdf"
       }
-    }
+    ]
   }
 }

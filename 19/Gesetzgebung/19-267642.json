@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2021 (Haushaltsgesetz 2021)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D080",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 516/20)",
@@ -24,6 +24,12 @@
       }
     ],
     "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf"
+      },
       {
         "PLPR_KLARTEXT": "1. Beratung",
         "PLPR_HERAUSGEBER": "BT",
@@ -90,6 +96,29 @@
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922600.pdf"
       },
       {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "27.10.2020 - BR-Drucksache 516/1/20(neu)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0516-1-20(neu).pdf",
+        "VP_ABSTRAKT": "zu Drsn 516/20 und 517/20: Stellungnahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 2a",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Stellungnahme",
+          "BEZUGSDOKUMENT": "516/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "06.11.2020 - BR-Drucksache 516/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0516-20B.pdf"
+      },
+      {
         "ZUORDNUNG": "BT",
         "URHEBER": "1. Beratung",
         "FUNDSTELLE": "29.09.2020 - BT-Plenarprotokoll 19/178, S. 22425A - 22514A",
@@ -116,6 +145,12 @@
         "FUNDSTELLE": "02.10.2020 - BT-Plenarprotokoll 19/181, S. 22753A - 22820C",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19181.pdf#P.22753",
         "VP_ABSTRAKT": "Rednerlisten und Beschlüsse siehe Einzelpläne"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung über Stellungnahme des BR und Gegenäußerung der BRg,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/22602",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/226/1922602.pdf"
       },
       {
         "ZUORDNUNG": "BT",
@@ -2709,13 +2744,6 @@
         "VP_ABSTRAKT": "Schlussrunde"
       },
       {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "27.10.2020 - BR-Drucksache 516/1/20(neu)",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0516-1-20(neu).pdf",
-        "VP_ABSTRAKT": "zu Drsn 516/20 und 517/20: Stellungnahme"
-      },
-      {
         "ZUORDNUNG": "BT",
         "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
         "FUNDSTELLE": "02.11.2020 - BT-Drucksache 19/23305",
@@ -2735,6 +2763,41 @@
         "FUNDSTELLE": "02.11.2020 - BT-Drucksache 19/23309",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923309.pdf",
         "VP_ABSTRAKT": "Epl 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Energie"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/23310",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923310.pdf",
+        "VP_ABSTRAKT": "Epl 10 - Geschäftsbereich des Bundesministeriums für Ernährung und Landwirtschaft"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/23312",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923312.pdf",
+        "VP_ABSTRAKT": "Epl 12 - Geschäftsbereich des Bundesministeriums für Verkehr und digitale Infrastruktur"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/23314",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923314.pdf",
+        "VP_ABSTRAKT": "Epl 15 - Geschäftsbereich des Bundesministeriums für Gesundheit"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/23315",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923315.pdf",
+        "VP_ABSTRAKT": "Epl 16 - Geschäftsbereich des Bundesministeriums für Umwelt, Naturschutz und nukleare Sicherheit"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/23320",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923320.pdf",
+        "VP_ABSTRAKT": "Epl 23 - Geschäftsbereich des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung"
       }
     ]
   }

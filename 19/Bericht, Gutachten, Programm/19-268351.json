@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/233/1923350.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/186",
-      "PLPR_SEITEN": "23513C - 23520C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23513"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/186",
+        "PLPR_SEITEN": "23513C - 23520C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23513"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/190",
+        "PLPR_SEITEN": "24040B - 24040C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24040"
+      }
+    ],
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
@@ -124,6 +133,13 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "06.11.2020 - BT-Plenarprotokoll 19/190, S. 24040B - 24040C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19190.pdf#P.24040",
+        "VP_ABSTRAKT": "S. 24040B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }
