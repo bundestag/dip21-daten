@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Fortentwicklung des Sanierungs- und Insolvenzrechts (Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz - SanInsFoG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C180",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 619/20 (bes.eilbed.))",
@@ -23,6 +23,13 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/241/1924181.pdf"
       }
     ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/191",
+      "PLPR_SEITEN": "24112A - 24119C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19191.pdf#P.24112"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -51,7 +58,10 @@
       "Insolvenzverfahren",
       "Pfandbriefgesetz",
       "Rechtsanwaltsvergütungsgesetz",
-      "Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sanierungs- und Insolvenzrechtsfortentwicklungsgesetz"
+      },
       "Schuldverschreibungsgesetz",
       "Sozialgesetzbuch III",
       "Unternehmenssanierung",
@@ -99,6 +109,21 @@
         "FUNDSTELLE": "16.11.2020 - BR-Drucksache 619/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0619-1-20.pdf",
         "VP_ABSTRAKT": "R, AV, Fz, Wi: Stellungnahme - R, Fz, Wi: zus. Änderungsvorschläge - AIS: keine Einwendungen"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "18.11.2020 - BT-Plenarprotokoll 19/191, S. 24112A - 24119C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19191.pdf#P.24112",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24119C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24181"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
       }
     ]
   }

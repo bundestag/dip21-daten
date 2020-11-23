@@ -10,23 +10,47 @@
       "Fraktion der FDP",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "O005",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/23709)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/23709",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/237/1923709.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/187",
-      "PLPR_SEITEN": "23628A - 23634A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23628"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23709",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/237/1923709.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24484",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924484.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/187",
+        "PLPR_SEITEN": "23628A - 23634A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23628"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/192",
+        "PLPR_SEITEN": "24215C - 24228A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24215"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/192",
+        "PLPR_SEITEN": "24227D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24227"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -44,7 +68,10 @@
       "Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR",
       "Gesetz zur Änderung des Bundesarchivgesetzes, des Stasi-Unterlagen-Gesetzes und zur Einrichtung einer oder eines SED-Opferbeauftragten",
       "Parlamentsbeauftragter",
-      "SED-Opferbeauftragtengesetz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "SED-Opferbeauftragtengesetz"
+      },
       {
         "_fundstelle": "true",
         "__cdata": "Stasi-Unterlagen-Gesetz"
@@ -150,6 +177,118 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Kultur und Medien ",
+        "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24484",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924484.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Simone",
+            "NACHNAME": "Barrientos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Budde",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Motschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24489",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924489.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24490",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924490.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "19.11.2020 - BT-Plenarprotokoll 19/192, S. 24215C - 24228A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24215"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "19.11.2020 - BT-Plenarprotokoll 19/192, S. 24227D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24227"
       }
     ]
   }
