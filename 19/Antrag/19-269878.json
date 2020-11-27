@@ -17,12 +17,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
-      "Agrarsubvention",
       "EU-Agrarpolitik",
-      "Grünland",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Grünland"
+      },
       "Landwirtschaftsfläche"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Engagement auf EU-Ebene: Erhalt des Ackerlandstatus von Grünlandflächen, Aussetzung der Fünf-Jahres-Frist für die Dauergrünlandentstehung bis zur Inkraftsetzung der neuen GAP, Verzicht auf Pflugregelung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -52,7 +54,24 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "19.11.2020 - BT-Plenarprotokoll 19/192, S. 24242C - 24244D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24242"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24242",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24244D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24326"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
       }
     ]
   }

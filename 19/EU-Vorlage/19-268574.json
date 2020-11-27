@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates über ein allgemeines Umweltaktionsprogramm der Union für die Zeit bis 2030\r\nKOM(2020) 652 endg.; Ratsdok. 11987/20",
+    "TITEL": "Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates über ein allgemeines Umweltaktionsprogramm der Union für die Zeit bis 2030 \r\nKOM(2020)652 endg.; Ratsdok. 11987/20",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "624/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0624-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "624/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0624-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24546",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11987/20, Kom. (2020) 652 endg.",
     "SCHLAGWORT": [
       "Programm der EU",
@@ -63,6 +71,24 @@
         "FUNDSTELLE": "16.11.2020 - BR-Drucksache 624/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0624-1-20.pdf",
         "VP_ABSTRAKT": "EU, AV, U: Stellungnahme - Fz, Wi: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.11.2020 - BT-Drucksache 19/24546, Nr. A.24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
       }
     ]
   }

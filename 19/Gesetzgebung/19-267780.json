@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Reform der technischen Assistenzberufe in der Medizin und zur Änderung weiterer Gesetze (MTA-Reform-Gesetz)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M045",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 562/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924447.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "995",
-      "PLPR_SEITEN": "411 - 412",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.411"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_SEITEN": "411 - 412",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.411"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/194",
+        "PLPR_SEITEN": "24525C - 24533A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19194.pdf#P.24525"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -121,6 +130,7 @@
         "FUNDSTELLE": "06.11.2020 - BR-Plenarprotokoll 995, TOP 26, S. 411 - 412",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.411",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "412",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "562/20",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -137,6 +147,100 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
         "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24447\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924447.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "25.11.2020 - BT-Plenarprotokoll 19/194, S. 24525C - 24533A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19194.pdf#P.24525",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Emmi",
+            "NACHNAME": "Zeulner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24525D"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24526D"
+          },
+          {
+            "VORNAME": "Bettina",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24527D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24528D"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Weinberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24529C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Janosch",
+            "NACHNAME": "Dahmen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24530C"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Krauß",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24531C"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Heidenblut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24532B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24533A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24447"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
       }
     ]
   }

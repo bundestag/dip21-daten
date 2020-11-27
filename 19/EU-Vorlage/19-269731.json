@@ -3,17 +3,25 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Geänderter Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Einführung eines gemeinsamen Verfahrens zur Gewährung internationalen Schutzes in der Union und zur Aufhebung der Richtlinie 2013/32/EU\r\nKOM(2020) 611 endg.; Ratsdok. 11202/20",
+    "TITEL": "Geänderter Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Einführung eines gemeinsamen Verfahrens zur Gewährung internationalen Schutzes in der Union und zur Aufhebung der Richtlinie 2013/32/EU\r\nKOM(2020)611 endg.; Ratsdok. 11202/20",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "690/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0690-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "690/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0690-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24546",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11202/20, Kom. (2020) 611 endg.",
     "ABSTRAKT": ""
   },
@@ -48,6 +56,30 @@
         "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
         "FUNDSTELLE": "03.11.2020 - BR-Drucksache zu690/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0690-20(zu).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.11.2020 - BT-Drucksache 19/24546, Nr. A.1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
       }
     ]
   }

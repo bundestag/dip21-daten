@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/013/1801375.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/80",
-      "PLPR_SEITEN": "9349A - 9349C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9349"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/80",
+        "PLPR_SEITEN": "9349A - 9349C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19080.pdf#P.9349"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/193",
+        "PLPR_SEITEN": "24458C - 24458D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24458"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -86,6 +95,13 @@
             "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "20.11.2020 - BT-Plenarprotokoll 19/193, S. 24458C - 24458D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24458",
+        "VP_ABSTRAKT": "S. 24458C - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

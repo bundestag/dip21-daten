@@ -23,18 +23,26 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Verkehr",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
     "SCHLAGWORT": [
-      "Cloud Computing",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Cloud Computing"
+      },
       "Digitalisierung",
-      "Eisenbahnunternehmen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Eisenbahnunternehmen"
+      },
       "Informationssicherheit",
       "Programm der Bundesregierung",
       "Schienenverkehr",
-      "Verkehrslenkung",
-      "Verkehrsplanung"
+      "Verkehrslenkung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Kenntnisse über Projekte zur Auslagerung von Bahnleitsystemen in die Cloud, Förderprogramme und Projektförderungen, Sicherheitsaspekt, zusätzliche Anforderungen im Planungsverfahren, IT-Sicherheitsnormen \r\n(insgesamt 6 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

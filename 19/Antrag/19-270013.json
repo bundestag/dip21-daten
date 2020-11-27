@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Unterstützung für das System Luftverkehr in Zeiten von Corona",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,49 +14,188 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/243/1924356.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/193",
+      "PLPR_SEITEN": "24441A - 24447A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24441"
+    },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Verkehr"
+    ],
     "SCHLAGWORT": [
-      "Beschaffung",
       "COVID-19",
       "DFS Deutsche Flugsicherung",
       "Diagnose",
+      "Flughafengebühr",
       "Flugsicherung",
+      "Forschungsprogramm der Bundesregierung",
+      "Kerosin",
       "Klimaschutz",
       "Luftfahrtforschung",
+      "Luft- und Raumfahrtindustrie",
       "Luftverkehr",
       "Luftverkehrsteuer",
-      "Luftverkehrsunternehmen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Luftverkehrsunternehmen"
+      },
+      "Militärische Luftfahrt",
       "Passagierluftverkehr",
       "Reisebestimmungen",
+      "Richtlinie der EU",
       "Seuchenbekämpfung",
       "Test",
       "Wirtschaftsförderung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Einstellung pauschaler Reisebeschränkungen und Quarantäneregelungen für Reisende, Ermöglichung von Schnelltestverfahren für Reiserückkehrer, Abschaffung der Luftverkehrssteuer, Unterbindung zusätzlicher Abgaben für Luftsicherheit und Flugsicherung, Konzept zur Kostenübernahme von Flughafenfeuerwehren, Aussetzen der Revision der EU-Flughafenentgeltrichtlinie, Rückstellung der Kerosinbesteuerung, Stärkung der Forschung für klimafreundliches Fliegen, Beschleunigung der Antragsverfahren des Luftfahrtforschungsprogramms, Anschlussregelungen für Corona- sowie Betriebsbeihilfen, schnellere Umsetzung militärischer Forschungs-, Entwicklungs- und Beschaffungsprogramme"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "17.11.2020 - BT-Drucksache 19/24356",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/243/1924356.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bernd",
-          "NACHNAME": "Reuther",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "17.11.2020 - BT-Drucksache 19/24356",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/243/1924356.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Reuther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.11.2020 - BT-Plenarprotokoll 19/193, S. 24441A - 24447A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24441",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Reuther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24441B"
+          },
+          {
+            "VORNAME": "Björn",
+            "NACHNAME": "Simon",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24441D"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Magnitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24443A"
+          },
+          {
+            "VORNAME": "Arno",
+            "NACHNAME": "Klare",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24443D"
+          },
+          {
+            "VORNAME": "Jörg",
+            "NACHNAME": "Cezanne",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24444B"
+          },
+          {
+            "VORNAME": "Daniela",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24445A"
+          },
+          {
+            "VORNAME": "Alois",
+            "NACHNAME": "Rainer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24445C"
+          },
+          {
+            "VORNAME": "Dorothee",
+            "NACHNAME": "Martin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24446B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24447A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24356"
         },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

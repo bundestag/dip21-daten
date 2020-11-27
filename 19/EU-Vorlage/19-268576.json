@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "628/20",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0628-20.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "628/20",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0628-20.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24546",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11855/20, Kom. (2020) 662 endg.",
     "SCHLAGWORT": [
       {
@@ -65,6 +73,24 @@
         "FUNDSTELLE": "16.11.2020 - BR-Drucksache 628/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0628-1-20.pdf",
         "VP_ABSTRAKT": "EU, Fz: Stellungnahme - AIS, U, Wi, Wo: Kenntnisnahme"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "23.11.2020 - BT-Drucksache 19/24546, Nr. A.13",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und Reaktorsicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          }
+        ]
       }
     ]
   }

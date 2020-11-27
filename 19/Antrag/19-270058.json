@@ -17,14 +17,19 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
+      "Agrarsubvention",
       "Genehmigung",
       "Pflanzenbau",
       "Pflanzenschutz",
-      "Pflanzenschutzmittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflanzenschutzmittel"
+      },
       "Pflanzenzüchtung",
+      "Saatgut",
       "Zuckerrübe"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Prioritäre Behandlung der beim Bundesamt für Verbraucherschutz und Lebensmittelsicherheit vorliegenden Anträge auf Notzulassung neonikotinoidhaltiger Pflanzenschutzmittel zur Beizung von Zuckerrübensaat, Forschungsintensivierung zur Entwicklung neuer Wirkstoffe und zur Züchtung virusresistenter Sorten im Zuckerrübenanbau; Engagement auf EU-Ebene zur Abschaffung gekoppelter Prämien für den Zuckerrübenanbau"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -54,7 +59,24 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "19.11.2020 - BT-Plenarprotokoll 19/192, S. 24242C - 24244D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24242"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24242",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24244D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24374"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
       }
     ]
   }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Reaktivierung der Wehrpflicht",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/24401",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924401.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/193",
+      "PLPR_SEITEN": "24397C - 24410C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24397"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verteidigung",
@@ -28,27 +35,173 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24401",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924401.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Rüdiger",
-          "NACHNAME": "Lucassen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24401",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924401.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Lucassen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Marc",
+            "NACHNAME": "Bernhard",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.11.2020 - BT-Plenarprotokoll 19/193, S. 24397C - 24410C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19193.pdf#P.24397",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Lucassen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24397D"
+          },
+          {
+            "VORNAME": "Henning",
+            "NACHNAME": "Otte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24398C"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24399C"
+          },
+          {
+            "VORNAME": "Rüdiger",
+            "NACHNAME": "Lucassen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "24400B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Brunner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24400D"
+          },
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Pflüger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24402A"
+          },
+          {
+            "VORNAME": "Agnieszka",
+            "NACHNAME": "Brugger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24403B"
+          },
+          {
+            "VORNAME": "Ingo",
+            "NACHNAME": "Gädechens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24404A"
+          },
+          {
+            "VORNAME": "Jan Ralf",
+            "NACHNAME": "Nolte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24404D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Fritz",
+            "NACHNAME": "Felgentreu",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24405C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marcus",
+            "NACHNAME": "Faber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24407A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Tobias",
+            "NACHNAME": "Lindner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24408A"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24408C"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Hahn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "24409C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24410C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/24401"
         },
-        {
-          "VORNAME": "Marc",
-          "NACHNAME": "Bernhard",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      }
+    ]
   }
 }

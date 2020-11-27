@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Petition",
     "TITEL": "Sammelübersicht 672 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
     "INITIATIVE": "Petitionsausschuss",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,43 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924012.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/192",
+      "PLPR_SEITEN": "24246B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24246"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
-      "FUNDSTELLE": "04.11.2020 - BT-Drucksache 19/24012",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924012.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "04.11.2020 - BT-Drucksache 19/24012",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/240/1924012.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.11.2020 - BT-Plenarprotokoll 19/192, S. 24246B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19192.pdf#P.24246",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Matthias W.",
+          "NACHNAME": "Birkwald",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "SEITE": "24355D"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "24246B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/24012"
+        }
+      }
+    ]
   }
 }

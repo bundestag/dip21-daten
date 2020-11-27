@@ -29,10 +29,16 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Kultur",
+    "SACHGEBIET": [
+      "Kultur",
+      "Raumordnung, Bau- und Wohnungswesen"
+    ],
     "SCHLAGWORT": [
       "Berlin",
-      "Berliner Mauer",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berliner Mauer"
+      },
       "Brandenburg",
       "Bundesimmobilien",
       "Bundesunternehmen",
@@ -40,7 +46,10 @@
       "Denkmalschutz",
       "Deutsche Bahn",
       "Eigentum",
-      "Gedenkstätte",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gedenkstätte"
+      },
       "Gehweg",
       "Grundstücksverkehr",
       "Instandhaltung",
@@ -49,7 +58,7 @@
       "Straßenunterhaltung",
       "Zuständigkeit"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Historische Bedeutung des Berliner Mauerwegs, Grundstücke entlang des Mauerwegs im Besitz des Bundes und der Deutschen Bahn, Verkaufspläne, Bericht der Berliner Verkehrsverwaltung über den Zustand des Mauerwegs, Instandhaltungsmaßnahmen des Bundes, Kooperation zwischen Bund und Ländern, Planungen für gesonderte Radwege, Denkmalschutz, historische Bedeutung des Parlaments der Bäume und Pläne zur zukünftigen Nutzung und Pflege \r\n(insgesamt 14 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
