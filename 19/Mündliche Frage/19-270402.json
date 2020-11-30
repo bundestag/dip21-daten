@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Unterstützung für politisch verfolgte Tansanier",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -21,11 +21,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwiefern stellt die Bundesregierung Unterstützung für politisch verfolgte Tansanierinnen und Tansanier zur Verfügung, und gedenkt sie, diese Unterstützung angesichts der aktuellen Eskalation zu erhöhen (www.africanews.com/2020/11/15/tanzanian-opposition-leader-tundu-lissu-back-in-exile-in-belgium/)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24510, Nr. 66",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924510.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24510, Nr. 66",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924510.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "25.11.2020 - BT-Plenarprotokoll 19/194, S. 24559B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19194.pdf#P.24559",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ottmar",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Holtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "24559B"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "24559B"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -4,8 +4,11 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung der Abgabenordnung - Gesetz zur umfassenden Verfolgung der organisierten Steuerhinterziehung",
-    "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
+    "INITIATIVE": [
+      "Hessen",
+      "Nordrhein-Westfalen"
+    ],
+    "AKTUELLER_STAND": "Einbringung beschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D085",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 638/20)",
@@ -15,13 +18,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0638-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "995",
-      "PLPR_SEITEN": "434 - 434",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.434"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_SEITEN": "434 - 434",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.434"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -46,7 +56,7 @@
     "VORGANGSPOSITION": [
       {
         "ZUORDNUNG": "BR",
-        "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen ",
+        "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen und Hessen ",
         "FUNDSTELLE": "28.10.2020 - BR-Drucksache 638/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0638-20.pdf",
         "ZUWEISUNG": [
@@ -76,6 +86,21 @@
         "FUNDSTELLE": "16.11.2020 - BR-Drucksache 638/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0638-1-20.pdf",
         "VP_ABSTRAKT": "R: Einbringung in geänderter Fassung; Bestellung eines Beauftragten - Fz: Einbringung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2020 - BR-Plenarprotokoll 997, TOP 23",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Einbringung in geänderter Fassung; Bestellung eines Beauftragten",
+          "BEZUGSDOKUMENT": "638/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "27.11.2020 - BR-Drucksache 638/20(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0638-20B.pdf"
       }
     ]
   }

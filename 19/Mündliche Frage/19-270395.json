@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Konsequenzen aus dem Gerichtsurteil zur Erteilung des Flüchtlingsstatus für syrische Kriegsdienstverweigerer",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -25,11 +25,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Konsequenzen zieht die Bundesregierung aus dem Urteil des Europäischen Gerichtshofs C-238/19 zur Erteilung des Flüchtlingsstatus für syrische Kriegsdienstverweigerer (https://curia.europa.eu/jcms/upload/docs/application/pdf/2020-11/cp200142de.pdf), und wird sie die syrischen Kriegsdienstverweigerer, deren Klagen auf Erteilung eines Flüchtlingsstatus noch anhängig sind, klaglos stellen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24510, Nr. 58",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924510.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24510, Nr. 58",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924510.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "25.11.2020 - BT-Plenarprotokoll 19/194, S. 24557A - 24557B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19194.pdf#P.24557",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "24557A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Günter",
+            "NACHNAME": "Krings",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "24557B"
+          }
+        ]
+      }
+    ]
   }
 }

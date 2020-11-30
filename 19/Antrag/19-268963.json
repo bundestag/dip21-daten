@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -25,13 +25,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924728.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/185",
-      "PLPR_SEITEN": "23288C - 23295C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19185.pdf#P.23288"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/185",
+        "PLPR_SEITEN": "23288C - 23295C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19185.pdf#P.23288"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/195",
+        "PLPR_SEITEN": "24634C - 24634D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19195.pdf#P.24634"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -208,6 +217,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.11.2020 - BT-Plenarprotokoll 19/195, S. 24634C - 24634D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19195.pdf#P.24634"
       }
     ]
   }

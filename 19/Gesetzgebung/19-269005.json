@@ -15,13 +15,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0643-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "995",
-      "PLPR_SEITEN": "402 - 403",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.402"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "995",
+        "PLPR_SEITEN": "402 - 403",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/995.pdf#P.402"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -75,6 +82,15 @@
         "FUNDSTELLE": "13.11.2020 - BR-Drucksache 643/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0643-1-20.pdf",
         "VP_ABSTRAKT": "G: Einbringung; Bestellung eines Beauftragten - R: Ablehnung der Einbringung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "27.11.2020 - BR-Plenarprotokoll 997, TOP 21",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "643/20"
+        }
       }
     ]
   }
