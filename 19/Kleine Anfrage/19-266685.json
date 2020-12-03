@@ -23,16 +23,24 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Innere Sicherheit"
+    ],
     "SCHLAGWORT": [
       "Bundeswehr",
+      "Ermittlungsverfahren",
       {
         "_fundstelle": "true",
         "__cdata": "Kommando Spezialkräfte"
       },
       "Militärische Übung",
-      "Rechtsextremismus",
-      "Rechtsextremistische Organisation"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rechtsextremismus"
+      },
+      "Rechtsextremistische Organisation",
+      "Schießplatz"
     ],
     "ABSTRAKT": "(insgesamt 6 Einzelfragen)"
   },

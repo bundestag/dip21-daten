@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl eines Mitglieds des Stiftungsrates der \"Stiftung Haus der kleinen Forscher\"",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Zurückgezogen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/24430",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924430.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/196",
+      "PLPR_SEITEN": "24806A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19196.pdf#P.24806"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -22,11 +29,20 @@
     "ABSTRAKT": "Dr. Dirk Spaniel"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24430",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924430.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "18.11.2020 - BT-Drucksache 19/24430",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/244/1924430.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "27.11.2020 - BT-Plenarprotokoll 19/196, S. 24806A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19196.pdf#P.24806",
+        "VP_ABSTRAKT": "S. 24806A - Amtliche Mitteilung über Rücknahme 19/24430"
+      }
+    ]
   }
 }
