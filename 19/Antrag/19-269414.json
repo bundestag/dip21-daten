@@ -39,10 +39,16 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Recht"
+    ],
     "SCHLAGWORT": [
       "Bundeskanzler",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Gesetzgebung",
       "Gesundheitsschutz",
       "Grundrechtsbeschränkung",
@@ -50,10 +56,17 @@
       "Konferenz",
       "Landesrecht",
       "Ministerpräsident",
-      "Parlamentarische Kontrolle",
-      "Seuchenbekämpfung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Parlamentskompetenz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seuchenbekämpfung"
+      },
+      "Verfassungskonformität"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Sofortige Rücknahme der von der Bundeskanzlerin mit den Ministerpräsidenten der Länder gefassten Beschlüsse auf der gemeinsamen Videokonferenz am 28. Oktober 2020 und Ersetzung durch zielgenaue auf den Schutz von Risikogruppen ausgerichtete Maßnahmen, inbes. für Ältere und Vorerkrankte, schnelle Außerkraftsetzung der Länder-Verordnungen und Vorlage eines Gesetzentwurfs zur verfassungskonformen Neufassung der im Infektionsschutzgesetz geregelten Ermächtigungsnormen zur Wiederherstellung des Parlamentsvorbehalts"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
