@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Bekämpfung sexualisierter Gewalt gegen Kinder",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C183",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 634/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924901.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "997",
-      "PLPR_SEITEN": "477 - 478",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.477"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997",
+        "PLPR_SEITEN": "477 - 478",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.477"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/199",
+        "PLPR_SEITEN": "25070A - 25071A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19199.pdf#P.25070"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -145,6 +154,7 @@
           }
         ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "478",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "634/20",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -161,6 +171,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "02.12.2020 - BT-Drucksache 19/24901\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924901.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "10.12.2020 - BT-Plenarprotokoll 19/199, S. 25070A - 25071A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19199.pdf#P.25070"
       }
     ]
   }
