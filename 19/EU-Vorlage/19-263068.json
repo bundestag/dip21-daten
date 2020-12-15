@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "992",
-      "PLPR_SEITEN": "257 - 257",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.257"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "992",
+        "PLPR_SEITEN": "257 - 257",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/992.pdf#P.257"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/200",
+        "PLPR_SEITEN": "25191C - 25191D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19200.pdf#P.25191"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 7065/20, Kom. (2020) 440 endg.",
     "SCHLAGWORT": [
       {
@@ -135,6 +144,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "03.07.2020 - BR-Drucksache 303/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0303-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "11.12.2020 - BT-Plenarprotokoll 19/200, S. 25191C - 25191D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19200.pdf#P.25191",
+        "VP_ABSTRAKT": "S. 25191C - Kenntnisnahme"
       }
     ]
   }

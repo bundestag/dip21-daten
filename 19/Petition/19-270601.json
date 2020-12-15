@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Petition",
     "TITEL": "Sammelübersicht 711 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
     "INITIATIVE": "Petitionsausschuss",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,35 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924711.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/199",
+      "PLPR_SEITEN": "25071C - 25073C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19199.pdf#P.25071"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
-      "FUNDSTELLE": "25.11.2020 - BT-Drucksache 19/24711",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924711.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "25.11.2020 - BT-Drucksache 19/24711",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924711.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "10.12.2020 - BT-Plenarprotokoll 19/199, S. 25071C - 25073C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19199.pdf#P.25071",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "25073A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/24711"
+        }
+      }
+    ]
   }
 }
