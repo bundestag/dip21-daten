@@ -23,15 +23,22 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Recht",
+      "Verkehr"
+    ],
     "SCHLAGWORT": [
       "Externe Beratung",
       "Gerichtskosten",
-      "Pkw-Maut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pkw-Maut"
+      },
       "Rechtsdienstleistung",
-      "Schiedsrichterliches Verfahren"
+      "Schiedsrichterliches Verfahren",
+      "Vergaberecht"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 13 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
