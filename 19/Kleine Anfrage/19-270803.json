@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Deutsche Entwicklungszusammenarbeit mit der Republik Uganda - Versorgungslage der Bevölkerung in den Sektoren Wasser, Nahrung und Energie",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/24846",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/248/1924846.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24846",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/248/1924846.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/25268",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
+    "SACHGEBIET": "Entwicklungspolitik",
     "SCHLAGWORT": [
       "Energieversorgung",
       {
@@ -29,30 +37,37 @@
       },
       "Wasserversorgung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 6 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "01.12.2020 - BT-Drucksache 19/24846",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/248/1924846.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Dietmar",
-          "NACHNAME": "Friedhoff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Ulrich",
-          "NACHNAME": "Oehme",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "01.12.2020 - BT-Drucksache 19/24846",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/248/1924846.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dietmar",
+            "NACHNAME": "Friedhoff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Oehme",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
+        "FUNDSTELLE": "15.12.2020 - BT-Drucksache 19/25268"
+      }
+    ]
   }
 }
