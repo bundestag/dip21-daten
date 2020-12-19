@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Zweites Gesetz zur Änderung des Jugendschutzgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I018",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 618/20)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924909.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "997",
-      "PLPR_SEITEN": "476 - 477",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.476"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997",
+        "PLPR_SEITEN": "476 - 477",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.476"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/201",
+        "PLPR_SEITEN": "25281A - 25288C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19201.pdf#P.25281"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesellschaftspolitik, soziale Gruppen",
@@ -115,6 +124,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
         "FUNDSTELLE": "02.12.2020 - BT-Drucksache 19/24909\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924909.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "16.12.2020 - BT-Plenarprotokoll 19/201, S. 25281A - 25288C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19201.pdf#P.25281"
       }
     ]
   }

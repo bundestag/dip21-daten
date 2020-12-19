@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Kritik am Khartum-Abkommen in der Zentralafrikanischen Republik",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -23,11 +23,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Schlüsse für das eigene Handeln zieht die Bundesregierung aus der Kritik zum Khartoum-Abkommen in der Zentralafrikanischen Republik, das Abkommen fördere, anstelle eines nachhaltigen Friedens, die Kriegswirtschaft und würde die finanzielle und politische Macht bewaffneter Gruppen verstärken sowie die Krise verschlimmern (https://cdn.thesentry.org/wp-content/uploads/2020/10/StateofPrey-TheSentry-Oct2020.pdf)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "11.12.2020 - BT-Drucksache 19/25158, Nr. 31",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925158.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "11.12.2020 - BT-Drucksache 19/25158, Nr. 31",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925158.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "16.12.2020 - BT-Plenarprotokoll 19/201, S. 25223D - 25224D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19201.pdf#P.25223",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ottmar",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Holtz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25223D"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25224A"
+          }
+        ]
+      }
+    ]
   }
 }
