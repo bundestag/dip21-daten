@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Verlängerung der von Unternehmen beantragten Kurzarbeit",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -22,11 +22,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Unternehmen, die zwischen den Stichtagen 31. März und 30. Juni 2020 aufgrund der coronabedingten Schließungen Kurzarbeit angezeigt und im Anschluss Kurzarbeitergeld bis zum 31. Dezember 2020 bewilligt bekommen haben, mussten aufgrund einer mindestens dreimonatigen Unterbrechung der Kurzarbeit bis zu den Stichtagen 31. Oktober und 30. November 2020 erneut Kurzarbeit anzeigen und haben diese bewilligt bekommen, und teilt die Bundesregierung meine Einschätzung, dass in der aktuellen Pandemielage eine erneute Anzeige von Kurzarbeit, obwohl im Frühjahr bereits bis zum 31. Dezember 2020 Kurzarbeit bzw. Kurzarbeitergeld bewilligt worden ist, unnötig Verwaltungskapazitäten bindet und unnötige Bürokratie aufbaut?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "11.12.2020 - BT-Drucksache 19/25158, Nr. 52",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925158.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "11.12.2020 - BT-Drucksache 19/25158, Nr. 52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925158.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "16.12.2020 - BT-Plenarprotokoll 19/201, S. 25301B - 25301C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19201.pdf#P.25301",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Herbrand",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25301B"
+          },
+          {
+            "VORNAME": "Anette",
+            "NACHNAME": "Kramme",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25301C"
+          }
+        ]
+      }
+    ]
   }
 }
