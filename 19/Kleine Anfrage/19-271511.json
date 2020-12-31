@@ -15,10 +15,22 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/253/1925392.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Staat und Verwaltung",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Staat und Verwaltung",
+      "Arbeit und Beschäftigung"
+    ],
     "SCHLAGWORT": [
-      "Bundesbehörde",
-      "Telearbeit"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesbehörde"
+      },
+      "COVID-19",
+      "Seuchenbekämpfung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Telearbeit"
+      }
     ],
     "ABSTRAKT": ""
   },
