@@ -15,11 +15,20 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/255/1925562.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Außenpolitik und internationale Beziehungen"
+    ],
     "SCHLAGWORT": [
-      "Atomare Abrüstung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Atomare Abrüstung"
+      },
       "Atomwaffe",
-      "Atomwaffenverbotsvertrag"
+      "Atomwaffenverbotsvertrag",
+      "Kernwaffensperrvertrag",
+      "NATO",
+      "Nonproliferation"
     ],
     "ABSTRAKT": ""
   },
