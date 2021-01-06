@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/24779",
-      "DRS_TYP": "Schriftliche Fragen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924779.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24779",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924779.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/25159",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925159.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arbeitsvertrag",
@@ -28,27 +36,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
-      "FUNDSTELLE": "27.11.2020 - BT-Drucksache 19/24779, Nr. 91",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924779.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Oliver",
-          "NACHNAME": "Krischer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Frage"
-        },
-        {
-          "VORNAME": "Enak",
-          "NACHNAME": "Ferlemann",
-          "FUNKTION": "Parl. Staatssekr.",
-          "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
-          "AKTIVITAETSART": "Antwort"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+        "FUNDSTELLE": "27.11.2020 - BT-Drucksache 19/24779, Nr. 91",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/247/1924779.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ergänzende schriftliche Antwort ",
+        "FUNDSTELLE": "11.12.2020 - BT-Drucksache 19/25159, S. 134",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/251/1925159.pdf#P.134"
+      }
+    ]
   }
 }

@@ -17,10 +17,17 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "COVID-19",
-      "Gesundheitsschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Impfstoff",
-      "Impfung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Impfung"
+      },
+      "Programm der Bundesregierung",
+      "Seuchenbekämpfung"
     ],
     "ABSTRAKT": ""
   },
