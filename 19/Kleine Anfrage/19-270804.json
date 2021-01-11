@@ -18,7 +18,8 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/25591",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/255/1925591.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -28,16 +29,23 @@
     ],
     "SCHLAGWORT": [
       "Bundesmittel",
-      "COVID-19",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Gesundheitswesen",
       "Lebensmittelversorgung",
       "Öffentliche Schulden",
       "Schuldenerlass",
       "Seuchenbekämpfung",
-      "Soziale Sicherung"
+      "Soziale Sicherung",
+      "Wirtschaftsförderung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 19 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -66,7 +74,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung (federführend)",
-        "FUNDSTELLE": "22.12.2020 - BT-Drucksache 19/25591"
+        "FUNDSTELLE": "22.12.2020 - BT-Drucksache 19/25591",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/255/1925591.pdf"
       }
     ]
   }
