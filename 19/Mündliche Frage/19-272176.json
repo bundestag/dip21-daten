@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Studien zum Covid-19-Infektionsrisiko in Schulen für Kinder und Jugendliche",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -24,11 +24,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nGibt es inzwischen weitere von der Bundesministerin für Familie, Senioren, Frauen und Jugend Franziska Giffey in Auftrag gegebene Studien (als die von ihr Mitte Oktober 2020 erwähnte Studie) zur Frage, ob in Bezug auf die Corona-Pandemie Kinder und Jugendliche in Schulen Infektionsherde und damit Infektionstreiber sind (siehe https://taz.de/Rolle-voin-Schulen-bei-Coronaverbreitung/!5742195/?s=09), und falls ja, wann ist mit der Veröffentlichung der Ergebnisse zu rechnen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 26",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 26",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25592A - 25592B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25592",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25592A"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Marks",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Familie, Senioren, Frauen und Jugend",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25592B"
+          }
+        ]
+      }
+    ]
   }
 }

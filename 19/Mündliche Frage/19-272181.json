@@ -3,8 +3,8 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Zulässigkeit des Online-Ident-Verfahrens der Techniker Krankenkasse für die Einrichtung einer elektronischen Patientenakte",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Zulässigkeit des Online-Ident-Verfahrens für die Einrichtung einer elektronischen Patientenakte",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -22,11 +22,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIst nach Rechtsauffassung der Bundesregierung ein Online-Ident-Verfahren, wie es aktuell z. B. von der Techniker Krankenkasse genutzt wird (www.tk.de/techniker/leistungen-und-mitgliedschaft/online-services-versicherte/elektronische-patientenakte-tk-safe/registrierung-kuendigung-elektronische-patientenakte/registrierung-zur-gesundheitsakte-2028820), als Authentifizierungsverfahren für die Einrichtung einer elektronischen Patientenakte (ePA) zulässig (bitte begründen), und welche Authentifizierungsverfahren zur Einrichtung einer ePA können die Krankenkassen derzeit als Alternative zur persönlichen Authentifizierung in den Geschäftsstellen der Krankenkassen anbieten?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 31",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 31",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25593B - 25593D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25593",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25593B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Thomas",
+            "NACHNAME": "Gebhart",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25593D"
+          }
+        ]
+      }
+    ]
   }
 }

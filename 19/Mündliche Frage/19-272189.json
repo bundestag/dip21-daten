@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Anzahl der an die Bundesländer gelieferten Impfdosen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -21,14 +21,41 @@
       "Länder der Bundesrepublik Deutschland",
       "Seuchenbekämpfung"
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Impfdosen wurden durch den Bund bisher an die einzelnen Bundesländer geliefert, und wann sollen die nächsten Lieferungen erfolgen?\r\n"
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Impfdosen wurden durch den Bund bisher an die einzelnen Bundesländer geliefert, und wann sollen die nächsten Lieferungen erfolgen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 40",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 40",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25596B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25596",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Klein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25596B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Thomas",
+            "NACHNAME": "Gebhart",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25596B"
+          }
+        ]
+      }
+    ]
   }
 }

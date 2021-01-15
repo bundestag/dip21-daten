@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Zeitpunkt der vollständigen Deckung des Energiebedarfs Deutschlands mittels Solar- und Windenergie",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -26,14 +26,48 @@
         "__cdata": "Windenergie"
       }
     ],
-    "ABSTRAKT": " \r\n if(typeof(dstb)!= \"undefined\"){ dstb();}  \r\n \r\n\r\n \r\n   \r\n \r\n\r\n   \r\nOriginaltext der Frage(n): \r\n \r\nAb welchem Zeitpunkt (Jahr) ist nach Einschätzung der Bundesregierung sichergestellt, dass der gesamte Primär- und Sekundärenergiebedarf Deutschlands vollständig mittels in Deutschland erzeugter Solar- und Windenergie gedeckt ist, und welchen Bedarf an Primär- und Sekundärenergie prognostiziert die Bundesregierung für diesen Zeitpunkt (die Antwort bitte begründen)? \r\n "
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nAb welchem Zeitpunkt (Jahr) ist nach Einschätzung der Bundesregierung sichergestellt, dass der gesamte Primär- und Sekundärenergiebedarf Deutschlands vollständig mittels in Deutschland erzeugter Solar- und Windenergie gedeckt ist, und welchen Bedarf an Primär- und Sekundärenergie prognostiziert die Bundesregierung für diesen Zeitpunkt (die Antwort bitte begründen)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 2",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 2",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Mündliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25541C - 25542D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25541",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25541C"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25541D"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zusatzfrage",
+            "SEITE": "25542C"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Forderung nach einer Herkunftskennzeichnung auf Lebensmitteln",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -16,14 +16,40 @@
       },
       "Nahrungsmittel"
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Konsequenzen zieht die Bundesregierung aus der Forderung der Landwirte nach einer Herkunftskennzeichnung auf Lebensmitteln (www.topagrar.com/suedplus/news/landwirte-fordern-transparente-herkunftskennzeichnung-12386113.html)?\r\n"
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Konsequenzen zieht die Bundesregierung aus der Forderung der Landwirte nach einer Herkunftskennzeichnung auf Lebensmitteln (www.topagrar.com/suedplus/news/landwirte-fordern-transparente-herkunftskennzeichnung-12386113.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 24",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25591B - 25591C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25591",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Carina",
+            "NACHNAME": "Konrad",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25591B"
+          },
+          {
+            "VORNAME": "Hans-Joachim",
+            "NACHNAME": "Fuchtel",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25591C"
+          }
+        ]
+      }
+    ]
   }
 }

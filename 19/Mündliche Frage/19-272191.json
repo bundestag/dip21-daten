@@ -3,8 +3,8 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Vorstellung des Sonderprogramms \"Elektrische Güterbahnen\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Vorstellung des Sonderprogramms Elektrische Güterbahnen",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -18,14 +18,40 @@
       },
       "Zugmaschine"
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWann plant die Bundesregierung die Vorstellung des Sonderprogramms \"Elektrische Güterbahnen\", und wie viele Streckenkilometer hat die Bundesregierung für dieses Programm untersucht bzw. bewertet?\r\n"
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWann plant die Bundesregierung die Vorstellung des Sonderprogramms \"Elektrische Güterbahnen\", und wie viele Streckenkilometer hat die Bundesregierung für dieses Programm untersucht bzw. bewertet?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 42",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 42",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25596C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25596",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25596C"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25596C"
+          }
+        ]
+      }
+    ]
   }
 }
