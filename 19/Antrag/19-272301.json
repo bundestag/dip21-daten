@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -16,6 +16,13 @@
       "DRS_NUMMER": "19/25816",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/258/1925816.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/204",
+      "PLPR_SEITEN": "25714D - 25722C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25714"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
@@ -33,11 +40,32 @@
     "ABSTRAKT": "Feststellung der zumindest teilweisen Unmöglichkeit einer Durchführung von Versammlungen für die Wahl der Wahlbewerber und der Vertreter für die Vertreterversammlungen in Vorbereitung der Bundestagswahl 2021 als Voraussetzung für den Erlass einer Rechtsverordnung mit Zustimmung des Bundestages durch das BMI betr. Abweichung von Bestimmungen des Bundeswahlgesetzes und von Parteisatzungen bei der Benennung von Wahlbewerbern ohne Versammlungen wegen höherer Gewalt (Covid-19-Epidemie)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-      "FUNDSTELLE": "13.01.2021 - BT-Drucksache 19/25816",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/258/1925816.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
+        "FUNDSTELLE": "13.01.2021 - BT-Drucksache 19/25816",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/258/1925816.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag ",
+        "FUNDSTELLE": "14.01.2021 - BT-Drucksache 19/25901",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/259/1925901.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Mario",
+          "NACHNAME": "Mieruch",
+          "FUNKTION": "MdB",
+          "FRAKTION": "fraktionslos",
+          "AKTIVITAETSART": "Änderungsantrag"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "14.01.2021 - BT-Plenarprotokoll 19/204, S. 25714D - 25722C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25714"
+      }
+    ]
   }
 }

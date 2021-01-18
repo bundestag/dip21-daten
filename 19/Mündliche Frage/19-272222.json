@@ -4,7 +4,7 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Einführung einer einheitlichen Identitätsnummer für jeden Bürger",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "EU_DOK_NR": "",
@@ -21,14 +21,40 @@
       },
       "Seehofer, Horst"
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nTreffen Presseberichte zu, dass der Bundesminister des Innern, für Bau und Heimat Horst Seehofer trotz aller Kritik und juristischer Bedenken weiterhin plant, eine einheitliche Identitätsnummer für jeden Bürger einzuführen (siehe dazu die tageszeitung, taz vom 4. Januar 2021: https://taz.de/Regierung-plant-Identitaetsnummer/!5737871/), und wie meint er, mit dem Urteil des Bundesverfassungsgerichts von 1983 umgehen zu können, das laut \"taz\" genau eine solche einheitliche Personenkennziffer für \"unzulässig\" erklärt hatte? \r\n"
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nTreffen Presseberichte zu, dass der Bundesminister des Innern, für Bau und Heimat Horst Seehofer trotz aller Kritik und juristischer Bedenken weiterhin plant, eine einheitliche Identitätsnummer für jeden Bürger einzuführen (siehe dazu die tageszeitung, taz vom 4. Januar 2021: https://taz.de/Regierung-plant-Identitaetsnummer/!5737871/), und wie meint er, mit dem Urteil des Bundesverfassungsgerichts von 1983 umgehen zu können, das laut \"taz\" genau eine solche einheitliche Personenkennziffer für \"unzulässig\" erklärt hatte?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 63",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25730, Nr. 63",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925730.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "13.01.2021 - BT-Plenarprotokoll 19/203, S. 25613C - 25614A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19203.pdf#P.25613",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25613C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25614A"
+          }
+        ]
+      }
+    ]
   }
 }
