@@ -28,13 +28,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/253/1925307.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "998",
-      "PLPR_SEITEN": "515 - 515",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/998.pdf#P.515"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "998",
+        "PLPR_SEITEN": "515 - 515",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/998.pdf#P.515"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/204",
+        "PLPR_SEITEN": "25768D - 25769C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 12477/20, Kom. (2020) 682 endg.",
     "SCHLAGWORT": [
       "Europäische Union",
@@ -132,6 +141,7 @@
         "FUNDSTELLE": "18.12.2020 - BR-Plenarprotokoll 998, TOP 21, S. 515 - 515",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/998.pdf#P.515",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "515",
           "BESCHLUSSTENOR": "keine Subsidiaritätsstellungnahme; Kenntnisnnahme",
           "BEZUGSDOKUMENT": "649/20",
           "GRUNDLAGE": "Art. 12 Buchstabe b EUV und gem. §§ 3 und 5 EUZBLG"
@@ -148,6 +158,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "18.12.2020 - BR-Drucksache 649/20(B)(2)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0649-20B(2).pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "14.01.2021 - BT-Plenarprotokoll 19/204, S. 25768D - 25769C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768",
+        "VP_ABSTRAKT": "S. 25768D - Kenntnisnahme"
       }
     ]
   }

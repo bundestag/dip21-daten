@@ -14,13 +14,22 @@
       "DRS_TYP": "Bericht",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/18/096/1809606.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/55",
-      "PLPR_SEITEN": "5935D - 5937D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5935"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/55",
+        "PLPR_SEITEN": "5935D - 5937D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19055.pdf#P.5935"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/204",
+        "PLPR_SEITEN": "25768B - 27768D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
@@ -95,6 +104,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "14.01.2021 - BT-Plenarprotokoll 19/204, S. 25768B - 27768D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768",
+        "VP_ABSTRAKT": "S. 25768B - Mitteilung über Absehen von Berichterstattung "
       }
     ]
   }

@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/23819",
-      "DRS_TYP": "Schriftliche Fragen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923819.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/23819",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923819.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/25731",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925731.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Deutsche Bahn",
@@ -27,27 +35,35 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
-      "FUNDSTELLE": "30.10.2020 - BT-Drucksache 19/23819, Nr. 96",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923819.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Schmidt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Frage"
-        },
-        {
-          "VORNAME": "Enak",
-          "NACHNAME": "Ferlemann",
-          "FUNKTION": "Parl. Staatssekr.",
-          "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
-          "AKTIVITAETSART": "Antwort"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+        "FUNDSTELLE": "30.10.2020 - BT-Drucksache 19/23819, Nr. 96",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923819.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ergänzende schriftliche Antwort ",
+        "FUNDSTELLE": "08.01.2021 - BT-Drucksache 19/25731, S. 52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/257/1925731.pdf#P.52"
+      }
+    ]
   }
 }
