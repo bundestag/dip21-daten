@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Zweites Gesetz zur Änderung des Agrarmarktstrukturgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F028",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 3/21 (bes.eilbed.))",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "3/21",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0003-21.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "3/21",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0003-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26102",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926102.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -47,20 +55,28 @@
     "ABSTRAKT": "Stärkung der Marktposition von landwirtschaftlichen Erzeugern durch Umsetzung von EU-Recht zur Schaffung einheitlicher Mindestschutzstandards zur Bekämpfung von unlauteren Handelspraktiken in der Agrar- und Lebensmittellieferkette; \r\nEinfügung und Änderung versch. §§ Agrarmarktstrukturgesetz sowie Änderung der Überschrift in Gesetz zur Stärkung der Organisationen und Lieferketten im Agrarbereich ( Agrarorganisationen-und-Lieferketten-Gesetz  &ndash; AgrarOLkG), Einfügung § 50a Gerichtskostengesetz sowie Anlage 1 Rechtsanwaltsvergütungsgesetz; Bekanntmachungserlaubnis, Verordnungsermächtigungen \r\n \r\nBezug: Richtlinie (EU) 2019/633 vom 17. April 2019 über unlautere Handelspraktiken in den Geschäftsbeziehungen zwischen Unternehmen in der Agrar- und Lebensmittelversorgungskette (ABl. L 111, 25.4.2019, S. 59)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
-      "FUNDSTELLE": "01.01.2021 - BR-Drucksache 3/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0003-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "01.01.2021 - BR-Drucksache 3/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0003-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "25.01.2021 - BT-Drucksache 19/26102",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926102.pdf"
+      }
+    ]
   }
 }
