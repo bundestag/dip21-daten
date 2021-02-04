@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/114/1911455.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/134",
-      "PLPR_SEITEN": "16724A - 16726A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19134.pdf#P.16724"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/134",
+        "PLPR_SEITEN": "16724A - 16726A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19134.pdf#P.16724"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/207",
+        "PLPR_SEITEN": "26205D - 26206A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26205"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
@@ -58,6 +67,13 @@
             "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "29.01.2021 - BT-Plenarprotokoll 19/207, S. 26205D - 26206A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26205",
+        "VP_ABSTRAKT": "S. 26205D - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

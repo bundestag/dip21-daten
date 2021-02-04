@@ -7,6 +7,13 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25857D - 25858B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25857"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,11 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie hoch ist die aktuelle Produktionskapazität an medizinischen Schutzmasken in Deutschland vor dem Hintergrund, dass es nach Auskunft des Bundeswirtschaftsministeriums vom September 2020 an möglich sein sollte, dass in Deutschland innerhalb eines Jahres 2,5 Milliarden zusätzliche Masken produziert werden können und zusätzlich bis Ende Juni 2021 die Produktionskapazitäten in Deutschland so weit gesteigert werden sollen, dass innerhalb eines Jahres insgesamt bis zu 7 Milliarden Masken in zertifizierter Qualität (FFP2, FFP3 und medizinische Gesichtsmasken) hergestellt werden können (vgl. www.aerzteblatt.de/nachrichten/114515/Ab-September-hoehere-Maskenproduktion-in-Deutschland)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 16",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 16",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25857D - 25858B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25857",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25858A"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Wanderwitz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25858A"
+          }
+        ]
+      }
+    ]
   }
 }

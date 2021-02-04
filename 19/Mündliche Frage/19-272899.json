@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Ertüchtigung der Bahnstrecke zwischen München und Berlin für den Schienengüterverkehr",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25870B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25870"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bahnstrecke",
@@ -26,11 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWurden inzwischen alle Hindernisse für die Nutzung der Aus- und Neubaustrecke zwischen München und Berlin durch den Schienengüterverkehr beseitigt (so die Verlegung der sechs Signalpunkte zur Erhöhung der Zughakengrenzlast, die in der Antwort der Bundesregierung auf meine Schriftliche Frage 110 auf Bundestagsdrucksache 19/ 24118 für November des vergangenen Jahres zugesagt worden war; außerdem ein Sicherungssystem zur Überwindung des bisherigen Tunnelbegegnungsverbotes zwischen Ebensfeld und Erfurt, siehe Antwort zu den Fragen 3 und 14 auf Bundestagsdrucksache 19/24864), und liegen inzwischen Trassenanmeldungen für den Güterverkehr vor bzw. werden derartige Anmeldungen erwartet?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 59",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 59",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25870B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25870",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25870B"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25870B"
+          }
+        ]
+      }
+    ]
   }
 }

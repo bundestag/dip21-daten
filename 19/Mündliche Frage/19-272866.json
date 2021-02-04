@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Förderung der Bund-Länder-Kooperation im Bereich des Strafvollzugs",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25860C - 25860D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25860"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bund-Länder-Kooperation",
@@ -15,11 +22,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nGibt es, nachdem sich derzeit schon in Zusammenhang mit der Bewältigung der Coronakrise regelmäßige Bund-Länder-Konferenzen (vgl. zuletzt: Meldung auf der Netzseite der Bundesregierung, https://bundesregierung.de/breg-de/aktuelles/bund-laender-beschluss-1841048, zuletzt abgerufen am 21. Januar 2020) verfestigt haben, innerhalb der Bundesregierung Überlegungen oder konkrete Pläne, einen ähnlichen Austausch mit den jeweiligen Fachministern der Länder zu ermöglichen mit dem Ziel, die Zersplitterung der Umsetzung im Bereich des Justizvollzugs (vgl. dazu bereits Süddeutsche Zeitung vom 17. Mai 2010, https://sueddeutsche.de/politik/strafvollzug-wird-laendersache-zu-befuerchten-sind-billiggefaengnisse-1.432537, zuletzt abgerufen am 21. Januar 2020) aufzulösen und damit zugleich bisherige aus meiner Sicht fruchtlose Kooperationsbemühungen in diesem Bereich zu ersetzen oder zu ergänzen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 25",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 25",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25860C - 25860D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25860",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25860C"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25860C"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Verzögerungen beim Umtausch veralteter Führerscheine aufgrund der Corona-Pandemie",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25871C - 25871D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25871"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "COVID-19",
@@ -19,11 +26,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nRechnet die Bundesregierung mit einer Verzögerung des Umtausches von veralteten Führerscheinen aufgrund der Coronapandemie und der Auswirkungen auf die zuständigen Behörden, und plant die Bundesregierung oder die EU, nach Kenntnis der Bundesregierung, eine Verschiebung aller oder einzelner Termine für den Umtausch (https://bnn.de/karlsruhe/vor-2013-ausgestellte-fuehrerscheine-muessen-umgetauscht-werden)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 65",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 65",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25871C - 25871D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25871",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25871C"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25871D"
+          }
+        ]
+      }
+    ]
   }
 }

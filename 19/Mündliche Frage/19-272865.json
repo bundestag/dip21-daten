@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Vergabe von Lizenzen für die COVID-19-Impfstoffe zwecks Versorgung ärmerer Länder",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25860A - 25860B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25860"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -25,11 +32,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nErwägt die Bundesregierung, nachdem der Bundesminister für wirtschaftliche Zusammenarbeit und Entwicklung Dr. Gerd Müller die zahlreichen Forderungen nach Vergabe von Lizenzen der COVID-19-Impfstoffe aufgegriffen (siehe https://rp-online.de/politik/deutschland/minister-gerd-mueller-richtet-impfstoff-appell-an-amazon-und-co_aid-55787805) und der Generalsekretär der Weltgesundheitsorganisation (WHO) Tedros Adhanom Ghebreyesus den &bdquo;selbstzerstörerischen me-first-Ansatz&ldquo; der reichen Länder gegeißelt hat (siehe www.br.de/nachrichten/deutschland-welt/who-erst-25-corona-impfungen-in-guinea,SMSA3Q0), ihre Blockade gegen eine Aufhebung von Patenten auf Coronaimpfstoffe aufzugeben, damit die rasche und kostengünstige Ausweitung von Produktionskapazitäten besonders für ärmere Länder, wie von vielen Vertreterinnen und Vertretern von Wissenschaft und Zivilgesellschaft gefordert (siehe www.tagesschau.de/wirtschaft/patente-impfstoffe-101.html), ermöglicht wird, und falls nein, mit welcher Begründung lehnt sie die zumindest zeitlich befristete Aufhebung geistiger Eigentumsrechte, wie von 100 Ländern in einer Initiative der Welthandelsorganisation gefordert, ab (siehe www.neues-deutschland.de/artikel/1147216.corona-impfstoff-impfstoff-muss-ein-gemeingut-sein.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 24",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 24",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25860A - 25860B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25860",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Eva-Maria",
+            "NACHNAME": "Schreiber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25860A"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Lange",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25860B"
+          }
+        ]
+      }
+    ]
   }
 }

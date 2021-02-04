@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "997",
-      "PLPR_SEITEN": "483 - 484",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.483"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997",
+        "PLPR_SEITEN": "483 - 484",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.483"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/207",
+        "PLPR_SEITEN": "26206A - 26206C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26206"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11987/20, Kom. (2020) 652 endg.",
     "SCHLAGWORT": [
       "Programm der EU",
@@ -114,6 +123,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "27.11.2020 - BR-Drucksache 624/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0624-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "29.01.2021 - BT-Plenarprotokoll 19/207, S. 26206A - 26206C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26206",
+        "VP_ABSTRAKT": "S. 26206A - Kenntnisnahme"
       }
     ]
   }

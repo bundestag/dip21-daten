@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Beschränkungen der Spekulation mit Agrarland",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25864A - 25864B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25864"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Landwirtschaft",
@@ -22,11 +29,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nPlant die Bundesregierung vor dem Hintergrund der Aussagen der Bundesministerin für Ernährung und Landwirtschaft, Julia Klöckner, denen zufolge &bdquo;Ackerland in Bauernhand [gehöre]&ldquo; und &bdquo;Ackerland kein Spekulationsobjekt sein [dürfe]&ldquo; (vgl. ARD-Mittagsmagazin vom 14. Januar 2021, www.daserste.de/information/politik-weltgeschehen/mittagsmagazin/videos/landwirte-ohne-land-video-100.html, abgerufen am 14. Januar 2021, verfügbar bis 14. Januar 2022) wirksame Beschränkungen von so genannten share deals im Bereich der Landwirtschaft, welche dort für stark angestiegene Kaufpreise von Ackerland und eine hohe Steigerung der Pachtpreise verantwortlich sind (vgl. www.haufe.de/immobilien/investment/agrarflaechen-via-share-deal-fuer-investoren-von-interesse_256_502552.html, abgerufen am 15. Januar 2021), und wenn ja, welche konkret?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 37",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 37",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25864A - 25864B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25864",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Tübingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25864A"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Feiler",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25864A"
+          }
+        ]
+      }
+    ]
   }
 }

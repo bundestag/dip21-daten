@@ -3,10 +3,17 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
-    "TITEL": "Finanzielle Maßnahmen im Rahmen des \"Aktionsplans Zivilgesellschaft Belarus\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "TITEL": "Finanzielle Maßnahmen im Rahmen des Aktionsplans Zivilgesellschaft Belarus",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25878A - 25878B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25878"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Außenpolitik",
@@ -23,11 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nAus welchen konkreten finanziellen Maßnahmen setzt sich der &bdquo;Aktionsplan Zivilgesellschaft Belarus&ldquo; in Höhe von 21 Millionen Euro laut Ankündigung des Auswärtigen Amtes vom 16. Januar 2021 zusammen, und in welchem Zeitraum sollen diese Mittel verwendet werden (www.facebook. com/AuswaertigesAmt/posts/3554181874678957)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 88",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 88",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25878A - 25878B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25878",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Manuel",
+            "NACHNAME": "Sarrazin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25878A"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Roth",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25878B"
+          }
+        ]
+      }
+    ]
   }
 }

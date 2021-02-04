@@ -8,7 +8,7 @@
       "Fraktion BÜNDNIS 90/DIE GRÜNEN",
       "Fraktion DIE LINKE"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -25,13 +25,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/250/1925031.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/127",
-      "PLPR_SEITEN": "15910A - 15920C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19127.pdf#P.15910"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/127",
+        "PLPR_SEITEN": "15910A - 15920C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19127.pdf#P.15910"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/207",
+        "PLPR_SEITEN": "26180C - 26188B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26180"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -193,6 +202,92 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "29.01.2021 - BT-Plenarprotokoll 19/207, S. 26180C - 26188B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19207.pdf#P.26180",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26181A"
+          },
+          {
+            "VORNAME": "Klaus-Peter",
+            "NACHNAME": "Willsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26181D"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Trittin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "26182D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Lothar",
+            "NACHNAME": "Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26183D"
+          },
+          {
+            "VORNAME": "Hagen",
+            "NACHNAME": "Reinhold",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26184C"
+          },
+          {
+            "VORNAME": "Manuel",
+            "NACHNAME": "Sarrazin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "26185C"
+          },
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26186B"
+          },
+          {
+            "VORNAME": "Gisela",
+            "NACHNAME": "Manderla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26187A"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Junge",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+            "SEITE": "26204B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26188B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/14917"
+        }
       }
     ]
   }

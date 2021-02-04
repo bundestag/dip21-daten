@@ -7,6 +7,13 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/205",
+      "PLPR_SEITEN": "25856B - 25856D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25856"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -24,11 +31,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Soloselbstständige haben bislang bundesweit und in Sachsen seit der Auflage von Hilfsprogrammen nach Kenntnis der Bundesregierung Anträge auf finanzielle Hilfen zur Bewältigung der Folgen des Coronavirus in welcher Höhe insgesamt gestellt, und wie hoch war die Ablehnungsquote (bitte nach insgesamt und den fünf häufigsten beruflichen Tätigkeiten/Berufsgruppen differenzieren)? \r\n \r\nIn welcher Höhe insgesamt wurden bislang nach Kenntnis der Bundesregierung finanzielle Hilfen zur Bewältigung der Folgen des Coronavirus an wie viele Soloselbstständige bundesweit und in Sachsen seit der Auflage von Hilfsprogrammen ausgezahlt (bitte nach insgesamt und den fünf häufigsten beruflichen Tätigkeiten/Berufsgruppen differenzieren)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 11, 12",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "22.01.2021 - BT-Drucksache 19/26064, Nr. 11, 12",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/260/1926064.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "27.01.2021 - BT-Plenarprotokoll 19/205, S. 25856B - 25856D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19205.pdf#P.25856",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "25856B"
+          },
+          {
+            "VORNAME": "Marco",
+            "NACHNAME": "Wanderwitz",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "25856B"
+          }
+        ]
+      }
+    ]
   }
 }

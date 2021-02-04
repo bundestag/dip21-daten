@@ -24,17 +24,22 @@
     ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
-      "Wirtschaft",
       "Gesundheit",
       "Außenwirtschaft"
     ],
     "SCHLAGWORT": [
-      "Ausfuhr",
-      "Außenhandel",
-      "COVID-19",
-      "Einfuhr",
-      "Katastrophenhilfe",
-      "Medizintechnik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Ausfuhr"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Medizintechnik"
+      },
       "Schutzausrüstung",
       "Seuchenbekämpfung"
     ],
