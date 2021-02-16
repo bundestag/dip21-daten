@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung der Vorschriften des Deutsche Bahn Gründungsgesetzes über die Personalkostenerstattung für zugewiesene Beamtinnen und Beamten",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J032",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 30/21)",
@@ -15,6 +15,11 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0030-21.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Durchgang",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1000"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verkehr",
@@ -22,31 +27,21 @@
       "Arbeit und Beschäftigung"
     ],
     "SCHLAGWORT": [
-      "Bundesbahnbediensteter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesbahnbediensteter"
+      },
       "Bundeseisenbahnvermögen",
       "Deutsche Bahn",
       "Deutsche Bahn Gründungsgesetz",
       "Eisenbahnpersonal",
+      "Gesetz zur Änderung der Vorschriften des Deutsche Bahn Gründungsgesetzes über die Personalkostenerstattung für zugewiesene Beamtinnen und Beamten",
       "Öffentliches Dienstrecht",
-      "Personalkosten"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Personalkosten"
+      }
     ],
     "ABSTRAKT": "Begrenzung des Anspruchs der Deutschen Bahn AG gegenüber dem BEV zum Ausgleich der Personalkosten für von Rationalisierungsmaßnahmen betroffenes und der DB AG zugewiesenes, unkündbares Personal, Aufhebung der Personalkostenerstattung für nach dem 1. Januar 2020 vollzogene Rationalisierungsmaßnahmen; \r\nÄnderung §21 Gesetz über die Gründung einer Deutsche Bahn Aktiengesellschaft"
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-      "FUNDSTELLE": "01.01.2021 - BR-Drucksache 30/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0030-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        }
-      ]
-    }
   }
 }

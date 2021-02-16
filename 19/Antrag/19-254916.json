@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Nationale Bioökonomiestrategie der Bundesregierung SMART gestalten",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/14742",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/147/1914742.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/14742",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/147/1914742.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26523",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926523.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -53,124 +61,5 @@
       "Wissenstransfer"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "05.11.2019 - BT-Drucksache 19/14742",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/147/1914742.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Mario",
-            "NACHNAME": "Brandenburg",
-            "WAHLKREISZUSATZ": "Südpfalz",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Antrag"
-          },
-          {
-            "VORNAME": "Katja",
-            "NACHNAME": "Suding",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Antrag"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Beratung",
-        "FUNDSTELLE": "14.01.2021 - BT-Plenarprotokoll 19/204, S. 25668D - 25675D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25668",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Anja",
-            "NACHNAME": "Karliczek",
-            "FUNKTION": "Bundesmin.",
-            "RESSORT": "Bundesministerium für Bildung und Forschung",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25669A"
-          },
-          {
-            "VORNAME": "Norbert",
-            "NACHNAME": "Kleinwächter",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25670B"
-          },
-          {
-            "VORNAME": "René",
-            "NACHNAME": "Röspel",
-            "FUNKTION": "MdB",
-            "FRAKTION": "SPD",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25671B"
-          },
-          {
-            "VORNAME": "Mario",
-            "NACHNAME": "Brandenburg",
-            "WAHLKREISZUSATZ": "Südpfalz",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25672C"
-          },
-          {
-            "PERSON_TITEL": "Dr.",
-            "VORNAME": "Petra",
-            "NACHNAME": "Sitte",
-            "FUNKTION": "MdB",
-            "FRAKTION": "DIE LINKE",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25673B"
-          },
-          {
-            "VORNAME": "Harald",
-            "NACHNAME": "Ebner",
-            "FUNKTION": "MdB",
-            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25674A"
-          },
-          {
-            "VORNAME": "Katrin",
-            "NACHNAME": "Staffler",
-            "FUNKTION": "MdB",
-            "FRAKTION": "CDU/CSU",
-            "AKTIVITAETSART": "Rede",
-            "SEITE": "25674D"
-          }
-        ],
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "25675D",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/14742"
-        },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          }
-        ]
-      }
-    ]
   }
 }

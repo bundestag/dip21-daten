@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Die Folgen von Konsanguinität anerkennen und eindämmen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20688",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920688.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20688",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920688.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26572",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926572.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -24,57 +32,5 @@
       "Verwandtenehe"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-        "FUNDSTELLE": "01.07.2020 - BT-Drucksache 19/20688",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/206/1920688.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "VORNAME": "Ulrich",
-            "NACHNAME": "Oehme",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Antrag"
-          },
-          {
-            "VORNAME": "Detlev",
-            "NACHNAME": "Spangenberg",
-            "FUNKTION": "MdB",
-            "FRAKTION": "AfD",
-            "AKTIVITAETSART": "Antrag"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Ausschussüberweisung",
-        "FUNDSTELLE": "02.07.2020 - BT-Plenarprotokoll 19/170, S. 21217C - 21223C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19170.pdf#P.21217",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "21222A",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/20688"
-        },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
-          }
-        ]
-      }
-    ]
   }
 }

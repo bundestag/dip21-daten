@@ -5,44 +5,48 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Entwicklung des Wohnungsmarktes in Berlin im Zeitraum 2017 bis 2020",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26397",
-      "DRS_TYP": "Kleine Anfrage"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26397",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/263/1926397.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26690",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Raumordnung, Bau- und Wohnungswesen",
     "SCHLAGWORT": [
-      "Berlin",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berlin"
+      },
+      "Bundesanstalt für Immobilienaufgaben",
+      "Bundeseisenbahnvermögen",
+      "Hamburg",
+      "Köln",
+      "Länder der Bundesrepublik Deutschland",
+      "Miete",
+      "Mietwohnung",
+      "München",
+      "Preis",
+      "Soziale Wohnraumförderung",
+      "Wohneigentum",
+      "Wohnfläche",
       "Wohnungsbau",
-      "Wohnungspolitik"
+      "Wohnungsleerstand",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wohnungswirtschaft"
+      }
     ],
-    "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "03.02.2021 - BT-Drucksache 19/26397",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christoph",
-          "NACHNAME": "Meyer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Dürr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "ABSTRAKT": "(insgesamt 14 Einzelfragen)"
   }
 }

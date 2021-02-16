@@ -7,11 +7,24 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "34/21",
-      "DRS_TYP": "Empfehlungen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0034-21.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "34/21",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0034-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "zu34/21",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0034-21(zu).pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1000"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": {
@@ -19,17 +32,5 @@
       "__cdata": "Bundesverfassungsgericht"
     },
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Empfehlungen der Ausschüsse ",
-      "FUNDSTELLE": "02.02.2021 - BR-Drucksache 34/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0034-21.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
-      }
-    }
   }
 }

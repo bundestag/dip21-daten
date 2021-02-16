@@ -8,23 +8,47 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B119",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/26176)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26176",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926176.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/206",
-      "PLPR_SEITEN": "25946A - 25948D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.25946"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26176",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926176.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26603",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926603.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/206",
+        "PLPR_SEITEN": "25946A - 25948D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.25946"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/209",
+        "PLPR_SEITEN": "26428C - 26435C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19209.pdf#P.26428"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/209",
+        "PLPR_SEITEN": "26435B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19209.pdf#P.26435"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -40,44 +64,5 @@
       "Meldewesen"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion der CDU/CSU, Fraktion der SPD ",
-        "FUNDSTELLE": "26.01.2021 - BT-Drucksache 19/26176",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926176.pdf"
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "1. Beratung",
-        "FUNDSTELLE": "28.01.2021 - BT-Plenarprotokoll 19/206, S. 25946A - 25948D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.25946",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "25948D",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/26177"
-        },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          }
-        ]
-      }
-    ]
   }
 }

@@ -22,13 +22,20 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/241/1924153.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/204",
-      "PLPR_SEITEN": "25768D - 25769C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/204",
+        "PLPR_SEITEN": "25768D - 25769C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11420/20, Kom. (2020) 624 endg.",
     "SCHLAGWORT": [
       "Bildung",
@@ -49,71 +56,5 @@
       "Programm der EU"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-        "FUNDSTELLE": "15.10.2020 - BR-Drucksache 627/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0627-20.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-        "FUNDSTELLE": "06.11.2020 - BT-Drucksache 19/24153, Nr. A.11",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/241/1924153.pdf",
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Mitteilung des federführenden Ausschusses",
-        "FUNDSTELLE": "14.01.2021 - BT-Plenarprotokoll 19/204, S. 25768D - 25769C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19204.pdf#P.25768",
-        "VP_ABSTRAKT": "S. 25768D - Kenntnisnahme"
-      },
-      {
-        "ZUORDNUNG": "BR",
-        "URHEBER": "Empfehlungen der Ausschüsse ",
-        "FUNDSTELLE": "01.02.2021 - BR-Drucksache 627/1/20",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0627-1-20.pdf",
-        "VP_ABSTRAKT": "EU, K: Stellungnahme - AIS, FJ, Wi: Kenntnisnahme"
-      }
-    ]
   }
 }

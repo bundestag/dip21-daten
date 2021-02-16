@@ -5,14 +5,29 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Digitale Signatur von Meldescheinen in Beherbergungsstätten - Bürokratie abbauen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/9223",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/092/1909223.pdf"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/9223",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/092/1909223.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26603",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926603.pdf"
+      }
+    ],
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/209",
+      "PLPR_SEITEN": "26428C - 26435C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19209.pdf#P.26428"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -32,56 +47,5 @@
       "Meldewesen"
     ],
     "ABSTRAKT": ""
-  },
-  "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": [
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-        "FUNDSTELLE": "09.04.2019 - BT-Drucksache 19/9223",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/092/1909223.pdf",
-        "PERSOENLICHER_URHEBER": [
-          {
-            "PERSON_TITEL": "Dr. ",
-            "VORNAME": "Marcel",
-            "NACHNAME": "Klinge",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Antrag"
-          },
-          {
-            "VORNAME": "Manuel",
-            "NACHNAME": "Höferlin",
-            "FUNKTION": "MdB",
-            "FRAKTION": "FDP",
-            "AKTIVITAETSART": "Antrag"
-          }
-        ]
-      },
-      {
-        "ZUORDNUNG": "BT",
-        "URHEBER": "Ausschussüberweisung",
-        "FUNDSTELLE": "11.04.2019 - BT-Plenarprotokoll 19/95, S. 11378C - 11378D",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19095.pdf#P.11378",
-        "BESCHLUSS": {
-          "BESCHLUSSSEITE": "11378D",
-          "BESCHLUSSTENOR": "Überweisung",
-          "BEZUGSDOKUMENT": "19/9223",
-          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim AfTour)"
-        },
-        "ZUWEISUNG": [
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
-            "FEDERFUEHRUNG": "federf&uuml;hrend"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
-          },
-          {
-            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-          }
-        ]
-      }
-    ]
   }
 }
