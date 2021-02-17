@@ -22,8 +22,25 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Umwelt",
-    "SCHLAGWORT": "Atomtransport",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Innere Sicherheit"
+    ],
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Atomtransport"
+      },
+      "Bundespolizei",
+      "COVID-19",
+      "Gesundheitsschutz",
+      "Polizeibeamter",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Polizeieinsatz"
+      },
+      "Test"
+    ],
     "ABSTRAKT": ""
   }
 }
