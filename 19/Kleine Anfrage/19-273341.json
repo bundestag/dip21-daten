@@ -15,16 +15,32 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/263/1926387.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Medien, Kommunikation und Informationstechnik"
+    ],
     "SCHLAGWORT": [
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Datenaustausch",
-      "Datenverarbeitung",
+      "Datenerhebung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Datenverarbeitung"
+      },
+      "Infektionskrankheit",
       "Informationssystem",
       "Öffentlicher Gesundheitsdienst",
-      "Robert Koch-Institut"
+      "Robert Koch-Institut",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seuchenbekämpfung"
+      },
+      "Studie"
     ],
-    "ABSTRAKT": "Nachfrage zu BT-Drs 19/25540"
+    "ABSTRAKT": "Nachfrage zu BT-Drs 19/25540 \r\n(insgesamt 18 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": {
