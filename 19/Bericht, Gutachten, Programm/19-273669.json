@@ -8,21 +8,49 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26520",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926520.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26520",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926520.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "116/21",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0116-21.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Bildung und Erziehung",
+      "Wissenschaft, Forschung und Technologie"
+    ],
+    "SCHLAGWORT": [
+      "Bericht der Bundesregierung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hochschulstatistik"
+      },
+      "Hochschulstatistikgesetz"
+    ],
+    "ABSTRAKT": "Anlass des Berichts und Ausgangssituation, Implementierung der HStstG-Novelle, weitere Projekte der Hochschulstatistik im Berichtszeitraum, Ausblick und künftige Arbeitsschwerpunkte  "
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
-      "FUNDSTELLE": "04.02.2021 - BT-Drucksache 19/26520",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926520.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "04.02.2021 - BT-Drucksache 19/26520",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926520.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "05.02.2021 - BR-Drucksache 116/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0116-21.pdf"
+      }
+    ]
   }
 }
