@@ -23,15 +23,22 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Gesetzgebung",
       "Haustier",
+      "Infektionskrankheit",
       "Tierhandel",
-      "Tierkrankheit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierkrankheit"
+      },
       "Zoonose"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 8 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
