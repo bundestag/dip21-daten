@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Modernisierung des Personenbeförderungsrechts",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J034",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 28/21)",
@@ -21,15 +21,30 @@
         "DRS_NUMMER": "19/26819",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926819.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27288",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927288.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "35 - 41",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.35"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "35 - 41",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.35"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/212",
+        "PLPR_SEITEN": "26736C - 26738D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26736"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
@@ -80,7 +95,55 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "12.02.2021 - BR-Plenarprotokoll 1000, TOP 43, S. 35 - 41",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.35",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Winfried",
+            "NACHNAME": "Hermann",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Verkehr",
+            "BUNDESLAND": "Baden-Württemberg",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "35"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Bernd",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Verkehr, Arbeit, Technologie und Tourismus",
+            "BUNDESLAND": "Schleswig-Holstein",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "36"
+          },
+          {
+            "VORNAME": "Tarek",
+            "NACHNAME": "Al-Wazir",
+            "FUNKTION": "MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Wirtschaft, Energie, Verkehr und Wohnen",
+            "BUNDESLAND": "Hessen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "37"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Scheuer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "39"
+          },
+          {
+            "VORNAME": "Hendrik",
+            "NACHNAME": "Wüst",
+            "FUNKTION": "Stellv. MdBR",
+            "FUNKTIONSZUSATZ": "Minister für Verkehr",
+            "BUNDESLAND": "Nordrhein-Westfalen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "39"
+          }
+        ],
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "41",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "28/21",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -103,6 +166,70 @@
         "URHEBER": "Gegenäußerung der BRg zur Stellungnahme des BR,  Urheber : Bundesregierung ",
         "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26963",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926963.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "25.02.2021 - BT-Plenarprotokoll 19/212, S. 26736C - 26738D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26736",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26738C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26819, 19/26963"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Verkehr und digitale Infrastruktur ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27288",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927288.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Donth",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Wagner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Vorlage für erledigt erklären"
       }
     ]
   }

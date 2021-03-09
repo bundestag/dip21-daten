@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Deutschlands Automobilindustrie unterstützen - Gleichstellung von Wasserstofffahrzeugen mit von synthetischen Kraftstoffen oder Biokraftstoffen angetriebenen Fahrzeugen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/246/1924684.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/174",
-      "PLPR_SEITEN": "21830B - 21843D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21830"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21830B - 21843D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21830"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/214",
+        "PLPR_SEITEN": "26970B - 26984B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19214.pdf#P.26970"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
@@ -38,7 +47,10 @@
       "Kfz-Abgas",
       "Klimaschutz",
       "Kohlendioxid",
-      "Kraftfahrzeugindustrie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kraftfahrzeugindustrie"
+      },
       "Kraftstoff",
       "Synthetischer Kraftstoff",
       "Verordnung der EU",
@@ -231,6 +243,17 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.03.2021 - BT-Plenarprotokoll 19/214, S. 26970B - 26984B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19214.pdf#P.26970",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26984B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/22186"
+        }
       }
     ]
   }

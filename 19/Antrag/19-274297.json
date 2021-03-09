@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Mehr Transparenz und mehr Anreize für eine bessere Versorgung im Wettbewerb der gesetzlichen Krankenversicherungen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/26889",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926889.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/213",
+      "PLPR_SEITEN": "26813B - 26826B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26813"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
@@ -24,28 +31,172 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "23.02.2021 - BT-Drucksache 19/26889",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926889.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Maria",
-          "NACHNAME": "Klein-Schmeink",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "23.02.2021 - BT-Drucksache 19/26889",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926889.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Janosch",
+            "NACHNAME": "Dahmen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26813B - 26826B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26813",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Spahn",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26813C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Robby",
+            "NACHNAME": "Schlund",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26814D"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Dittmar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26815D"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Andrew",
+            "NACHNAME": "Ullmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26817A"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Weinberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26817D"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26819A"
+          },
+          {
+            "VORNAME": "Dietrich",
+            "NACHNAME": "Monstadt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26819D"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Westig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26820D"
+          },
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Stamm-Fibich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26821C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Kirsten",
+            "NACHNAME": "Kappert-Gonther",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26822B"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Riebsamen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26823A"
+          },
+          {
+            "VORNAME": "Dirk",
+            "NACHNAME": "Heidenblut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26823D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "26824A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Pilsinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26825A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Janosch",
+            "NACHNAME": "Dahmen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "26825B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26826A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26889"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Janosch",
-          "NACHNAME": "Dahmen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Antrag"
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
-      ]
-    }
+      }
+    ]
   }
 }

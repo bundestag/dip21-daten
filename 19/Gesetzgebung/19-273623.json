@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D094",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/26544)",
@@ -26,13 +26,34 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926970.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/210",
-      "PLPR_SEITEN": "26505D - 26513C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26505"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/210",
+        "PLPR_SEITEN": "26505D - 26513C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26505"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26841C - 26850A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26841"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26849D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26849"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -53,7 +74,7 @@
       "Umsatzsteuergesetz",
       "Verlustausgleich"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempdehlungen des Ausschusses:  Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -264,6 +285,146 @@
             "AKTIVITAETSART": "Berichterstattung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26841C - 26850A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26841",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Arndt-Brauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26841D"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26842D"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Brehm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26844A"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Herbrand",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26845A"
+          },
+          {
+            "VORNAME": "Jörg",
+            "NACHNAME": "Cezanne",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26845D"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26846B"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Steiniger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26847A"
+          },
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Binding",
+            "WAHLKREISZUSATZ": "Heidelberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26848A"
+          },
+          {
+            "VORNAME": "Fritz",
+            "NACHNAME": "Güntzler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26848D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26849C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/26544, 19/26970"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26849D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26849",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26849D",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/26544, 19/26970"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "26.02.2021 - BR-Drucksache 188/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0188-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.02.2021 - BR-Drucksache 188/1/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0188-1-21.pdf",
+        "VP_ABSTRAKT": "Zustimmung - Fz, FJ, FS: zus. Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 49",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "188/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.03.2021 - BR-Drucksache 188/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0188-21B.pdf"
       }
     ]
   }

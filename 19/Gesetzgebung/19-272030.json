@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Erstes Gesetz zur Änderung des Strahlenschutzgesetzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "N026",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 24/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926943.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "34 - 35",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.34"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "34 - 35",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.34"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27085A - 27088D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27085"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Umwelt",
@@ -84,7 +93,17 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "12.02.2021 - BR-Plenarprotokoll 1000, TOP 37, S. 34 - 35",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.34",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Wolfram",
+          "NACHNAME": "Günther",
+          "FUNKTION": "MdBR",
+          "FUNKTIONSZUSATZ": "Staatsminister für Energie, Klimaschutz, Umwelt und Landwirtschaft",
+          "BUNDESLAND": "Sachsen",
+          "AKTIVITAETSART": "Rede (zu Protokoll gegeben)",
+          "SEITE": "35"
+        },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "35",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "24/21",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -101,6 +120,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit (federführend)",
         "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26943\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926943.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "04.03.2021 - BT-Plenarprotokoll 19/215, S. 27085A - 27088D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27085"
       }
     ]
   }

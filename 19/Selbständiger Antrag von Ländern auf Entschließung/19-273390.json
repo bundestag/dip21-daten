@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates: Konzeption einer Finanzierungsstrategie inkl. einer Tierwohl-Abgabe als Teil der Nutztierstrategie des Bundes zum Umbau der landwirtschaftlichen Nutztierhaltung",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0105-21.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "21 - 22",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.21"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "21 - 22",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.21"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -58,10 +65,35 @@
         "URHEBER": "Ausschusszuweisung",
         "FUNDSTELLE": "12.02.2021 - BR-Plenarprotokoll 1000, TOP 76, S. 21 - 22",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.21",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Jan Philipp",
+          "NACHNAME": "Albrecht",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Energiewende, Landwirtschaft, Umwelt, Natur und Digitalisierung",
+          "BUNDESLAND": "Schleswig-Holstein",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "21"
+        },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "22",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "105/21"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 10",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Annahme",
+          "BEZUGSDOKUMENT": "105/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.03.2021 - BR-Drucksache 105/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0105-21B.pdf"
       }
     ]
   }

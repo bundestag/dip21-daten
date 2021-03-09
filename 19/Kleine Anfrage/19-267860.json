@@ -23,12 +23,22 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Außenpolitik und internationale Beziehungen",
+    "SACHGEBIET": [
+      "Außenpolitik und internationale Beziehungen",
+      "Innere Sicherheit"
+    ],
     "SCHLAGWORT": [
       "Bundesmittel",
       "Hilfsorganisation",
-      "Humanitäre Hilfe",
-      "Islam",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Humanitäre Hilfe"
+      },
+      "Interessenverband",
+      "Islamische Gemeinschaft Milli Görüs",
+      "Muslimbruderschaft",
+      "Öffentliche Finanzkontrolle",
+      "Projektförderung",
       "Religionsgemeinschaft",
       "Türkei"
     ],

@@ -23,11 +23,17 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Entwicklungspolitik",
+    "SACHGEBIET": [
+      "Entwicklungspolitik",
+      "Verkehr"
+    ],
     "SCHLAGWORT": [
       "Brasilien",
       "China",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Indien",
       "Indonesien",
       "Mexiko",
@@ -35,6 +41,12 @@
       "Nachhaltige Entwicklung",
       "Peru",
       "Südafrika",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Verkehrsinfrastruktur"
+      },
+      "Verkehrslenkung",
+      "Verkehrstechnik",
       "Vietnam"
     ],
     "ABSTRAKT": "(insgesamt 15 Einzelfragen mit zahlreichen Unterfragen)"

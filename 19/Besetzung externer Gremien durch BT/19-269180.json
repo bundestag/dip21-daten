@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Erinnerung, Verantwortung und Zukunft\"",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/23879",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923879.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/212",
+      "PLPR_SEITEN": "26741C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26741"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -22,14 +29,27 @@
       },
       "Wahl"
     ],
-    "ABSTRAKT": "Mitglied: Volker Münz \r\nStellvertreter: Albrecht Glaser"
+    "ABSTRAKT": "Mitglied: Volker Münz Stellvertreter: Albrecht Glaser"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "02.11.2020 - BT-Drucksache 19/23879",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923879.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "02.11.2020 - BT-Drucksache 19/23879",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/238/1923879.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.02.2021 - BT-Plenarprotokoll 19/212, S. 26741C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26741",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26741C",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/23879"
+        }
+      }
+    ]
   }
 }

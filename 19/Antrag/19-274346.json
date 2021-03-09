@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/26916",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926916.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/215",
+      "PLPR_SEITEN": "27120A - 27127D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27120"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -28,18 +35,29 @@
         "_fundstelle": "true",
         "__cdata": "Auslandseinsatz der Bundeswehr"
       },
+      "Militärberater",
+      "Militärhilfe",
+      "Militärische Ausbildung",
       "NATO",
       "Resolute Support Mission",
       "Verteidigungsausgaben"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Zustimmung zu der von der Bundesregierung am 24. Februar 2021 beschlossenen Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Mission Resolute Support in Afghanistan (RSM) längstens bis zum 31. Januar 2022; Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte, Sicherung militärischer und ziviler Kräfte, Rechtsgrundlagen, einzusetzende Fähigkeiten, Status und Rechte, Beibehaltung der Mandatsobergrenze von 1300 Soldaten, Finanzierung der einsatzbedingten Zusatzausgaben in Höhe von 382 Mio Euro aus dem Epl 14 (Haushaltsjahre 2021 und 2022)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Bundesregierung ",
-      "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26916",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926916.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26916",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926916.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "04.03.2021 - BT-Plenarprotokoll 19/215, S. 27120A - 27127D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27120"
+      }
+    ]
   }
 }

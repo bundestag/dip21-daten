@@ -23,17 +23,32 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Entwicklungspolitik",
+    "SACHGEBIET": [
+      "Entwicklungspolitik",
+      "Außenwirtschaft"
+    ],
     "SCHLAGWORT": [
       "Abwasseraufbereitung",
-      "Abwasserentsorgung",
-      "Entwicklungszusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Abwasserentsorgung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Sanitäranlage",
       "Umwelttechnik",
+      "Unternehmen",
+      "Vergaberecht",
       "Wasser",
-      "Wassergewinnung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Wassergewinnung"
+      },
+      "Wasserwirtschaft"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 5 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Bundesrat hat zugestimmt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G047",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/26542)",
@@ -26,27 +26,60 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926967.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/210",
-      "PLPR_SEITEN": "26513C - 26522B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26513"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/210",
+        "PLPR_SEITEN": "26513C - 26522B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26513"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26850B - 26857D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26850"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26857C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26857"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
+      "Gesundheit",
       "Soziale Sicherung",
       "Arbeit und Beschäftigung"
     ],
     "SCHLAGWORT": [
       "Asylbewerberleistungsgesetz",
+      "Behinderter Arbeitnehmer",
       "Bundeskindergeldgesetz",
       "Bundesversorgungsgesetz",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Kinderzuschlag",
       "Künstlersozialversicherung",
       "Künstlersozialversicherungsgesetz",
+      "Öffentliche Mittel",
+      "Schulverpflegung",
       "Sozialdienstleister-Einsatzgesetz",
-      "Soziale Sicherung",
+      "Soziale Einrichtung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Soziale Sicherung"
+      },
       "Sozialgesetzbuch II",
       "Sozialgesetzbuch XII",
       {
@@ -54,7 +87,7 @@
         "__cdata": "Sozialschutz-Paket III"
       }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verlängerung des vereinfachten Zugangs zu den Grundsicherungssystemen sowie der erleichterten Vermögensprüfung im Kinderzuschlag bis 31. Dezember 2021, Verlängerung der Regelungen für gemeinschaftliche Mittagsverpflegung in Schulen und Werkstätten für behinderte Menschen sowie des besonderen Sicherstellungsauftrags der Leistungsträger für soziale Dienstleister bis 30. Juni 2021, Gewährung einer Einmalzahlung in Höhe von 150 Euro an Leistungsberechtigte der sozialen Mindestsicherungssysteme, Aussetzen der jährlichen Mindesteinkommensgrenze in der Künstlersozialversicherung, Wegfall der Erfordernis und deshalb Aufhebung versch. Verordnungsermächtigungen durch die gesetzliche Verlängerung der Regelungen;\r\n Einfügung und Änderung versch. §§ von 7 Gesetzen; Verordnungsermächtigungen \r\n"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -325,6 +358,145 @@
             "AKTIVITAETSART": "Änderungsantrag"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26850B - 26857D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26850",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Mast",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26850C"
+          },
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Witt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26851B"
+          },
+          {
+            "VORNAME": "Peter",
+            "NACHNAME": "Weiß",
+            "WAHLKREISZUSATZ": "Emmendingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26852D"
+          },
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Kober",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26853C"
+          },
+          {
+            "VORNAME": "Susanne",
+            "NACHNAME": "Ferschl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26854B"
+          },
+          {
+            "VORNAME": "Sven",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26855A"
+          },
+          {
+            "VORNAME": "Dagmar",
+            "NACHNAME": "Schmidt",
+            "WAHLKREISZUSATZ": "Wetzlar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26855D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Stracke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "26856C"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "26857B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/26983"
+          },
+          {
+            "BESCHLUSSSEITE": "26857B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/26984"
+          },
+          {
+            "BESCHLUSSSEITE": "26857C",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/26985"
+          },
+          {
+            "BESCHLUSSSEITE": "26857C",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/26542, 19/26967"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26857C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26857",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26857C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/26542, 19/26967"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "26.02.2021 - BR-Drucksache 187/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0187-21.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "26.02.2021 - BR-Drucksache 187/1/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0187-1-21.pdf",
+        "VP_ABSTRAKT": "Zustimmung; Entschließung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 48",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung; Entschließung",
+          "BEZUGSDOKUMENT": "187/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.03.2021 - BR-Drucksache 187/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0187-21B.pdf"
       }
     ]
   }

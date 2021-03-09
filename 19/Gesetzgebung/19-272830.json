@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Zweites Gesetz zur Änderung mautrechtlicher Vorschriften hinsichtlich der Einführung des europäischen elektronischen Mautdienstes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "J035",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 68/21)",
@@ -14,6 +14,11 @@
       "DRS_NUMMER": "68/21",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0068-21.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Durchgang",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1001"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -44,26 +49,43 @@
     "ABSTRAKT": "Anpassung des nationalen Rechts an die Vorgaben der EU-Interoperabilitätsrichtlinie: Verzicht auf Abdeckung sämtlicher Mautgebiete der EU als Voraussetzung für die Erbringung des Mautdienstes, Verpflichtung der Anbieter zur Übermittlung notwendiger Informationen zur Berechnung der Maut an die zuständigen Behörden, Verpflichtung zur Zusammenarbeit mit den zuständigen Behörden bei Verdacht auf Nichtentrichtung der Maut, Anspruch der EEMD-Anbieter auf eine Vergütung durch den Mauterheber, Erweiterung der Vorgaben für die Buchführung und das Verbot von Quersubventionen auf Betreiber, Informationsaustausch zwischen EU-Staaten in Bezug auf Fahrzeug- und Halterdaten im Fall des Verdachts der Nichtentrichtung der Maut; Ermöglichung der Nutzung nicht fest eingebauter Fahrzeuggeräte für die Mauterhebung, gesetzliche Klarstellungen in den Bereichen Datenschutz, Nutzung von Mautdaten als Beweismittel in Nacherhebungs- und Ordnungswidrigkeitenverfahren und statistische Zwecke, Aufrechnungsverbot gegen Mautforderungen und Verwendung des Mautaufkommens; \r\nÄnderung und Einfügung zahlr. §§ Mautsystemgesetz sowie Bundesfernstraßenmautgesetz, Änderung Anlage 1 Gerichtskostengesetz \r\n \r\nBezug: Richtlinie (EU) 2019/520 vom 19. März 2019 über die Interoperabilität elektronischer Mautsysteme und die Erleichterung des grenzüberschreitenden Informationsaustauschs über die Nichtzahlung von Straßenbenutzungsgebühren in der Union (ABl. L 91, 29.3.2019, S. 45)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-      "FUNDSTELLE": "22.01.2021 - BR-Drucksache 68/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0068-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "22.01.2021 - BR-Drucksache 68/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0068-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verkehrsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 37",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "keine Einwendungen",
+          "BEZUGSDOKUMENT": "68/21"
         }
-      ]
-    }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "05.03.2021 - BR-Drucksache 68/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0068-21B.pdf"
+      }
+    ]
   }
 }

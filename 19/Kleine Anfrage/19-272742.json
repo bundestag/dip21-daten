@@ -18,18 +18,30 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/27012",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927012.pdf"
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Wissenschaft, Forschung und Technologie"
+    ],
     "SCHLAGWORT": [
-      "Bundeswehr",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundeswehr"
+      },
+      "Forschungsprojekt",
+      "Genehmigung",
       "Tierschutz",
       "Tierschutzbericht",
-      "Tierversuch"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierversuch"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 10 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -59,7 +71,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Verteidigung (federführend)",
-        "FUNDSTELLE": "25.02.2021 - BT-Drucksache 19/27012"
+        "FUNDSTELLE": "25.02.2021 - BT-Drucksache 19/27012",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927012.pdf"
       }
     ]
   }

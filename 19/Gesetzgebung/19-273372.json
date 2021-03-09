@@ -15,13 +15,20 @@
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0098-21.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "17 - 18",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.17"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "17 - 18",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.17"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Landwirtschaft und Ernährung",
     "SCHLAGWORT": [
@@ -66,7 +73,17 @@
         "URHEBER": "BR-Sitzung",
         "FUNDSTELLE": "12.02.2021 - BR-Plenarprotokoll 1000, TOP 74a, S. 17 - 18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.17",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Peter",
+          "NACHNAME": "Hauk",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Minister für Ländlichen Raum und Verbraucherschutz",
+          "BUNDESLAND": "Baden-Württemberg",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "17"
+        },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "18",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
           "BEZUGSDOKUMENT": "98/21"
         }
@@ -77,6 +94,15 @@
         "FUNDSTELLE": "18.02.2021 - BR-Drucksache 98/1/21",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0098-1-21.pdf",
         "VP_ABSTRAKT": "AV: Einbringung; Bestellung eines Beauftragten - Wi: Ablehnung der Einbringung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 9a",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "98/21"
+        }
       }
     ]
   }

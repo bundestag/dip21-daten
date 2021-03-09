@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Griechenland: Vorzeitige teilweise Rückzahlung des ausstehenden Kredites des Internationalen Währungsfonds \r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes und\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
     "INITIATIVE": "Bundesministerium der Finanzen",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/26846",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926846.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/214",
+      "PLPR_SEITEN": "26984B - 26991C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19214.pdf#P.26984"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -34,11 +41,24 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Bundesministerium der Finanzen ",
-      "FUNDSTELLE": "22.02.2021 - BT-Drucksache 19/26846",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926846.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Bundesministerium der Finanzen ",
+        "FUNDSTELLE": "22.02.2021 - BT-Drucksache 19/26846",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926846.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "03.03.2021 - BT-Plenarprotokoll 19/214, S. 26984B - 26991C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19214.pdf#P.26984",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26991A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/26846"
+        }
+      }
+    ]
   }
 }

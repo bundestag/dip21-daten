@@ -8,47 +8,85 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M056",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/26545)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26545",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926545.pdf"
-    },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/210",
-      "PLPR_SEITEN": "26473A - 26489D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26473"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26545",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926545.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27291",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927291.pdf"
+      }
+    ],
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/210",
+        "PLPR_SEITEN": "26473A - 26489D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19210.pdf#P.26473"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27017B - 27032B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27017"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27032B - 27032D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27032"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
+      "Apothekenbetriebsordnung",
+      "Apothekengesetz",
       "COVID-19",
+      "COVID-19-Versorgungsstrukturen-Schutzverordnung",
       "Drittes Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite",
       "Epidemie",
       "Familienpflegezeitgesetz",
+      "Freizügigkeit",
       "Gesetzesfolgenabschätzung",
       "Gesetz zum Schutz der Bevölkerung bei einer epidemischen Lage von nationaler Tragweite",
       "Gesetz zur Fortgeltung der die epidemische Lage von nationaler Tragweite betreffenden Regelungen",
       "Gesundheitsberuf",
+      "Grundgesetz Art. 11",
+      "Grundgesetz Art. 13",
+      "Grundgesetz Art. 2",
+      "Grundgesetz Art. 8",
+      "Grundrechtsbeschränkung",
       "Häusliche Pflege",
       "Impfung",
       "Infektionsschutzgesetz",
       "Krankenhausfinanzierung",
+      "Krankenhausfinanzierungsgesetz",
       "Krankenhauszukunftsgesetz",
+      "Persönliche Freiheit",
       "Pflege",
       "Pflegeversicherung",
       "Pflegezeitgesetz",
+      "Recht auf körperliche Unversehrtheit",
       "Sozialgesetzbuch V",
       "Sozialgesetzbuch XI",
-      "Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen während einer epidemischen Lage von nationaler Tragweite"
+      "Unverletzlichkeit der Wohnung",
+      "Verordnung zur Sicherung der Ausbildungen in den Gesundheitsfachberufen während einer epidemischen Lage von nationaler Tragweite",
+      "Versammlungsfreiheit"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses:  Änderungen, u.a. Einschränkung von Grundrechten betr. Recht auf körperliche Unversehrtheit, Freiheit der Person, Versammlungsfreiheit, Freizügigkeit und Unverletzlichkeit der Wohnung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -275,6 +313,365 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Gesundheit ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27291",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927291.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Henke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Achim",
+            "NACHNAME": "Kessler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hilde",
+            "NACHNAME": "Mattheis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Kordula",
+            "NACHNAME": "Schulz-Asche",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Detlev",
+            "NACHNAME": "Spangenberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Bericht gemäß § 96 Geschäftsordnung BT,  Urheber : Haushaltsausschuss ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27292",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927292.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Hajduk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Klein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Birgit",
+            "NACHNAME": "Malsack-Winkemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Josef",
+            "NACHNAME": "Rief",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Sonja Amalie",
+            "NACHNAME": "Steffen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27301",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927301.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Änderungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "04.03.2021 - BT-Plenarprotokoll 19/215, S. 27017B - 27032B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27017",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Rudolf",
+            "NACHNAME": "Henke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27018A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Robby",
+            "NACHNAME": "Schlund",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27019A"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Dittmar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27019D"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Aschenberg-Dugnus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27021A"
+          },
+          {
+            "VORNAME": "Susanne",
+            "NACHNAME": "Ferschl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27022A"
+          },
+          {
+            "VORNAME": "Maria",
+            "NACHNAME": "Klein-Schmeink",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27023B"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Spahn",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27024A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27025B"
+          },
+          {
+            "VORNAME": "Hilde",
+            "NACHNAME": "Mattheis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27026A"
+          },
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Westig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27027A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manuela",
+            "NACHNAME": "Rottmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27027C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frauke",
+            "NACHNAME": "Petry",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27028C"
+          },
+          {
+            "VORNAME": "Nina",
+            "NACHNAME": "Warken",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27028D"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Mieruch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "fraktionslos",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27029D"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Johannes",
+            "NACHNAME": "Fechner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27030B"
+          },
+          {
+            "VORNAME": "Emmi",
+            "NACHNAME": "Zeulner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27031B"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "27032B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/27301"
+          },
+          {
+            "BESCHLUSSSEITE": "27032B",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/26545, 19/27291"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "04.03.2021 - BT-Plenarprotokoll 19/215, S. 27032B - 27032D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27032",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27194A"
+          },
+          {
+            "VORNAME": "Veronika",
+            "NACHNAME": "Bellmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27195D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Saskia",
+            "NACHNAME": "Ludwig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27197A"
+          },
+          {
+            "VORNAME": "Matern",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Marschall",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27197B"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27197C"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Sauter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27197D"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schäffler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27198A"
+          },
+          {
+            "VORNAME": "Jana",
+            "NACHNAME": "Schimke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+            "SEITE": "27198B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27043A",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/26545, 19/27291",
+          "ABSTIMMUNGSART": "Namentliche Abstimmung",
+          "ABSTIMMUNG_BEMERKUNG": "367:293:3"
+        }
       }
     ]
   }

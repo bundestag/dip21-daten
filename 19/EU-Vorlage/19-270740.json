@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/254/1925471.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "46 - 46",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.46"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "46 - 46",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.46"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26901C - 26901D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26901"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 13351/20, Kom. (2020) 767 endg.",
     "SCHLAGWORT": [
       "Datenaustausch",
@@ -125,6 +134,7 @@
         "FUNDSTELLE": "12.02.2021 - BR-Plenarprotokoll 1000, TOP 60, S. 46 - 46",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.46",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "46",
           "BESCHLUSSTENOR": "Stellungnahme",
           "BEZUGSDOKUMENT": "727/20",
           "GRUNDLAGE": "§§ 3 u. 5 EUZBLG"
@@ -135,6 +145,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "12.02.2021 - BR-Drucksache 727/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0727-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26901C - 26901D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26901",
+        "VP_ABSTRAKT": "S. 26901C - Kenntnisnahme"
       }
     ]
   }

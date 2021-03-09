@@ -5,40 +5,81 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Beteiligung des Bundes an der Curevac AG II",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26753",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926753.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26753",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926753.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27337",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
+    "SACHGEBIET": "Wirtschaft",
+    "SCHLAGWORT": [
+      "Arzneimittelforschung",
+      "Bayer AG",
+      "Bewertung von Wirtschaftsgütern",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesbeteiligung"
+      },
+      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "CureVac"
+      },
+      "Handelsgesetzbuch",
+      "Impfstoff",
+      "Internationale Rechnungslegungsstandards",
+      "Jahresabschluss",
+      "Kapitalbeteiligung",
+      "Kapitalmarktrecht",
+      "KfW-Bankengruppe",
+      "Rechnungslegung",
+      "Rücklage",
+      "Seuchenbekämpfung",
+      "Unternehmensbilanz",
+      "Unternehmenskooperation"
+    ],
     "ABSTRAKT": "(insgesamt 27 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "17.02.2021 - BT-Drucksache 19/26753",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926753.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Reinhard",
-          "NACHNAME": "Houben",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Manfred",
-          "NACHNAME": "Todtenhausen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "17.02.2021 - BT-Drucksache 19/26753",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926753.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Houben",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Todtenhausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "04.03.2021 - BT-Drucksache 19/27337"
+      }
+    ]
   }
 }

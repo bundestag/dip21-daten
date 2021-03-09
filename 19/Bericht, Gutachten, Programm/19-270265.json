@@ -3,7 +3,7 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Bericht, Gutachten, Programm",
-    "TITEL": "Jahresgutachten 2020/21 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung\r\n",
+    "TITEL": "Jahresgutachten 2020/21 des Sachverständigenrates zur Begutachtung der gesamtwirtschaftlichen Entwicklung",
     "INITIATIVE": "Bundesregierung",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/243/1924330.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/206",
-      "PLPR_SEITEN": "25946A - 25948D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.25946"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/206",
+        "PLPR_SEITEN": "25946A - 25948D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.25946"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/213",
+        "PLPR_SEITEN": "26901A - 26901C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26901"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -124,6 +133,13 @@
             "AUSSCHUSS_KLARTEXT": "Sportausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "26.02.2021 - BT-Plenarprotokoll 19/213, S. 26901A - 26901C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19213.pdf#P.26901",
+        "VP_ABSTRAKT": "S. 26901A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

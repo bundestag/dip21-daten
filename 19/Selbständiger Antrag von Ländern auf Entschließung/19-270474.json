@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0713-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "997",
-      "PLPR_SEITEN": "475 - 476",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.475"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997",
+        "PLPR_SEITEN": "475 - 476",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.475"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -92,6 +99,15 @@
         "FUNDSTELLE": "22.02.2021 - BR-Drucksache 713/1/20",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0713-1-20.pdf",
         "VP_ABSTRAKT": "R: Ablehnung - AIS, FJ, FS, Wi: Annahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 14a",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "713/20"
+        }
       }
     ]
   }

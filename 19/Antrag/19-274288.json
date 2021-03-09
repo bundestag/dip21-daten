@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Stärkung der Agrarwirtschaft in der Republik Benin - Nicht nur Rohstoffanbau, auch Rohstoffverarbeitung",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -15,37 +15,73 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926896.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Entwicklungspolitik",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Entwicklungspolitik"
+    ],
     "SCHLAGWORT": [
-      "Benin",
-      "Entwicklungszusammenarbeit",
+      "Baumwolle",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Benin"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      },
       "Internationale Wirtschaftsbeziehungen",
+      "Pflanzenbau",
       "Textil- und Bekleidungsgewerbe"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Industrielle Entwicklung und Transformation des Baumwoll- und Textilsektors in Benin als Schwerpunkt der bilateralen Entwicklungszusammenarbeit, Verknüpfung der wirtschaftlichen Zusammenarbeit mit Wiederbelebung der deutschen Textilindustrie, Schaffung von Wertschöpfung, Wachstum und Arbeitsplätzen in Benin und Deutschland"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26896",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926896.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Dietmar",
-          "NACHNAME": "Friedhoff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26896",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926896.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dietmar",
+            "NACHNAME": "Friedhoff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Oehme",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "25.02.2021 - BT-Plenarprotokoll 19/212, S. 26736C - 26738D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26736",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26738C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26896"
         },
-        {
-          "VORNAME": "Ulrich",
-          "NACHNAME": "Oehme",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

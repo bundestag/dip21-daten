@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Keine Beteiligung an der Entwicklung einer bewaffnungsfähigen Eurodrohne",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -17,40 +17,72 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
-      "Außenpolitik und internationale Beziehungen"
+      "Außenpolitik und internationale Beziehungen",
+      "Europapolitik und Europäische Union"
     ],
     "SCHLAGWORT": [
+      "Abrüstung",
       "Gemeinsame Sicherheits- und Verteidigungspolitik",
       "Kriegswaffe",
       "Militärische Luftfahrt",
+      "Nonproliferation",
       "Rüstungsforschung",
-      "Unbemanntes Fluggerät",
+      "Rüstungskooperation",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Unbemanntes Fluggerät"
+      },
       "Verteidigungsausgaben"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verzicht auf finanzielle Beteiligung an der Entwicklung einer bewaffnungsfähigen Eurodrohne, Rückzug aus der Leitung des EU-Rüstungsprojekts MALE RPAS, Unterbindung der Einführung bewaffnungsfähiger Drohnen im Rahmen der \"Ständigen Strukturierten Zusammenarbeit\" (SZZ), Einstellung der Mitarbeit in allen Arbeitsgruppen, umgehende Beendigung der Proliferation bewaffneter Drohnen, Ermutigung zur Abrüstung weltweit"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "23.02.2021 - BT-Drucksache 19/26871",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926871.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Tobias",
-          "NACHNAME": "Pflüger",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "23.02.2021 - BT-Drucksache 19/26871",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926871.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Pflüger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "25.02.2021 - BT-Plenarprotokoll 19/212, S. 26736C - 26738D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26736",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26738C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26871"
         },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Verteidigungsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

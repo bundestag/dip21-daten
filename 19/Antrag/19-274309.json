@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Zur Stärkung der wirtschaftlichen Zusammenarbeit mit Afrika - Deutsche Bauunternehmen in Afrika durch das Konzept \"Alles aus einer Hand\" unterstützen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -15,37 +15,74 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926905.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Entwicklungspolitik",
-    "SCHLAGWORT": [
-      "Afrika",
-      "Auslandsinvestition",
-      "Bauwirtschaft",
-      "Entwicklungszusammenarbeit"
+    "SACHGEBIET": [
+      "Entwicklungspolitik",
+      "Außenwirtschaft"
     ],
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Afrika"
+      },
+      "Auslandsinvestition",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bauwirtschaft"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Entwicklungszusammenarbeit"
+      }
+    ],
+    "ABSTRAKT": "Kooperation mit in Afrika tätigen deutschen Bauunternehmen zur Strategieentwicklung betr. Erschließung des afrikanischen Infrastrukturmarkts, Einsatz gegenüber afrikanischen Partnerstaaten zur Erzielung höherer Auftragsvolumen für die deutsche Bauwirtschaft; Schaffung von Arbeitsplätzen und Wertschöpfung in und für Afrika durch Ermutigung und Unterstützung deutscher Bauunternehmen zur Steigerung ihrer Aktivitäten in Afrika"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26905",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926905.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Dietmar",
-          "NACHNAME": "Friedhoff",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26905",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926905.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Dietmar",
+            "NACHNAME": "Friedhoff",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Oehme",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "25.02.2021 - BT-Plenarprotokoll 19/212, S. 26736C - 26738D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19212.pdf#P.26736",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "26738C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26905"
         },
-        {
-          "VORNAME": "Ulrich",
-          "NACHNAME": "Oehme",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

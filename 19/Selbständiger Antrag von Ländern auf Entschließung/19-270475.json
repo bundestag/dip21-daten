@@ -14,13 +14,20 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0714-20.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "997",
-      "PLPR_SEITEN": "475 - 476",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.475"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "997",
+        "PLPR_SEITEN": "475 - 476",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/997.pdf#P.475"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -83,6 +90,22 @@
         "BESCHLUSS": {
           "BESCHLUSSSEITE": "476",
           "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "714/20"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "22.02.2021 - BR-Drucksache 714/1/20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0714-1-20.pdf",
+        "VP_ABSTRAKT": "EU, R: Ablehnung - AIS, FJ, FS: Annahme in geänderter Fassung"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 14b",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
           "BEZUGSDOKUMENT": "714/20"
         }
       }
