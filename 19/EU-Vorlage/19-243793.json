@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/079/1907991.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "975",
-      "PLPR_SEITEN": "104 - 104",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/975.pdf#P.104"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "975",
+        "PLPR_SEITEN": "104 - 104",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/975.pdf#P.104"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/216",
+        "PLPR_SEITEN": "27332C - 27332D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 5668/19, Kom. (2019) 48 endg.",
     "SCHLAGWORT": [
       "Brexit",
@@ -124,6 +133,13 @@
         "FUNDSTELLE": "06.06.2019 - BR-Drucksache zu49/19(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0049-19B(zu).pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 49/19 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "05.03.2021 - BT-Plenarprotokoll 19/216, S. 27332C - 27332D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332",
+        "VP_ABSTRAKT": "27332C - Kenntnisnahme"
       }
     ]
   }

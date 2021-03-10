@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/259/1925928.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "47 - 48",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.47"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "47 - 48",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.47"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/216",
+        "PLPR_SEITEN": "27332C - 27332D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 12950/20, Kom. (2020) 741 endg.",
     "SCHLAGWORT": [
       "Energiepolitik",
@@ -113,6 +122,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "12.02.2021 - BR-Drucksache 706/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0706-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "05.03.2021 - BT-Plenarprotokoll 19/216, S. 27332C - 27332D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332",
+        "VP_ABSTRAKT": "27332C - Kenntnisnahme"
       }
     ]
   }

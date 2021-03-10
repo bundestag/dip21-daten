@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924546.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "998",
-      "PLPR_SEITEN": "515 - 515",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/998.pdf#P.515"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "998",
+        "PLPR_SEITEN": "515 - 515",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/998.pdf#P.515"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/216",
+        "PLPR_SEITEN": "27332C - 27332D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11224/20, Kom. (2020) 612 endg.",
     "SCHLAGWORT": [
       "Datenerhebung",
@@ -133,6 +142,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "18.12.2020 - BR-Drucksache 653/20(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2020/0653-20B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "05.03.2021 - BT-Plenarprotokoll 19/216, S. 27332C - 27332D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332",
+        "VP_ABSTRAKT": "27332C - Kenntnisnahme"
       }
     ]
   }

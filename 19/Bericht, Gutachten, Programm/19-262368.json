@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/192/1919250.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/174",
-      "PLPR_SEITEN": "21843D - 21858A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21843"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21843D - 21858A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21843"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/216",
+        "PLPR_SEITEN": "27332A - 27332C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
@@ -196,6 +205,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "05.03.2021 - BT-Plenarprotokoll 19/216, S. 27332A - 27332C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332",
+        "VP_ABSTRAKT": "S. 27332A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

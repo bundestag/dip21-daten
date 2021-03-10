@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/017/1901740.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/29",
-      "PLPR_SEITEN": "2648D - 2663D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2648"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/29",
+        "PLPR_SEITEN": "2648D - 2663D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19029.pdf#P.2648"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/216",
+        "PLPR_SEITEN": "27332A - 27332C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bildung und Erziehung",
@@ -208,6 +217,13 @@
             "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "05.03.2021 - BT-Plenarprotokoll 19/216, S. 27332A - 27332C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19216.pdf#P.27332",
+        "VP_ABSTRAKT": "S. 27332A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }
