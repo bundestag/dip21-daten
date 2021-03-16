@@ -5,46 +5,72 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Zuverdienstgrenzen beim Rentenbezug",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26510",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926510.pdf"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Arbeit und Beschäftigung",
-    "SCHLAGWORT": [
-      "Hinzuverdienst",
-      "Rente"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26510",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926510.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27559",
+        "DRS_TYP": "Antwort"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Soziale Sicherung",
+      "Arbeit und Beschäftigung"
+    ],
+    "SCHLAGWORT": [
+      "Auskunftspflicht",
+      "Erwerbstätigkeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Hinzuverdienst"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Rente"
+      },
+      "Rentenversicherungsträger"
+    ],
+    "ABSTRAKT": "(insgesamt 16 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "09.02.2021 - BT-Drucksache 19/26510",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926510.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Johannes",
-          "NACHNAME": "Vogel",
-          "WAHLKREISZUSATZ": "Olpe",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "09.02.2021 - BT-Drucksache 19/26510",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926510.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Vogel",
+            "WAHLKREISZUSATZ": "Olpe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "15.03.2021 - BT-Drucksache 19/27559"
+      }
+    ]
   }
 }
