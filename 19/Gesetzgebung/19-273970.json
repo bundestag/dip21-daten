@@ -65,20 +65,29 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
-      "FUNDSTELLE": "12.02.2021 - BR-Drucksache 144/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0144-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "12.02.2021 - BR-Drucksache 144/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0144-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "15.03.2021 - BR-Drucksache 144/1/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0144-1-21.pdf",
+        "VP_ABSTRAKT": "u.a. Änderungsvorschläge"
+      }
+    ]
   }
 }

@@ -3,18 +3,26 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "EU-Vorlage",
-    "TITEL": "Mitteilung der Kommission an das Europäische Parlament und den Rat \r\nEuropas Plan gegen den Krebs\r\nKOM(2021) 44 endg.",
+    "TITEL": "Mitteilung der Kommission an das Europäische Parlament und den Rat \r\nEuropas Plan gegen den Krebs\r\nKOM(2021) 44 endg.; Ratsdok. 5930/21",
     "INITIATIVE": "Europäische Kommission",
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "107/21",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0107-21.pdf"
-    },
-    "EU_DOK_NR": "Kom. (2021) 44 endg.",
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "107/21",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0107-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27377",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927377.pdf"
+      }
+    ],
+    "EU_DOK_NR": "Ratsdok. 5930/21, Kom. (2021) 44 endg.",
     "SCHLAGWORT": [
       "Medizinische Behandlung",
       "Medizinische Versorgung",
@@ -28,29 +36,52 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
-      "FUNDSTELLE": "04.02.2021 - BR-Drucksache 107/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0107-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Europäische Kommission ",
+        "FUNDSTELLE": "04.02.2021 - BR-Drucksache 107/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0107-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kulturfragen"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "05.03.2021 - BT-Drucksache 19/27377, Nr. A.1",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927377.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Sportausschuss"
+          }
+        ]
+      }
+    ]
   }
 }
