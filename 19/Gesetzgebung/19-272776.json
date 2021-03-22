@@ -5,16 +5,24 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "1. Durchgang im Bundesrat abgeschlossen",
+    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C198",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 55/21)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "55/21",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0055-21.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "55/21",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0055-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27670",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/276/1927670.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Durchgang",
       "PLPR_HERAUSGEBER": "BR",
@@ -25,8 +33,14 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
-      "Berufsrecht",
-      "Gesetz zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berufsrecht"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesetz zur Neuregelung des Berufsrechts der anwaltlichen und steuerberatenden Berufsausübungsgesellschaften sowie zur Änderung weiterer Vorschriften im Bereich der rechtsberatenden Berufe"
+      },
       "Rechtsanwalt",
       "Steuerberater"
     ],
@@ -61,7 +75,17 @@
         "URHEBER": "1. Durchgang",
         "FUNDSTELLE": "05.03.2021 - BR-Plenarprotokoll 1001, TOP 24, S. 75 - 75",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1001.pdf#P.75",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Herbert",
+          "NACHNAME": "Mertin",
+          "FUNKTION": "Stellv. MdBR",
+          "FUNKTIONSZUSATZ": "Minister der Justiz",
+          "BUNDESLAND": "Rheinland-Pfalz",
+          "AKTIVITAETSART": "Rede",
+          "SEITE": "75"
+        },
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "75",
           "BESCHLUSSTENOR": "Stellungnahme: u.a. Änderungsvorschläge",
           "BEZUGSDOKUMENT": "55/21",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -72,6 +96,12 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "05.03.2021 - BR-Drucksache 55/21(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0055-21B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "17.03.2021 - BT-Drucksache 19/27670\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/276/1927670.pdf"
       }
     ]
   }

@@ -8,42 +8,120 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/22367",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922367.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/22367",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922367.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27568",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927568.pdf"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8404/20",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Recht",
+      "Außenpolitik und internationale Beziehungen"
+    ],
+    "SCHLAGWORT": [
+      "Bericht",
+      "Demokratie",
+      "Europäische Union",
+      "Gemeinsame Außen- und Sicherheitspolitik",
+      "Grundrecht",
+      "Internationale Zusammenarbeit",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Menschenrechte"
+      },
+      "Programm der EU"
+    ],
+    "ABSTRAKT": "Überblick über das weltweite Engagement der EU für Menschenrechte: länderspezifische Beispiele zu den Themen Rechtsstaatlichkeit, Zivilgesellschaft, Menschenrechtsverteidiger, Meinungs- und Pressefreiheit, Glaubens- und Bekenntnisfreiheit, Folter und Todesstrafe sowie Gleichstellung und Nichtdiskriminierung, EU-Aktivitäten auf multilateraler Ebene sowie in den Organen der Vereinten Nationen, Menschenrechtsansatz der EU für Konflikt- und Krisensituationen, EU-eigene Instrumente \r\n \r\n Beschlussempfehlung des Ausschusses:  Kenntnisnahme der Vorlage; Annahme einer Entschließung: Ermöglichung der Bewertung menschenrechtlich bedenklicher Vorfälle der EU-Grenzschutzagentur Frontex durch internes Grundrechtemonitoring und besserer Ausstattung der Grundrechtebeauftragten, zeitnahe Neubesetzung des Amts des Sonderbeauftragten für Religions-und Weltanschauungsfreiheit, Hinwirken auf eine Einigung zur Neuausrichtung der europäischen Migrations- und Asylpolitik, aufmerksame Beobachtung der Menschenrechtslage aller potentiellen EU-Beitrittskandidaten"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "14.09.2020 - BT-Drucksache 19/22367, Nr. A.68",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922367.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "14.09.2020 - BT-Drucksache 19/22367, Nr. A.68",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/223/1922367.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Menschenrechte und humanitäre Hilfe ",
+        "FUNDSTELLE": "16.03.2021 - BT-Drucksache 19/27568\nAnl. Text der Vorlage",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927568.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Norbert Maria",
+            "NACHNAME": "Altenkamp",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Margarete",
+            "NACHNAME": "Bause",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Braun",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gyde",
+            "NACHNAME": "Jensen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Zaklin",
+            "NACHNAME": "Nastic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Schwabe",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
+      }
+    ]
   }
 }

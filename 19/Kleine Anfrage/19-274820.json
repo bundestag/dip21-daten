@@ -5,37 +5,60 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bestellung von zusätzlichen 30 Millionen Impfstoffdosen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27066",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927066.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27066",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927066.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27666",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
+      "Arzneimittelversorgung",
       "Beschaffung",
-      "COVID-19",
-      "Impfstoff"
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Impfstoff"
+      },
+      "Pharmazeutische Industrie",
+      "Vertrag"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 3 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27066",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927066.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Stefan",
-        "NACHNAME": "Keuter",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27066",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927066.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Keuter",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "18.03.2021 - BT-Drucksache 19/27666"
       }
-    }
+    ]
   }
 }

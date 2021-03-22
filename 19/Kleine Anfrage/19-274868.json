@@ -3,41 +3,64 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Bestellung von Antigen-Schnelltest zur Eindämmung der Corona-Pandemie",
+    "TITEL": "Bestellung von Antigen-Schnelltests zur Eindämmung der Corona-Pandemie",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27233",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927233.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27233",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927233.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27665",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "Beschaffung",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Beschaffung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Diagnose",
       "Seuchenbekämpfung",
-      "Test"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Test"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 4 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27233",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927233.pdf",
-      "PERSOENLICHER_URHEBER": {
-        "VORNAME": "Stefan",
-        "NACHNAME": "Keuter",
-        "FUNKTION": "MdB",
-        "FRAKTION": "AfD",
-        "AKTIVITAETSART": "Kleine Anfrage"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27233",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927233.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Keuter",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Kleine Anfrage"
+        }
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "18.03.2021 - BT-Drucksache 19/27665"
       }
-    }
+    ]
   }
 }

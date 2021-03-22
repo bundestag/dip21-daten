@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Kriegsfolgen und wirtschaftlicher Niedergang in Serbien",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26151",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926151.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26151",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926151.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27615",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -21,54 +28,71 @@
     ],
     "SCHLAGWORT": [
       "Arbeitslosigkeit",
+      "Arbeits- und Sozialstandards",
       "Auslandseinsatz der Bundeswehr",
       "Bundeswehrangehöriger",
       "Flüchtling",
+      "Flüchtlingshilfe",
       "Gesundheitsschädlicher Stoff",
       "Grenze",
-      "Kosovo",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Kosovo"
+      },
+      "Kriegsfolgen",
       "Menschenrechte",
       "Migration",
+      "Munition",
+      "Nationale Minderheit",
+      "Religiöse Minderheit",
+      "Reparation",
       {
         "_fundstelle": "true",
-        "__cdata": "Munition"
+        "__cdata": "Serbien"
       },
-      "Serbien",
       "Sinti und Roma",
+      "Souveränität",
+      "Soziale Entschädigung",
       "Streitkräfte",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Uran"
-      },
+      "Umweltstandard",
+      "Uran",
       "Uranmunition",
       "Völkerrechtliche Anerkennung",
-      "Waffenhandel"
+      "Waffenhandel",
+      "Wirtschaftsethik"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 33 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "26.01.2021 - BT-Drucksache 19/26151",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926151.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Zaklin",
-          "NACHNAME": "Nastic",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Alexander S.",
-          "NACHNAME": "Neu",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "26.01.2021 - BT-Drucksache 19/26151",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/261/1926151.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Zaklin",
+            "NACHNAME": "Nastic",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Alexander S.",
+            "NACHNAME": "Neu",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "17.03.2021 - BT-Drucksache 19/27615"
+      }
+    ]
   }
 }
