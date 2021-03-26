@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Islamische Wohlfahrtspflege in Deutschland",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27354",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927354.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27354",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927354.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27952",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
     "SCHLAGWORT": [
@@ -41,27 +48,34 @@
     "ABSTRAKT": "(insgesamt 26 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "05.03.2021 - BT-Drucksache 19/27354",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927354.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Filiz",
-          "NACHNAME": "Polat",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Luise",
-          "NACHNAME": "Amtsberg",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "05.03.2021 - BT-Drucksache 19/27354",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/273/1927354.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Filiz",
+            "NACHNAME": "Polat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Luise",
+            "NACHNAME": "Amtsberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Familie, Senioren, Frauen und Jugend (federführend)",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27952"
+      }
+    ]
   }
 }

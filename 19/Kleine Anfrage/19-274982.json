@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Verfahren zur Beantragung der \"Bauernmilliarde\"",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27408",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927408.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27408",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927408.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27868",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -31,27 +38,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27408",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927408.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Carina",
-          "NACHNAME": "Konrad",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27408",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927408.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Carina",
+            "NACHNAME": "Konrad",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
+        "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27868"
+      }
+    ]
   }
 }

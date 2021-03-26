@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26559",
-      "DRS_TYP": "Verordnung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926559.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26559",
+        "DRS_TYP": "Verordnung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/265/1926559.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27892",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927892.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Energie",
@@ -58,6 +66,30 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Finanzausschuss ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27892",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927892.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lothar",
+            "NACHNAME": "Binding",
+            "WAHLKREISZUSATZ": "Heidelberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Olav",
+            "NACHNAME": "Gutting",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Zustimmung"
       }
     ]
   }

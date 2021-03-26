@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu der Notifikation betreffend die Regeln für die Entsendung von Arbeitnehmerinnen und Arbeitnehmern gemäß dem Protokoll über die Koordinierung der sozialen Sicherheit zum Handels- und Kooperationsabkommen vom 30. Dezember 2020 zwischen der Europäischen Union und der Europäischen Atomgemeinschaft einerseits und dem Vereinigten Königreich Großbritannien und Nordirland andererseits",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XG006",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 103/21)",
@@ -21,15 +21,30 @@
         "DRS_NUMMER": "19/27517",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927517.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27891",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927891.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1001",
-      "PLPR_SEITEN": "65 - 65",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1001.pdf#P.65"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001",
+        "PLPR_SEITEN": "65 - 65",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1001.pdf#P.65"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/217",
+        "PLPR_SEITEN": "27340A - 27340B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27340"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Europapolitik und Europäische Union",
@@ -38,10 +53,17 @@
     "SCHLAGWORT": [
       "Arbeitnehmerentsendung",
       "Europäische Union",
+      "EU-Staaten",
       "Großbritannien",
-      "Handels- und Kooperationsabkommen zwischen der EU und dem Vereinigten Königreich",
+      "Handelsabkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Handels- und Kooperationsabkommen zwischen der EU und dem Vereinigten Königreich"
+      },
       "Nordirland",
-      "Soziale Sicherung"
+      "Parlamentskompetenz",
+      "Soziale Sicherung",
+      "Völkerrechtlicher Vertrag"
     ],
     "ABSTRAKT": ""
   },
@@ -80,6 +102,58 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
         "FUNDSTELLE": "11.03.2021 - BT-Drucksache 19/27517",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927517.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "24.03.2021 - BT-Plenarprotokoll 19/217, S. 27340A - 27340B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27340",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27340B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/27517"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit und Soziales",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Arbeit und Soziales ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27891",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927891.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Jutta",
+          "NACHNAME": "Krellmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Vorlage für erledigt erklären"
       }
     ]
   }

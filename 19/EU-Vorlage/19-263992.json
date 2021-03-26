@@ -8,33 +8,105 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/20243",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/20243",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27921",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927921.pdf"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 8140/20, Kom. (2020)445 endg.",
+    "SACHGEBIET": [
+      "Europapolitik und Europäische Union",
+      "Öffentliche Finanzen, Steuern und Abgaben"
+    ],
+    "SCHLAGWORT": [
+      "EU-Haushalt",
+      "EU-Mittel",
+      "Stellungnahme des Bundestages in EU-Angelegenheiten"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "19.06.2020 - BT-Drucksache 19/20243, Nr. A.27",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "19.06.2020 - BT-Drucksache 19/20243, Nr. A.27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/202/1920243.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für die Angelegenheiten der Europäischen Union ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27921\nAnl. Text der Vorlage",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927921.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Franziska",
+            "NACHNAME": "Brantner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Groden-Kranich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Töns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gerald",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Harald",
+            "NACHNAME": "Weyel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Kenntnisnahme und Annahme einer Entschließung"
+      }
+    ]
   }
 }

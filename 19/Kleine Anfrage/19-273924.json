@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Neubauvorhaben Tank- und Raststätte Paaren/Satzkorn an Bundesautobahn 10",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26777",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926777.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26777",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926777.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27733",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
@@ -26,27 +33,34 @@
     "ABSTRAKT": "(insgesamt 26 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "18.02.2021 - BT-Drucksache 19/26777",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926777.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Annalena",
-          "NACHNAME": "Baerbock",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Matthias",
-          "NACHNAME": "Gastel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "18.02.2021 - BT-Drucksache 19/26777",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/267/1926777.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Annalena",
+            "NACHNAME": "Baerbock",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Matthias",
+            "NACHNAME": "Gastel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "19.03.2021 - BT-Drucksache 19/27733"
+      }
+    ]
   }
 }

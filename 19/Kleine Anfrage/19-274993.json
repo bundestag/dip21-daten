@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Covid-Impfstoffversorgung als Globales öffentliches Gut",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27447",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927447.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27447",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927447.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27862",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -38,28 +45,35 @@
     "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27447",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927447.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Achim",
-          "NACHNAME": "Kessler",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Eva-Maria",
-          "NACHNAME": "Schreiber",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27447",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927447.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Achim",
+            "NACHNAME": "Kessler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Eva-Maria",
+            "NACHNAME": "Schreiber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27862"
+      }
+    ]
   }
 }

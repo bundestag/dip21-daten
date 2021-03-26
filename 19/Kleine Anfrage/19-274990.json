@@ -3,50 +3,69 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Kleine Anfrage",
-    "TITEL": "Bundesförderung Corona-gerechte Um- und Aufrüstung von raumlufttechnischen Anlagen in Gebäuden",
+    "TITEL": "Bundesförderung coronagerechte Um- und Aufrüstung von raumlufttechnischen Anlagen in Gebäuden",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27431",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927431.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27431",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927431.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27741",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verkehr",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Gesundheit"
+    ],
     "SCHLAGWORT": [
       "Bundesmittel",
       "COVID-19",
       "Instandhaltung",
       "Lüftungsanlage",
+      "Programm der Bundesregierung",
+      "Seuchenbekämpfung",
       "Wirtschaftsförderung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 18 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27431",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927431.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Daniel",
-          "NACHNAME": "Föst",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27431",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927431.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Daniel",
+            "NACHNAME": "Föst",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "22.03.2021 - BT-Drucksache 19/27741"
+      }
+    ]
   }
 }

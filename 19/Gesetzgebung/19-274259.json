@@ -8,16 +8,24 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "G050",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/26892)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26892",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926892.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26892",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/268/1926892.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27891",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927891.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -102,6 +110,20 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Arbeit und Soziales ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27891",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927891.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Jutta",
+          "NACHNAME": "Krellmann",
+          "FUNKTION": "MdB",
+          "FRAKTION": "DIE LINKE",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
       }
     ]
   }

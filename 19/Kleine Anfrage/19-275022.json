@@ -5,45 +5,70 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Finanzhilfen für Flughäfen, an denen der Bund nicht beteiligt ist",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27406",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927406.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27406",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927406.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27742",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Verkehr",
     "SCHLAGWORT": [
-      "Bundesmittel",
-      "Flughafen"
+      "Bundeshaushalt 2021",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesmittel"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Flughafen"
+      },
+      "Konferenz",
+      "Länder der Bundesrepublik Deutschland",
+      "Luftverkehrsunternehmen",
+      "Nachtragshaushalt"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27406",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927406.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Christoph",
-          "NACHNAME": "Meyer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Christian",
-          "NACHNAME": "Dürr",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27406",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927406.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Meyer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Dürr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "22.03.2021 - BT-Drucksache 19/27742"
+      }
+    ]
   }
 }

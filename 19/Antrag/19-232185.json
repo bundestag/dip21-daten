@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Transparenz schaffen - Verbindliches Register für Lobbyistinnen und Lobbyisten einführen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/836",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/008/1900836.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/836",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/008/1900836.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27922",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927922.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -40,7 +48,7 @@
         "_fundstelle": "true",
         "__cdata": "Lobbyismus"
       },
-      "Lobbyistenregister",
+      "Lobbyregister",
       "Parlamentarisches Verfahren",
       "Politische Willensbildung",
       "Register"
@@ -174,6 +182,59 @@
             "AUSSCHUSS_KLARTEXT": "Innenausschuss"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27922",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927922.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Bartke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marco",
+            "NACHNAME": "Buschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Britta",
+            "NACHNAME": "Haßelmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Patrick",
+            "NACHNAME": "Schnieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Seitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }
