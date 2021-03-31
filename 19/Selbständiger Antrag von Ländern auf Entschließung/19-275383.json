@@ -4,7 +4,10 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Selbständiger Antrag von Ländern auf Entschließung",
     "TITEL": "Entschließung des Bundesrates - Reform des Abstammungsrechts: Alle Familien stärken - Gleichstellung voranbringen",
-    "INITIATIVE": "Berlin",
+    "INITIATIVE": [
+      "Berlin",
+      "Thüringen"
+    ],
     "AKTUELLER_STAND": "In der Beratung (Einzelheiten siehe Vorgangsablauf)",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
@@ -13,6 +16,11 @@
       "DRS_NUMMER": "223/21",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0223-21.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1002"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -35,26 +43,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Berlin ",
-      "FUNDSTELLE": "18.03.2021 - BR-Drucksache 223/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0223-21.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Berlin und Thüringen ",
+        "FUNDSTELLE": "18.03.2021 - BR-Drucksache 223/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0223-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie und Senioren"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Innere Angelegenheiten"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 81",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "223/21"
         }
-      ]
-    }
+      }
+    ]
   }
 }

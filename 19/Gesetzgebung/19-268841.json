@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C184",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/23707)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927928.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/187",
-      "PLPR_SEITEN": "23549B - 23565D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23549"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/187",
+        "PLPR_SEITEN": "23549B - 23565D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19187.pdf#P.23549"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/218",
+        "PLPR_SEITEN": "27490D - 27502B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27490"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/218",
+        "PLPR_SEITEN": "27501C - 27501D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27501"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -355,6 +371,117 @@
             "AKTIVITAETSART": "Änderungsantrag"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27490D - 27502B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27490",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Susann",
+            "NACHNAME": "Rüthrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27491C"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Huber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27492C"
+          },
+          {
+            "VORNAME": "Thorsten",
+            "NACHNAME": "Frei",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27493B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27494B"
+          },
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27494D"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Keul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27495C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jan-Marco",
+            "NACHNAME": "Luczak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27496B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Brunner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27497B"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27497D"
+          }
+        ],
+        "BESCHLUSS": [
+          {
+            "BESCHLUSSSEITE": "27501B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/27932"
+          },
+          {
+            "BESCHLUSSSEITE": "27501B",
+            "BESCHLUSSTENOR": "Ablehnung des Änderungsantrags",
+            "BEZUGSDOKUMENT": "19/27933"
+          },
+          {
+            "BESCHLUSSSEITE": "27501B",
+            "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+            "BEZUGSDOKUMENT": "19/23707, 19/27928"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27501C - 27501D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27501",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27501C",
+          "BESCHLUSSTENOR": "Annahme in Ausschussfassung",
+          "BEZUGSDOKUMENT": "19/23707, 19/27928"
+        }
       }
     ]
   }

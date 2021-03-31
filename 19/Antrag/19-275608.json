@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Antrag",
-    "TITEL": "Den deutschen Film erfolgreicher machen - das Filmfördersystem neu ausrichten",
+    "TITEL": "Den deutschen Film erfolgreicher machen - Das Filmfördersystem neu ausrichten",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/27871",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927871.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/219",
+      "PLPR_SEITEN": "27712C - 27719B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27712"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Kultur",
@@ -33,28 +40,113 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27871",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927871.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Marc",
-          "NACHNAME": "Jongen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27871",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927871.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Martin Erwin",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "26.03.2021 - BT-Plenarprotokoll 19/219, S. 27712C - 27719B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27712",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Monika",
+            "NACHNAME": "Grütters",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27713A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27713D"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Rabanus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27714D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27716A"
+          },
+          {
+            "VORNAME": "Doris",
+            "NACHNAME": "Achelwilm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27716D"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27717B"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Selle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27718A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27718D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27719B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/27871"
         },
-        {
-          "VORNAME": "Martin Erwin",
-          "NACHNAME": "Renner",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
-      ]
-    }
+      }
+    ]
   }
 }

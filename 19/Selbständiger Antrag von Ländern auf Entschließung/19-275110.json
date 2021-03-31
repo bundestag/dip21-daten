@@ -17,6 +17,11 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0212-21.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1002"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Öffentliche Finanzen, Steuern und Abgaben",
     "SCHLAGWORT": [
@@ -31,11 +36,31 @@
     "ABSTRAKT": "Forderung nach Änderung der Mehrwertsteuer-Systemrichtlinie der EU (MwStSystRL), Verhinderung einer Umsatzsteuerbelastung von Zuwendungen der öffentlichen Hand zur Förderung von Projekten im allgemeinen öffentlichen Interesse"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Niedersachsen, Bayern ",
-      "FUNDSTELLE": "11.03.2021 - BR-Drucksache 212/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0212-21.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Niedersachsen, Bayern ",
+        "FUNDSTELLE": "11.03.2021 - BR-Drucksache 212/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0212-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Fragen der Europäischen Union"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 9",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "212/21"
+        }
+      }
+    ]
   }
 }

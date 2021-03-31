@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Antrag betr. Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte am NATO-geführten Einsatz Resolute Support für die Ausbildung, Beratung und Unterstützung der afghanischen nationalen Verteidigungs- und Sicherheitskräfte in Afghanistan",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/27931",
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927931.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/218",
+      "PLPR_SEITEN": "27563C - 27571C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27563"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -38,28 +45,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27931",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927931.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bijan",
-          "NACHNAME": "Djir-Sarai",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Marie-Agnes",
-          "NACHNAME": "Strack-Zimmermann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27931",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927931.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bijan",
+            "NACHNAME": "Djir-Sarai",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marie-Agnes",
+            "NACHNAME": "Strack-Zimmermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27563C - 27571C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27563"
+      }
+    ]
   }
 }

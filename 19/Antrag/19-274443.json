@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Massenentlassungen verhindern - Mitbestimmung ausbauen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/27013",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927013.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/218",
+      "PLPR_SEITEN": "27574A - 27581C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27574"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Arbeit und Beschäftigung",
@@ -29,27 +36,35 @@
     "ABSTRAKT": "Vorlage eines Gesetzentwurfs zur Verhinderung von Massenentlassungen durch Gewährung umfassender Mitbestimmungsrechte für Beschäftigte und Betriebsräte, insbes. bei Betriebs- und Standortänderungen, Entlassungen sowie Gestaltung der Arbeitsplätze und -organisation"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "25.02.2021 - BT-Drucksache 19/27013",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927013.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Bernd",
-          "NACHNAME": "Riexinger",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Jutta",
-          "NACHNAME": "Krellmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "25.02.2021 - BT-Drucksache 19/27013",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927013.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Bernd",
+            "NACHNAME": "Riexinger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Jutta",
+            "NACHNAME": "Krellmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27574A - 27581C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27574"
+      }
+    ]
   }
 }

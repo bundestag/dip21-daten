@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Erstellung des 4. Gutachterentwurfs zum Zielfahrplan Deutschlandtakt",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/217",
+      "PLPR_SEITEN": "27426D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27426"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bahnstrecke",
@@ -26,11 +33,37 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "19.03.2021 - BT-Drucksache 19/27703, Nr. 27",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/277/1927703.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "19.03.2021 - BT-Drucksache 19/27703, Nr. 27",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/277/1927703.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "24.03.2021 - BT-Plenarprotokoll 19/217, S. 27426D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27426",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Marja-Liisa",
+            "NACHNAME": "Völlers",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27426D"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Bilger",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27426D"
+          }
+        ]
+      }
+    ]
   }
 }

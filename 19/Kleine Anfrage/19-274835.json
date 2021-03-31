@@ -18,7 +18,8 @@
       {
         "DRS_HERAUSGEBER": "BT",
         "DRS_NUMMER": "19/27676",
-        "DRS_TYP": "Antwort"
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/276/1927676.pdf"
       }
     ],
     "EU_DOK_NR": "",
@@ -27,14 +28,21 @@
       "Agrarkredit",
       "Agrartechnik",
       "Bundesmittel",
-      "Investitionsförderung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Investitionsförderung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Landwirtschaft"
+      },
       "Landwirtschaftliche Rentenbank",
       "Landwirtschaftliches Kraftfahrzeug",
       "Landwirtschaftsbetrieb",
       "Programm der Bundesregierung",
       "Verwaltungsverfahren"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 20 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -63,7 +71,8 @@
       {
         "ZUORDNUNG": "BT",
         "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Ernährung und Landwirtschaft (federführend)",
-        "FUNDSTELLE": "18.03.2021 - BT-Drucksache 19/27676"
+        "FUNDSTELLE": "18.03.2021 - BT-Drucksache 19/27676",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/276/1927676.pdf"
       }
     ]
   }

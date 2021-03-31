@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Verbotsverfahren gegen Oppositionspartei HDP klar verurteilen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -15,30 +15,85 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927835.pdf"
     },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Außenwirtschaft",
+      "Außenpolitik und internationale Beziehungen",
+      "Politisches Leben, Parteien"
+    ],
+    "SCHLAGWORT": [
+      "Ausfuhrverbot",
+      "Ausweisung",
+      "Diplomat",
+      "EU-Mittel",
+      "Europäische Union",
+      "Menschenrechte",
+      "Partei",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Parteiverbot"
+      },
+      "Politischer Gefangener",
+      "Politische Verfolgung",
+      "Rückführungsabkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Türkei"
+      },
+      "Waffenhandel",
+      "Zollunion"
+    ],
+    "ABSTRAKT": "Zurückweisung des Verbots der Demokratischen Partei der Völker (HDP) in der Türkei als Putschversuch, Hinwirken auf Freilassung aller politischen Gefangenen in der Türkei, Aussetzen von Verhandlungen zur Erweiterung der Zollunion, Einstellung jeglicher Rüstungsexporte in die Türkei, Ausweisung des türkischen Militärattaches, Aufkündigung des EU-Türkei-Flüchtlingsabkommens und umgehender Stopp weiterer Finanzhilfen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
-      "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27835",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927835.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sevim",
-          "NACHNAME": "Dagdelen",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion DIE LINKE ",
+        "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27835",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927835.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Heike",
+            "NACHNAME": "Hänsel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27516D - 27521D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27516",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27521D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/27835"
         },
-        {
-          "VORNAME": "Heike",
-          "NACHNAME": "Hänsel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "DIE LINKE",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      }
+    ]
   }
 }

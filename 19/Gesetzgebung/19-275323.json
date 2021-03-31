@@ -4,8 +4,11 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Gerichtsvollzieherkostengesetzes",
-    "INITIATIVE": "Nordrhein-Westfalen",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "INITIATIVE": [
+      "Nordrhein-Westfalen",
+      "Saarland"
+    ],
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C216",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 218/21)",
@@ -14,6 +17,11 @@
       "DRS_NUMMER": "218/21",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0218-21.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1002"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
@@ -30,11 +38,31 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen ",
-      "FUNDSTELLE": "17.03.2021 - BR-Drucksache 218/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0218-21.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Nordrhein-Westfalen und Saarland ",
+        "FUNDSTELLE": "17.03.2021 - BR-Drucksache 218/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0218-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 79",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "218/21"
+        }
+      }
+    ]
   }
 }

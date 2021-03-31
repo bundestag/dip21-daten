@@ -8,7 +8,7 @@
       "Beauftr. der Bundesregierung für Kultur und Medien",
       "Bundesregierung"
     ],
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "O006",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 53/21)",
@@ -26,13 +26,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927515.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1001",
-      "PLPR_SEITEN": "65 - 65",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1001.pdf#P.65"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1001",
+        "PLPR_SEITEN": "65 - 65",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1001.pdf#P.65"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/219",
+        "PLPR_SEITEN": "27712C - 27719B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27712"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Kultur",
     "SCHLAGWORT": [
@@ -96,6 +105,94 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Beauftr. der Bundesregierung für Kultur und Medien, Bundesregierung, Bundeskanzleramt (federführend)",
         "FUNDSTELLE": "11.03.2021 - BT-Drucksache 19/27515",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/275/1927515.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "26.03.2021 - BT-Plenarprotokoll 19/219, S. 27712C - 27719B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27712",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Monika",
+            "NACHNAME": "Grütters",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27713A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marc",
+            "NACHNAME": "Jongen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27713D"
+          },
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Rabanus",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27714D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27716A"
+          },
+          {
+            "VORNAME": "Doris",
+            "NACHNAME": "Achelwilm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27716D"
+          },
+          {
+            "VORNAME": "Tabea",
+            "NACHNAME": "Rößner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27717B"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Selle",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27718A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27718D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27719B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/27515"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
       }
     ]
   }

@@ -14,13 +14,22 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924971.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/215",
-      "PLPR_SEITEN": "27127D - 27133D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27127"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27127D - 27133D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27127"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/219",
+        "PLPR_SEITEN": "27819B - 27819C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Recht",
     "SCHLAGWORT": [
@@ -138,6 +147,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "26.03.2021 - BT-Plenarprotokoll 19/219, S. 27819B - 27819C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819",
+        "VP_ABSTRAKT": "S. 27819B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

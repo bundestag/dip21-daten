@@ -14,24 +14,49 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/249/1924970.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/215",
-      "PLPR_SEITEN": "27127D - 27133D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27127"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27127D - 27133D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27127"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/219",
+        "PLPR_SEITEN": "27819B - 27819C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819"
+      }
+    ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Recht",
+    "SACHGEBIET": [
+      "Recht",
+      "Gesellschaftspolitik, soziale Gruppen"
+    ],
     "SCHLAGWORT": [
+      "Behindertenrecht",
       "Bericht",
       {
         "_fundstelle": "true",
         "__cdata": "Deutsches Institut für Menschenrechte"
       },
-      "Menschenrechte"
+      "Fotografie",
+      "Kinderrechte",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Menschenrechte"
+      },
+      "Multinationales Unternehmen",
+      "Nationalsozialistischer Untergrund",
+      "Publikation",
+      "Übereinkommen über die Rechte des Kindes",
+      "Übereinkommen über die Rechte von Menschen mit Behinderungen",
+      "Wohnungslosigkeit",
+      "Zivilgesellschaft"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Das Deutsche Institut für Menschenrechte: 2019 im Überblick, Aufgaben und Abteilungen, internationaler Kontext; Themen: 10 Jahre UN­BRK in Deutschland, Umsetzung der UN­KRK: Staatenprüfung Deutschlands, Wohnungslose Menschen in Deutschland &ndash; Recht und Praxis der kommunalen Unterbringung, Die Kraft der Zivilgesellschaft, Unternehmen und Menschenrechte &ndash; Verhandlungen zu einem internationalen Abkommen; Blutiger Boden &ndash; Die Tatorte des NSU: Fotografen aus der gleichnamigen Ausstellung von Regina Schmeken; Daten und Fakten"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -140,6 +165,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "26.03.2021 - BT-Plenarprotokoll 19/219, S. 27819B - 27819C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819",
+        "VP_ABSTRAKT": "S. 27819B - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }

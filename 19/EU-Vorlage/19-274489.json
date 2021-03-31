@@ -14,30 +14,46 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/219",
+      "PLPR_SEITEN": "27819C - 27820C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819"
+    },
     "EU_DOK_NR": "Ratsdok. 5628/21, Kom. (2021)5 endg.",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "01.03.2021 - BT-Drucksache 19/27086, Nr. A.32",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "01.03.2021 - BT-Drucksache 19/27086, Nr. A.32",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Verkehr und digitale Infrastruktur",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "26.03.2021 - BT-Plenarprotokoll 19/219, S. 27819C - 27820C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27819",
+        "VP_ABSTRAKT": "S. 27819C - Kenntnisnahme"
+      }
+    ]
   }
 }

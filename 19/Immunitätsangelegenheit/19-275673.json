@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Immunitätsangelegenheit",
     "TITEL": "Antrag auf Genehmigung zur Durchführung eines Strafverfahrens",
     "INITIATIVE": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/27905",
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927905.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/217",
+      "PLPR_SEITEN": "27402D - 27403A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27402"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": {
@@ -22,11 +29,25 @@
     "ABSTRAKT": "Erteilung der Genehmigung zur Durchführung eines Strafverfahrens gegen den Abg Lorenz Gösta Beutin"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
-      "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27905",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927905.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "24.03.2021 - BT-Drucksache 19/27905",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927905.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "24.03.2021 - BT-Plenarprotokoll 19/217, S. 27402D - 27403A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19217.pdf#P.27402",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27403A",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/27905",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

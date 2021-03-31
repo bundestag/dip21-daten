@@ -14,6 +14,11 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0210-21.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Ausschusszuweisung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1002"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -30,11 +35,26 @@
     "ABSTRAKT": "Finanzieller Aufwand pflegerischer Versorgung, Eigenbeteiligung durch die Versicherten, Überarbeitung der Vorschläge aus dem Eckpunktepapier des Bundesministeriums für Gesundheit, Einbindung der Länder"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Länderantrag,  Urheber : Mecklenburg-Vorpommern ",
-      "FUNDSTELLE": "10.03.2021 - BR-Drucksache 210/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0210-21.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Länderantrag,  Urheber : Mecklenburg-Vorpommern ",
+        "FUNDSTELLE": "10.03.2021 - BR-Drucksache 210/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0210-21.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Ausschusszuweisung",
+        "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 10",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "210/21"
+        }
+      }
+    ]
   }
 }

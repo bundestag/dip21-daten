@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Echter Tierschutz statt nationaler Alleingang - Kükentöten europaweit beenden",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -15,40 +15,74 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927816.pdf"
     },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Europapolitik und Europäische Union",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
+      "Agrarmarkt",
       "Biotechnologie",
       "Ei",
       "Europäische Union",
       "Geflügelhaltung",
-      "Huhn",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Huhn"
+      },
       "Küken",
-      "Tierschutz"
+      "Rechtsangleichung in der EU",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tierschutz"
+      }
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Engagement auf EU-Ebene zur Schaffung eines Rechtsrahmens für den Europäischen Wirtschaftsraum zur verbindlichen Festschreibung des Tötungsverbots von Küken und Hühnerembryonen im Ei möglichst zeitnah am Brutbeginn, dynamische Berücksichtigung und Orientierung an marktreifen Technologien der Geschlechtsfrüherkennung im Ei"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27816",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927816.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "PERSON_TITEL": "Dr. ",
-          "VORNAME": "Gero Clemens",
-          "NACHNAME": "Hocker",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "23.03.2021 - BT-Drucksache 19/27816",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927816.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Gero Clemens",
+            "NACHNAME": "Hocker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Frank",
+            "NACHNAME": "Sitta",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ausschussüberweisung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27516D - 27521D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27516",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27521D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/27816"
         },
-        {
-          "VORNAME": "Frank",
-          "NACHNAME": "Sitta",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für die Angelegenheiten der Europäischen Union"
+          }
+        ]
+      }
+    ]
   }
 }

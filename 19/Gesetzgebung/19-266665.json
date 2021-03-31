@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Bundesrat hat Vermittlungsausschuss nicht angerufen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B098",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/22179)",
@@ -26,13 +26,34 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927922.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/174",
-      "PLPR_SEITEN": "21888B - 21896A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21888"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/174",
+        "PLPR_SEITEN": "21888B - 21896A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19174.pdf#P.21888"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/218",
+        "PLPR_SEITEN": "27594A - 27602D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27594"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/218",
+        "PLPR_SEITEN": "27602B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27602"
+      },
+      {
+        "PLPR_KLARTEXT": "Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Bundestag",
@@ -53,7 +74,7 @@
         "_fundstelle": "true",
         "__cdata": "Lobbyismus"
       },
-      "Lobbyistenregister",
+      "Lobbyregister",
       {
         "_fundstelle": "true",
         "__cdata": "Lobbyregistergesetz"
@@ -231,6 +252,39 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung; Titeländerung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27594A - 27602D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27594"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27602B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27602"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "25.03.2021 - BR-Drucksache 237/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0237-21.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Durchgang",
+        "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 88",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "kein Antrag auf Einberufung des Vermittlungsausschusses",
+          "BEZUGSDOKUMENT": "237/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "26.03.2021 - BR-Drucksache 237/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0237-21B.pdf"
       }
     ]
   }
