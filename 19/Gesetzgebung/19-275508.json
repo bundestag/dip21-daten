@@ -24,10 +24,17 @@
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bundestag",
-    "SCHLAGWORT": {
-      "_fundstelle": "true",
-      "__cdata": "Parlamentarisches Frage- und Informationsrecht"
-    },
+    "SCHLAGWORT": [
+      "Parlamentarische Anfrage",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Parlamentarisches Fragerechts-Gesetz"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Parlamentarisches Frage- und Informationsrecht"
+      }
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
