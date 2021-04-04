@@ -23,14 +23,23 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Staat und Verwaltung",
+    "SACHGEBIET": [
+      "Staat und Verwaltung",
+      "Entwicklungspolitik"
+    ],
     "SCHLAGWORT": [
       "Bundesministerium",
-      "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
-      "Geschäftsverteilung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Geschäftsverteilung"
+      },
       "Verwaltungsorganisation"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 9 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

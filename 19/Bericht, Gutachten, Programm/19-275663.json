@@ -8,12 +8,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/27890",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927890.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27890",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927890.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "268/21",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0268-21.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
     "SCHLAGWORT": [
@@ -71,11 +79,23 @@
     "ABSTRAKT": "Lebenslage und Entwicklung der Teilhabemöglichkeiten von Menschen mit Beeinträchtigungen und mit Behinderungen: Datenbasis, Zielgruppen und Definitionen; Grunddaten zu den Lebenslagen von Menschen mit Beeinträchtigungen, Familie und soziales Netz, Bildung und Ausbildung, Erwerbstätigkeit und materielle Lebenssituation, alltägliche Lebensführung, Gesundheit, Vertiefungsthema und Kommentar des wissenschaftlichen Beirats: Gesundheit, Teilhabechancen, Diskriminierungsrisiken; Freizeit, Kultur und Sport, Sicherheit und Schutz der Person, politische und gesellschaftliche Teilhabe, Daten und Methoden"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
-      "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27890",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927890.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Arbeit und Soziales (federführend)",
+        "FUNDSTELLE": "09.03.2021 - BT-Drucksache 19/27890",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/278/1927890.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "04.03.2021 - BR-Drucksache 268/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0268-21.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Arbeit, Integration und Sozialpolitik",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      }
+    ]
   }
 }
