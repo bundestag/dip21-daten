@@ -5,15 +5,22 @@
     "VORGANGSTYP": "Große Anfrage",
     "TITEL": "Soziale und gesundheitliche Situation von Lesben, Schwulen, Bisexuellen, trans- und intergeschlechtlichen Menschen (LSBTI) in Deutschland",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/16992",
-      "DRS_TYP": "Große Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/169/1916992.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/16992",
+        "DRS_TYP": "Große Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/169/1916992.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28233",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -42,27 +49,34 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Große Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "04.02.2020 - BT-Drucksache 19/16992",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/169/1916992.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sven",
-          "NACHNAME": "Lehmann",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Große Anfrage"
-        },
-        {
-          "VORNAME": "Ulle",
-          "NACHNAME": "Schauws",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Große Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Große Anfrage,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "04.02.2020 - BT-Drucksache 19/16992",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/169/1916992.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sven",
+            "NACHNAME": "Lehmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Große Anfrage"
+          },
+          {
+            "VORNAME": "Ulle",
+            "NACHNAME": "Schauws",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Große Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "06.04.2021 - BT-Drucksache 19/28233"
+      }
+    ]
   }
 }
