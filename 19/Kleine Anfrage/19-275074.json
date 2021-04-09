@@ -23,16 +23,26 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Landwirtschaft und Ernährung",
+      "Außenwirtschaft"
+    ],
     "SCHLAGWORT": [
-      "Agrarhandel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Agrarhandel"
+      },
       "Fleischprodukt",
       "Milchprodukt",
       "Nahrungsmittel",
       "Regionale Vermarktung",
-      "Tschechien"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Tschechien"
+      },
+      "Warenverkehrsfreiheit"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 3 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

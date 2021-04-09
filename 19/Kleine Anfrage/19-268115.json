@@ -23,14 +23,28 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Gesundheit",
+      "Öffentliche Finanzen, Steuern und Abgaben"
+    ],
     "SCHLAGWORT": [
       "Bundesministerium für Gesundheit",
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Entschädigung",
       "Gesundheitsschutz",
-      "Seuchenbekämpfung"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Seuchenbekämpfung"
+      },
+      "Spahn, Jens",
+      "Steuermindereinnahmen",
+      "Wirtschaftsentwicklung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 7 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

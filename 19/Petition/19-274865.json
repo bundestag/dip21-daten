@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Petition",
     "TITEL": "Sammelübersicht 835 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
     "INITIATIVE": "Petitionsausschuss",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,35 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927267.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/218",
+      "PLPR_SEITEN": "27525C - 27526D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27525"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
-      "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27267",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927267.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Petitionsausschuss ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27267",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927267.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "25.03.2021 - BT-Plenarprotokoll 19/218, S. 27525C - 27526D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19218.pdf#P.27525",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27526D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/27267"
+        }
+      }
+    ]
   }
 }

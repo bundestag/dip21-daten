@@ -23,16 +23,29 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Gesundheit",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Bildung und Erziehung"
+    ],
     "SCHLAGWORT": [
       "Ausbildungsstätte",
+      "Berufliche Weiterbildung",
       "Berufsausbildung",
-      "Berufsbildung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Berufsbildung"
+      },
+      "Bildungsfinanzierung",
       "COVID-19",
-      "Pflege",
-      "Pflegepersonal"
+      "Länder der Bundesrepublik Deutschland",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Pflegepersonal"
+      },
+      "Reform",
+      "Studienplatz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 44 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [

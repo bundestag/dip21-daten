@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/24511",
-      "DRS_TYP": "Schriftliche Fragen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924511.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24511",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924511.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/27994",
+        "DRS_TYP": "Schriftliche Fragen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927994.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Ausbilder",
@@ -25,28 +33,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
-      "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24511, Nr. 71",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924511.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Jan Ralf",
-          "NACHNAME": "Nolte",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Frage"
-        },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Peter",
-          "NACHNAME": "Tauber",
-          "FUNKTION": "Parl. Staatssekr.",
-          "RESSORT": "Bundesministerium der Verteidigung",
-          "AKTIVITAETSART": "Antwort"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Schriftliche Frage/Schriftliche Antwort ",
+        "FUNDSTELLE": "20.11.2020 - BT-Drucksache 19/24511, Nr. 71",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/245/1924511.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Jan Ralf",
+            "NACHNAME": "Nolte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Frage"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Peter",
+            "NACHNAME": "Tauber",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ergänzende schriftliche Antwort ",
+        "FUNDSTELLE": "26.03.2021 - BT-Drucksache 19/27994, S. 70",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/279/1927994.pdf#P.70"
+      }
+    ]
   }
 }

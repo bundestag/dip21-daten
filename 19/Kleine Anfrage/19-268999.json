@@ -25,11 +25,22 @@
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
-      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
       "Gesetzliche Krankenversicherung",
-      "Rücklage"
+      "Gesundheitsfonds",
+      "Gesundheitskosten",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Krankenkasse"
+      },
+      "Krankenversicherungsbeitrag",
+      "Rücklage",
+      "Versicherungsfremde Leistung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 14 Einzelfragen mit zahlreichen Unterfragen)"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
