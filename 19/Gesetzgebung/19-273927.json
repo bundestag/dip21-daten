@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur weiteren Stärkung des Anlegerschutzes",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D096",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 134/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928166.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1002",
-      "PLPR_SEITEN": "119 - 120",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.119"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002",
+        "PLPR_SEITEN": "119 - 120",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.119"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/220",
+        "PLPR_SEITEN": "27864C - 27871C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27864"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -88,6 +97,7 @@
         "FUNDSTELLE": "26.03.2021 - BR-Plenarprotokoll 1002, TOP 19, S. 119 - 120",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.119",
         "BESCHLUSS": {
+          "BESCHLUSSSEITE": "120",
           "BESCHLUSSTENOR": "Stellungnahme",
           "BEZUGSDOKUMENT": "134/21",
           "GRUNDLAGE": "Art. 76 Abs. 2 GG"
@@ -104,6 +114,93 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
         "FUNDSTELLE": "31.03.2021 - BT-Drucksache 19/28166\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928166.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27864C - 27871C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27864",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sarah",
+            "NACHNAME": "Ryglewski",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27864D"
+          },
+          {
+            "VORNAME": "Kay",
+            "NACHNAME": "Gottschalk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27866A"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Carsten",
+            "NACHNAME": "Brodesser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27867A"
+          },
+          {
+            "VORNAME": "Till",
+            "NACHNAME": "Mansmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27868A"
+          },
+          {
+            "VORNAME": "Fabio",
+            "NACHNAME": "De Masi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27868D"
+          },
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27869B"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Arndt-Brauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27870A"
+          },
+          {
+            "VORNAME": "Alexander",
+            "NACHNAME": "Radwan",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27870D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27871C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28166"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          }
+        ]
       }
     ]
   }
