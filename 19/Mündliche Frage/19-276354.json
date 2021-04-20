@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Einbeziehung Selbstständiger in die gesetzliche Rentenversicherung mit Opt-out-Lösung und Altersvorsorgepflicht",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27908B - 27908C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27908"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Gesetzliche Rentenversicherung",
@@ -26,11 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche Vorarbeiten fanden in der aktuellen Legislaturperiode statt, um das im Koalitionsvertrag zwischen CDU, CSU und SPD verankerte Ziel der Einbeziehung Selbstständiger in die gesetzliche Rentenversicherung mit Opt-out-Lösung und Altersvorsorgepflicht (Koalitionsvertrag zwischen CDU, CSU und SPD, 19. Legislaturperiode, S. 93) umzusetzen, und wann ist mit der Vorlage des Gesetzentwurfes zu rechnen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 64",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 64",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27908B - 27908C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27908",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Matthias W.",
+            "NACHNAME": "Birkwald",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27908B"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Griese",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27908B"
+          }
+        ]
+      }
+    ]
   }
 }

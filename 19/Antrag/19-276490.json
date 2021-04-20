@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Alternative Maßnahmen zur Lockdown-Politik der Bundesregierung durch den Bundestag aufstellen - Pflicht des Bundestages als Legislative, staatliche Handlungsmöglichkeiten zu benennen",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/28447",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928447.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/221",
+      "PLPR_SEITEN": "27928A - 27943A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27928"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
@@ -26,27 +33,183 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "14.04.2021 - BT-Drucksache 19/28447",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928447.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Roman Johannes",
-          "NACHNAME": "Reusch",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "14.04.2021 - BT-Drucksache 19/28447",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928447.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Roman Johannes",
+            "NACHNAME": "Reusch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27928A - 27943A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27928",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Seitz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27928B"
+          },
+          {
+            "VORNAME": "Karin",
+            "NACHNAME": "Maag",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27929B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wieland",
+            "NACHNAME": "Schinnenburg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27930C"
+          },
+          {
+            "VORNAME": "Hilde",
+            "NACHNAME": "Mattheis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27931C"
+          },
+          {
+            "VORNAME": "Friedrich",
+            "NACHNAME": "Straetmanns",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27932B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Manuela",
+            "NACHNAME": "Rottmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27933C"
+          },
+          {
+            "VORNAME": "Erwin",
+            "NACHNAME": "Rüddel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27935A"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Brandner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27935D"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Hartmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27936D"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "27937B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27938C"
+          },
+          {
+            "VORNAME": "Philipp",
+            "NACHNAME": "Amthor",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27939B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Dehm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "27940A"
+          },
+          {
+            "VORNAME": "Timon",
+            "NACHNAME": "Gremmels",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27941A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "27942A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27943A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28447",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim AfRechtVer)"
         },
-        {
-          "VORNAME": "Jens",
-          "NACHNAME": "Maier",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Gesundheit",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      }
+    ]
   }
 }

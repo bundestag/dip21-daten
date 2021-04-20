@@ -8,7 +8,7 @@
       "Fraktion BÜNDNIS 90/DIE GRÜNEN",
       "Fraktion der FDP"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -16,6 +16,13 @@
       "DRS_NUMMER": "19/26339",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/263/1926339.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/221",
+      "PLPR_SEITEN": "27993A - 28000D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27993"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -61,11 +68,19 @@
     "ABSTRAKT": "Strategie zur Bergung und umweltverträglichen Vernichtung von Munitionsaltlasten in der deutschen Nord- und Ostsee einschließlich eines Finanzierungsplans aus Bundes- und Landesmitteln: Klärung der Kompetenzverteilung zwischen Bund, Ländern und beteiligten Institutionen, gemeinsame koordinierende Institution, Ausbau der Vernichtungskapazitäten der Gesellschaft zur Entsorgung von chemischen Kampfstoffen und Rüstungsaltlasten, gemeinsame Datenbank, umweltverträgliche Räumtechnologien und mobile Vernichtungsanlagen, Naturschutzmaßnahmen bei Unterwassersprengungen, wissenschaftliches Kompetenzzentrum, Kartierung deutscher Meeresgebiete, Förderprogramm für Bergungsverfahren, Pilotprojekt in der Ostsee zur Munitionsräumung, Analyse der Umweltgefahren von Munitionsaltlasten, Bergung von Munition und Altöl in Schiffswracks"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion der FDP ",
-      "FUNDSTELLE": "01.02.2021 - BT-Drucksache 19/26339",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/263/1926339.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion der FDP ",
+        "FUNDSTELLE": "01.02.2021 - BT-Drucksache 19/26339",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/263/1926339.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27993A - 28000D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27993"
+      }
+    ]
   }
 }

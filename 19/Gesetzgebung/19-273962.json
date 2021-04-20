@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Strafgesetzbuches - Strafbarkeit des Betreibens krimineller Handelsplattformen im Internet und des Bereitstellens entsprechender Server-Infrastrukturen",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C212",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 147/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928175.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1002",
-      "PLPR_SEITEN": "124 - 125",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.124"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002",
+        "PLPR_SEITEN": "124 - 125",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.124"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28179A - 28185B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28179"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -42,7 +51,10 @@
       "Grundrechtsbeschränkung",
       "Internet",
       "Kriminalitätsbekämpfung",
-      "Strafgesetzbuch",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strafgesetzbuch"
+      },
       "Strafprozessordnung",
       "Strafrecht",
       "Strafverfolgung",
@@ -106,6 +118,103 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "01.04.2021 - BT-Drucksache 19/28175\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928175.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28179A - 28185B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28179",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28179B"
+          },
+          {
+            "VORNAME": "Tobias Matthias",
+            "NACHNAME": "Peterka",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28180A"
+          },
+          {
+            "VORNAME": "Axel",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28180D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Martens",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28181D"
+          },
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28182B"
+          },
+          {
+            "VORNAME": "Canan",
+            "NACHNAME": "Bayram",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28182D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Brunner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28183C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Volker",
+            "NACHNAME": "Ullrich",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28184B"
+          },
+          {
+            "VORNAME": "Niema",
+            "NACHNAME": "Movassat",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "28184C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28185B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28175"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
       }
     ]
   }

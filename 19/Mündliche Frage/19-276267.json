@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Berücksichtigung von Privatpraxen bei der Zuteilung von Coronaimpfstoffen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27890A - 27890C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27890"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -26,11 +33,39 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWarum werden Privatpraxen nicht bei der Zuteilung von Corona-Impfstoffen an Hausarztpraxen berücksichtigt, und auf welchem Weg können privat Krankenversicherte nach Ansicht der Bundesregierung ebenfalls einen Impfschutz gegen SARS-CoV-2 erhalten?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 11",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 11",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27890A - 27890C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27890",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Christoph",
+            "NACHNAME": "Hoffmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27890A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Thomas",
+            "NACHNAME": "Gebhart",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Gesundheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27890A"
+          }
+        ]
+      }
+    ]
   }
 }

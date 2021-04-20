@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Mehrkosten durch die verzögerte Auslieferung von Drohnen des Typs \"Heron TP\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27909C - 27909D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27909"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Airbus",
@@ -26,11 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIn welcher Höhe beziffert das Bundesministerium der Verteidigung die Mehrkosten, die durch die weiter verzögerte Auslieferung der Drohnen \"Heron TP\" durch den israelischen Hersteller IAI entstehen (Bundestagsdrucksache 19/27994, meine Schriftliche Frage 51), wozu die Bundeswehr bereits seit zwei Jahren einen Stützpunkt auf einem Militärflughafen bei Tel Aviv bezogen und Personal dorthin entsandt hat (Bundestagsdrucksache 19/3787), und welche Kompensationen will das Bundesministerium hierzu bei der Herstellerfirma oder dem Hauptauftragnehmer Airbus geltend machen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 68",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 68",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27909C - 27909D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27909",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tobias",
+            "NACHNAME": "Pflüger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27909C"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Silberhorn",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium der Verteidigung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27909C"
+          }
+        ]
+      }
+    ]
   }
 }

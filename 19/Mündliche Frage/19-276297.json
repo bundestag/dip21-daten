@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Akkreditierung der Schulungsträger für den Fachkundenachweis zum Schutz vor schädlichen Wirkungen nichtionisierender Strahlung",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27895D - 27896A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27895"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Akkreditierung",
@@ -25,11 +32,37 @@
     "ABSTRAKT": "Originaltext der Frage: \r\n \r\nAb welchem Datum ist eine Akkreditierung der Schulungsträger für den Fachkundenachweis zum Schutz vor schädlichen Wirkungen nichtionisie- render Strahlung bei der Anwendung am Menschen nach den §§ 4 ff. NiSV, wie in der Antwort zu Frage 4 der Bekanntmachung Fachmodul Akkreditierung NiSV auf der Homepage des BMU (https://www.bmu.de/themen/atomenergie-strahlenschutz/strahlenschutz/nichtionisierende-strahlung/kosmetische-anwendung-nichtionisierender-strahlung/bekanntmachung-fachmodul-akkreditierung-nisv/) angegeben, verpflichtend, obwohl in § 4 Absatz 3 NiSV lediglich \"die erfolgreiche Teilnahme an einer geeigneten Schulung\" vorausgesetzt wird, und nach welchen Kriterien ist eine solche Schulung rechtssicher, wenn die Teilnahme an der Schulung nicht durch eine hoheitlich akkreditierte Stelle bestätigt wird?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 30",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 30",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27895D - 27896A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27895",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Judith",
+            "NACHNAME": "Skudelny",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27895D"
+          },
+          {
+            "VORNAME": "Florian",
+            "NACHNAME": "Pronold",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27895D"
+          }
+        ]
+      }
+    ]
   }
 }

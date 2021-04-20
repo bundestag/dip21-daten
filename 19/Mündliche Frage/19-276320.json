@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Verhaftung des Wirecard-Geschäftspartners Henry O`Sullivan",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27900C - 27900D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27900"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Auslieferung von Straftätern",
@@ -22,11 +29,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nHat die Bundesregierung Erkenntnisse, wonach der mit dem flüchtigen Wirecard-Manager, Jan Marsalek, in Verbindung stehende Geschäftspartner Henry OʼSullivan in Singapur verhaftet wurde, und wurde von Deutschland ein Auslieferungsersuchen gestellt?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 44",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 44",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27900C - 27900D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27900",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Fabio",
+            "NACHNAME": "De Masi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27900C"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27900C"
+          }
+        ]
+      }
+    ]
   }
 }

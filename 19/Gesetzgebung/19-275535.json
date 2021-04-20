@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "I022",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/27839)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928521.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/219",
-      "PLPR_SEITEN": "27748D - 27755B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27748"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/219",
+        "PLPR_SEITEN": "27748D - 27755B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27748"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/221",
+        "PLPR_SEITEN": "27985C - 27993A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27985"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/221",
+        "PLPR_SEITEN": "27992D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27992"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
     "SCHLAGWORT": [
@@ -112,7 +128,7 @@
             "SEITE": "27753A"
           },
           {
-            "VORNAME": "Joesephine",
+            "VORNAME": "Josephine",
             "NACHNAME": "Ortleb",
             "FUNKTION": "MdB",
             "FRAKTION": "SPD",
@@ -194,7 +210,7 @@
             "AKTIVITAETSART": "Berichterstattung"
           },
           {
-            "VORNAME": "Joesephine",
+            "VORNAME": "Josephine",
             "NACHNAME": "Ortleb",
             "FUNKTION": "MdB",
             "FRAKTION": "SPD",
@@ -260,6 +276,18 @@
             "AKTIVITAETSART": "Berichterstattung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27985C - 27993A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27985"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27992D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27992"
       }
     ]
   }

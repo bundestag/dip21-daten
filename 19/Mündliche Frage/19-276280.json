@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Unterstützung der \"Task-Force Testlogistik\"",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27892C - 27892D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27892"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Beschaffung",
@@ -28,14 +35,40 @@
         "__cdata": "Test"
       }
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIn welchem Umfang wurde die sogenannte Task-Force Testlogistik seit ihrer Einrichtung bis heute (Stand 14. April 2021) von Beraterinnen und Beratern bzw. Beratungsunternehmen unterstützt (bitte konkrete Beratungsleistungen und Vergütungen tabellarisch auflisten)? \r\n "
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nIn welchem Umfang wurde die sogenannte Task-Force Testlogistik seit ihrer Einrichtung bis heute (Stand 14. April 2021) von Beraterinnen und Beratern bzw. Beratungsunternehmen unterstützt (bitte konkrete Beratungsleistungen und Vergütungen tabellarisch auflisten)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 20",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 20",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27892C - 27892D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27892",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sven-Christian",
+            "NACHNAME": "Kindler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27892C"
+          },
+          {
+            "VORNAME": "Enak",
+            "NACHNAME": "Ferlemann",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Verkehr und digitale Infrastruktur",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27892C"
+          }
+        ]
+      }
+    ]
   }
 }

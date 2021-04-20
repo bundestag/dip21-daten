@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Versorgung von Entwicklungsländern mit Corona-Impfstoffen",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27896C - 27896D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27896"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -21,14 +28,41 @@
       "Impfung",
       "Seuchenbekämpfung"
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche weiteren Maßnahmen ergreift die Bundesregierung, um die hinreichende Versorgung von Entwicklungsländern mit Impfstoffen zur Überwindung der SARS-CoV-2-Pandemie zu gewährleisten, und inwiefern begegnet sie mit diesen Maßnahmen der Prognose von IWF und Weltbank, wonach insbesondere Entwicklungsländer aufgrund mangelnder Durchimpfung den wirtschaftlichen Anschluss zu verlieren drohen (vgl. https://www.tagesschau.de/ausland/iwf-finanzstrategie-corona-weltbank-101.html)? \r\n "
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWelche weiteren Maßnahmen ergreift die Bundesregierung, um die hinreichende Versorgung von Entwicklungsländern mit Impfstoffen zur Überwindung der SARS-CoV-2-Pandemie zu gewährleisten, und inwiefern begegnet sie mit diesen Maßnahmen der Prognose von IWF und Weltbank, wonach insbesondere Entwicklungsländer aufgrund mangelnder Durchimpfung den wirtschaftlichen Anschluss zu verlieren drohen (vgl. https://www.tagesschau.de/ausland/iwf-finanzstrategie-corona-weltbank-101.html)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 32",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 32",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27896C - 27896D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27896",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Kekeritz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27896C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Maria",
+            "NACHNAME": "Flachsbarth",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27896C"
+          }
+        ]
+      }
+    ]
   }
 }

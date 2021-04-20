@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Reform des Mietspiegelrechts (Mietspiegelreformgesetz - MsRG)",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C193",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 22/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926918.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1000",
-      "PLPR_SEITEN": "33 - 34",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.33"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1000",
+        "PLPR_SEITEN": "33 - 34",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1000.pdf#P.33"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28143C - 28150B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28143"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -114,6 +123,98 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend), Bundesministerium des Innern, für Bau und Heimat (federführend)",
         "FUNDSTELLE": "24.02.2021 - BT-Drucksache 19/26918\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/269/1926918.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28143C - 28150B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28143",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28143C"
+          },
+          {
+            "VORNAME": "Udo Theodor",
+            "NACHNAME": "Hemmelgarn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28144B"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Braunschweig",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28145A"
+          },
+          {
+            "VORNAME": "Katharina",
+            "NACHNAME": "Willkomm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28145D"
+          },
+          {
+            "VORNAME": "Caren",
+            "NACHNAME": "Lay",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28146C"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Kühn",
+            "WAHLKREISZUSATZ": "Tübingen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28147B"
+          },
+          {
+            "VORNAME": "Mechthild",
+            "NACHNAME": "Rawert",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28148B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Jan-Marco",
+            "NACHNAME": "Luczak",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28148D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28150B",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/26918"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          }
+        ]
       }
     ]
   }

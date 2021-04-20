@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Förderanträge für ein Wasserstoff-Reallabor in Oberfranken",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27905C - 27905D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27905"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bundesmittel",
@@ -24,11 +31,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nFür wie viel der in Aussicht gestellten 43 Mio. Euro für ein Wasserstoff-Reallabor in Oberfranken (www.sueddeutsche.de/bayern/energie-bamberg-oberfranken-als-reallabor-fuer-wasserstofftechnologie-dpa.urn-newsml-dpa-com-20090101-210124-99-146929) sind Förderanträge bei der Bundesregierung eingegangen, und in welcher Höhe sind bereits Fördergelder genehmigt und ausgezahlt worden?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 60",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 60",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27905C - 27905D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27905",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Lisa",
+            "NACHNAME": "Badum",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27905C"
+          },
+          {
+            "VORNAME": "Elisabeth",
+            "NACHNAME": "Winkelmeier-Becker",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Wirtschaft und Energie",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27905C"
+          }
+        ]
+      }
+    ]
   }
 }

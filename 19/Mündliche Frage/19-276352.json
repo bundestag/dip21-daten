@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Angaben zu durchschnittlichen Altersrenten",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27907A - 27908B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27907"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Freier Beruf",
@@ -20,11 +27,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie hoch sind nach Kenntnis der Bundesregierung die durchschnittliche Altersrente aller Personen, die eine Altersrente der gesetzlichen Rentenversicherung beziehen, die durchschnittliche Altersrente derjenigen Personen, die eine Altersrente der gesetzlichen Rentenversicherung beziehen, der mindestens 35 Jahre Beitragszeiten zugrunde liegen, die durchschnittliche Altersleistung der öffentlich-rechtlichen Pflichtversorgungseinrichtungen der Angehörigen der Freien Berufe sowie die durchschnittliche Altersleistung der öffentlich-rechtlichen Pflichtversorgungseinrichtungen der Freien Berufe für Personen, die mindestens 35 Jahre Beiträge eingezahlt haben (bitte die beiden Werte für die berufsständige Versorgung jeweils insgesamt sowie zusätzlich einzeln für Ärztinnen und Ärzte, Apothekerinnen und Apotheker, Architektinnen und Architekten, Notarinnen und Notare, Rechtsanwältinnen und Rechtsanwälte, Steuerberaterinnen und Steuerberater, Tierärztinnen und Tierärzte, Wirtschaftsprüferinnen und Wirtschaftsprüfer/Buchprüferinnen und Buchprüfer und Zahnärztinnen und Zahnärzte sowie für Psychologische Psychotherapeutinnen und Psychologische Psychotherapeuten, Ingenieurinnen und Ingenieure und Patentanwältinnen und Patentanwälte angeben)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 63",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 63",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27907A - 27908B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27907",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Zimmermann",
+            "WAHLKREISZUSATZ": "Zwickau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27907A"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Griese",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Arbeit und Soziales",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27907A"
+          }
+        ]
+      }
+    ]
   }
 }

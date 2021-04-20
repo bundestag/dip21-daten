@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Sammelabschiebung nach Sri Lanka am 30. März 2021",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27899C - 27900A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27899"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -20,14 +27,40 @@
         "__cdata": "Sri Lanka"
       }
     ],
-    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Personen wurden am 30. März 2021 im Rahmen einer Sammelabschiebung von Frankfurt am Main nach Sri Lanka abgeschoben (bitte auch nach Bundesländern aufschlüsseln), und wie sind Abschiebungen nach Sri Lanka zu rechtfertigen, vor dem Hintergrund, dass Experten davon ausgehen, dass Menschen, die im Ausland Asyl gesucht haben, ein hohes Risiko haben, nach der Abschiebung in Sri Lanka verhört, überwacht oder auch gefoltert zu werden (https://www.migazin.de/2021/03/31/heuchlerisches-deutschland-sammelabschiebungen-tamil-sri/)? \r\n "
+    "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Personen wurden am 30. März 2021 im Rahmen einer Sammelabschiebung von Frankfurt am Main nach Sri Lanka abgeschoben (bitte auch nach Bundesländern aufschlüsseln), und wie sind Abschiebungen nach Sri Lanka zu rechtfertigen, vor dem Hintergrund, dass Experten davon ausgehen, dass Menschen, die im Ausland Asyl gesucht haben, ein hohes Risiko haben, nach der Abschiebung in Sri Lanka verhört, überwacht oder auch gefoltert zu werden (https://www.migazin.de/2021/03/31/heuchlerisches-deutschland-sammelabschiebungen-tamil-sri/)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 41",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 41",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27899C - 27900A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27899",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Ulla",
+            "NACHNAME": "Jelpke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27899C"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27899C"
+          }
+        ]
+      }
+    ]
   }
 }

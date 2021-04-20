@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Immunitätsangelegenheit",
     "TITEL": "Antrag auf Genehmigung zum Vollzug gerichtlicher Vermögensarrest- und Durchsuchungsbeschlüsse",
     "INITIATIVE": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,48 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928510.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/221",
+      "PLPR_SEITEN": "27927B - 27928A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27927"
+    },
     "EU_DOK_NR": "",
+    "SCHLAGWORT": {
+      "_fundstelle": "true",
+      "__cdata": "Parlamentarische Immunität"
+    },
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
-      "FUNDSTELLE": "15.04.2021 - BT-Drucksache 19/28510",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928510.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung ",
+        "FUNDSTELLE": "15.04.2021 - BT-Drucksache 19/28510",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928510.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27927B - 27928A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27927",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Stefan",
+          "NACHNAME": "Keuter",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Persönliche Erklärung gem. § 32 Geschäftsordnung BT",
+          "SEITE": "27297C"
+        },
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27927C",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/28510",
+          "ABSTIMMUNG_BEMERKUNG": "einstimmig"
+        }
+      }
+    ]
   }
 }

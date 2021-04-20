@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Freiwillige Rückkehr von Personen im Rahmen des BMZ-Programms \"Perspektive Heimat\" seit 2017",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27896B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27896"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Drittstaat",
@@ -20,11 +27,38 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nWie viele Menschen nahmen im Zeitraum von 2017 bis 2020 im Rahmen des BMZ-Programms \"Perspektive Heimat\" eine freiwillige Rückkehr in Anspruch, und wie viele dieser Menschen wurden in ihrem Zielland im Rahmen des Programms in Bezug auf Reintegrationsmöglichkeiten beraten (bitte nach Jahren ohne Berücksichtigung der Balkanstaaten auflisten)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 31",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 31",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27896B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27896",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Uwe",
+            "NACHNAME": "Kekeritz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27896B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Maria",
+            "NACHNAME": "Flachsbarth",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27896B"
+          }
+        ]
+      }
+    ]
   }
 }

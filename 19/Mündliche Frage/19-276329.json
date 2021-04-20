@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Geplante Abschiebung der politischen Aktivistin Nazdar Ecevit",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27902C - 27902D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27902"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -19,11 +26,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwieweit hat die Bundesregierung Kenntnis über die bevorstehende Abschiebung der politischen Aktivistin, ehemalige Gefangene und Überlebende der Massaker von Cizîr, Nazdar Ecevit, die bei Ankunft in der Türkei eine Verhaftung aus politischen Gründen erwartet (siehe https://anfdeutsch.com/aktuelles/Uberlebende-der-massaker-von-cizir-soll-abgeschoben-werden-25554), und wird sich die Bundesregierung dafür einsetzen, die bevorstehende Abschiebung zu stoppen?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 50",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 50",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27902C - 27902D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27902",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27902C"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27902C"
+          }
+        ]
+      }
+    ]
   }
 }

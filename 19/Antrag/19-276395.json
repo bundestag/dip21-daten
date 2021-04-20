@@ -3,9 +3,9 @@
   "VORGANG": {
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Antrag",
-    "TITEL": "Technologische Mündigkeit gewährleisten - Rahmenbedingungen für KI- Anwendungen verbessern",
+    "TITEL": "Technologische Mündigkeit gewährleisten - Rahmenbedingungen für KI-Anwendungen verbessern",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/28430",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928430.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/222",
+      "PLPR_SEITEN": "28136A - 28143B",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28136"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -47,28 +54,124 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "13.04.2021 - BT-Drucksache 19/28430",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928430.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Mario",
-          "NACHNAME": "Brandenburg",
-          "WAHLKREISZUSATZ": "Südpfalz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "13.04.2021 - BT-Drucksache 19/28430",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928430.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Südpfalz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28136A - 28143B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28136",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Karliczek",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Bildung und Forschung",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28136D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Diether",
+            "NACHNAME": "Dehm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "28137D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Michael",
+            "NACHNAME": "Espendiller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28138C"
+          },
+          {
+            "VORNAME": "René",
+            "NACHNAME": "Röspel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28139B"
+          },
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Südpfalz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28140B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Petra",
+            "NACHNAME": "Sitte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28141A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Anna",
+            "NACHNAME": "Christmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28141D"
+          },
+          {
+            "VORNAME": "Elvan",
+            "NACHNAME": "Korkmaz-Emre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28142B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28143A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28430"
         },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
+          }
+        ]
+      }
+    ]
   }
 }

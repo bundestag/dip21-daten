@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Mögliche Unterstützung des internationalen Terrorismus durch Kuba",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27903B - 27903C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27903"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -22,11 +29,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nHat die Bundesregierung Kenntnis von Fällen, in denen der kubanische Staat bzw. die kubanische Regierung den internationalen Terrorismus unterstützt hat, seitdem der damalige Präsident der Vereinigten Staaten von Amerika, Barack Obama, 2015 das Land von der US-Staatenliste der Terrorunterstützer gestrichen hatte (\"USA haben Kuba von der Terrorliste gestrichen\", www.spiegel.de, 29. Mai 2015), und unterstützt sie die Bemühungen des Außenbeauftragten der Europäischen Union, Josep Borrell, der gegenüber der USA für die Streichung Kubas von der Liste eintreten will, weil es \"keine Faktenbasis\" für die Listung gebe (vgl. Schreiben von Josep Borrell an den Europaabgeordneten Javier Moreno Sánchez vom 29. März 2021, https://twitter.com/J_MorenoSanchez/status/1377278503696076816)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 52",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27903B - 27903C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27903",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Andrej",
+            "NACHNAME": "Hunko",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27903B"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27903B"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Verlängerung der Frist zur Einreichung des Verwendungsnachweises und der Auszahlung des „Investitionsprogramms Wald“",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27911C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27911"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Forstwirtschaft",
@@ -20,11 +27,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nPlant die Bundesregierung eine Verlängerung der Frist zur Einreichung des Verwendungsnachweises und der Auszahlung des \"Investitionsprogramms Wald\" bis zum Dezember 2021, wie sie es auch beim \"Investitionsprogramm Landwirtschaft\" getan hat (https://www.agrarheute.com/management/finanzen/fehler-vermeiden-beim-investitionsprogramm-landwirtschaft-579362)?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 73",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 73",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27911C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27911",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Carina",
+            "NACHNAME": "Konrad",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27911C"
+          },
+          {
+            "VORNAME": "Hans-Joachim",
+            "NACHNAME": "Fuchtel",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium für Ernährung und Landwirtschaft",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27911C"
+          }
+        ]
+      }
+    ]
   }
 }

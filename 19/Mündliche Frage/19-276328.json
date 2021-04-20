@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Kenntnisse über Festnahmen von assyrischen Menschenrechtsaktivisten und Zivilisten in der Türkei",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27902B - 27902C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27902"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Arbeiterpartei Kurdistans",
@@ -26,11 +33,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nInwieweit hat die Bundesregierung Kenntnis darüber, dass in der Türkei zunehmend assyrische Menschenrechtsaktivisten und passive Zivilisten ohne Beweise immer wieder mit den Vorwürfen des Terrorismus und Verbindungen zur PKK festgenommen und verurteilt werden, wie z. B. die Verurteilung des Mönchspriesters Sefer Aho Bileçen, der das syrisch-orthodoxe Kloster St. Jakob leitet (siehe https://ajmev.org/2021/04/sefer_aho/), und inwiefern wird die Bundesregierung dieses Vorgehen der türkischen Behörden gegen die assyrische Minderheit in der Türkei bei ihren Gesprächen mit Vertretern der türkischen Regierung thematisieren?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 49",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 49",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27902B - 27902C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27902",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Gökay",
+            "NACHNAME": "Akbulut",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27902B"
+          },
+          {
+            "VORNAME": "Niels",
+            "NACHNAME": "Annen",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Auswärtiges Amt",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27902B"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über die Insolvenzsicherung durch Reisesicherungsfonds und zur Änderung reiserechtlicher Vorschriften",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "C213",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 148/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928172.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1002",
-      "PLPR_SEITEN": "125 - 125",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.125"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002",
+        "PLPR_SEITEN": "125 - 125",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.125"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28164D - 28171D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28164"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -103,6 +112,93 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
         "FUNDSTELLE": "31.03.2021 - BT-Drucksache 19/28172\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/281/1928172.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28164D - 28171D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28164",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Lambrecht",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Justiz und für Verbraucherschutz",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28165A"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Münzenmaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28165D"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Steineke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28166D"
+          },
+          {
+            "VORNAME": "Roman",
+            "NACHNAME": "Müller-Böhm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28167D"
+          },
+          {
+            "VORNAME": "Kerstin",
+            "NACHNAME": "Kassner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28168C"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Tressel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28169A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Karl-Heinz",
+            "NACHNAME": "Brunner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28169D"
+          },
+          {
+            "VORNAME": "Paul",
+            "NACHNAME": "Lehrieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29170C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28171D",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28172"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Tourismus"
+          }
+        ]
       }
     ]
   }

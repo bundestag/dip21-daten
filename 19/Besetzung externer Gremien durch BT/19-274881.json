@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Besetzung externer Gremien durch BT",
     "TITEL": "Wahl von Mitgliedern des Stiftungsrates der \"Stiftung Flucht, Vertreibung, Versöhnung\" gemäß § 19 Absatz 2 Satz 1 Nummer 1 des Gesetzes zur Errichtung einer Stiftung \"Deutsches Historisches Museum\"",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/27282",
       "DRS_TYP": "Wahlvorschlag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927282.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/221",
+      "PLPR_SEITEN": "27984D - 27985C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27984"
     },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
@@ -22,14 +29,27 @@
       },
       "Wahl"
     ],
-    "ABSTRAKT": "Mitglied: Wilhelm von Gottberg\r\nStellvertreter: Martin Erwin Renner"
+    "ABSTRAKT": "Mitglied: Wilhelm von Gottberg Stellvertreter: Martin Erwin Renner"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27282",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927282.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Wahlvorschlag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "03.03.2021 - BT-Drucksache 19/27282",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/272/1927282.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "15.04.2021 - BT-Plenarprotokoll 19/221, S. 27984D - 27985C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19221.pdf#P.27984",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "27985B",
+          "BESCHLUSSTENOR": "Ablehnung des Wahlvorschlags",
+          "BEZUGSDOKUMENT": "19/27282"
+        }
+      }
+    ]
   }
 }

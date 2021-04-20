@@ -4,9 +4,16 @@
     "WAHLPERIODE": "19",
     "VORGANGSTYP": "Mündliche Frage",
     "TITEL": "Beschäftigung des Gemeinsamen Extremismus- und Terrorismusabwehrzentrums mit dem Verband der Reservisten der Bundeswehr",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/220",
+      "PLPR_SEITEN": "27897D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27897"
+    },
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       {
@@ -23,11 +30,37 @@
     "ABSTRAKT": "Originaltext der Frage(n): \r\n \r\nBei wie vielen Gelegenheiten befasste sich das Gemeinsame Extremismus- und Terrorismusabwehrzentrum (GETZ) seit 2015 mit dem Verband der Reservisten der Deutschen Bundeswehr? \r\n \r\nBei wie vielen Gelegenheiten befasste sich das Gemeinsame Extremismus- und Terrorismusabwehrzentrum (GETZ) seit 2015 mit dem Landesverband Mecklenburg-Vorpommern des Verbandes der Reservisten der Deutschen Bundeswehr bzw. mit einer Untergliederung des Landesverbandes?"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Mündliche Frage ",
-      "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 35, 36",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage ",
+        "FUNDSTELLE": "09.04.2021 - BT-Drucksache 19/28337, Nr. 35, 36",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/283/1928337.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mündliche Frage/Schriftliche Antwort",
+        "FUNDSTELLE": "14.04.2021 - BT-Plenarprotokoll 19/220, S. 27897D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19220.pdf#P.27897",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martina",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Frage",
+            "SEITE": "27897D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Mayer",
+            "FUNKTION": "Parl. Staatssekr.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Antwort",
+            "SEITE": "27897D"
+          }
+        ]
+      }
+    ]
   }
 }
