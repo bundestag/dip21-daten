@@ -14,24 +14,40 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/222",
+      "PLPR_SEITEN": "28200C - 28200D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200"
+    },
     "EU_DOK_NR": "",
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
-      "FUNDSTELLE": "01.03.2021 - BT-Drucksache 19/27086, Nr. A.35",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf",
-      "ZUWEISUNG": [
-        {
-          "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
-          "FEDERFUEHRUNG": "federf&uuml;hrend"
-        },
-        {
-          "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Überweisung gemäß § 93 Geschäftsordnung BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "01.03.2021 - BT-Drucksache 19/27086, Nr. A.35",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/270/1927086.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Auswärtiger Ausschuss"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28200C - 28200D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200",
+        "VP_ABSTRAKT": "S. 28200C - Mitteilung über Absehen von Beratung"
+      }
+    ]
   }
 }

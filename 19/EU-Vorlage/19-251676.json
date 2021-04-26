@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/132/1913202.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "980",
-      "PLPR_SEITEN": "388 - 389",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/980.pdf#P.388"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "980",
+        "PLPR_SEITEN": "388 - 389",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/980.pdf#P.388"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28200C - 28200D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 11521/19, Kom. (2019) 354 endg.",
     "SCHLAGWORT": [
       {
@@ -113,6 +122,13 @@
         "URHEBER": "Beschlussdrucksache ",
         "FUNDSTELLE": "20.09.2019 - BR-Drucksache 342/19(B)",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2019/0342-19B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28200C - 28200D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200",
+        "VP_ABSTRAKT": "S. 28200C - Kenntnisnahme"
       }
     ]
   }

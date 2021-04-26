@@ -22,12 +22,21 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/190/1919077.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "EU-Kammer-Umfrage",
-      "PLPR_HERAUSGEBER": "EK",
-      "PLPR_NUMMER": "28",
-      "PLPR_SEITEN": "1 - 2"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "EU-Kammer-Umfrage",
+        "PLPR_HERAUSGEBER": "EK",
+        "PLPR_NUMMER": "28",
+        "PLPR_SEITEN": "1 - 2"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28200C - 28200D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 7153/20, Kom. (2020) 142 endg.",
     "SCHLAGWORT": [
       "Aquakultur",
@@ -122,6 +131,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28200C - 28200D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200",
+        "VP_ABSTRAKT": "S. 28200C - Kenntnisnahme"
       }
     ]
   }

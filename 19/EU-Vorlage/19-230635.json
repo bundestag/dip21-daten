@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/012/1901252.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "BR-Sitzung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "966",
-      "PLPR_SEITEN": "95A - 97D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.95"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "966",
+        "PLPR_SEITEN": "95A - 97D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/966.pdf#P.95"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung des federführenden Ausschusses",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/222",
+        "PLPR_SEITEN": "28200C - 28200D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200"
+      }
+    ],
     "EU_DOK_NR": "Ratsdok. 15660/17, Kom. (2017) 824 endg.",
     "SCHLAGWORT": [
       "EU-Staaten",
@@ -139,6 +148,13 @@
         "FUNDSTELLE": "12.11.2018 - BR-Drucksache 564/18",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2018/0564-18.pdf",
         "VP_ABSTRAKT": "Stellungnahme der Europäischen Kommission zu dem Beschluss des Bundesrates in Drs 747/17 (Beschluss)"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung des federführenden Ausschusses",
+        "FUNDSTELLE": "16.04.2021 - BT-Plenarprotokoll 19/222, S. 28200C - 28200D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19222.pdf#P.28200",
+        "VP_ABSTRAKT": "S. 28200C - Kenntnisnahme"
       }
     ]
   }
