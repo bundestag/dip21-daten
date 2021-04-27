@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Bundesberggesetzes und zur Änderung der Verwaltungsgerichtsordnung",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E066",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 166/21)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928402.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1002",
-      "PLPR_SEITEN": "130 - 130",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.130"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002",
+        "PLPR_SEITEN": "130 - 130",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.130"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/224",
+        "PLPR_SEITEN": "28470D - 28474A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28470"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
@@ -124,6 +133,29 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
         "FUNDSTELLE": "13.04.2021 - BT-Drucksache 19/28402\nAnl. Stellungnahme des BR und Gegenäußerung der BRg",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/284/1928402.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "22.04.2021 - BT-Plenarprotokoll 19/224, S. 28470D - 28474A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28470",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28474A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28402"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
       }
     ]
   }

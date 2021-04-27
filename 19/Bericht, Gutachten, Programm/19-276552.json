@@ -17,6 +17,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928535.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/225",
+      "PLPR_SEITEN": "28679D - 28686A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28679"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Kultur",
     "SCHLAGWORT": [
@@ -35,11 +42,101 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Beauftr. der Bundesregierung für Kultur und Medien, Bundesregierung ",
-      "FUNDSTELLE": "15.04.2021 - BT-Drucksache 19/28535",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928535.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Beauftr. der Bundesregierung für Kultur und Medien, Bundesregierung ",
+        "FUNDSTELLE": "15.04.2021 - BT-Drucksache 19/28535",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/285/1928535.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.04.2021 - BT-Plenarprotokoll 19/225, S. 28679D - 28686A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28679",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Monika",
+            "NACHNAME": "Grütters",
+            "FUNKTION": "Staatsmin.",
+            "RESSORT": "Bundeskanzleramt",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28680A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Götz",
+            "NACHNAME": "Frömming",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28680C"
+          },
+          {
+            "VORNAME": "Marianne",
+            "NACHNAME": "Schieder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28681D"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28682D"
+          },
+          {
+            "VORNAME": "Simone",
+            "NACHNAME": "Barrientos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28683B"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28684A"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Kauder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28684D"
+          },
+          {
+            "VORNAME": "Carsten",
+            "NACHNAME": "Schneider",
+            "WAHLKREISZUSATZ": "Erfurt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28685C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28686A",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28535"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Kultur und Medien",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
+          }
+        ]
+      }
+    ]
   }
 }

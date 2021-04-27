@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Freiwilligendienste ausbauen und stärken - Gemeinwohlorientiert und selbstbestimmt",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/288/1928837.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/52",
-      "PLPR_SEITEN": "5568A - 5568B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5568"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/52",
+        "PLPR_SEITEN": "5568A - 5568B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19052.pdf#P.5568"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/224",
+        "PLPR_SEITEN": "28476B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28476"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesellschaftspolitik, soziale Gruppen",
     "SCHLAGWORT": [
@@ -225,6 +234,17 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "22.04.2021 - BT-Plenarprotokoll 19/224, S. 28476B",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28476",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28476B",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/4551"
+        }
       }
     ]
   }

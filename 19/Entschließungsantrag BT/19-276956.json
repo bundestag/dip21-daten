@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Zweiten Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,6 +14,13 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/288/1928873.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/225",
+      "PLPR_SEITEN": "28686A - 28694A",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28686"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -21,33 +28,131 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
-      "Informationssicherheit",
-      "Zweites Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme"
+      "Bundesamt für Sicherheit in der Informationstechnik",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationssicherheit"
+      },
+      "IT-Kriminalität",
+      "Kritische Infrastruktur",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zweites Gesetz zur Erhöhung der Sicherheit informationstechnischer Systeme"
+      }
     ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "21.04.2021 - BT-Drucksache 19/28873",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/288/1928873.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Manuel",
-          "NACHNAME": "Höferlin",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Stephan",
-          "NACHNAME": "Thomae",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Entschließungsantrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "21.04.2021 - BT-Drucksache 19/28873",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/288/1928873.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Manuel",
+            "NACHNAME": "Höferlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Thomae",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.04.2021 - BT-Plenarprotokoll 19/225, S. 28686A - 28694A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28686",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Horst",
+            "NACHNAME": "Seehofer",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium des Innern, für Bau und Heimat",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28686D"
+          },
+          {
+            "VORNAME": "Joana",
+            "NACHNAME": "Cotar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28687B"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Hartmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28688B"
+          },
+          {
+            "VORNAME": "Manuel",
+            "NACHNAME": "Höferlin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28689B"
+          },
+          {
+            "VORNAME": "Petra",
+            "NACHNAME": "Pau",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28690A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Konstantin",
+            "NAMENSZUSATZ": "von",
+            "NACHNAME": "Notz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28690C"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Bernstiel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28691B"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Matschie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28692A"
+          },
+          {
+            "VORNAME": "Tankred",
+            "NACHNAME": "Schipanski",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28692D"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28693C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/28873"
         }
-      ]
-    }
+      }
+    ]
   }
 }

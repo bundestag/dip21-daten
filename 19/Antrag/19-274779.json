@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Für Wirtschaftshilfen, die schnell, unkompliziert und zuverlässig helfen",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/282/1928292.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/215",
-      "PLPR_SEITEN": "27070A - 27085A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27070"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/215",
+        "PLPR_SEITEN": "27070A - 27085A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19215.pdf#P.27070"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/225",
+        "PLPR_SEITEN": "28643B - 28654A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28643"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Wirtschaft",
     "SCHLAGWORT": [
@@ -251,6 +260,109 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.04.2021 - BT-Plenarprotokoll 19/225, S. 28643B - 28654A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28643",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Olaf",
+            "NACHNAME": "Scholz",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium der Finanzen",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28645A"
+          },
+          {
+            "VORNAME": "Otto",
+            "NACHNAME": "Fricke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "28645D"
+          },
+          {
+            "VORNAME": "Volker",
+            "NACHNAME": "Münz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28646C"
+          },
+          {
+            "VORNAME": "Eckhardt",
+            "NACHNAME": "Rehberg",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28647A"
+          },
+          {
+            "VORNAME": "Christian",
+            "NACHNAME": "Dürr",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28648B"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Gesine",
+            "NACHNAME": "Lötzsch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28649A"
+          },
+          {
+            "VORNAME": "Anja",
+            "NACHNAME": "Hajduk",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28649C"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Klein",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "28650A"
+          },
+          {
+            "VORNAME": "Svenja",
+            "NACHNAME": "Stadler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28651B"
+          },
+          {
+            "VORNAME": "Marcus",
+            "NACHNAME": "Bühl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28651D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Reinhard",
+            "NACHNAME": "Brandl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28652B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28654A",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/27194"
+        }
       }
     ]
   }

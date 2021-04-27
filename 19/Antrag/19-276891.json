@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Familien entlasten - Einführung eines Familiensplittings",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -13,6 +13,13 @@
       "DRS_NUMMER": "19/28763",
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928763.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/225",
+      "PLPR_SEITEN": "28664A - 28679D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28664"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -29,27 +36,162 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "21.04.2021 - BT-Drucksache 19/28763",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928763.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Martin",
-          "NACHNAME": "Reichardt",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "21.04.2021 - BT-Drucksache 19/28763",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928763.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Reichardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Mariana Iris",
+            "NACHNAME": "Harder-Kühnel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "23.04.2021 - BT-Plenarprotokoll 19/225, S. 28664A - 28679D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28664",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Martin",
+            "NACHNAME": "Reichardt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28664B"
+          },
+          {
+            "VORNAME": "Antje",
+            "NACHNAME": "Tillmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28665B"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Herbrand",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28666D"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Schrodi",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28667D"
+          },
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Müller",
+            "WAHLKREISZUSATZ": "Potsdam",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28669A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wolfgang",
+            "NACHNAME": "Strengmann-Kuhn",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28671A"
+          },
+          {
+            "VORNAME": "Johannes",
+            "NACHNAME": "Steiniger",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28672C"
+          },
+          {
+            "VORNAME": "Mariana Iris",
+            "NACHNAME": "Harder-Kühnel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28673D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Wiebke",
+            "NACHNAME": "Esdar",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28674C"
+          },
+          {
+            "VORNAME": "Grigorios",
+            "NACHNAME": "Aggelidis",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28675C"
+          },
+          {
+            "VORNAME": "Sebastian",
+            "NACHNAME": "Brehm",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28676B"
+          },
+          {
+            "VORNAME": "Leni",
+            "NACHNAME": "Breymaier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28677C"
+          },
+          {
+            "VORNAME": "Maik",
+            "NACHNAME": "Beermann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28678B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28679C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28763",
+          "ABSTIMMUNG_BEMERKUNG": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim AfFSFJ)"
         },
-        {
-          "VORNAME": "Mariana Iris",
-          "NACHNAME": "Harder-Kühnel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Familie, Senioren, Frauen und Jugend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Haushaltsausschuss"
+          }
+        ]
+      }
+    ]
   }
 }
