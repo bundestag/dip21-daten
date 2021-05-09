@@ -8,16 +8,24 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "O008",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/28790)",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/28790",
-      "DRS_TYP": "Gesetzentwurf",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928790.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28790",
+        "DRS_TYP": "Gesetzentwurf",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928790.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29381",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929381.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "1. Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -35,9 +43,10 @@
       {
         "_fundstelle": "true",
         "__cdata": "Gesetz über die Errichtung einer Bundeskanzler-Helmut-Kohl-Stiftung"
-      }
+      },
+      "Gesetz über die Errichtung einer Bundeskanzler-Willy-Brandt-Stiftung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses : Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -136,6 +145,79 @@
           },
           {
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Kultur und Medien ",
+        "FUNDSTELLE": "05.05.2021 - BT-Drucksache 19/29381",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929381.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Simone",
+            "NACHNAME": "Barrientos",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Katrin",
+            "NACHNAME": "Budde",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Gitta",
+            "NACHNAME": "Connemann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Hartmut",
+            "NACHNAME": "Ebbing",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Erhard",
+            "NACHNAME": "Grundl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Martin Erwin",
+            "NACHNAME": "Renner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Änderungsantrag,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "05.05.2021 - BT-Drucksache 19/29394",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929394.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Änderungsantrag"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Änderungsantrag"
           }
         ]
       }

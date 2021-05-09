@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Neuordnung der deutschen Sahelpolitik anhand realpolitischer Richtlinien",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/24653",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/246/1924653.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/24653",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/246/1924653.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29436",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/294/1929436.pdf"
+      }
+    ],
     "PLENUM": {
       "PLPR_KLARTEXT": "Beratung",
       "PLPR_HERAUSGEBER": "BT",
@@ -160,6 +168,59 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Auswärtiger Ausschuss ",
+        "FUNDSTELLE": "06.05.2021 - BT-Drucksache 19/29436",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/294/1929436.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sevim",
+            "NACHNAME": "Dagdelen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Markus",
+            "NACHNAME": "Koob",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ulrich",
+            "NACHNAME": "Lechte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Lothar",
+            "NACHNAME": "Maier",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Matschie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frithjof",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
       }
     ]
   }

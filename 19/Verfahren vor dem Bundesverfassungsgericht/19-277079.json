@@ -7,12 +7,20 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BR",
-      "DRS_NUMMER": "278/21",
-      "DRS_TYP": "Empfehlungen",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "278/21",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "zu278/21",
+        "DRS_TYP": "Empfehlungen",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21(zu).pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": {
       "_fundstelle": "true",
@@ -21,15 +29,24 @@
     "ABSTRAKT": "Abstandnahme von Äußerung und Beitritt"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Empfehlungen der Ausschüsse ",
-      "FUNDSTELLE": "23.04.2021 - BR-Drucksache 278/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21.pdf",
-      "ZUWEISUNG": {
-        "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
-        "FEDERFUEHRUNG": "federf&uuml;hrend"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "23.04.2021 - BR-Drucksache 278/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Rechtsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "05.05.2021 - BR-Drucksache zu278/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0278-21(zu).pdf",
+        "VP_ABSTRAKT": "Ergänzung weiterer Verfahren"
       }
-    }
+    ]
   }
 }

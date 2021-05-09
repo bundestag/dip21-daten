@@ -5,48 +5,77 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Gesundheitschancen von Langzeitarbeitslosen",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/28716",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928716.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28716",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928716.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29324",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
       "Gesellschaftspolitik, soziale Gruppen"
     ],
     "SCHLAGWORT": [
-      "Gesundheit",
-      "Langzeitarbeitslosigkeit"
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arbeitsloser"
+      },
+      "Arbeitslosigkeit",
+      "COVID-19",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Gesundheit"
+      },
+      "Gesundheitspolitik",
+      "Gesundheitsrisiko",
+      "Gesundheitsvorsorge",
+      "Krankenkasse",
+      "Langzeitarbeitslosigkeit",
+      "Medizinische Versorgung",
+      "Sozialpolitik"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 28 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "20.04.2021 - BT-Drucksache 19/28716",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928716.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Pascal",
-          "NACHNAME": "Kober",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "20.04.2021 - BT-Drucksache 19/28716",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928716.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Pascal",
+            "NACHNAME": "Kober",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Gesundheit (federführend)",
+        "FUNDSTELLE": "05.05.2021 - BT-Drucksache 19/29324"
+      }
+    ]
   }
 }

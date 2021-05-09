@@ -5,15 +5,23 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Zur China-Politik der Bundesregierung",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/26694",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926694.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/26694",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926694.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28086",
+        "DRS_TYP": "Antwort",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/280/1928086.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Außenpolitik und internationale Beziehungen",
@@ -49,28 +57,36 @@
     "ABSTRAKT": "(insgesamt 39 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "15.02.2021 - BT-Drucksache 19/26694",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926694.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Norbert",
-          "NACHNAME": "Kleinwächter",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "PERSON_TITEL": "Prof. Dr.",
-          "VORNAME": "Harald",
-          "NACHNAME": "Weyel",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "15.02.2021 - BT-Drucksache 19/26694",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/266/1926694.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Norbert",
+            "NACHNAME": "Kleinwächter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "PERSON_TITEL": "Prof. Dr.",
+            "VORNAME": "Harald",
+            "NACHNAME": "Weyel",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Auswärtiges Amt (federführend)",
+        "FUNDSTELLE": "29.03.2021 - BT-Drucksache 19/28086",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/280/1928086.pdf"
+      }
+    ]
   }
 }
