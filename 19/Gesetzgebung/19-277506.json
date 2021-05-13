@@ -10,7 +10,7 @@
       "Fraktion der FDP",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B139",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/29281)",
@@ -19,6 +19,13 @@
       "DRS_NUMMER": "19/29281",
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929281.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/227",
+      "PLPR_SEITEN": "28948B - 28951C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -36,11 +43,36 @@
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion der CDU/CSU, Fraktion der FDP, Fraktion der SPD ",
-      "FUNDSTELLE": "04.05.2021 - BT-Drucksache 19/29281",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929281.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN, Fraktion der CDU/CSU, Fraktion der FDP, Fraktion der SPD ",
+        "FUNDSTELLE": "04.05.2021 - BT-Drucksache 19/29281",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929281.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 28948B - 28951C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28951C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/29281"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Inneres und Heimat",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung"
+          }
+        ]
+      }
+    ]
   }
 }

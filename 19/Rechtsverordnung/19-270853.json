@@ -28,13 +28,21 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0178-21.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/206",
-      "PLPR_SEITEN": "26035C - 26044D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.26035"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/206",
+        "PLPR_SEITEN": "26035C - 26044D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19206.pdf#P.26035"
+      },
+      {
+        "PLPR_KLARTEXT": "BR-Sitzung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1004",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Umwelt",
     "SCHLAGWORT": [
@@ -233,7 +241,7 @@
         "URHEBER": "Plenarantrag,  Urheber : Niedersachsen ",
         "FUNDSTELLE": "26.03.2021 - BR-Drucksache 178/2/21",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0178-2-21.pdf",
-        "VP_ABSTRAKT": "Änderungen"
+        "VP_ABSTRAKT": "Änderungen (zurückgezogen)"
       },
       {
         "ZUORDNUNG": "BR",
@@ -252,6 +260,22 @@
         "FUNDSTELLE": "04.05.2021 - BR-Drucksache 178/3/21",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0178-3-21.pdf",
         "VP_ABSTRAKT": "Änderungen anstelle der Ziffern 22 und 23 in Drs 178/1/21"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 90",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Zustimmung/Änderungen; Entschließung",
+          "BEZUGSDOKUMENT": "178/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.05.2021 - BR-Drucksache 178/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0178-21B.pdf"
       }
     ]
   }

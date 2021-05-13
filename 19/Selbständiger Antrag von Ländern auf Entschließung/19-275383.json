@@ -17,13 +17,21 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0223-21.pdf"
     },
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Ausschusszuweisung",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1002",
-      "PLPR_SEITEN": "115 - 116",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.115"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Ausschusszuweisung",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1002",
+        "PLPR_SEITEN": "115 - 116",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.115"
+      },
+      {
+        "PLPR_KLARTEXT": "Absetzung von der TO",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1004",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -95,6 +103,16 @@
         "FUNDSTELLE": "23.04.2021 - BR-Drucksache 223/1/21",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0223-1-21.pdf",
         "VP_ABSTRAKT": "R, In: Ablehnung - FJ, FS: Annahme"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Absetzung von der TO",
+        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 34",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Absetzung von TO",
+          "BEZUGSDOKUMENT": "223/21"
+        }
       }
     ]
   }

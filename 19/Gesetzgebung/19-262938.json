@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz über die Grundsätze zur Ablösung der Staatsleistungen an Religionsgesellschaften \r\n(Staatsleistungsablösungsgesetz - StAblG)",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "B089",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/19649)",
@@ -23,13 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929351.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/186",
-      "PLPR_SEITEN": "23425A - 23427B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23425"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/186",
+        "PLPR_SEITEN": "23425A - 23427B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19186.pdf#P.23425"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/227",
+        "PLPR_SEITEN": "29003A - 29010D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29003"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Staat und Verwaltung",
@@ -149,6 +158,12 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 29003A - 29010D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29003"
       }
     ]
   }

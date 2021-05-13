@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "... Gesetz zur Änderung des Direktzahlungen-Durchführungsgesetzes (Einführung einer Weidetierprämie)",
     "INITIATIVE": "Niedersachsen",
-    "AKTUELLER_STAND": "Dem Bundesrat zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Den Ausschüssen zugewiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "F040",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzesantrag(Drs 316/21)",
@@ -14,6 +14,12 @@
       "DRS_NUMMER": "316/21",
       "DRS_TYP": "Gesetzesantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0316-21.pdf"
+    },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "BR-Sitzung",
+      "PLPR_HERAUSGEBER": "BR",
+      "PLPR_NUMMER": "1004",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf"
     },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
@@ -41,11 +47,23 @@
     "ABSTRAKT": "Bundeseinheitliche Einführung einer gekoppelten Stützung für Weidetierhaltung von Schafen und Ziegen (30 Euro je beihilfefähigem Mutterschaf / Mutterziege); \r\nEinfügung § 20a Direktzahlungen-Durchführungsgesetz"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BR",
-      "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen ",
-      "FUNDSTELLE": "20.04.2021 - BR-Drucksache 316/21",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0316-21.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Gesetzesantrag,  Urheber : Niedersachsen ",
+        "FUNDSTELLE": "20.04.2021 - BR-Drucksache 316/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0316-21.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "BR-Sitzung",
+        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 28",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "Ausschusszuweisung",
+          "BEZUGSDOKUMENT": "316/21"
+        }
+      }
+    ]
   }
 }

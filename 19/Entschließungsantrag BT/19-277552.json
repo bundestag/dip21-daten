@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Entschließungsantrag BT",
     "TITEL": "Entschließungsantrag zum Fünften Gesetz zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften\r\n",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,31 +14,122 @@
       "DRS_TYP": "Entschließungsantrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929317.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/226",
+      "PLPR_SEITEN": "28812C - 28818D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28812"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": "Wirtschaft",
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fünftes Gesetz zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften"
+      },
+      "Gesetzgebung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Handwerksrecht"
+      },
+      "Übergangsgesetz aus Anlaß des Zweiten Gesetzes zur Änderung der Handwerksordnung und anderer handwerksrechtlicher Vorschriften"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "05.05.2021 - BT-Drucksache 19/29317",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929317.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Tino",
-          "NACHNAME": "Chrupalla",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
-        },
-        {
-          "VORNAME": "Steffen",
-          "NACHNAME": "Kotre",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Entschließungsantrag"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag auf Entschließung,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "05.05.2021 - BT-Drucksache 19/29317",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929317.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Tino",
+            "NACHNAME": "Chrupalla",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          },
+          {
+            "VORNAME": "Steffen",
+            "NACHNAME": "Kotre",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Entschließungsantrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.05.2021 - BT-Plenarprotokoll 19/226, S. 28812C - 28818D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28812",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Astrid",
+            "NACHNAME": "Grotelüschen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28812D"
+          },
+          {
+            "VORNAME": "Hansjörg",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28813D"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Poschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28814C"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Todtenhausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28815C"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Lutze",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28816B"
+          },
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28816D"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Koeppen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28817C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28818C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/29317"
         }
-      ]
-    }
+      }
+    ]
   }
 }

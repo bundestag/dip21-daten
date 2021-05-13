@@ -14,6 +14,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/290/1929090.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/227",
+      "PLPR_SEITEN": "28948B - 28951C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Arbeit und Beschäftigung",
@@ -51,11 +58,36 @@
     "ABSTRAKT": "Nachwuchsqualifizierung und methodische Anmerkungen: Ausgaben für Forschung und Entwicklung, Nachwuchsförderung, Themenfelder, Begriffe und Konzepte; Monitoringergebnisse: Daten zur zahlenmäßigen Entwicklung verschiedener Gruppen, Arbeits- und Beschäftigungsbedingungen, Qualifizierungs- und Rahmenbedingungen der Promotion, Übergang zur Promotion und Professur, Personalstrukturentwicklung und Personalentwicklung, Vereinbarkeit von Familie und akademischer Karriere, Internationalität und internationale Mobilität, Fachkulturen und wissenschaftliche Karrieren; Karriereverläufe Promovierter, aktuelle Entwicklungen und Weiterentwicklung der Datenlage"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
-      "FUNDSTELLE": "27.04.2021 - BT-Drucksache 19/29090",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/290/1929090.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "27.04.2021 - BT-Drucksache 19/29090",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/290/1929090.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 28948B - 28951C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28951C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/29090"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Sportausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

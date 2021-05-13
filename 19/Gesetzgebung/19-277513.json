@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes  - EEG-Sofortmaßnahmegesetz (EEGSofMG2021)",
     "INITIATIVE": "Fraktion BÜNDNIS 90/DIE GRÜNEN",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E071",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 19/29288)",
@@ -15,32 +15,215 @@
       "DRS_TYP": "Gesetzentwurf",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929288.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "1. Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/228",
+      "PLPR_SEITEN": "29169C - 29187C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19228.pdf#P.29169"
+    },
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Umwelt",
+      "Energie"
+    ],
+    "SCHLAGWORT": [
+      "Elektrizitätserzeugung",
+      "Erneuerbare Energie",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Erneuerbare-Energien-Gesetz"
+      }
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
-      "FUNDSTELLE": "04.05.2021 - BT-Drucksache 19/29288",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929288.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Oliver",
-          "NACHNAME": "Krischer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Gesetzentwurf,  Urheber : Fraktion BÜNDNIS 90/DIE GRÜNEN ",
+        "FUNDSTELLE": "04.05.2021 - BT-Drucksache 19/29288",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929288.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Julia",
+            "NACHNAME": "Verlinden",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Gesetzentwurf"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "07.05.2021 - BT-Plenarprotokoll 19/228, S. 29169C - 29187C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19228.pdf#P.29169",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Annalena",
+            "NACHNAME": "Baerbock",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29169D"
+          },
+          {
+            "VORNAME": "Stephan",
+            "NACHNAME": "Stracke",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29171A"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29172A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Matthias",
+            "NACHNAME": "Miersch",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29173A"
+          },
+          {
+            "VORNAME": "Oliver",
+            "NACHNAME": "Krischer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Zwischenfrage",
+            "SEITE": "29173D"
+          },
+          {
+            "VORNAME": "Karsten",
+            "NACHNAME": "Hilse",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Erklärung zur Aussprache gem. § 30 Geschäftsordnung BT",
+            "SEITE": "29175D"
+          },
+          {
+            "PERSON_TITEL": "Dr. ",
+            "VORNAME": "Lukas",
+            "NACHNAME": "Köhler",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29176A"
+          },
+          {
+            "VORNAME": "Lorenz Gösta",
+            "NACHNAME": "Beutin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29177D"
+          },
+          {
+            "VORNAME": "Andreas",
+            "NACHNAME": "Jung",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29179A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Rainer",
+            "NACHNAME": "Kraft",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29180A"
+          },
+          {
+            "VORNAME": "Svenja",
+            "NACHNAME": "Schulze",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29180D"
+          },
+          {
+            "VORNAME": "Jürgen",
+            "NACHNAME": "Trittin",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Kurzintervention",
+            "SEITE": "29182B"
+          },
+          {
+            "VORNAME": "Svenja",
+            "NACHNAME": "Schulze",
+            "FUNKTION": "Bundesmin.",
+            "RESSORT": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+            "AKTIVITAETSART": "Erwiderung",
+            "SEITE": "29183A"
+          },
+          {
+            "VORNAME": "Marie-Luise",
+            "NACHNAME": "Dött",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29183B"
+          },
+          {
+            "VORNAME": "Klaus",
+            "NACHNAME": "Mindrup",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29184C"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Anja",
+            "NACHNAME": "Weisgerber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29185B"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Koeppen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29186B"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29187C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/29288"
         },
-        {
-          "PERSON_TITEL": "Dr.",
-          "VORNAME": "Julia",
-          "NACHNAME": "Verlinden",
-          "FUNKTION": "MdB",
-          "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
-          "AKTIVITAETSART": "Gesetzentwurf"
-        }
-      ]
-    }
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Umwelt, Naturschutz und nukleare Sicherheit"
+          }
+        ]
+      }
+    ]
   }
 }

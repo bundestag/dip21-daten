@@ -8,15 +8,23 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/28783",
-      "DRS_TYP": "Antrag",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928783.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28783",
+        "DRS_TYP": "Antrag",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/287/1928783.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29472",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/294/1929472.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Gesundheit",
@@ -31,6 +39,7 @@
       "Europäische Union",
       "Forschung",
       "Gesundheitsberatung",
+      "Gesundheitsschutz",
       "Grenzwert",
       "Lebensmittelrecht",
       "Lebensmittelzusatzstoff",
@@ -41,10 +50,7 @@
       },
       "Richtlinie der EU",
       "Verbraucherinformation",
-      {
-        "_fundstelle": "true",
-        "__cdata": "Verbraucherschutz"
-      },
+      "Verbraucherschutz",
       "Vitamin"
     ],
     "ABSTRAKT": "Einsatz auf EU-Ebene: Festlegung EU-weiter Höchstmengenregelungen für Vitamine und Mineralstoffe in Nahrungsergänzungsmitteln und angereicherten Lebensmitteln, EU-weit einheitliche Behandlung von Stoffen mit ernährungsbezogener oder physiologischer Wirkung (insb. Pflanzen und Pflanzenteile), wirksame Kontrollstrategien betr. der Vermarktung von Nahrungsergänzungsmitteln im Internet; Maßnahmen auf nationaler Ebene: Einbringung von Risikobewertungen des BfR in die EU-Beratungen zu Regelungen für Höchstmengen von Vitaminen und Mineralstoffen, Einrichtung einer öffentlich zugänglichen Datenbank mit Informationen zur Einstufung von Pflanzen und Pilzen, Intensivierung der Aufklärung durch das Bundeszentrum für Ernährung, Stärkung der Forschung im Bereich Nährstoffversorgung und Nahrungsergänzungsmittel, Berücksichtigung der Ernährungskompetenz im Rahmen der Aus- und Weiterbildung von medizinischen und pflegerischem Personal"
@@ -88,6 +94,57 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Wirtschaft und Energie"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Ernährung und Landwirtschaft ",
+        "FUNDSTELLE": "07.05.2021 - BT-Drucksache 19/29472",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/294/1929472.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Nicole",
+            "NACHNAME": "Bauer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Harald",
+            "NACHNAME": "Ebner",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Franziska",
+            "NACHNAME": "Gminder",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Amira",
+            "NACHNAME": "Mohamed Ali",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ingrid",
+            "NACHNAME": "Pahlmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Berichterstattung"
+          },
+          {
+            "VORNAME": "Ursula",
+            "NACHNAME": "Schulte",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Berichterstattung"
+          }
+        ],
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage"
       }
     ]
   }

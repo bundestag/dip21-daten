@@ -5,47 +5,73 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bericht des Bundesrechnungshofes zur Bezahlbarkeit von Elektrizität",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/28960",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928960.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28960",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928960.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29460",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Energie",
     "SCHLAGWORT": [
       "Bericht",
-      "Bundesrechnungshof",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesrechnungshof"
+      },
       "Elektrizität",
-      "Elektrizitätswirtschaft"
+      "Elektrizitätswirtschaft",
+      "Energiewende",
+      "Energiewirtschaftsgesetz",
+      "Erneuerbare Energie",
+      "Niedrigeinkommen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Strompreis"
+      },
+      "Wettbewerb"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "(insgesamt 12 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/28960",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928960.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Sandra",
-          "NACHNAME": "Weeser",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Michael",
-          "NACHNAME": "Theurer",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/28960",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928960.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Sandra",
+            "NACHNAME": "Weeser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Michael",
+            "NACHNAME": "Theurer",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Wirtschaft und Energie (federführend)",
+        "FUNDSTELLE": "07.05.2021 - BT-Drucksache 19/29460"
+      }
+    ]
   }
 }

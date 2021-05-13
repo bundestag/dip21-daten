@@ -14,6 +14,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928940.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/227",
+      "PLPR_SEITEN": "28948B - 28951C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": "Bildung und Erziehung",
     "SCHLAGWORT": [
@@ -43,11 +50,39 @@
     "ABSTRAKT": "Ausgangslage, Einordnung auf (inter-)nationaler Ebene: UNESCO-Weltaktionsprogramm Bildung für nachhaltige Entwicklung und Nachfolgeprogramm \"Education for Sustainable Development: Towards achieving the SDGs&ldquo;, Strukturenschaffung betr. Bildung für nachhaltige Entwicklung; Aktivitäten der Bundesregierung, Länder, Kommunen und gesellschaftlicher Akteure: frühkindliche Bildung, Schule, berufliche Bildung, Hochschule, non-formales und informelles Lernen und Jugend sowie Kommunen; Ausblick"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
-      "FUNDSTELLE": "22.04.2021 - BT-Drucksache 19/28940\nAnl. Grafiken",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928940.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "22.04.2021 - BT-Drucksache 19/28940\nAnl. Grafiken",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928940.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 28948B - 28951C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28948",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28951C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/28940"
+        },
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss Digitale Agenda"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Sportausschuss"
+          }
+        ]
+      }
+    ]
   }
 }

@@ -5,12 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur begleitenden Ausführung der Verordnung (EU) 2020/1503 und der Umsetzung der Richtlinie EU 2020/1504 zur Regelung von Schwarmfinanzierungsdienstleistern (Schwarmfinanzierung-Begleitgesetz) und anderer europarechtlicher Finanzmarktvorschriften",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "D097",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": [
       "Nein, laut Gesetzentwurf(Drs 135/21 (bes.eilbed.))",
-      "Ja, laut Bundesrat(Drucksache 135/21 (Beschluss))"
+      "Ja, laut Bundesrat(Drucksache 135/21 (Beschluss))",
+      "Nein, laut Bundestag(Drs 19/29352)"
     ],
     "WICHTIGE_DRUCKSACHE": [
       {
@@ -46,6 +47,20 @@
         "PLPR_NUMMER": "19/219",
         "PLPR_SEITEN": "27798A - 27804D",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19219.pdf#P.27798"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/227",
+        "PLPR_SEITEN": "29047D - 29054A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29047"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/227",
+        "PLPR_SEITEN": "29053C - 29053D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29053"
       }
     ],
     "EU_DOK_NR": "",
@@ -54,17 +69,20 @@
       "Anlegerschutz",
       "Aufsichtsbehörde",
       "Börsengesetz",
+      "Bürgerliches Gesetzbuch",
       "Crowdinvesting",
       "Finanzdienstleistung",
       "Finanzdienstleistungsaufsicht",
       "Finanzdienstleistungsaufsichtsgesetz",
       "Finanzinstrument",
       "Finanzmarkt",
+      "Gewerbeordnung",
       "Innerstaatliche Umsetzung von EU-Recht",
       "Kapitalanlage",
       "Kapitalanlagegesetzbuch",
       "Kreditwesengesetz",
       "Private Altersversorgung",
+      "Prüfungsberichtsverordnung",
       "Regulierung",
       "Richtlinie der EU",
       "Sanierungs- und Abwicklungsgesetz",
@@ -80,7 +98,7 @@
       "Wertpapierprospektgesetz",
       "WpÜG-Gebührenverordnung"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses:  Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -274,6 +292,36 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 29047D - 29054A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29047"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "06.05.2021 - BT-Plenarprotokoll 19/227, S. 29053C - 29053D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.29053"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "07.05.2021 - BR-Drucksache 355/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0355-21.pdf",
+        "ZUWEISUNG": [
+          {
+            "AUSSCHUSS_KLARTEXT": "Finanzausschuss",
+            "FEDERFUEHRUNG": "federf&uuml;hrend"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Ausschuss für Agrarpolitik und Verbraucherschutz"
+          },
+          {
+            "AUSSCHUSS_KLARTEXT": "Wirtschaftsausschuss"
+          }
+        ]
       }
     ]
   }

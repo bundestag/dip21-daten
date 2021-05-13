@@ -23,13 +23,21 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/286/1928680.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/224",
-      "PLPR_SEITEN": "28470D - 28474A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28470"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/224",
+        "PLPR_SEITEN": "28470D - 28474A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19224.pdf#P.28470"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1004",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -59,7 +67,7 @@
       "Patentrecht",
       "Zuständigkeit"
     ],
-    "ABSTRAKT": "Erweiterung der Öffentlichkeitsarbeit des DPMA: Information der mittelständischen Wirtschaft und der Öffentlichkeit insgesamt über Rechte des geistigen Eigentums sowie über die Wahrnehmung und Durchsetzung dieser Rechte, Stärkung europäischer und internationaler Zusammenarbeit mit entsprechenden Stellen; Maßnahmen zur Verfahrensbeschleunigung vor dem Bundespatentgericht, Anpassung gesetzlicher Gebühren für den Patentschutz; \r\nEinfügung § 26a Patentgesetz, Änderung § 5 Patentkostengesetz \r\n "
+    "ABSTRAKT": "Erweiterung der Öffentlichkeitsarbeit des DPMA: Information der mittelständischen Wirtschaft und der Öffentlichkeit insgesamt über Rechte des geistigen Eigentums sowie über die Wahrnehmung und Durchsetzung dieser Rechte, Stärkung europäischer und internationaler Zusammenarbeit mit entsprechenden Stellen; Maßnahmen zur Verfahrensbeschleunigung vor dem Bundespatentgericht, Anpassung gesetzlicher Gebühren für den Patentschutz; \r\nEinfügung § 26a Patentgesetz, Änderung § 5 Patentkostengesetz"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -101,6 +109,28 @@
           "AUSSCHUSS_KLARTEXT": "Ausschuss für Recht und Verbraucherschutz",
           "FEDERFUEHRUNG": "federf&uuml;hrend"
         }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "1. Durchgang",
+        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 52",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf",
+        "BESCHLUSS": {
+          "BESCHLUSSTENOR": "keine Einwendungen",
+          "BEZUGSDOKUMENT": "252/21"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Beschlussdrucksache ",
+        "FUNDSTELLE": "07.05.2021 - BR-Drucksache 252/21(B)",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0252-21B.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung über Stellungnahme des BR,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "11.05.2021 - BT-Drucksache 19/29562",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929562.pdf"
       }
     ]
   }

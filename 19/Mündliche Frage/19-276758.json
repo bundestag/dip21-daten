@@ -7,13 +7,22 @@
     "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/223",
-      "PLPR_SEITEN": "28381B",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19223.pdf#P.28381"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Mündliche Frage/Schriftliche Antwort",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/223",
+        "PLPR_SEITEN": "28381B",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19223.pdf#P.28381"
+      },
+      {
+        "PLPR_KLARTEXT": "Ergänzende Antwort",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/226",
+        "PLPR_SEITEN": "28837C - 28838A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28837"
+      }
+    ],
     "EU_DOK_NR": "",
     "SCHLAGWORT": [
       "Bank",
@@ -62,6 +71,12 @@
             "SEITE": "28381B"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Ergänzende Antwort",
+        "FUNDSTELLE": "05.05.2021 - BT-Plenarprotokoll 19/226, S. 28837C - 28838A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28837"
       }
     ]
   }

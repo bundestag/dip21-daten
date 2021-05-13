@@ -5,41 +5,71 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Förderung für Forschung und Entwicklung von Therapeutika gegen SARS-CoV-2",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/28958",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928958.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/28958",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928958.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29492",
+        "DRS_TYP": "Antwort"
+      }
+    ],
     "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Gesundheit",
+      "Wissenschaft, Forschung und Technologie"
+    ],
+    "SCHLAGWORT": [
+      "Arzneimittel",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Arzneimittelforschung"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "COVID-19"
+      },
+      "Virusforschung"
+    ],
     "ABSTRAKT": ""
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/28958",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928958.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Mario",
-          "NACHNAME": "Brandenburg",
-          "WAHLKREISZUSATZ": "Südpfalz",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/28958",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/289/1928958.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Mario",
+            "NACHNAME": "Brandenburg",
+            "WAHLKREISZUSATZ": "Südpfalz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium für Bildung und Forschung (federführend)",
+        "FUNDSTELLE": "10.05.2021 - BT-Drucksache 19/29492"
+      }
+    ]
   }
 }

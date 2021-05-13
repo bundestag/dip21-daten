@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Prüfung und Überarbeitung des Gesetzes zur Umsetzung der Verbraucherrechterichtlinie und zur Änderung des Gesetzes zur Regelung der Wohnungsvermittlung bezüglich des Handwerkerwiderrufs",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/070/1907086.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/15",
-      "PLPR_SEITEN": "1251B - 1260D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19015.pdf#P.1251"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/15",
+        "PLPR_SEITEN": "1251B - 1260D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19015.pdf#P.1251"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/226",
+        "PLPR_SEITEN": "28812C - 28818D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28812"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -213,6 +222,75 @@
           }
         ],
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "05.05.2021 - BT-Plenarprotokoll 19/226, S. 28812C - 28818D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19226.pdf#P.28812",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Astrid",
+            "NACHNAME": "Grotelüschen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28812D"
+          },
+          {
+            "VORNAME": "Hansjörg",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28813D"
+          },
+          {
+            "VORNAME": "Sabine",
+            "NACHNAME": "Poschmann",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28814C"
+          },
+          {
+            "VORNAME": "Manfred",
+            "NACHNAME": "Todtenhausen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28815C"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Lutze",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28816B"
+          },
+          {
+            "VORNAME": "Claudia",
+            "NACHNAME": "Müller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28816D"
+          },
+          {
+            "VORNAME": "Jens",
+            "NACHNAME": "Koeppen",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "28817C"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "28818C",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/828"
+        }
       }
     ]
   }
