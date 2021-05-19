@@ -8,21 +8,56 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/29250",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929250.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "365/21",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0365-21.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29250",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929250.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": "Verkehr",
+    "SCHLAGWORT": [
+      "Bericht der Bundesregierung",
+      "Fahrrad",
+      "Innovation",
+      "Kommunikation",
+      "Ländlicher Raum",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Nationaler Radverkehrsplan"
+      },
+      "Radfahrer",
+      "Radverkehr",
+      "Stadtverkehr",
+      "Verkehrsinfrastruktur",
+      "Verkehrsinvestition",
+      "Verkehrsplanung",
+      "Verkehrssicherheit"
+    ],
+    "ABSTRAKT": "Ausgangssituation, Leitziele und Säulen der Radverkehrsförderung: Politik, Infrastruktur, Mensch, Wirtschaft; Aktionsfelder: Stadt und Land, Innovation und Digitalisierung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-      "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/29250",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929250.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "23.04.2021 - BR-Drucksache 365/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0365-21.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "23.04.2021 - BT-Drucksache 19/29250",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/292/1929250.pdf"
+      }
+    ]
   }
 }

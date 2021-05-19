@@ -8,21 +8,57 @@
     "AKTUELLER_STAND": "",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/29575",
-      "DRS_TYP": "Unterrichtung",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929575.pdf"
-    },
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29575",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929575.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BR",
+        "DRS_NUMMER": "370/21",
+        "DRS_TYP": "Unterrichtung",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0370-21.pdf"
+      }
+    ],
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Gesellschaftspolitik, soziale Gruppen",
+      "Verkehr"
+    ],
+    "SCHLAGWORT": [
+      {
+        "_fundstelle": "true",
+        "__cdata": "Barrierefreiheit"
+      },
+      "Bericht der Bundesregierung",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Fernbusverkehr"
+      },
+      "Genehmigung",
+      "Krankenfahrstuhl",
+      "Omnibus",
+      "Rechtsangleichung in der EU",
+      "Wirtschaftskommission der Vereinten Nationen für Europa"
+    ],
+    "ABSTRAKT": "Vorlage des Schlussberichtes und eines Handbuches zur Barrierefreiheit in Fernlinienbussen, Änderung der Regelung über einheitliche Bestimmungen für die Genehmigung von Fahrzeugen der Klassen M2 und M3 der Wirtschaftskommission für Europa durch Teilübernahme eines Vorschlages des Bundesverkehrsministeriums, Untersuchung zur Beförderung von Rollstühlen mit großer Masse"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
-      "FUNDSTELLE": "22.04.2021 - BT-Drucksache 19/29575",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929575.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium für Verkehr und digitale Infrastruktur (federführend)",
+        "FUNDSTELLE": "22.04.2021 - BT-Drucksache 19/29575",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929575.pdf"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung ",
+        "FUNDSTELLE": "23.04.2021 - BR-Drucksache 370/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0370-21.pdf"
+      }
+    ]
   }
 }

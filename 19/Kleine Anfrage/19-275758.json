@@ -23,12 +23,23 @@
       }
     ],
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Verteidigung",
+    "SACHGEBIET": [
+      "Verteidigung",
+      "Sport, Freizeit und Tourismus"
+    ],
     "SCHLAGWORT": [
+      "Baumaßnahme",
       "Bundeswehr",
+      "COVID-19",
       "Kaserne",
-      "Militärische Infrastruktur",
-      "Sporthalle",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Militärische Infrastruktur"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Sporthalle"
+      },
       "Sportstätte"
     ],
     "ABSTRAKT": "(insgesamt 11 Einzelfragen)"
