@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zu dem Übereinkommen vom 27. Januar 2021 zur Änderung des Übereinkommens vom 21. Mai 2014 über die Übertragung von Beiträgen auf den Einheitlichen Abwicklungsfonds und über die gemeinsame Nutzung dieser Beiträge",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "XD016",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 221/21)",
@@ -23,12 +23,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929566.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Durchgang",
-      "PLPR_HERAUSGEBER": "BR",
-      "PLPR_NUMMER": "1004",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Durchgang",
+        "PLPR_HERAUSGEBER": "BR",
+        "PLPR_NUMMER": "1004",
+        "PLPR_SEITEN": "176 - 176",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf#P.176"
+      },
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29401B - 29409D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29401"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Wirtschaft",
@@ -65,11 +75,12 @@
       {
         "ZUORDNUNG": "BR",
         "URHEBER": "1. Durchgang",
-        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 60",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf",
+        "FUNDSTELLE": "07.05.2021 - BR-Plenarprotokoll 1004, TOP 60, S. 176 - 176",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1004.pdf#P.176",
         "BESCHLUSS": {
           "BESCHLUSSTENOR": "keine Einwendungen",
-          "BEZUGSDOKUMENT": "221/21"
+          "BEZUGSDOKUMENT": "221/21",
+          "GRUNDLAGE": "Art. 76 Abs. 2 GG"
         }
       },
       {
@@ -83,6 +94,12 @@
         "URHEBER": "Gesetzentwurf,  Urheber : Bundesregierung, Bundesministerium der Finanzen (federführend)",
         "FUNDSTELLE": "11.05.2021 - BT-Drucksache 19/29566",
         "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929566.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "1. Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29401B - 29409D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29401"
       }
     ]
   }

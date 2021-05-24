@@ -5,10 +5,13 @@
     "VORGANGSTYP": "Gesetzgebung",
     "TITEL": "Gesetz zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Überwiesen",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "E062",
-    "ZUSTIMMUNGSBEDUERFTIGKEIT": "Nein, laut Gesetzentwurf(Drs 163/21 (bes.eilbed.))",
+    "ZUSTIMMUNGSBEDUERFTIGKEIT": [
+      "Nein, laut Gesetzentwurf(Drs 163/21 (bes.eilbed.))",
+      "Ja, laut Bundestag(Drs 19/29839)"
+    ],
     "WICHTIGE_DRUCKSACHE": [
       {
         "DRS_HERAUSGEBER": "BR",
@@ -21,6 +24,12 @@
         "DRS_NUMMER": "19/27441",
         "DRS_TYP": "Gesetzentwurf",
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/274/1927441.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29839",
+        "DRS_TYP": "Beschlussempfehlung und Bericht",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929839.pdf"
       }
     ],
     "PLENUM": [
@@ -37,6 +46,20 @@
         "PLPR_NUMMER": "1002",
         "PLPR_SEITEN": "128 - 128",
         "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/brp/1002.pdf#P.128"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29431C - 29438D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29431"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29438C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29438"
       }
     ],
     "EU_DOK_NR": "",
@@ -45,8 +68,13 @@
       "Medien, Kommunikation und Informationstechnik"
     ],
     "SCHLAGWORT": [
+      "BND-Gesetz",
       "Brief-, Post- und Fernmeldegeheimnis",
+      "BSI-Gesetz",
       "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit",
+      "Bundeskriminalamtgesetz",
+      "Bundespolizeigesetz",
+      "Bundesverfassungsschutzgesetz",
       "Cookie",
       {
         "_fundstelle": "true",
@@ -58,6 +86,7 @@
         "__cdata": "Gesetz zur Regelung des Datenschutzes und des Schutzes der Privatsphäre in der Telekommunikation und bei Telemedien"
       },
       "Innerstaatliche Umsetzung von EU-Recht",
+      "MAD-Gesetz",
       {
         "_fundstelle": "true",
         "__cdata": "Online-Dienst"
@@ -68,8 +97,10 @@
         "__cdata": "Privatsphäre"
       },
       "Richtlinie der EU",
+      "Schwarzarbeitsbekämpfungsgesetz",
       "Sozialgesetzbuch V",
       "Strafprozessordnung",
+      "Telekommunikationsgesetz",
       {
         "_fundstelle": "true",
         "__cdata": "Telekommunikationsrecht"
@@ -78,9 +109,10 @@
         "_fundstelle": "true",
         "__cdata": "Telekommunikation-Telemedien-Datenschutz-Gesetz"
       },
-      "Telemediengesetz"
+      "Telemediengesetz",
+      "Zollfahndungsdienstgesetz"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses:  Änderungen"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -277,6 +309,32 @@
           }
         ],
         "VP_ABSTRAKT": "Nachträgliche Überweisung der Stellungnahme BR und Gegenäußerung der BRg gem. § 80 Abs. 3 Geschäftsordnung BT"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung und Bericht,  Urheber : Ausschuss für Wirtschaft und Energie ",
+        "FUNDSTELLE": "19.05.2021 - BT-Drucksache 19/29839",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929839.pdf",
+        "PERSOENLICHER_URHEBER": {
+          "VORNAME": "Enrico",
+          "NACHNAME": "Komning",
+          "FUNKTION": "MdB",
+          "FRAKTION": "AfD",
+          "AKTIVITAETSART": "Berichterstattung"
+        },
+        "VP_ABSTRAKT": "Empfehlung: Annahme der Vorlage in Ausschussfassung"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29431C - 29438D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29431"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29438C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29438"
       }
     ]
   }

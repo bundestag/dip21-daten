@@ -14,6 +14,13 @@
       "DRS_TYP": "Unterrichtung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920770.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/230",
+      "PLPR_SEITEN": "29462A - 29466C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29462"
+    },
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Kultur",
@@ -50,11 +57,19 @@
     "ABSTRAKT": "Aktuelle Lage der Baukultur in Deutschland, Entwicklung und aktuelle Herausforderungen für öffentliche Räume, Baukultur für öffentliche Räume: Städtebau und Freiraum, Gestaltung von Infrastrukturen, Demokratie und Prozesskultur; Handlungsempfehlungen"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
-      "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20770\nAnl. Quellen und Literatur, Kommunalumfrage, Bevölkerungsbefragung, IHK-Umfrage",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920770.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Unterrichtung,  Urheber : Bundesregierung, Bundesministerium des Innern, für Bau und Heimat (federführend)",
+        "FUNDSTELLE": "26.06.2020 - BT-Drucksache 19/20770\nAnl. Quellen und Literatur, Kommunalumfrage, Bevölkerungsbefragung, IHK-Umfrage",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/207/1920770.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29462A - 29466C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29462"
+      }
+    ]
   }
 }

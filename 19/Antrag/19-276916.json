@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der Militärmission der Europäischen Union EUTM Mali",
     "INITIATIVE": "Bundesregierung",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Angenommen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/294/1929433.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/225",
-      "PLPR_SEITEN": "28724C - 28731C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28724"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/225",
+        "PLPR_SEITEN": "28724C - 28731C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19225.pdf#P.28724"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/229",
+        "PLPR_SEITEN": "29324D - 29344A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19229.pdf#P.29324"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Verteidigung",
@@ -281,6 +290,88 @@
             "AKTIVITAETSART": "Berichterstattung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "19.05.2021 - BT-Plenarprotokoll 19/229, S. 29324D - 29344A",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19229.pdf#P.29324",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Christoph",
+            "NACHNAME": "Matschie",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29325A"
+          },
+          {
+            "VORNAME": "Gerold",
+            "NACHNAME": "Otten",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29326A"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Johann David",
+            "NACHNAME": "Wadephul",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29326D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Marcus",
+            "NACHNAME": "Faber",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29328A"
+          },
+          {
+            "VORNAME": "Christine",
+            "NACHNAME": "Buchholz",
+            "FUNKTION": "MdB",
+            "FRAKTION": "DIE LINKE",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29328D"
+          },
+          {
+            "PERSON_TITEL": "Dr.",
+            "VORNAME": "Frithjof",
+            "NACHNAME": "Schmidt",
+            "FUNKTION": "MdB",
+            "FRAKTION": "BÜNDNIS 90/DIE GRÜNEN",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29329B"
+          },
+          {
+            "VORNAME": "Siemtje",
+            "NACHNAME": "Möller",
+            "FUNKTION": "MdB",
+            "FRAKTION": "SPD",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29330B"
+          },
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Erndl",
+            "FUNKTION": "MdB",
+            "FRAKTION": "CDU/CSU",
+            "AKTIVITAETSART": "Rede",
+            "SEITE": "29331A"
+          }
+        ],
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29341B",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/28804",
+          "ABSTIMMUNGSART": "Namentliche Abstimmung",
+          "ABSTIMMUNG_BEMERKUNG": "433:148:56"
+        }
       }
     ]
   }
