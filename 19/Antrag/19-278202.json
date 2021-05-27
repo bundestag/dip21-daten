@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Belegausgabepflicht abschaffen - Umwelt, Händler und Handwerk entlasten",
     "INITIATIVE": "Fraktion der AfD",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Überwiesen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,31 +14,63 @@
       "DRS_TYP": "Antrag",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/297/1929787.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/230",
+      "PLPR_SEITEN": "29591D - 29593C",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29591"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SACHGEBIET": [
+      "Wirtschaft",
+      "Öffentliche Finanzen, Steuern und Abgaben"
+    ],
+    "SCHLAGWORT": [
+      "Besteuerungsverfahren",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Buchführung"
+      },
+      "Datenspeicherung",
+      "Gesetz zum Schutz vor Manipulationen an digitalen Grundaufzeichnungen",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Zahlungsverkehr"
+      }
+    ],
+    "ABSTRAKT": "Verzicht auf die Belegausgabepflicht im Gesetz zum Schutz vor Manipulation an digitalen Grundaufzeichnungen bei Einhaltung der übrigen gesetzlichen Kriterien und Gewährleistung der Besteuerung"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
-      "FUNDSTELLE": "19.05.2021 - BT-Drucksache 19/29787",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/297/1929787.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Stefan",
-          "NACHNAME": "Keuter",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        },
-        {
-          "VORNAME": "Albrecht",
-          "NACHNAME": "Glaser",
-          "FUNKTION": "MdB",
-          "FRAKTION": "AfD",
-          "AKTIVITAETSART": "Antrag"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antrag,  Urheber : Fraktion der AfD ",
+        "FUNDSTELLE": "19.05.2021 - BT-Drucksache 19/29787",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/297/1929787.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Stefan",
+            "NACHNAME": "Keuter",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          },
+          {
+            "VORNAME": "Albrecht",
+            "NACHNAME": "Glaser",
+            "FUNKTION": "MdB",
+            "FRAKTION": "AfD",
+            "AKTIVITAETSART": "Antrag"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29591D - 29593C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29591"
+      }
+    ]
   }
 }

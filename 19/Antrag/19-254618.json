@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Antrag",
     "TITEL": "Kapitalinteressen in der Gesundheitsversorgung offenlegen",
     "INITIATIVE": "Fraktion DIE LINKE",
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Abgelehnt",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": [
@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929373.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/125",
-      "PLPR_SEITEN": "15659A - 15667A",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19125.pdf#P.15659"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/125",
+        "PLPR_SEITEN": "15659A - 15667A",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19125.pdf#P.15659"
+      },
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29473C - 29473D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29473"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -178,6 +187,17 @@
           "AKTIVITAETSART": "Berichterstattung"
         },
         "VP_ABSTRAKT": "Empfehlung: Ablehnung der Vorlage"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29473C - 29473D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29473",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29473D",
+          "BESCHLUSSTENOR": "Ablehnung der Vorlage",
+          "BEZUGSDOKUMENT": "19/14372"
+        }
       }
     ]
   }

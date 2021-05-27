@@ -5,7 +5,7 @@
     "VORGANGSTYP": "Verfahren vor dem Bundesverfassungsgericht",
     "TITEL": "Beschlussempfehlung des Ausschusses für Recht und Verbraucherschutz (6. Ausschuss) zu dem Streitverfahren vor dem Bundesverfassungsgericht 1 BvR 2354/13",
     "INITIATIVE": "Ausschuss für Recht und Verbraucherschutz",
-    "AKTUELLER_STAND": "Noch nicht beraten",
+    "AKTUELLER_STAND": "Abgeschlossen",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
     "WICHTIGE_DRUCKSACHE": {
@@ -14,15 +14,54 @@
       "DRS_TYP": "Beschlussempfehlung",
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929883.pdf"
     },
+    "PLENUM": {
+      "PLPR_KLARTEXT": "Beratung",
+      "PLPR_HERAUSGEBER": "BT",
+      "PLPR_NUMMER": "19/230",
+      "PLPR_SEITEN": "29475C - 29475D",
+      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29475"
+    },
     "EU_DOK_NR": "",
-    "ABSTRAKT": ""
+    "SCHLAGWORT": [
+      "Bundesamt für Verfassungsschutz",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesverfassungsgericht"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesverfassungsschutzgesetz"
+      },
+      "Datenaustausch",
+      "Gerichtsverfahren",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Informationsaustausch"
+      },
+      "Kriminalpolizei",
+      "Strafverfolgung"
+    ],
+    "ABSTRAKT": "Abweichend von BT-Drs 18/2921 Abgabe einer Stellungnahme zur Verfassungsbeschwerde gegen Übermittlungsvorschriften im Bundesverfassungsschutzgesetz (Zulässigkeit der Übermittlung von Informationen des BfV an Strafverfolgungsbehörden)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
-      "FUNDSTELLE": "19.05.2021 - BT-Drucksache 19/29883",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929883.pdf"
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beschlussempfehlung,  Urheber : Ausschuss für Recht und Verbraucherschutz ",
+        "FUNDSTELLE": "19.05.2021 - BT-Drucksache 19/29883",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929883.pdf"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29475C - 29475D",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29475",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29475D",
+          "BESCHLUSSTENOR": "Annahme der Vorlage",
+          "BEZUGSDOKUMENT": "19/29883"
+        }
+      }
+    ]
   }
 }

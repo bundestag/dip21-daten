@@ -15,19 +15,29 @@
       "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/293/1929314.pdf"
     },
     "EU_DOK_NR": "",
-    "SACHGEBIET": "Landwirtschaft und Ernährung",
+    "SACHGEBIET": [
+      "Europapolitik und Europäische Union",
+      "Landwirtschaft und Ernährung"
+    ],
     "SCHLAGWORT": [
       "Agrarmarkt",
       "Agrarmarktstrukturgesetz",
+      "Ernährungswirtschaft",
       "Erzeugergemeinschaft",
+      "Gemeinschaftsaufgabe Verbesserung der Agrarstruktur und des Küstenschutzes",
       "Landwirtschaftliche Direktvermarktung",
-      "Milch",
+      "Landwirtschaftliche Genossenschaft",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Milchmarktordnung"
+      },
       "Milchpreis",
+      "Milchviehhaltung",
       "Milchwirtschaft",
       "Unlauterer Wettbewerb",
       "Wettbewerbsrecht"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": "Verpflichtung zum schriftlichen Vertragsabschluss bei fester Preis- und Mengenvereinbarung, Einrichtung eines Milchmarkt-Krisenmanagements auf EU-Ebene, Reform des Genossenschaftsrechts zwecks Trennung von Genossenschaftsbeteiligung und Lieferkonditionen, Verbot einer nachträglichen Festsetzung des Milchauszahlungspreises, etwaige Verankerung des Lebensmittelverkaufs unter Erzeugerkosten als unlautere Handelspraktik im Agrarmarktstrukturgesetz, Schaffung einer Preisbeobachtungsstelle, Engagement auf EU-Ebene zur Anerkennung der Milcherzeuger als eigenständige Branche, Stärkung der Direktvermarktung durch Unterstützung des Aufbaus von Kleinmolkereien, diesbzgl. Aufnahme von Fördermöglichkeiten in der Gemeinschaftsaufgabe \"Verbesserung der Agrarstruktur und des Küstenschutzes\""
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -57,7 +67,16 @@
         "ZUORDNUNG": "BT",
         "URHEBER": "Ausschussüberweisung",
         "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29462A - 29466C",
-        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29462"
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29462",
+        "BESCHLUSS": {
+          "BESCHLUSSSEITE": "29466C",
+          "BESCHLUSSTENOR": "Überweisung",
+          "BEZUGSDOKUMENT": "19/29314"
+        },
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Ausschuss für Ernährung und Landwirtschaft",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
       }
     ]
   }

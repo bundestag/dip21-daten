@@ -8,7 +8,7 @@
       "Fraktion der CDU/CSU",
       "Fraktion der SPD"
     ],
-    "AKTUELLER_STAND": "Beschlussempfehlung liegt vor",
+    "AKTUELLER_STAND": "Verabschiedet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "M061",
     "ZUSTIMMUNGSBEDUERFTIGKEIT": "Ja, laut Gesetzentwurf(Drs 19/29287)",
@@ -26,13 +26,29 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/298/1929870.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "1. Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/227",
-      "PLPR_SEITEN": "28919A - 28929C",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28919"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "1. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/227",
+        "PLPR_SEITEN": "28919A - 28929C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19227.pdf#P.28919"
+      },
+      {
+        "PLPR_KLARTEXT": "2. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29549C - 29552C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29549"
+      },
+      {
+        "PLPR_KLARTEXT": "3. Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/230",
+        "PLPR_SEITEN": "29552B - 29552C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29552"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": "Gesundheit",
     "SCHLAGWORT": [
@@ -42,19 +58,30 @@
       "Bildungseinrichtung",
       "COVID-19",
       "Diagnose",
+      "DIVI IntensivRegister-Verordnung",
       "Flugreise",
       "Gesundheitsschutz",
       "Gesundheitstelematik",
+      "Grundgesetz Art. 13",
+      "Grundgesetz Art. 2",
+      "Grundrechtsbeschränkung",
       "IGV-Durchführungsgesetz",
       "Impfschaden",
       "Impfung",
       "Infektionsschutzgesetz",
+      "Medizinischer Bedarf Versorgungssicherstellungsverordnung",
+      "Persönliche Freiheit",
+      "Recht auf körperliche Unversehrtheit",
+      "SARS-CoV-2-Arzneimittelversorgungsverordnung",
       "Seuchenbekämpfung",
       "Soziale Entschädigung",
+      "Sozialgesetzbuch V",
       "Sozialgesetzbuch XIV",
-      "Test"
+      "Test",
+      "Unverletzlichkeit der Wohnung",
+      "Verordnung zur Beschaffung von Medizinprodukten und persönlicher Schutzausrüstung bei der durch das Coronavirus SARS-CoV-2 verursachten Epidemie"
     ],
-    "ABSTRAKT": ""
+    "ABSTRAKT": " Beschlussempfehlung des Ausschusses:  Änderungen; Einschränkung von Grundrechten betr. Recht auf körperliche Unversehrtheit, Freiheit der Person und Unverletzlichkeit der Wohnung"
   },
   "VORGANGSABLAUF": {
     "VORGANGSPOSITION": [
@@ -332,6 +359,35 @@
             "AKTIVITAETSART": "Berichterstattung"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "2. Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29549C - 29552C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29549"
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "3. Beratung",
+        "FUNDSTELLE": "20.05.2021 - BT-Plenarprotokoll 19/230, S. 29552B - 29552C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19230.pdf#P.29552"
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Unterrichtung über Gesetzesbeschluss des BT,  Urheber : Bundestag ",
+        "FUNDSTELLE": "21.05.2021 - BR-Drucksache 426/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0426-21.pdf",
+        "ZUWEISUNG": {
+          "AUSSCHUSS_KLARTEXT": "Gesundheitsausschuss",
+          "FEDERFUEHRUNG": "federf&uuml;hrend"
+        }
+      },
+      {
+        "ZUORDNUNG": "BR",
+        "URHEBER": "Empfehlungen der Ausschüsse ",
+        "FUNDSTELLE": "21.05.2021 - BR-Drucksache 426/1/21",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/brd/2021/0426-1-21.pdf",
+        "VP_ABSTRAKT": "Zustimmung; Entschließung"
       }
     ]
   }
