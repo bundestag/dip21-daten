@@ -5,46 +5,79 @@
     "VORGANGSTYP": "Kleine Anfrage",
     "TITEL": "Bundesregierung und nachgeordnete Behörden - Anforderungen des Urheberrechts",
     "INITIATIVE": "Fraktion der FDP",
-    "AKTUELLER_STAND": "Noch nicht beantwortet",
+    "AKTUELLER_STAND": "Beantwortet",
     "SIGNATUR": "",
     "GESTA_ORDNUNGSNUMMER": "",
-    "WICHTIGE_DRUCKSACHE": {
-      "DRS_HERAUSGEBER": "BT",
-      "DRS_NUMMER": "19/29573",
-      "DRS_TYP": "Kleine Anfrage",
-      "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929573.pdf"
-    },
-    "EU_DOK_NR": "",
-    "SACHGEBIET": "Recht",
-    "SCHLAGWORT": [
-      "Bundesbehörde",
-      "Bundesministerium",
-      "Urheberrecht"
+    "WICHTIGE_DRUCKSACHE": [
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/29573",
+        "DRS_TYP": "Kleine Anfrage",
+        "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929573.pdf"
+      },
+      {
+        "DRS_HERAUSGEBER": "BT",
+        "DRS_NUMMER": "19/30105",
+        "DRS_TYP": "Antwort"
+      }
     ],
-    "ABSTRAKT": ""
+    "EU_DOK_NR": "",
+    "SACHGEBIET": [
+      "Recht",
+      "Staat und Verwaltung"
+    ],
+    "SCHLAGWORT": [
+      "Arbeitnehmer",
+      "Auskunftspflicht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesbehörde"
+      },
+      {
+        "_fundstelle": "true",
+        "__cdata": "Bundesministerium"
+      },
+      "Lizenz",
+      "Publikation",
+      "Publizitätspflicht",
+      {
+        "_fundstelle": "true",
+        "__cdata": "Urheberrecht"
+      },
+      "Urheberrechtsgesetz",
+      "Vergütung"
+    ],
+    "ABSTRAKT": "(insgesamt 12 Einzelfragen)"
   },
   "VORGANGSABLAUF": {
-    "VORGANGSPOSITION": {
-      "ZUORDNUNG": "BT",
-      "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
-      "FUNDSTELLE": "11.05.2021 - BT-Drucksache 19/29573",
-      "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929573.pdf",
-      "PERSOENLICHER_URHEBER": [
-        {
-          "VORNAME": "Thomas",
-          "NACHNAME": "Hacker",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        },
-        {
-          "VORNAME": "Katja",
-          "NACHNAME": "Suding",
-          "FUNKTION": "MdB",
-          "FRAKTION": "FDP",
-          "AKTIVITAETSART": "Kleine Anfrage"
-        }
-      ]
-    }
+    "VORGANGSPOSITION": [
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Kleine Anfrage,  Urheber : Fraktion der FDP ",
+        "FUNDSTELLE": "11.05.2021 - BT-Drucksache 19/29573",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/295/1929573.pdf",
+        "PERSOENLICHER_URHEBER": [
+          {
+            "VORNAME": "Thomas",
+            "NACHNAME": "Hacker",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          },
+          {
+            "VORNAME": "Katja",
+            "NACHNAME": "Suding",
+            "FUNKTION": "MdB",
+            "FRAKTION": "FDP",
+            "AKTIVITAETSART": "Kleine Anfrage"
+          }
+        ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Antwort,  Urheber : Bundesregierung, Bundesministerium der Justiz und für Verbraucherschutz (federführend)",
+        "FUNDSTELLE": "25.05.2021 - BT-Drucksache 19/30105"
+      }
+    ]
   }
 }

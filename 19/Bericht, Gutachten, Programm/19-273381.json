@@ -22,13 +22,22 @@
         "DRS_LINK": "http://dipbt.bundestag.de:80/dip21/btd/19/264/1926450.pdf"
       }
     ],
-    "PLENUM": {
-      "PLPR_KLARTEXT": "Beratung",
-      "PLPR_HERAUSGEBER": "BT",
-      "PLPR_NUMMER": "19/209",
-      "PLPR_SEITEN": "26347D - 26360D",
-      "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19209.pdf#P.26347"
-    },
+    "PLENUM": [
+      {
+        "PLPR_KLARTEXT": "Beratung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/209",
+        "PLPR_SEITEN": "26347D - 26360D",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19209.pdf#P.26347"
+      },
+      {
+        "PLPR_KLARTEXT": "Mitteilung",
+        "PLPR_HERAUSGEBER": "BT",
+        "PLPR_NUMMER": "19/231",
+        "PLPR_SEITEN": "29808A - 29808C",
+        "PLPR_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19231.pdf#P.29808"
+      }
+    ],
     "EU_DOK_NR": "",
     "SACHGEBIET": [
       "Recht",
@@ -231,6 +240,13 @@
             "AUSSCHUSS_KLARTEXT": "Ausschuss für Bau, Wohnen, Stadtentwicklung und Kommunen"
           }
         ]
+      },
+      {
+        "ZUORDNUNG": "BT",
+        "URHEBER": "Mitteilung",
+        "FUNDSTELLE": "21.05.2021 - BT-Plenarprotokoll 19/231, S. 29808A - 29808C",
+        "FUNDSTELLE_LINK": "http://dipbt.bundestag.de:80/dip21/btp/19/19231.pdf#P.29808",
+        "VP_ABSTRAKT": "S. 29808A - Mitteilung über Absehen von Berichterstattung"
       }
     ]
   }
